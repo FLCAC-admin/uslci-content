@@ -1,10 +1,6 @@
 README
 ==========
-Welcome to the Content Repository for the [U.S. Life Cycle Inventory Database (USLCI)][uslci-home]!  The USLCI is managed by the [National Renewable Energy Laboratory][nrel].
-
-![NREL](../img/NREL_1.jpg)
-
-This repository contains supplemental resources for the [**USLCI online database**][uslci-online].  The most important resources are shown in Table 1.  A complete list of USLCI resources is given in the Table of Resources section below.
+Welcome to the Content Repository for the [U.S. Life Cycle Inventory Database (USLCI)][uslci-home].  This repository contains supplemental resources for the [**USLCI online database**][uslci-online].  The most important resources are shown in Table 1.  A complete list of USLCI resources is given in the Table of Resources section below.
 
 ###### Table 1. Key USLCI Supplementary Resources
 
