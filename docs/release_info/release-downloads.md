@@ -6,11 +6,11 @@ USLCI Release Downloads
 * ecoSpold2
 * ILCD
 
-For many users, the openLCA or JSON-LD (zipped) formats will be the most useful since they are not subject to data/metadata loss when importing into [openLCA].  The other formats are subject to data loss (e.g. notes for individual exchanges) due to field mapping constraints between data formats.
+For many users, the openLCA or JSON-LD (zipped) formats will be the most useful since they are not subject to data/metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges.
 
 Downloads are available starting with USLCI release FY17.Q4.02.
 
-In addition to the download options listed above, an unzipped JSON-LD version is available [here](../downloads/uslci_json_ld/).  Since these files are unzipped, the easiest way to access these files is by cloning or forking this repository.
+In addition to the download options listed above, an unzipped JSON-LD version of the latest USLCI release is available [here](../downloads/uslci_json_ld/).  Since these files are unzipped, the easiest way to access these files is by cloning or forking this repository.
 
 <br><br>
 
