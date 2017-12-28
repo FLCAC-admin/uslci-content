@@ -1,6 +1,6 @@
 USLCI Release Downloads
 ==================
-Table 1 contains download links for each USLCI release in four data formats: 
+[Table 1](release-downloads.md#table-1-uslci-release-downloads) contains download links for each USLCI release in four data formats: 
 * openLCA (.zolca)
 * JSON-LD
 * ecoSpold2
