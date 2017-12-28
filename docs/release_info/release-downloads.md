@@ -12,7 +12,7 @@ Downloads are available starting with USLCI release FY17.Q4.02.
 
 In addition to the download options listed above, an unzipped JSON-LD version of the latest USLCI release is available [here](../downloads/uslci_json_ld/).  Since these files are unzipped, the easiest way to access these files is by cloning or forking this repository.
 
-<br><br>
+<br>
 
 #### Table 1. USLCI release downloads   
 
