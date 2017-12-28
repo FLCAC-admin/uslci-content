@@ -18,8 +18,6 @@ It's better to unpack these files and commit the raw source since git has its ow
 *.jar
 *.rar
 *.tar
-*.zip
-*.zolca
 
 ## Logs and databases
 *.log
