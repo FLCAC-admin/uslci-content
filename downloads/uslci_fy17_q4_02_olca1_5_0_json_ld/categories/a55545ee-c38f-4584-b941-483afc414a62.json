@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"a55545ee-c38f-4584-b941-483afc414a62","name":"agricultural","version":"00.00.000","category":{"@type":"Category","@id":"cf792960-6319-42ad-ad00-216ac031b81f","name":"soil"},"modelType":"FLOW"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"54ef3be7-1771-4c0e-8d69-aa4d04e3a59d","name":"Rice Farming","version":"00.00.000","category":{"@type":"Category","@id":"4398330a-20b1-4767-8199-617c6b466f8e","name":"Crop Production"},"modelType":"FLOW"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"9a3850b9-b376-495a-bca3-35e14037a110","name":"unspecified","version":"00.00.000","category":{"@type":"Category","@id":"7c6d2283-e06b-45a2-b5fd-cd0abeb8319e","name":"water"},"modelType":"FLOW"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"98334cd7-bd10-44bb-96d7-5748af5a59e0","name":"All Other Basic Organic Chemical Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"e3827a23-92d7-4de2-b2e4-b0fbcfdcd9ce","name":"Chemical Manufacturing"},"modelType":"FLOW"}

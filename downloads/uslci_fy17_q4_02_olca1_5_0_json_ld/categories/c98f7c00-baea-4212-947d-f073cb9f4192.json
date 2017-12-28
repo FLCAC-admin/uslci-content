@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"c98f7c00-baea-4212-947d-f073cb9f4192","name":"Alumina Refining","version":"00.00.000","category":{"@type":"Category","@id":"09865def-a487-4a42-9c5a-89c7c45bcaa2","name":"Primary Metal Manufacturing"},"modelType":"PROCESS"}

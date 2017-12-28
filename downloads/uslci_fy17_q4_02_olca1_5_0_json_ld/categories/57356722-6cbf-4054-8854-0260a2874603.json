@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"57356722-6cbf-4054-8854-0260a2874603","name":"Inland Water Freight Transportation","version":"00.00.000","category":{"@type":"Category","@id":"665ad8b2-6da2-4559-9c77-1cc3b7ea6c76","name":"Water Transportation"},"modelType":"PROCESS"}

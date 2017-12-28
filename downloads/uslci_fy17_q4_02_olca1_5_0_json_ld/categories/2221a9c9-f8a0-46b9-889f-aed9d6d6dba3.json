@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"2221a9c9-f8a0-46b9-889f-aed9d6d6dba3","name":"Cut Stock, Resawing Lumber, and Planing","version":"00.00.000","category":{"@type":"Category","@id":"05f44825-8860-4f0a-947c-164e9b726f44","name":"Wood Product Manufacturing"},"modelType":"FLOW"}

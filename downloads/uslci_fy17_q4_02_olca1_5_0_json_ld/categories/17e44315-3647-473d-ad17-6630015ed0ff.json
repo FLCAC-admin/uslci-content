@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"17e44315-3647-473d-ad17-6630015ed0ff","name":"Softwood Veneer and Plywood Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"05f44825-8860-4f0a-947c-164e9b726f44","name":"Wood Product Manufacturing"},"modelType":"FLOW"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"242f8dc2-576b-4d08-8fda-d6c6eeaa92ac","name":"Limestone Mining and Quarrying","version":"00.00.000","category":{"@type":"Category","@id":"6090396c-0e91-465b-9e09-2ac5de1afe31","name":"Mining (except Oil and Gas)"},"modelType":"PROCESS"}

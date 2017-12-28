@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"0918fcb8-b955-4327-958f-2075e700432d","name":"Other Transit and Ground Passenger Transportation","version":"00.00.000","category":{"@type":"Category","@id":"e2b692f9-bd53-4975-b21c-1df0c1444672","name":"Transit and Ground Passenger Transportation"},"modelType":"FLOW"}

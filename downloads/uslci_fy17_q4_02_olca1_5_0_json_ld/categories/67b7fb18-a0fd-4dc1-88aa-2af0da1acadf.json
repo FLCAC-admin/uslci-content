@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"67b7fb18-a0fd-4dc1-88aa-2af0da1acadf","name":"Ethyl alcohol manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"e3827a23-92d7-4de2-b2e4-b0fbcfdcd9ce","name":"Chemical Manufacturing"},"modelType":"FLOW"}

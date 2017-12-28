@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"1f363e38-6526-48d3-8bf3-78bd62819f2a","name":"Aluminum Foundries (except Die-Casting)","version":"00.00.000","category":{"@type":"Category","@id":"09865def-a487-4a42-9c5a-89c7c45bcaa2","name":"Primary Metal Manufacturing"},"modelType":"PROCESS"}

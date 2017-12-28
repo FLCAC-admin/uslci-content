@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"706e1c70-91b9-483d-bc87-7f898b157f03","name":"General Freight Trucking","version":"00.00.000","category":{"@type":"Category","@id":"d2258573-ff95-4cac-8b4e-379ed8344f05","name":"Truck Transportation"},"modelType":"PROCESS"}

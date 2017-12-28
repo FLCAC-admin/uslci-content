@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"9dbf9185-d2c1-4796-9ad7-e0c0ad3c706f","name":"Gypsum Product Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"6fe7b9c3-0a0c-4f8a-9404-a233c3c4036e","name":"Nonmetallic Mineral Product Manufacturing"},"modelType":"PROCESS"}

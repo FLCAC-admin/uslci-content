@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"98d08818-5574-4b6a-a594-1dcacce5d87f","name":"Unspecified","version":"00.00.000","category":{"@type":"Category","@id":"26516b4b-bd5a-4d8f-b6a8-97c7ebd87bdc","name":"Crop Production"},"modelType":"PROCESS"}

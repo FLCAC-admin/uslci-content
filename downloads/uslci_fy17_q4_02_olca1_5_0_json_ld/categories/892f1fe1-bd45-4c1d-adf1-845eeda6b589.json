@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"892f1fe1-bd45-4c1d-adf1-845eeda6b589","name":"Oilseed (except Soybean) Farming","version":"00.00.000","category":{"@type":"Category","@id":"26516b4b-bd5a-4d8f-b6a8-97c7ebd87bdc","name":"Crop Production"},"modelType":"PROCESS"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"15f832b1-e523-4a71-96ba-188ffe8a3a1c","name":"General Freight Trucking","version":"00.00.000","category":{"@type":"Category","@id":"dddfee93-39c2-4c7c-b030-98f567efb938","name":"Truck Transportation"},"modelType":"FLOW"}

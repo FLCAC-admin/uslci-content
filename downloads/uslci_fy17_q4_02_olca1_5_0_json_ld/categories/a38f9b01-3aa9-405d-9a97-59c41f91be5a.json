@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"a38f9b01-3aa9-405d-9a97-59c41f91be5a","name":"Pulp, Paper, and Paperboard Mills","version":"00.00.000","category":{"@type":"Category","@id":"5a75f2e0-e1cd-4d04-a43b-560c28d73b6e","name":"Paper Manufacturing"},"modelType":"PROCESS"}

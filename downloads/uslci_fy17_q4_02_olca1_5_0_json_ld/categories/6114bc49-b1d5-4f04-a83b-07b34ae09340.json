@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"6114bc49-b1d5-4f04-a83b-07b34ae09340","name":"NETL Elementary Flows","version":"00.00.000","category":{"@type":"Category","@id":"eb4fb523-8294-4734-ae96-413d8269759c","name":"NETL Coal Elementary Flows"},"modelType":"FLOW"}

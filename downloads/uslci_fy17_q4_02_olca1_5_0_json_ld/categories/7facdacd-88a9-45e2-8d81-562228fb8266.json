@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"7facdacd-88a9-45e2-8d81-562228fb8266","name":"Nuclear Electric Power Generation","version":"00.00.000","category":{"@type":"Category","@id":"891cf1d8-c80c-4821-9bb1-f2dd08cfaf81","name":"Utilities"},"modelType":"PROCESS"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"5fd02161-5608-4a8e-9185-853722812c87","name":"Scheduled Freight Air Transportation","version":"00.00.000","category":{"@type":"Category","@id":"2e3d3c45-c0df-488c-bdb5-1db9b168a576","name":"Air Transportation"},"modelType":"FLOW"}

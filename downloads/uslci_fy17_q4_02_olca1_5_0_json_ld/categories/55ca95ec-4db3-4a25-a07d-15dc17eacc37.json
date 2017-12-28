@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"55ca95ec-4db3-4a25-a07d-15dc17eacc37","name":"Interurban and Rural Bus Transportation","version":"00.00.000","category":{"@type":"Category","@id":"e2b692f9-bd53-4975-b21c-1df0c1444672","name":"Transit and Ground Passenger Transportation"},"modelType":"FLOW"}

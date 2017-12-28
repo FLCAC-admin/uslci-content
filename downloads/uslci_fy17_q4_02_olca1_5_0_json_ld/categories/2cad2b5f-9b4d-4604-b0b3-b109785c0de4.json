@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"2cad2b5f-9b4d-4604-b0b3-b109785c0de4","name":"in air","version":"00.00.000","category":{"@type":"Category","@id":"ce79a394-cf87-49ac-9a92-8efc8202278a","name":"resource"},"modelType":"FLOW"}

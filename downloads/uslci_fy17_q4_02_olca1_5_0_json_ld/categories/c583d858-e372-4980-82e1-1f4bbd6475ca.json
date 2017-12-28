@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"c583d858-e372-4980-82e1-1f4bbd6475ca","name":"Waste Collection","version":"00.00.000","category":{"@type":"Category","@id":"3b1aa649-a05f-4c5a-b0c0-c4b6d24cbac2","name":"Waste Management and Remediation Services"},"modelType":"PROCESS"}

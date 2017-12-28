@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"50ad1b97-19a4-42b5-a53b-ae5c5e119a81","name":"Uranium-Radium-Vanadium Ore Mining","version":"00.00.000","category":{"@type":"Category","@id":"6090396c-0e91-465b-9e09-2ac5de1afe31","name":"Mining (except Oil and Gas)"},"modelType":"PROCESS"}

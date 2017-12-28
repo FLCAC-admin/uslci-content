@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"3900e09f-a22f-4354-86a8-812a3fce7ce2","name":"low population density, long-term","version":"00.00.000","category":{"@type":"Category","@id":"2d951abb-9dfd-4662-bf26-cf9557b27b07","name":"water"},"modelType":"FLOW"}

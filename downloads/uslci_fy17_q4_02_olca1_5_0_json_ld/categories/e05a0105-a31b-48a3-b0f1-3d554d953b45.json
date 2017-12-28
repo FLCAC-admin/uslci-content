@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"e05a0105-a31b-48a3-b0f1-3d554d953b45","name":"Electric Power Distribution","version":"00.00.000","category":{"@type":"Category","@id":"891cf1d8-c80c-4821-9bb1-f2dd08cfaf81","name":"Utilities"},"modelType":"PROCESS"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"f8f5b81c-1e05-48ac-b2fd-052e23cb62ab","name":"Sorting, separating mixed recyclables","version":"00.00.000","category":{"@type":"Category","@id":"3c48b944-3869-4c08-b611-673da36e5763","name":"Waste Management and Remediation Services"},"modelType":"FLOW"}

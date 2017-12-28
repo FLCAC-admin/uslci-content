@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"d8b11278-4d28-4495-923f-f204ace69e6f","name":"Other Aluminum Rolling and Drawing","version":"00.00.000","category":{"@type":"Category","@id":"09865def-a487-4a42-9c5a-89c7c45bcaa2","name":"Primary Metal Manufacturing"},"modelType":"PROCESS"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"c710d1dd-1451-4751-b4d3-69377562e685","name":"Cotton Farming","version":"00.00.000","category":{"@type":"Category","@id":"26516b4b-bd5a-4d8f-b6a8-97c7ebd87bdc","name":"Crop Production"},"modelType":"PROCESS"}

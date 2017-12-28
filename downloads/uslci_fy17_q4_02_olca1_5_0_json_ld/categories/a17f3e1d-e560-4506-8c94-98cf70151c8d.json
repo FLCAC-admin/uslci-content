@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"a17f3e1d-e560-4506-8c94-98cf70151c8d","name":"Other material","version":"00.00.000","category":{"@type":"Category","@id":"8469fb64-1002-4100-800c-6343c0198a6c","name":"Elec. Equip., Appliance, and Comp. Manufacturing"},"modelType":"FLOW"}

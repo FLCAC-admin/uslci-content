@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"aaf6b86e-fff5-4ed3-bcf3-8b5e9f4a5bf4","name":"Other Noncitrus Fruit Farming","version":"00.00.000","category":{"@type":"Category","@id":"4398330a-20b1-4767-8199-617c6b466f8e","name":"Crop Production"},"modelType":"FLOW"}

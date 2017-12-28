@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"5dab8a8b-1a75-4cf4-8728-3afc3c45a704","name":"Secondary Smelting and Alloying of Aluminum","version":"00.00.000","category":{"@type":"Category","@id":"09865def-a487-4a42-9c5a-89c7c45bcaa2","name":"Primary Metal Manufacturing"},"modelType":"PROCESS"}

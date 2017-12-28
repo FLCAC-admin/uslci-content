@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"49e402e3-24c9-4074-9db7-6f2f70a81dbe","name":"Glass and Glass Product Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"6eb66313-33b5-4c44-9ec9-eaaf309a552a","name":"Nonmetallic Mineral Product Manufacturing"},"modelType":"FLOW"}

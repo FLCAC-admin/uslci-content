@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"24b6d86f-0cf8-4441-ac24-59c8dc8275a7","name":"Soybean Farming","version":"00.00.000","category":{"@type":"Category","@id":"4398330a-20b1-4767-8199-617c6b466f8e","name":"Crop Production"},"modelType":"FLOW"}

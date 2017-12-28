@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"06241507-63fd-4b4c-8508-e7bcc712385c","name":"Plastics Product Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"dd0e0c8b-def2-4769-8e47-e93810c9894b","name":"Plastics and Rubber Products Manufacturing"},"modelType":"FLOW"}

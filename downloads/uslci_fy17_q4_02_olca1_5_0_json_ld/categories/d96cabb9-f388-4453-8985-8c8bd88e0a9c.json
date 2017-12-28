@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"d96cabb9-f388-4453-8985-8c8bd88e0a9c","name":"Anthracite Mining","version":"00.00.000","category":{"@type":"Category","@id":"6090396c-0e91-465b-9e09-2ac5de1afe31","name":"Mining (except Oil and Gas)"},"modelType":"PROCESS"}

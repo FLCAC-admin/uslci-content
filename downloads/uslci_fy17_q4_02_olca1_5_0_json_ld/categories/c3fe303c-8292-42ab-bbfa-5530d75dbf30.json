@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"c3fe303c-8292-42ab-bbfa-5530d75dbf30","name":"Steam and Air-Conditioning Supply","version":"00.00.000","category":{"@type":"Category","@id":"891cf1d8-c80c-4821-9bb1-f2dd08cfaf81","name":"Utilities"},"modelType":"PROCESS"}

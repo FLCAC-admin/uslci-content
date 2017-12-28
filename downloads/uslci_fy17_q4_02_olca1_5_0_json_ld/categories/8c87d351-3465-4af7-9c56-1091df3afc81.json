@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"8c87d351-3465-4af7-9c56-1091df3afc81","name":" unspecified treatment","version":"00.00.000","category":{"@type":"Category","@id":"f814dd9a-ad98-4ee0-bdf0-1bb1678f2e74","name":"final-waste-flow"},"modelType":"FLOW"}

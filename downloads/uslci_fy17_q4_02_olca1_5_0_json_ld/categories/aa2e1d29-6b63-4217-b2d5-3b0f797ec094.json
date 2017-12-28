@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"aa2e1d29-6b63-4217-b2d5-3b0f797ec094","name":"All Other Metal Ore Mining","version":"00.00.000","category":{"@type":"Category","@id":"6090396c-0e91-465b-9e09-2ac5de1afe31","name":"Mining (except Oil and Gas)"},"modelType":"PROCESS"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"c7324ac3-d8a5-4422-92f7-a66438d5592e","name":"fossil-","version":"00.00.000","category":{"@type":"Category","@id":"ce79a394-cf87-49ac-9a92-8efc8202278a","name":"resource"},"modelType":"FLOW"}

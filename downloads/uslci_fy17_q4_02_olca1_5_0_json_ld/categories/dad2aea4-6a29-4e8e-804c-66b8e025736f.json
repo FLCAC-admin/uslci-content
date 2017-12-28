@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"dad2aea4-6a29-4e8e-804c-66b8e025736f","name":"Nitrogenous Fertilizer Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"e3827a23-92d7-4de2-b2e4-b0fbcfdcd9ce","name":"Chemical Manufacturing"},"modelType":"FLOW"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"f327cd04-23a2-4952-a432-ffa7b0e61305","name":"Crude Petroleum and Natural Gas Extraction","version":"00.00.000","category":{"@type":"Category","@id":"297caf99-01ab-4339-9e5f-41c76ced884b","name":"Oil and Gas Extraction"},"modelType":"PROCESS"}

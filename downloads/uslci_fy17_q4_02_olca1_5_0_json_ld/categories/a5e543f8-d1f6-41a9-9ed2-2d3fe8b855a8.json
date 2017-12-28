@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"a5e543f8-d1f6-41a9-9ed2-2d3fe8b855a8","name":"Architectural and Structural Metals Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"082e5af1-bd72-409c-b69f-749d076d0c6f","name":"Fabricated Metal Product Manufacturing"},"modelType":"PROCESS"}

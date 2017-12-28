@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"b456c159-4e8c-48a2-96f3-ffb87e9a64a0","name":"Fossil Fuel Electric Power Generation","version":"00.00.000","category":{"@type":"Category","@id":"2e6d33ff-aa7b-4504-bfbf-d9da78c99e18","name":"Utilities"},"modelType":"FLOW"}

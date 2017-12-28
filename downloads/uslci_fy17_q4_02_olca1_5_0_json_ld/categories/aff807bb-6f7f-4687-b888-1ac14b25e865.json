@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"aff807bb-6f7f-4687-b888-1ac14b25e865","name":"Cement Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"6eb66313-33b5-4c44-9ec9-eaaf309a552a","name":"Nonmetallic Mineral Product Manufacturing"},"modelType":"FLOW"}

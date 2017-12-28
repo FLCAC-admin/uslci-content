@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"72b7a0a6-d859-4e81-836e-d243c838eae9","name":"Converted Paper Product Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"fdc9cc66-6321-4c51-9256-fd1ffb2e3e65","name":"Paper Manufacturing"},"modelType":"FLOW"}

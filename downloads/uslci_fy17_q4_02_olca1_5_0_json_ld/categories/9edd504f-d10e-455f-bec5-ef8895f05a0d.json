@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"9edd504f-d10e-455f-bec5-ef8895f05a0d","name":"All Other Basic Inorganic Chemical Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"e5d93c60-0bb0-40d4-9fbc-b5e98dc7c35c","name":"Chemical Manufacturing"},"modelType":"PROCESS"}

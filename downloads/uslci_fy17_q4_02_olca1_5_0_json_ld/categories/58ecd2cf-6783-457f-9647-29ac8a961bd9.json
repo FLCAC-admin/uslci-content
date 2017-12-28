@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"58ecd2cf-6783-457f-9647-29ac8a961bd9","name":"Plastics Material and Resin Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"e3827a23-92d7-4de2-b2e4-b0fbcfdcd9ce","name":"Chemical Manufacturing"},"modelType":"FLOW"}

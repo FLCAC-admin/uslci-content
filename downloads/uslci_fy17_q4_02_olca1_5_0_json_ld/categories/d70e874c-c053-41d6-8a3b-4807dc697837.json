@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"d70e874c-c053-41d6-8a3b-4807dc697837","name":"Chemical Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"05f44825-8860-4f0a-947c-164e9b726f44","name":"Wood Product Manufacturing"},"modelType":"FLOW"}

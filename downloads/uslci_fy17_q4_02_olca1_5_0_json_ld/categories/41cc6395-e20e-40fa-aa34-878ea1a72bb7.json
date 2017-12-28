@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"41cc6395-e20e-40fa-aa34-878ea1a72bb7","name":"Reconstituted Wood Product Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"05f44825-8860-4f0a-947c-164e9b726f44","name":"Wood Product Manufacturing"},"modelType":"FLOW"}

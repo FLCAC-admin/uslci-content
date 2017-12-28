@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"d8dc40a6-8b3a-4884-b2d6-c4e35b071c4d","name":"Collection of postconsumer containers","version":"00.00.000","category":{"@type":"Category","@id":"3c48b944-3869-4c08-b611-673da36e5763","name":"Waste Management and Remediation Services"},"modelType":"FLOW"}

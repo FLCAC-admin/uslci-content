@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"7e2c89c9-9338-4b3a-8b0e-a207e2348b73","name":"high population density","version":"00.00.000","category":{"@type":"Category","@id":"a63f61c5-8558-4586-aa2a-24a5459f227d","name":"air"},"modelType":"FLOW"}

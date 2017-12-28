@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"4129a6ae-1985-4a7b-8b29-d095119454f7","name":"School and Employee Bus Transportation","version":"00.00.000","category":{"@type":"Category","@id":"fbc238db-f2d8-4d7a-8207-fb77fa3b58e1","name":"Transit and Ground Passenger Transportation"},"modelType":"PROCESS"}

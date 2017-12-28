@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"d6be7ef8-c9ef-4484-8d6f-f7d42d331d06","name":"Rail Transportation","version":"00.00.000","category":{"@type":"Category","@id":"a684d60b-bf63-4517-b3c5-915cfa64246f","name":"Rail Transportation"},"modelType":"FLOW"}

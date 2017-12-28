@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"4dc335d6-70a6-4e37-a2f9-68f05bc928fe","name":"Urban Transit Systems","version":"00.00.000","category":{"@type":"Category","@id":"fbc238db-f2d8-4d7a-8207-fb77fa3b58e1","name":"Transit and Ground Passenger Transportation"},"modelType":"PROCESS"}

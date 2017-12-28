@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"a461bc0a-5c7d-4993-96f4-c646e10594ca","name":"Support for Agriculture and Forestry","version":"00.00.000","category":{"@type":"Category","@id":"05f44825-8860-4f0a-947c-164e9b726f44","name":"Wood Product Manufacturing"},"modelType":"FLOW"}

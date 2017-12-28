@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"22bf6225-481f-49cb-9658-36e32bd0290a","name":"All Other Metal Ore Mining","version":"00.00.000","category":{"@type":"Category","@id":"1e4387a9-f40d-490a-bd51-61846a80169a","name":"Mining (except Oil and Gas)"},"modelType":"FLOW"}

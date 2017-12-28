@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"2f53ca86-bbe5-498a-beea-3a3571f7e13d","name":"Deep Sea Freight Transportation","version":"00.00.000","category":{"@type":"Category","@id":"40e92002-661a-4318-9130-a4c01c694112","name":"Water Transportation"},"modelType":"FLOW"}

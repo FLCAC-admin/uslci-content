@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"99b4c463-2e3a-4320-b9e7-e53c960e45f0","name":"Support activities for crop production","version":"00.00.000","category":{"@type":"Category","@id":"4398330a-20b1-4767-8199-617c6b466f8e","name":"Crop Production"},"modelType":"FLOW"}

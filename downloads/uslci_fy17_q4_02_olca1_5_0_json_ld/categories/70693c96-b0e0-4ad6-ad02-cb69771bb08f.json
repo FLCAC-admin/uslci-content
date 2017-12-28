@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"70693c96-b0e0-4ad6-ad02-cb69771bb08f","name":"Motor Vehicle Body Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"e3d7363a-30bd-485f-a6b9-cc59dc77132d","name":"Transportation Equipment Manufacturing"},"modelType":"FLOW"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"704a2e05-618f-45b6-82d2-1b985bc8d3f3","name":"Phosphatic Fertilizer Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"e5d93c60-0bb0-40d4-9fbc-b5e98dc7c35c","name":"Chemical Manufacturing"},"modelType":"PROCESS"}

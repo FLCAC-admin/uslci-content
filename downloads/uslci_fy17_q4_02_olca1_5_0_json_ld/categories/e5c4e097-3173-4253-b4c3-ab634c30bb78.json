@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"e5c4e097-3173-4253-b4c3-ab634c30bb78","name":"Steel Foundries (except investment)","version":"00.00.000","category":{"@type":"Category","@id":"a87639f5-ecc0-47a8-9c64-18ca04b30d1d","name":"Primary Metal Manufacturing"},"modelType":"FLOW"}

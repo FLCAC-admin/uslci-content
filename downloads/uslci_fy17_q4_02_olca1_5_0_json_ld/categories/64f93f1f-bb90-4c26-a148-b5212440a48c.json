@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"64f93f1f-bb90-4c26-a148-b5212440a48c","name":"Logging","version":"00.00.000","category":{"@type":"Category","@id":"5b6ff14e-56aa-4266-8bf6-bb5cb4de2d57","name":"Forestry and Logging"},"modelType":"PROCESS"}

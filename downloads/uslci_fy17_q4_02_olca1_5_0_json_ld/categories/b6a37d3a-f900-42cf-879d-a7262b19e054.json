@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"b6a37d3a-f900-42cf-879d-a7262b19e054","name":"Unspecified","version":"00.00.000","category":{"@type":"Category","@id":"e5d93c60-0bb0-40d4-9fbc-b5e98dc7c35c","name":"Chemical Manufacturing"},"modelType":"PROCESS"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"df43864f-dc52-43c1-9f6d-ad31d6a5a721","name":"Sawmills","version":"00.00.000","category":{"@type":"Category","@id":"1d74f884-51ea-4291-8307-2cfa993f5407","name":"Wood Product Manufacturing"},"modelType":"PROCESS"}

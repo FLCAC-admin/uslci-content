@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"91f5038c-8c76-4339-8304-fd00209757e0","name":"Biodiesel","version":"00.00.000","category":{"@type":"Category","@id":"6850fcd1-0349-48c7-bb16-beea80b8e25f","name":"Biofuels Manufacturing"},"modelType":"PROCESS"}
