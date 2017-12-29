@@ -1,7 +1,5 @@
 # How do I publish my data in the USLCI?
 
-###### If you are ready to begin the publication process, [please use our online appraisal form](appraisal-form.md).
-
 This page is part of the [USLCI Submission Guide](README.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the U.S. Life Cycle Inventory Database (USLCI)][uslci-landing].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](should-i-publish-in-the-uslci.md)*.  You can also find a list of frequently asked questions [here](faq.md).
 
 This page is divided into the following sections and subsections.
@@ -36,13 +34,10 @@ The objectives of the Appraisal phase are to:
   * If appropriate, develop a plan for the [Ingest](#ingest) and [Review](#review) phases of the Digital Curation Process.
 
 The Appraisal phase is composed of the following elements:
-  * Submission of the [online appraisal form](appraisal-form.md)
   * Preliminary data review by the Data Curator
   * (If appropriate) An Appraisal Meeting
 
-The Appraisal phase begins when you submit the [online appraisal form](appraisal-form.md).  That information will be reviewed by a USLCI Data Curator who will reach out to you via phone or email within five business days with a tentative decision regarding the fitness of your data for publication in the USLCI.  If the Data Provider decides that your data likely fits the USLCI's mission, she will coordinate with you to set up a 30-60 minute Appraisal Meeting.  
-
-The Appraisal Meeting is an opportunity to evaluate the data at a deeper level and, if appropriate, develop a planfor the [Ingest](#ingest) and [Review](#review) phases of the Digital Curation Process.  The Appraisal Meeting will result in one of three outcomes:
+The Appraisal phase begins by submitting your data to the USLCI Admin for preliminary review.  Following this review a 30-60 minute Appraisal meeting is scheduled.  This meeting is an opportunity to evaluate the data at a deeper level and, if appropriate, develop a planfor the [Ingest](#ingest) and [Review](#review) phases of the Digital Curation Process.  The Appraisal Meeting will result in one of three outcomes:
   1. Data Approved
   2. Revise and Resubmit
   3. Data Denial
@@ -81,17 +76,11 @@ Your role in the publication process is transform your raw LCI data into a polis
 The documentation and resources in the USLCI Submission Guide will be important resources in that process.
 
 ### How we communicate
-We use [Slack][slack] as our primary written communication tool.  Slack allows the user great flexibility in communication because of its ability to push communication to/from email accounts, mobile devices, etc.   Furthermore, it provides context during communication through the ability to set up various channels based on conversation topic.  
-
-Early in the publication process the Data Curator will work with you to get you set up on Slack.
+We use [GitHub] as our principal project management and communication tool.  GitHub contains robust features for version control, issues management, and team communication.  Moreover, it makes it easy for the data provider to keep a local version of the data curation process and end product once the project is complete.  Early in the publication process the Data Curator will work with you to get you set up with one or more private data repositories on [GitHub].
 
 <a id="data-publication-platform"></a>
 ### Our data publication platorm
 NREL uses [openLCA v1.6][openlca_v16] as its platform for receiving, reviewing, and publishing LCI data.  [OpenLCA][openlca] is a free, opensource LCA software platform that is able to import data from many commercial LCA software applications including GaBi and SimaPro.
-
-Early in the publication process the Data Curator will work with you to get you set up on Slack.
-
-
 
 ###
 
@@ -143,14 +132,8 @@ The USLCI uses the openLCA data model for publishing LCI data...
 | Treatment received |   |    
 | Treatment received |   |    
 
-## Links
-This section contains the URLs for the linked text in this page. These URLs are intentionally not rendered when this page is viewed as HTML.  To see the URLs, view this page as a text file or [Markdown][markdown] file.  
 
-[markdown]: https://daringfireball.net/projects/markdown/  
+[github]: https://github.com/   
 [openlca]: http://www.openlca.org/  
-[openlca-v16]: http://www.openlca.org/download/
-[section-1]: https://github.nrel.gov/acarpent/uslci_admin/wiki/Should-I-publish-in-the-USLCI    
-[section-2]: https://github.nrel.gov/acarpent/uslci_admin/wiki/How-to-publish-in-the-USLCI   
-[section-3]: https://github.nrel.gov/acarpent/uslci_admin/wiki/FAQ    
-[slack]: https://slack.com/  
+[openlca-v16]: http://www.openlca.org/download/ 
 [uslci-landing]: http://www.nrel.gov/lci/  
