@@ -1,5 +1,7 @@
 Welcome to the Data Submission Handbook for the [U.S. Life Cycle Inventory Database's (USLCI)][uslci].  This handbook is part of the [USLCI Content Repository](../../README.md) and is intended to support the USLCI data submission process.
 
+To view all files associated with this handbook, click _submission_handbook_ in the filepath above.
+
 This handbook is divided into four major sections.  
 1. [Should I publish my data in the USLCI?](./01-should-i-publish-in-the-uslci.md)
 1. [How do I publish my data in the USLCI?](./02-how-to-publish-in-the-uslci.md)
