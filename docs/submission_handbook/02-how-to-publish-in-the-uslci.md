@@ -1,14 +1,13 @@
 # How do I publish my data in the USLCI?
 
-This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](should-i-publish-in-the-uslci.md)*.  You can also find a list of frequently asked questions [here](faq.md).
+This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](01-should-i-publish-in-the-uslci.md)*  You can also find a list of frequently asked questions [here](03-frequently-asked-questions.md).
 
 This page is divided into the following sections and subsections.
-  1. [Overview of the `Digital Curation Process`]
-  [What is the `Digital Curation Process`?](#what-is-digital-curation)
+  1. Overview of the `Digital Curation Process
   2. What to expect during the digital curation process
     * Time requirements for publishing LCI data
     * USLCI publication schedule
-    * [The digital curation life cyle](#The Data Curation Life Cycle)
+    * The digital curation life cyle
     * What to expect during each life cycle phase
   3. Working with NREL
     * [How we communicate](#communication)
@@ -136,4 +135,4 @@ The USLCI uses the openLCA data model for publishing LCI data...
 [github]: https://github.com/   
 [openlca]: http://www.openlca.org/  
 [openlca-v16]: http://www.openlca.org/download/ 
-[uslci-web]: uslci.lcacommons.gov    
+[uslci-web]: https://uslci.lcacommons.gov/uslci/search    
