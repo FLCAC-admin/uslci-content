@@ -10,7 +10,7 @@ This page is divided into the following sections and subsections.
     * The digital curation life cyle
     * What to expect during each life cycle phase
   3. Working with NREL
-    * [How we communicate](#communication)
+    * How we communicate
     * Our data publication platorm
 
 <a id="digital-curation-overview"></a>
