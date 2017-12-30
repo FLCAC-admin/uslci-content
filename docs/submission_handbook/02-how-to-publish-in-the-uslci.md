@@ -1,6 +1,6 @@
 # How do I publish my data in the USLCI?
 
-This page is part of the [USLCI Submission Guide](README.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the U.S. Life Cycle Inventory Database (USLCI)][uslci-landing].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](should-i-publish-in-the-uslci.md)*.  You can also find a list of frequently asked questions [here](faq.md).
+This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](should-i-publish-in-the-uslci.md)*.  You can also find a list of frequently asked questions [here](faq.md).
 
 This page is divided into the following sections and subsections.
   1. [Overview of the `Digital Curation Process`]
@@ -136,4 +136,4 @@ The USLCI uses the openLCA data model for publishing LCI data...
 [github]: https://github.com/   
 [openlca]: http://www.openlca.org/  
 [openlca-v16]: http://www.openlca.org/download/ 
-[uslci-landing]: http://www.nrel.gov/lci/  
+[uslci-web]: uslci.lcacommons.gov    
