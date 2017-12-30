@@ -1,3 +1,5 @@
+# Should I publish in the USLCI?
+
 This page provides a high-level explanation of the benefits, expectations, and general process for publishing data on the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web]. This Submission Overview is intended to help interested parties understand the benefits of publishing their data on the USLCI and set reasonable expectations for what the publication process will be like.
 
 [uslci-web]: https://uslci.lcacommons.gov/uslci/search
