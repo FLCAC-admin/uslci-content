@@ -10,7 +10,7 @@ For many users, the openLCA or JSON-LD (zipped) formats will be the most useful 
 
 Downloads are available starting with USLCI release FY17.Q4.02.
 
-In addition to the download options listed above, an unzipped JSON-LD version of the latest USLCI release is available [here](../downloads/uslci_json_ld/).  Since these files are unzipped, the easiest way to access these files is by cloning or forking this repository.
+In addition to the download options listed above, an unzipped JSON-LD version of the latest USLCI release is available [here](https://github.com/uslci-admin/private-uslci-content/tree/dev/downloads/uslci_olca1_5_0_json_ld).  Since these files are unzipped, the easiest way to access these files is by cloning or forking this repository.
 
 <br>
 
