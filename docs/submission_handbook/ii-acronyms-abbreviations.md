@@ -1,65 +1,65 @@
 # Acronyms and Abbreviations
 
-**ANL**		Argonne National Laboratory
+**ANL**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Argonne National Laboratory
 
-**APA**		American Psychological Association
+**APA**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American Psychological Association
 
-**CPM**		Centre for Environmental Assessment of Product and Material Systems
+**CPM**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Centre for Environmental Assessment of Product and Material Systems
 
-**DOE**		Department of Energy
+**DOE**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Energy
 
-**EPA**		Environmental Protection Agency
+**EPA**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Environmental Protection Agency
 
-**EPD**		Environmental Product Declaration
+**EPD**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Environmental Product Declaration
 
-**FAA**		Federal Aviation Administration
+**FAA**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal Aviation Administration
 
-**FHWA**	Federal Highway Administration
+**FHWA**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal Highway Administration
 
-**ILCD**	International Reference Life Cycle Data
+**ILCD**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Reference Life Cycle Data
 
-**IUPAC**	International Union of Pure and Applied Chemistry
+**IUPAC**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International Union of Pure and Applied Chemistry
 
-**KML**		Keyhole Markup Language
+**KML**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keyhole Markup Language
 
-**LCA**		Life cycle assessment
+**LCA**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life cycle assessment
 
-**LCAC**	Life Cycle Assessment Commons
+**LCAC**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life Cycle Assessment Commons
 
-**LCC**		Life Cycle Costing
+**LCC**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life Cycle Costing
 
-**LCI**		Life cycle inventory
+**LCI**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life cycle inventory
 
-**LCIA**	Life Cycle Impact Analysis
+**LCIA**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Life Cycle Impact Analysis
 
-**NAICS** 	North American Industry Classification System
+**NAICS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;North American Industry Classification System
 
-**NAL**		National Agricultural Library
+**NAL**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Agricultural Library
 
-**NETL**	National Energy Technology Library
+**NETL**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Energy Technology Library
 
-**NIST**	National Institute of Standards and Technologies
+**NIST**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Institute of Standards and Technologies
 
-**NREL**	National Renewable Energy Laboratory
+**NREL**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Renewable Energy Laboratory
 
-**OAIS**	Open Archival Information System
+**OAIS**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open Archival Information System
 
-**PM**		Particulate matter
+**PM**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Particulate matter
 
-**PP**		Polypropylene
+**PP**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polypropylene
 
-**SETAC**	Society of Environmental Toxicology and Chemistry
+**SETAC**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Society of Environmental Toxicology and Chemistry
 
-**SQL**		Structured Query Language
+**SQL**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Structured Query Language
 
-**USACE**	US Army Corps of Engineers
+**USACE**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;US Army Corps of Engineers
 
-**USDA**	US Department of Agriculture
+**USDA**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;US Department of Agriculture
 
-**USFS**	US Forest Service
+**USFS**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;US Forest Service
 
-**USLCI**	US Life Cycle Inventory
+**USLCI**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;US Life Cycle Inventory
 
-**UUID**	Universally unique identifier
+**UUID**	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universally unique identifier
 
 
