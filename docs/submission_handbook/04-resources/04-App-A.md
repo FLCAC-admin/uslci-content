@@ -1,4 +1,4 @@
-#DATA USE DISCLAIMER AGREEMENT (&quot;Agreement&quot;)
+# DATA USE DISCLAIMER AGREEMENT (&quot;Agreement&quot;)
 
 These U.S. LCI Database Project data (&quot;Data&quot;) are provided by the National Renewable Energy Laboratory (&quot;NREL&quot;), operated by the Alliance for Sustainable Energy, LLC (&quot;Alliance&quot;) for the US Department of Energy (&quot;DOE&quot;) under Contract No. DE-AC36-08GO28308. The United States Government (the &quot;Government&quot;) retains and the user acknowledges that the Government retains a non-exclusive, paid-up, irrevocable, worldwide license to publish or reproduce the published form of these data, or allow others to do so, for Government purposes.
 
