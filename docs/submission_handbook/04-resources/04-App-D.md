@@ -415,5 +415,5 @@ _(Recommended for technical and non-technical target audience)_
 
 
 
-# REFERENCE
+#
 Beaufort-Langeveld, A. et al. (Eds.): SETAC Code of Life-Cycle Inventory Practice, 2001. Developed by the former SETAC Working Group on Data Availability and Quality 1998-2001.
