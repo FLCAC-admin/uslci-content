@@ -17,39 +17,39 @@ The handbook is divided into four major sections.
 A detailed [TABLE OF CONTENTS](#toc) is available below.
 
 <a id="toc"></a>
-## TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 
 ### [Preface](./i-preface.md)
 ### [Acronyms & Abbreviations](./ii-acronyms-abbreviations.md)
 ### [Section 1: Should I publish my data in the US LCI?](./01-should-i-publish-in-the-uslci.md)
   * [**Benefits**](./01-should-i-publish-in-the-uslci.md#benefits)
-  * **Expectations**
-    * _Placing your data in the public domain_
-    * _Dataset citations_
-    * _Data formatting_
-  * **Data requirements**
-    * _Data reliability and reproducibility_
-    * _Nomenclature_
+  * [**Expectations**](./01-should-i-publish-in-the-uslci.md#expectations)
+    * [_Placing your data in the public domain_](./01-should-i-publish-in-the-uslci.md#placing-your-data-in-the-public-domain)
+    * [_Dataset citations_](./01-should-i-publish-in-the-uslci.md#dataset-citations)
+    * [_Data formatting_](./01-should-i-publish-in-the-uslci.md#data-formatting)
+  * [**Data requirements**](./01-should-i-publish-in-the-uslci.md#data-requirements)
+    * [_Data reliability and reproducibility_](./01-should-i-publish-in-the-uslci.md#data-reliability-and-reproducibility)
+    * [_Nomenclature_](./01-should-i-publish-in-the-uslci.md#nomenclature)
 ### [Section 2: How do I publish my data in the US LCI?](./02-how-to-publish-in-the-uslci.md)
-  * **Working with NREL**
-  * **Overview of the Digital Curation process**
-    * _Appraisal_
-    * _Ingest & Onboarding_
-    * _Review_
-    * _Publication_
-    * _Preservation_
-  * **Guidance on data compilation in OpenLCA**
-  * **Metadata guidance tables**
+  * [**Working with NREL**](./02-how-to-publish-in-the-uslci.md#working-with-nrel)
+  * [**Overview of the Digital Curation process**](./02-how-to-publish-in-the-uslci.md#overview-digital-curation)
+    * [_Appraisal_](./02-how-to-publish-in-the-uslci.md#appraisal)
+    * [_Ingest & Onboarding_](./02-how-to-publish-in-the-uslci.md#ingest-and-onboarding)
+    * [_Review_](./02-how-to-publish-in-the-uslci.md#review)
+    * [_Publication_](./02-how-to-publish-in-the-uslci.md#publication)
+    * [_Preservation_](./02-how-to-publish-in-the-uslci.md#preservation)
+  * [**Guidance on data compilation in OpenLCA**](./02-how-to-publish-in-the-uslci.md#guidance-data-compilation-openlca)
+  * [**Metadata guidance tables**](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables)
 ### [Section 3: Frequently asked questions](./03-frequently-asked-questions.md)
-  * **What is the USLCI Database?**
-  * **Why should I publish my data in the USLCI Database?**
-  * **How long does the publication process take?**
-  * **When will my data be published?**
-  * **What is my role in the publication process?**
-  * **Do I have to go through the publication process alone?**
-  * **Who owns my data after it is published?**
-  * **How is my data used after it is published?**
+  * [**What is the USLCI Database?**](./03-frequently-asked-questions.md#what-is-uslci)
+  * [**Why should I publish my data in the USLCI Database?**](./03-frequently-asked-questions.md#why-publish-in-uslci)
+  * [**How long does the publication process take?**](./03-frequently-asked-questions.md#how-long-to-publish)
+  * [**When will my data be published?**](./03-frequently-asked-questions.md#when-data-published)
+  * [**What is my role in the publication process?**](./03-frequently-asked-questions.md#my-role-in-publishing)
+  * [**Do I have to go through the publication process alone?**](./03-frequently-asked-questions.md#go-through-publishing-alone)
+  * [**Who owns my data after it is published?**](./03-frequently-asked-questions.md#who-owns-published-data)
+  * [**How is my data used after it is published?**](./03-frequently-asked-questions.md#how-published-data-used)
 ### Section 4: Resources
   * [Links to useful resources](./04-resources/04-resources.md)
   * [Data Use Disclaimer Agreement](./04-resources/04-App-A.md)
