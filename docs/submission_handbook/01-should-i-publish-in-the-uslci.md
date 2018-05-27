@@ -1,8 +1,10 @@
-# Should I publish in the USLCI?  
+# Section 1: Should I publish in the USLCI?  
+
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
 
 This page provides a high-level explanation of the benefits, expectations, and general process for publishing data on the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web]. This Submission Overview is intended to help interested parties understand the benefits of publishing their data on the USLCI and set reasonable expectations for the publication documentation and standards.   
 
-
+<a id="benefits"></a>
 ## Benefits
 
 LCA serves as a benchmarking and comparison tool for sustainable product and process development. As public and private actors increasingly utilize LCI data for decision-making and communications along the value chain, LCI data availability, reliability, and geographic specificity become increasingly important. The USLCI Database offers data providers with the opportunity to share complete, representative, and well-documented LCI data to a public repository. This resource allows users with influence across the value chain access to transparent and representative LCI data alongside guidance for its intended use. The goals of the USLCI Database are to maintain data quality and transparency, support the use of LCA, maintain compatibility with other LCI databases, provide exceptional data accessibility, be fully and sustainably supported, and support US industry competitiveness.
@@ -56,5 +58,5 @@ Detailed guidance on process and flow nomenclature are provided in Table 1. Gene
 
 
 
-
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
 
