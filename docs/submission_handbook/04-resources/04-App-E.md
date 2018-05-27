@@ -4,7 +4,7 @@ The following page contains a summary table of the 2017 North American Industry 
 
 The complete table with industries and United States detail industries may be found at: [**census.gov/naics**](http://census.gov/naics) **.**
 
-**Sector 11--Agriculture, Forestry, Fishing and Hunting <sup>T</sup>**
+### Sector 11--Agriculture, Forestry, Fishing and Hunting <sup>T</sup>
 
 
 **111        Crop Production <sup>T</sup>**
@@ -55,7 +55,7 @@ The complete table with industries and United States detail industries may be fo
 
                 1153 Support Activities for Forestry T
 
-**Sector 21--Mining, Quarrying, and Oil and Gas Extraction <sup>T</sup>**
+### Sector 21--Mining, Quarrying, and Oil and Gas Extraction <sup>T</sup>
 
 
 **211        Oil and Gas Extraction <sup>T</sup>**
@@ -74,7 +74,7 @@ The complete table with industries and United States detail industries may be fo
 
                 2131 Support Activities for Mining T
 
-**Sector 22--Utilities <sup>T</sup>**
+### Sector 22--Utilities <sup>T</sup>
 
 
 **221        Utilities <sup>T</sup>**
@@ -85,7 +85,7 @@ The complete table with industries and United States detail industries may be fo
 
                 2213 Water, Sewage and Other Systems T
 
-**Sector 23--Construction <sup>T</sup>**
+### Sector 23--Construction <sup>T</sup>
 
 **236        Construction of Buildings <sup>T</sup>**
 
@@ -113,7 +113,7 @@ The complete table with industries and United States detail industries may be fo
 
                 2389 Other Specialty Trade Contractors T
 
-**Sector 31-33--Manufacturing <sup>T</sup>**
+### Sector 31-33--Manufacturing <sup>T</sup>
 
 
 **311        Food Manufacturing <sup>T</sup>**
@@ -268,7 +268,7 @@ The complete table with industries and United States detail industries may be fo
 
                 3333 Commercial and Service Industry Machinery Manufacturing T
 
-3334 Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing <sup>T</sup>
+                3334 Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing T
 
                 3335 Metalworking Machinery Manufacturing T
 
@@ -330,7 +330,7 @@ The complete table with industries and United States detail industries may be fo
 
                 3399 Other Miscellaneous Manufacturing T
 
-**Sector 42--Wholesale Trade <sup>T</sup>**
+### Sector 42--Wholesale Trade <sup>T</sup>
 
 
 **423        Merchant Wholesalers, Durable Goods**
@@ -357,7 +357,7 @@ The complete table with industries and United States detail industries may be fo
 
                 4241 Paper and Paper Product Merchant Wholesalers
 
-                4242 Drugs and Druggists&#39; Sundries Merchant Wholesalers
+                4242 Drugs and Druggists' Sundries Merchant Wholesalers
 
                 4243 Apparel, Piece Goods, and Notions Merchant Wholesalers
 
@@ -377,7 +377,7 @@ The complete table with industries and United States detail industries may be fo
 
                 4251 Wholesale Electronic Markets and Agents and Brokers
 
-**Sector 44-45--Retail Trade <sup>T</sup>**
+### Sector 44-45--Retail Trade <sup>T</sup>
 
 
 **441        Motor Vehicle and Parts Dealers**
@@ -458,7 +458,7 @@ The complete table with industries and United States detail industries may be fo
 
                 4543 Direct Selling Establishments
 
-**Sector 48-49--Transportation and Warehousing <sup>T</sup>**
+### Sector 48-49--Transportation and Warehousing <sup>T</sup>
 
 **481        Air Transportation <sup>T</sup>**
 
@@ -540,7 +540,7 @@ The complete table with industries and United States detail industries may be fo
 
                 4931 Warehousing and Storage T
 
-**Sector 51--Information <sup>T</sup>**
+### Sector 51--Information <sup>T</sup>
 
 **511        Publishing Industries (except Internet) <sup>T</sup>**
 
@@ -560,7 +560,7 @@ The complete table with industries and United States detail industries may be fo
 
                 5152 Cable and Other Subscription Programming T
 
-**517 Telecommunications <sup>T</sup>**
+### 517 Telecommunications <sup>T</sup>
 
                 5173 Wired and Wireless Telecommunications Carriers T
 
@@ -576,7 +576,7 @@ The complete table with industries and United States detail industries may be fo
 
                 5191 Other Information Services T
 
-**Sector 52--Finance and Insurance <sup>T</sup>**
+### Sector 52--Finance and Insurance <sup>T</sup>
 
 **521        Monetary Authorities-Central Bank <sup>T</sup>**
 
@@ -584,13 +584,15 @@ The complete table with industries and United States detail industries may be fo
 
 **522        Credit Intermediation and Related Activities <sup>T</sup>**
 
-                5221 Depository Credit Intermediation 5222 Nondepository Credit Intermediation
+                5221 Depository Credit Intermediation 
+                
+                5222 Nondepository Credit Intermediation
 
                 5223 Activities Related to Credit Intermediation
 
 **523        Securities, Commodity Contracts, and Other Financial Investments and Related Activities <sup>T</sup>**
 
-                5231        Securities and Commodity Contracts Intermediation and Brokerage T
+                5231 Securities and Commodity Contracts Intermediation and Brokerage T
 
                 5232 Securities and Commodity Exchanges T
 
@@ -608,7 +610,7 @@ The complete table with industries and United States detail industries may be fo
 
                 5259 Other Investment Pools and Funds
 
-**Sector 53--Real Estate and Rental and Leasing <sup>T</sup>**
+### Sector 53--Real Estate and Rental and Leasing <sup>T</sup>
 
 **531        Real Estate <sup>T</sup>**
 
@@ -632,7 +634,7 @@ The complete table with industries and United States detail industries may be fo
 
                 5331 Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) T
 
-**Sector 54--Professional, Scientific, and Technical Services <sup>T</sup>**
+### Sector 54--Professional, Scientific, and Technical Services <sup>T</sup>
 
 **541        Professional, Scientific, and Technical Services <sup>T</sup>**
 
@@ -654,13 +656,13 @@ The complete table with industries and United States detail industries may be fo
 
                 5419 Other Professional, Scientific, and Technical Services T
 
-**Sector 55--Management of Companies and Enterprises <sup>T</sup>**
+### Sector 55--Management of Companies and Enterprises <sup>T</sup>
 
 **551        Management of Companies and Enterprises <sup>T</sup>**
 
                 5511 Management of Companies and Enterprises T
 
-**Sector 56--Administrative and Support and Waste Management and Remediation Services <sup>T</sup>**
+### Sector 56--Administrative and Support and Waste Management and Remediation Services <sup>T</sup>
 
 **561        Administrative and Support Services <sup>T</sup>**
 
@@ -688,7 +690,7 @@ The complete table with industries and United States detail industries may be fo
 
                 5629 Remediation and Other Waste Management Services
 
-**Sector 61--Educational Services <sup>T</sup>**
+### Sector 61--Educational Services <sup>T</sup>
 
 **611        Educational Services <sup>T</sup>**
 
@@ -706,7 +708,7 @@ The complete table with industries and United States detail industries may be fo
 
                 6117 Educational Support Services T
 
-**Sector 62--Health Care and Social Assistance <sup>T</sup>**
+### Sector 62--Health Care and Social Assistance <sup>T</sup>
 
 **621        Ambulatory Health Care Services <sup>T</sup>**
 
@@ -752,7 +754,7 @@ The complete table with industries and United States detail industries may be fo
 
                 6244 Child Day Care Services T
 
-**Sector 71--Arts, Entertainment, and Recreation <sup>T</sup>**
+### Sector 71--Arts, Entertainment, and Recreation <sup>T</sup>
 
 **711        Performing Arts, Spectator Sports, and Related Industries <sup>T</sup>**
 
@@ -778,7 +780,7 @@ The complete table with industries and United States detail industries may be fo
 
                 7139 Other Amusement and Recreation Industries T
 
-**Sector 72--Accommodation and Food Services <sup>T</sup>**
+### Sector 72--Accommodation and Food Services <sup>T</sup>
 
 **721 Accommodation <sup>T</sup>**
 
@@ -786,17 +788,17 @@ The complete table with industries and United States detail industries may be fo
 
                 7212 RV (Recreational Vehicle) Parks and Recreational Camps T
 
-                7213 Rooming and Boarding Houses, Dormitories, and Workers&#39; Camps T
+                7213 Rooming and Boarding Houses, Dormitories, and Workers' Camps T
                 
-**722        Food Services and Drinking Places <sup>T</sup>**
+**722 Food Services and Drinking Places <sup>T</sup>**
 
-                7223        Special Food Services T
+                7223 Special Food Services T
 
-                7224        Drinking Places (Alcoholic Beverages) T
+                7224 Drinking Places (Alcoholic Beverages) T
 
-                7225 Restaurants and Other Eating Places <sup>T</sup>
+                7225 Restaurants and Other Eating Places T
 
-**Sector 81--Other Services (except Public Administration) <sup>T</sup>**
+### Sector 81--Other Services (except Public Administration) <sup>T</sup>
 
 **811        Repair and Maintenance <sup>T</sup>**
 
@@ -804,9 +806,9 @@ The complete table with industries and United States detail industries may be fo
 
                 8112 Electronic and Precision Equipment Repair and Maintenance T
 
-        8113 Commercial and Industrial Machinery and Equipment Repair and Maintenance T
+                8113 Commercial and Industrial Machinery and Equipment Repair and Maintenance T
 
-                (except Automotive and Electronic)
+                     (except Automotive and Electronic)
 
                 8114 Personal and Household Goods Repair and Maintenance T
 
@@ -836,7 +838,7 @@ The complete table with industries and United States detail industries may be fo
 
                 8141 Private Households T
 
-**Sector 92--Public Administration <sup>T</sup>**
+### Sector 92--Public Administration <sup>T</sup>
 
 **921        Executive, Legislative, and Other General Government Support**
 
