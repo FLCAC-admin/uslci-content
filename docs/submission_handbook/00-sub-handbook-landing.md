@@ -49,7 +49,7 @@ A detailed table of contents is available below.
   * **Who owns my data after it is published?**
   * **How is my data used after it is published?**
 ### Section 4: Resources
-  * [Links to useful resources](./04-resources/resources.md)
+  * [Links to useful resources](./04-resources/04-resources.md)
   * [Data Use Disclaimer Agreement](./04-resources/04-App-A.md)
   * [Data Provider's Content License Agreement](./04-resources/04-App-B.md)
   * [Creative Commons Legal Code](./04-resources/04-App-C.md)
@@ -57,3 +57,4 @@ A detailed table of contents is available below.
   * [2017 NAICS United States Structure](./04-resources/04-App-E.md)
   * [Example openLCA Element Addition](./04-resources/04-App-F.md)
     
+[uslci]: https://uslci.lcacommons.gov/uslci/search   
