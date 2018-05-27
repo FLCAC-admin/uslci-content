@@ -1,13 +1,21 @@
 # Section 2: How do I publish my data in the USLCI?
 
+
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
 
-This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](01-should-i-publish-in-the-uslci.md)*  You can also find a list of frequently asked questions [here](03-frequently-asked-questions.md).
+
+This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/uslci/search).  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see [Section 1: Should I publish my data in the US LCI?](./01-should-i-publish-in-the-uslci.md).  You can also find a list of frequently asked questions [here](03-frequently-asked-questions.md).
 
 This page is divided into the following subsections.
-1.	Working with NREL
-2.	What to expect during the `Digital Curation Process’
-3.	The openLCA field conventions and metadata guidance
+1. [**Working with NREL**](#working-with-nrel)
+2. [**Overview of the Digital Curation process**](#overview-digital-curation)
+    * [_Appraisal_](#appraisal)
+    * [_Ingest & Onboarding_](#ingest-and-onboarding)
+    * [_Review_](#review)
+    * [_Publication_](#publication)
+    * [_Preservation_](#preservation)
+3. [**Guidance on Data Compilation in openLCA**](#guidance-data-compilation-openlca)
+4. [**Metadata Guidance Tables**](#metadata-guidance-tables)
 
 
 <a id="working-with-nrel"></a>
@@ -18,9 +26,9 @@ The Data Curator's role is to guide you through the publication process. This pe
 
 Your role in the publication process is to transform your raw LCI data into a product that is ready for publication in the USLCI Database. ‘Transform’ means to put your data into the USLCI Database's data format and pair your data with robust metadata so that your data users understand how to properly interpret and apply your data.
 
-The documentation and resources in the USLCI Database Submission Guide will be essential resources in that process.
+The documentation, [metadata guidance](#metadata-guidance-tables), and [resources](./04-resources/04-resources.md) in this USLCI Data Submission Guide will be essential resources in that process.
 
-The International Organization for Standardization (ISO) specifies a framework for archival concepts necessary for long-term digital information preservation and access in ISO 14721:2012. This framework designates the importance of provenance information such as the history of content information, custody, and change history.
+The International Organization for Standardization (ISO) specifies a framework for archival concepts necessary for long-term digital information preservation and access in [ISO 14721:2012](https://www.iso.org/standard/57284.html). This framework designates the importance of provenance information such as the history of content information, custody, and change history.
 
 ![](https://github.com/uslci-admin/private-uslci-content/blob/dev/images/ISO%2014721%20OAIS%20-%20Graphic.png)
 **_Open Archival Information System (OAIS) Preservation Description Information_**
@@ -28,11 +36,11 @@ The International Organization for Standardization (ISO) specifies a framework f
 
 To facilitate compliance with these standards, we use GitHub as our principal project management and communication tool. This platform assists in the storage, handling, and migration of LCI data during the curation and publication process. GitHub contains robust features for version control, issues management, and team communication. Moreover, it makes it easy for the Data Provider to keep a local version of the data curation process and end product once the project is complete. Early in the publication process, the Data Curator will work with you to get you set up with one or more private data repositories on GitHub.
 
-As mentioned in the Data Formatting section, NREL uses openLCA v1.6 as its platform for receiving, reviewing, and publishing LCI data. openLCA is a free, open source LCA software platform that can import data from many commercial LCA software applications including GaBi and SimaPro.
+As mentioned in the [Data Formatting](./01-should-i-publish-in-the-uslci.md#data-formatting) section of this handbook, NREL uses [openLCA v1.6](https://sourceforge.net/projects/openlca/files/openlca_framework/) as its platform for receiving, reviewing, and publishing LCI data. [openLCA](https://www.openlca.org/) is a free, open source LCA software platform that can import data from many commercial LCA software applications including GaBi and SimaPro.
 
 
 <a id="overview-digital-curation"></a>
-##Overview of the Digital Curation Process
+## Overview of the Digital Curation Process
 
 NREL uses a Digital Curation Process for receiving, reviewing, publishing, and preserving data and metadata submitted to the USLCI Database. The process is divided into five phases:
 
@@ -46,14 +54,14 @@ Each of the five phases is discussed in detail below but a quick overview of the
 
 * Submit preliminary data sets
 * Appraisal Meeting with NREL
-* Acquire a GitHub account
-* Watch the first 1 minute and 15 seconds of this video about GitHub
-* Watch video about using GitHub’s ‘Issues’ feature (3 min)
+* Acquire a [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/)
+* Watch the first 1 minute and 15 seconds of [this video](https://www.youtube.com/watch?v=w3jLJU7DT5E) about GitHub
+* Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min)
 * Download the openLCA software and install it on your computer
-* Download the current US LCI database version and import it into openLCA
-* Download the US EPA’s data quality system and import it into openLCA
+* Download the current [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import it into openLCA
+* Download the [US EPA’s data quality system](http://www.openlca.org/download/) and import it into openLCA
 * Kick-off Meeting with NREL
-* Edit your Unit Processes/product system in openLCA
+* Edit your unit processes/product system in openLCA
 * Export your edits as JSON-LD files and submit to NREL on GitHub
 * Reconcile issues identified by NREL during the Review Process
 * Approve final version
@@ -116,23 +124,23 @@ Elementary flow names must correspond directly to the impact method used in the 
 
 With these issues in mind, the general Review phase workflow is as follows:
 
-1. Flow nomenclature/connectivity
-  * Small datasets (< 10 unit processes) are manually curated as described below:
+1. **Flow nomenclature/connectivity**
+  **_Small datasets (< 10 unit processes) are manually curated as described below:_**
     * You provide an Excel file that suggests one of the following options for each submitted flow:
-      * Replace the flow with a surrogate from the USLCI Database
-      * Add the flow to the USLCI Database as a CUTOFF
-      * Add the flow to the USLCI Database as a connected flow (e.g., the Quantitative Reference for the submitted unit processes)
+      * _Replace the flow with a surrogate from the USLCI Database_
+      * _Add the flow to the USLCI Database as a CUTOFF_
+      * _Add the flow to the USLCI Database as a connected flow (e.g., the Quantitative Reference for the submitted unit processes)_
     * NREL updates the flows in openLCA based on the Excel file referenced above
     * You review and approve the flow substitutions
-  * Large datasets (> 10 unit processes) are curated using a semi-automated process as described below:
+  * **_Large datasets (> 10 unit processes) are curated using a semi-automated process as described below:_**
     * NREL uses a custom Structured Query Language (SQL) script to generate an Excel file that suggests one or more of the following options for each submitted flow:
-      * Replace the flow with a surrogate from the USLCI Database
-      * Add the flow to the USLCI Database as a CUTOFF
-      * Add the flow to the USLCI Database as a connected flow (e.g. the Quantitative Reference for the submitted unit processes)
+      * _Replace the flow with a surrogate from the USLCI Database_
+      * _Add the flow to the USLCI Database as a CUTOFF_
+      * _Add the flow to the USLCI Database as a connected flow (e.g. the Quantitative Reference for the submitted unit processes)_
     * You review the proposed list and recommend changes as appropriate
     * NREL uses the SQL script to update flows based on the Excel file referenced above; this script may also update metadata elements
-2. You use openLCA to manually update/insert metadata for each process
-3. NREL reviews the metadata for completeness
+2. **You use openLCA to manually update/insert metadata for each process**
+3. **NREL reviews the metadata for completeness**
 
 The Review phase can involve iterative communications via the Issues tracker on your NREL GitHub repository and often requires the most time in the data curation process. You must play an active role in this collaborative effort for this phase of the process to be completed.
 
@@ -150,6 +158,15 @@ The USLCI is updated with new and revised data on a quarterly basis:
 ### Preservation
 
 NREL will preserve the final dataset files according to ISO 14721.That is, the final dataset file versions are stabilized, checked for fixity (i.e., verifying no digital file corruption), and stored such that the original and published datasets and their supporting metadata are archived. Only the initial dataset submission and the version final dataset as published are archived. These datasets will be saved until the next update is submitted and published. Older datasets may not be saved in the Federal LCA Data Commons but NREL retains the older datasets on their servers. Updates to previously published datasets shall contain a relevant note in the ‘Intended Application’ field of the unit process Administrative Information. If a user needs to access an older dataset, they may contact NREL for a copy.
+
+
+<a id="guidance-data-compilation-openlca"></a>
+## Gudance on Data Compilation in openLCA
+
+
+<a id="metadata-guidance-tables"></a>
+## Metadata Guidance Tables
+
 
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
