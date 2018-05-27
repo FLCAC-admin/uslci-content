@@ -7,335 +7,331 @@ The complete table with industries and United States detail industries may be fo
 **Sector 11--Agriculture, Forestry, Fishing and Hunting <sup>T</sup>**
 
 
-**111        Crop Production**** T**
+**111        Crop Production <sup>T</sup>**
 
-                1111 Oilseed and Grain FarmingT
+                1111 Oilseed and Grain Farming <sup>T</sup>
 
-                1112 Vegetable and Melon FarmingT
+                1112 Vegetable and Melon Farming <sup>T</sup>
 
-                1113 Fruit and Tree Nut FarmingT
+                1113 Fruit and Tree Nut Farming <sup>T</sup>
 
-                1114 Greenhouse, Nursery, and Floriculture ProductionT
+                1114 Greenhouse, Nursery, and Floriculture Production <sup>T</sup>
 
-                1119 Other Crop FarmingT
+                1119 Other Crop Farming <sup>T</sup>
 
-**112        Animal Production and AquacultureT**
+**112        Animal Production and Aquaculture <sup>T</sup>**
 
-                1121 Cattle Ranching and FarmingT
+                1121 Cattle Ranching and Farming <sup>T</sup>
 
-                1122 Hog and Pig FarmingT
+                1122 Hog and Pig Farming <sup>T</sup>
 
-                1123 Poultry and Egg ProductionT
+                1123 Poultry and Egg Production <sup>T</sup>
 
-                1124 Sheep and Goat FarmingT
+                1124 Sheep and Goat Farming <sup>T</sup>
 
-                1125 AquacultureT
+                1125 Aquaculture <sup>T</sup>
 
-                1129 Other Animal ProductionT
+                1129 Other Animal Production <sup>T</sup>
 
-**113        Forestry and Logging**** T**
+**113        Forestry and Logging <sup>T</sup>**
 
-                1131 Timber Tract OperationsT
+                1131 Timber Tract Operations <sup>T</sup>
 
-                1132 Forest Nurseries and Gathering of Forest ProductsT
+                1132 Forest Nurseries and Gathering of Forest Products <sup>T</sup>
 
-                1133 LoggingT
+                1133 Logging <sup>T</sup>
 
-**114        Fishing, Hunting and Trapping**** T**
+**114        Fishing, Hunting and Trapping <sup>T</sup>**
 
-                1141 FishingT
+                1141 Fishing <sup>T</sup>
 
-                1142 Hunting and TrappingT
+                1142 Hunting and Trapping <sup>T</sup>
 
-**115        Support Activities for Agriculture and Forestry**** T**
+**115        Support Activities for Agriculture and Forestry <sup>T</sup>**
 
-                1151 Support Activities for Crop ProductionT
+                1151 Support Activities for Crop Production <sup>T</sup>
 
-                1152 Support Activities for Animal ProductionT
+                1152 Support Activities for Animal Production <sup>T</sup>
 
-                1153 Support Activities for ForestryT
+                1153 Support Activities for Forestry <sup>T</sup>
 
-**Sector 21--Mining, Quarrying, and Oil and Gas Extraction**
+**Sector 21--Mining, Quarrying, and Oil and Gas Extraction <sup>T</sup>**
 
-# T
 
-**211        Oil and Gas Extraction**** T**
+**211        Oil and Gas Extraction <sup>T</sup>**
 
-                2111 Oil and Gas ExtractionT
+                2111 Oil and Gas Extraction <sup>T</sup>
 
-**212        Mining (except Oil and Gas)****T**
+**212        Mining (except Oil and Gas) <sup>T</sup>**
 
-                2121 Coal MiningT
+                2121 Coal Mining <sup>T</sup>
 
-                2122 Metal Ore MiningT
+                2122 Metal Ore Mining <sup>T</sup>
 
-                2123 Nonmetallic Mineral Mining and QuarryingT
+                2123 Nonmetallic Mineral Mining and Quarrying <sup>T</sup>
 
-**213        Support Activities for MiningT**
+**213        Support Activities for Mining <sup>T</sup>**
 
-                2131 Support Activities for MiningT
+                2131 Support Activities for Mining <sup>T</sup>
 
-**Sector 22--Utilities**
+**Sector 22--Utilities <sup>T</sup>**
 
-# T
 
-**221        Utilities**** T**
+**221        Utilities <sup>T</sup>**
 
-                2211 Electric Power Generation, Transmission and DistributionT
+                2211 Electric Power Generation, Transmission and Distribution <sup>T</sup>
 
-                2212 Natural Gas DistributionT
+                2212 Natural Gas Distribution <sup>T</sup>
 
-                2213 Water, Sewage and Other SystemsT
+                2213 Water, Sewage and Other Systems <sup>T</sup>
 
-**Sector 23--Construction**** T**
+**Sector 23--Construction <sup>T</sup>**
 
-**236        Construction of Buildings**** T**
+**236        Construction of Buildings <sup>T</sup>**
 
-                2361 Residential Building ConstructionT
+                2361 Residential Building Construction <sup>T</sup>
 
-                2362 Nonresidential Building ConstructionT
+                2362 Nonresidential Building Construction <sup>T</sup>
 
-**237        Heavy and Civil Engineering Construction**** T**
+**237        Heavy and Civil Engineering Construction <sup>T</sup>**
 
-                2371 Utility System ConstructionT
+                2371 Utility System Construction <sup>T</sup>
 
-                2372 Land SubdivisionT
+                2372 Land Subdivision <sup>T</sup>
 
-                2373 Highway, Street, and Bridge ConstructionT
+                2373 Highway, Street, and Bridge Construction <sup>T</sup>
 
-                2379 Other Heavy and Civil Engineering ConstructionT
+                2379 Other Heavy and Civil Engineering Construction <sup>T</sup>
 
-**238        Specialty Trade Contractors**** T**
+**238        Specialty Trade Contractors <sup>T</sup>**
 
-                2381 Foundation, Structure, and Building Exterior ContractorsT
+                2381 Foundation, Structure, and Building Exterior Contractors <sup>T</sup>
 
-                2382 Building Equipment ContractorsT
+                2382 Building Equipment Contractors <sup>T</sup>
 
-                2383 Building Finishing ContractorsT
+                2383 Building Finishing Contractors <sup>T</sup>
 
-                2389 Other Specialty Trade ContractorsT
+                2389 Other Specialty Trade Contractors <sup>T</sup>
 
-**Sector 31-33--Manufacturing**
+**Sector 31-33--Manufacturing <sup>T</sup>**
 
-# T
 
-**311        Food Manufacturing**** T**
+**311        Food Manufacturing <sup>T</sup>**
 
-                3111 Animal Food ManufacturingT
+                3111 Animal Food Manufacturing <sup>T</sup>
 
-                3112 Grain and Oilseed MillingT
+                3112 Grain and Oilseed Milling <sup>T</sup>
 
-                3113 Sugar and Confectionery Product ManufacturingT
+                3113 Sugar and Confectionery Product Manufacturing <sup>T</sup>
 
-                3114 Fruit and Vegetable Preserving and Specialty Food ManufacturingT
+                3114 Fruit and Vegetable Preserving and Specialty Food Manufacturing <sup>T</sup>
 
-                3115 Dairy Product ManufacturingT
+                3115 Dairy Product Manufacturing <sup>T</sup>
 
-                3116 Animal Slaughtering and ProcessingT
+                3116 Animal Slaughtering and Processing <sup>T</sup>
 
-                3117 Seafood Product Preparation and PackagingT
+                3117 Seafood Product Preparation and Packaging <sup>T</sup>
 
-                3118 Bakeries and Tortilla ManufacturingT
+                3118 Bakeries and Tortilla Manufacturing <sup>T</sup>
 
-                3119 Other Food ManufacturingT
+                3119 Other Food Manufacturing <sup>T</sup>
 
-**312        Beverage and Tobacco Product Manufacturing**** T**
+**312        Beverage and Tobacco Product Manufacturing <sup>T</sup>**
 
-                3121 Beverage ManufacturingT
+                3121 Beverage Manufacturing <sup>T</sup>
 
-                3122 Tobacco ManufacturingT
+                3122 Tobacco Manufacturing <sup>T</sup>
 
-**313        Textile Mills**** T**
+**313        Textile Mills <sup>T</sup>**
 
-                3131 Fiber, Yarn, and Thread MillsT
+                3131 Fiber, Yarn, and Thread Mills <sup>T</sup>
 
-                3132 Fabric MillsT
+                3132 Fabric Mills <sup>T</sup>
 
-                3133 Textile and Fabric Finishing and Fabric Coating MillsT
+                3133 Textile and Fabric Finishing and Fabric Coating Mills <sup>T</sup>
 
-**314        Textile Product Mills**** T**
+**314        Textile Product Mills <sup>T</sup>**
 
-                3141 Textile Furnishings MillsT
+                3141 Textile Furnishings Mills <sup>T</sup>
 
-                3149 Other Textile Product MillsT
+                3149 Other Textile Product Mills <sup>T</sup>
 
-**315        Apparel Manufacturing**** T**
+**315        Apparel Manufacturing <sup>T</sup>**
 
-                3151 Apparel Knitting MillsT
+                3151 Apparel Knitting Mills <sup>T</sup>
 
-                3152 Cut and Sew Apparel ManufacturingT
+                3152 Cut and Sew Apparel Manufacturing <sup>T</sup>
 
-                3159 Apparel Accessories and Other Apparel ManufacturingT
+                3159 Apparel Accessories and Other Apparel Manufacturing <sup>T</sup>
 
-**316        Leather and Allied Product Manufacturing**** T**
+**316        Leather and Allied Product Manufacturing <sup>T</sup>**
 
-                3161 Leather and Hide Tanning and FinishingT
+                3161 Leather and Hide Tanning and Finishing <sup>T</sup>
 
-                3162 Footwear ManufacturingT
+                3162 Footwear Manufacturing <sup>T</sup>
 
-                3169 Other Leather and Allied Product ManufacturingT
+                3169 Other Leather and Allied Product Manufacturing <sup>T</sup>
 
-**321        Wood Product Manufacturing**** T**
+**321        Wood Product Manufacturing <sup>T</sup>**
 
-                3211 Sawmills and Wood PreservationT
+                3211 Sawmills and Wood Preservation <sup>T</sup>
 
-                3212 Veneer, Plywood, and Engineered Wood Product ManufacturingT
+                3212 Veneer, Plywood, and Engineered Wood Product Manufacturing <sup>T</sup>
 
-                3219 Other Wood Product ManufacturingT
+                3219 Other Wood Product Manufacturing <sup>T</sup>
 
-**322        Paper Manufacturing**** T**
+**322        Paper Manufacturing <sup>T</sup>**
 
-                3221 Pulp, Paper, and Paperboard MillsT
+                3221 Pulp, Paper, and Paperboard Mills <sup>T</sup>
 
-                3222 Converted Paper Product ManufacturingT
+                3222 Converted Paper Product Manufacturing <sup>T</sup>
 
-**323        Printing and Related Support Activities**** T**
+**323        Printing and Related Support Activities <sup>T</sup>**
 
-                3231 Printing and Related Support ActivitiesT
+                3231 Printing and Related Support Activities <sup>T</sup>
 
-**324        Petroleum and Coal Products Manufacturing**** T**
+**324        Petroleum and Coal Products Manufacturing <sup>T</sup>**
 
-                3241 Petroleum and Coal Products ManufacturingT
+                3241 Petroleum and Coal Products Manufacturing <sup>T</sup>
 
-**325        Chemical Manufacturing**** T**
+**325        Chemical Manufacturing <sup>T</sup>**
 
-                3251 Basic Chemical ManufacturingT
+                3251 Basic Chemical Manufacturing <sup>T</sup>
 
-                3252 Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments ManufacturingT
+                3252 Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing <sup>T</sup>
 
-                3253 Pesticide, Fertilizer, and Other Agricultural Chemical ManufacturingT
+                3253 Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing <sup>T</sup>
 
-                3254 Pharmaceutical and Medicine ManufacturingT
+                3254 Pharmaceutical and Medicine Manufacturing <sup>T</sup>
 
-                3255 Paint, Coating, and Adhesive ManufacturingT
+                3255 Paint, Coating, and Adhesive Manufacturing <sup>T</sup>
 
-                3256 Soap, Cleaning Compound, and Toilet Preparation ManufacturingT
+                3256 Soap, Cleaning Compound, and Toilet Preparation Manufacturing <sup>T</sup>
 
-                3259 Other Chemical Product and Preparation ManufacturingT
+                3259 Other Chemical Product and Preparation Manufacturing <sup>T</sup>
 
-**326        Plastics and Rubber Products Manufacturing**** T**
+**326        Plastics and Rubber Products Manufacturing <sup>T</sup>**
 
-                3261 Plastics Product ManufacturingT
+                3261 Plastics Product Manufacturing <sup>T</sup>
 
-                3262 Rubber Product ManufacturingT
+                3262 Rubber Product Manufacturing <sup>T</sup>
 
-**327        Nonmetallic Mineral Product Manufacturing**** T**
+**327        Nonmetallic Mineral Product Manufacturing <sup>T</sup>**
 
-                3271 Clay Product and Refractory ManufacturingT
+                3271 Clay Product and Refractory Manufacturing <sup>T</sup>
 
-                3272 Glass and Glass Product ManufacturingT
+                3272 Glass and Glass Product Manufacturing <sup>T</sup>
 
-                3273 Cement and Concrete Product ManufacturingT
+                3273 Cement and Concrete Product Manufacturing <sup>T</sup>
 
-                3274 Lime and Gypsum Product ManufacturingT
+                3274 Lime and Gypsum Product Manufacturing <sup>T</sup>
 
-                3279 Other Nonmetallic Mineral Product ManufacturingT
+                3279 Other Nonmetallic Mineral Product Manufacturing <sup>T</sup>
 
-**331        Primary Metal Manufacturing**** T**
+**331        Primary Metal Manufacturing<sup>T</sup>**
 
-                3311 Iron and Steel Mills and Ferroalloy ManufacturingT
+                3311 Iron and Steel Mills and Ferroalloy Manufacturing <sup>T</sup>
 
-                3312 Steel Product Manufacturing from Purchased SteelT
+                3312 Steel Product Manufacturing from Purchased Steel <sup>T</sup>
 
-                3313 Alumina and Aluminum Production and ProcessingT
+                3313 Alumina and Aluminum Production and Processing <sup>T</sup>
 
-                3314 Nonferrous Metal (except Aluminum) Production and ProcessingT
+                3314 Nonferrous Metal (except Aluminum) Production and Processing <sup>T</sup>
 
-                3315 FoundriesT
+                3315 Foundries <sup>T</sup>
 
-**332        Fabricated Metal Product Manufacturing**** T**
+**332        Fabricated Metal Product Manufacturing <sup>T</sup>**
 
-                3321 Forging and StampingT
+                3321 Forging and Stamping <sup>T</sup>
 
-                3322 Cutlery and Handtool ManufacturingT
+                3322 Cutlery and Handtool Manufacturing <sup>T</sup>
 
-                3323 Architectural and Structural Metals ManufacturingT
+                3323 Architectural and Structural Metals Manufacturing <sup>T</sup>
 
-                3324 Boiler, Tank, and Shipping Container ManufacturingT
+                3324 Boiler, Tank, and Shipping Container Manufacturing <sup>T</sup>
 
-                3325 Hardware ManufacturingT
+                3325 Hardware Manufacturing <sup>T</sup>
 
-                3326 Spring and Wire Product ManufacturingT
+                3326 Spring and Wire Product Manufacturing <sup>T</sup>
 
-                3327 Machine Shops; Turned Product; and Screw, Nut, and Bolt ManufacturingT
+                3327 Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing <sup>T</sup>
 
-                3328 Coating, Engraving, Heat Treating, and Allied ActivitiesT
+                3328 Coating, Engraving, Heat Treating, and Allied Activities <sup>T</sup>
 
-                3329 Other Fabricated Metal Product ManufacturingT
+                3329 Other Fabricated Metal Product Manufacturing <sup>T</sup>
 
-**333        Machinery Manufacturing**** T**
+**333        Machinery Manufacturing <sup>T</sup>**
 
-                3331 Agriculture, Construction, and Mining Machinery ManufacturingT
+                3331 Agriculture, Construction, and Mining Machinery Manufacturing <sup>T</sup>
 
-                3332 Industrial Machinery ManufacturingT
+                3332 Industrial Machinery Manufacturing <sup>T</sup>
 
-                3333 Commercial and Service Industry Machinery ManufacturingT
+                3333 Commercial and Service Industry Machinery Manufacturing <sup>T</sup>
 
-3334 Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment ManufacturingT
+3334 Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing <sup>T</sup>
 
-                3335 Metalworking Machinery ManufacturingT
+                3335 Metalworking Machinery Manufacturing <sup>T</sup>
 
-                3336 Engine, Turbine, and Power Transmission Equipment ManufacturingT
+                3336 Engine, Turbine, and Power Transmission Equipment Manufacturing <sup>T</sup>
 
-                3339 Other General Purpose Machinery ManufacturingT
+                3339 Other General Purpose Machinery Manufacturing <sup>T</sup>
 
-**334        Computer and Electronic Product Manufacturing**** T**
+**334        Computer and Electronic Product Manufacturing <sup>T</sup>**
 
-                3341 Computer and Peripheral Equipment ManufacturingT
+                3341 Computer and Peripheral Equipment Manufacturing <sup>T</sup>
 
-                3342 Communications Equipment ManufacturingT
+                3342 Communications Equipment Manufacturing <sup>T</sup>
 
-                3343 Audio and Video Equipment ManufacturingT
+                3343 Audio and Video Equipment Manufacturing <sup>T</sup>
 
-                3344 Semiconductor and Other Electronic Component ManufacturingT
+                3344 Semiconductor and Other Electronic Component Manufacturing <sup>T</sup>
 
-                3345 Navigational, Measuring, Electromedical, and Control Instruments ManufacturingT
+                3345 Navigational, Measuring, Electromedical, and Control Instruments Manufacturing <sup>T</sup>
 
-                3346 Manufacturing and Reproducing Magnetic and Optical MediaT
+                3346 Manufacturing and Reproducing Magnetic and Optical Media <sup>T</sup>
 
-**335        Electrical Equipment, Appliance, and Component Manufacturing**** T**
+**335        Electrical Equipment, Appliance, and Component Manufacturing <sup>T</sup>**
 
-                3351 Electric Lighting Equipment ManufacturingT
+                3351 Electric Lighting Equipment Manufacturing <sup>T</sup>
 
-                3352 Household Appliance ManufacturingT
+                3352 Household Appliance Manufacturing <sup>T</sup>
 
-                3353 Electrical Equipment ManufacturingT
+                3353 Electrical Equipment Manufacturing <sup>T</sup>
 
-                3359 Other Electrical Equipment and Component ManufacturingT
+                3359 Other Electrical Equipment and Component Manufacturing <sup>T</sup>
 
-**336        Transportation Equipment Manufacturing**** T**
+**336        Transportation Equipment Manufacturing <sup>T</sup>**
 
-                3361 Motor Vehicle ManufacturingT
+                3361 Motor Vehicle Manufacturing <sup>T</sup>
 
-                3362 Motor Vehicle Body and Trailer ManufacturingT
+                3362 Motor Vehicle Body and Trailer Manufacturing <sup>T</sup>
 
-                3363 Motor Vehicle Parts ManufacturingT
+                3363 Motor Vehicle Parts Manufacturing <sup>T</sup>
 
-                3364 Aerospace Product and Parts ManufacturingT
+                3364 Aerospace Product and Parts Manufacturing <sup>T</sup>
 
-                3365 Railroad Rolling Stock ManufacturingT
+                3365 Railroad Rolling Stock Manufacturing <sup>T</sup>
 
-                3366 Ship and Boat BuildingT
+                3366 Ship and Boat Building <sup>T</sup>
 
-                3369 Other Transportation Equipment ManufacturingT
+                3369 Other Transportation Equipment Manufacturing <sup>T</sup>
 
-**337        Furniture and Related Product Manufacturing**** T**
+**337        Furniture and Related Product Manufacturing <sup>T</sup>**
 
-                3371 Household and Institutional Furniture and Kitchen Cabinet ManufacturingT
+                3371 Household and Institutional Furniture and Kitchen Cabinet Manufacturing <sup>T</sup>
 
-                3372 Office Furniture (including Fixtures) ManufacturingT
+                3372 Office Furniture (including Fixtures) Manufacturing <sup>T</sup>
 
-                3379 Other Furniture Related Product ManufacturingT
+                3379 Other Furniture Related Product Manufacturing <sup>T</sup>
 
-**339        Miscellaneous Manufacturing**** T**
+**339        Miscellaneous Manufacturing <sup>T</sup>**
 
-                3391 Medical Equipment and Supplies ManufacturingT
+                3391 Medical Equipment and Supplies Manufacturing <sup>T</sup>
 
-                3399 Other Miscellaneous ManufacturingT
+                3399 Other Miscellaneous Manufacturing <sup>T</sup>
 
-**Sector 42--Wholesale Trade**
+**Sector 42--Wholesale Trade <sup>T</sup>**
 
-# T
 
 **423        Merchant Wholesalers, Durable Goods**
 
@@ -381,9 +377,8 @@ The complete table with industries and United States detail industries may be fo
 
                 4251 Wholesale Electronic Markets and Agents and Brokers
 
-**Sector 44-45--Retail Trade**
+**Sector 44-45--Retail Trade <sup>T</sup>**
 
-# T
 
 **441        Motor Vehicle and Parts Dealers**
 
@@ -463,149 +458,149 @@ The complete table with industries and United States detail industries may be fo
 
                 4543 Direct Selling Establishments
 
-**Sector 48-49--Transportation and Warehousing**** T**
+**Sector 48-49--Transportation and Warehousing <sup>T</sup>**
 
-**481        Air Transportation**** T**
+**481        Air Transportation <sup>T</sup>**
 
-                4811 Scheduled Air TransportationT
+                4811 Scheduled Air Transportation <sup>T</sup>
 
-                4812 Nonscheduled Air TransportationT
+                4812 Nonscheduled Air Transportation <sup>T</sup>
 
-**482        Rail Transportation**** T**
+**482        Rail Transportation <sup>T</sup>**
 
-                4821 Rail TransportationT
+                4821 Rail Transportation <sup>T</sup>
 
-**483        Water Transportation**** T**
+**483        Water Transportation <sup>T</sup>**
 
-                4831 Deep Sea, Coastal, and Great Lakes Water TransportationT
+                4831 Deep Sea, Coastal, and Great Lakes Water Transportation <sup>T</sup>
 
-                4832 Inland Water TransportationT
+                4832 Inland Water Transportation <sup>T</sup>
 
-**484        Truck Transportation**** T**
+**484        Truck Transportation <sup>T</sup>**
 
-                4841 General Freight TruckingT
+                4841 General Freight Trucking <sup>T</sup>
 
-                4842 Specialized Freight TruckingT
+                4842 Specialized Freight Trucking <sup>T</sup>
 
-**485        Transit and Ground Passenger Transportation**** T**
+**485        Transit and Ground Passenger Transportation <sup>T</sup>**
 
-                4851 Urban Transit SystemsT
+                4851 Urban Transit Systems <sup>T</sup>
 
-                4852 Interurban and Rural Bus TransportationT
+                4852 Interurban and Rural Bus Transportation <sup>T</sup>
 
-                4853 Taxi and Limousine ServiceT
+                4853 Taxi and Limousine Service <sup>T</sup>
 
-                4854 School and Employee Bus TransportationT
+                4854 School and Employee Bus Transportation <sup>T</sup>
 
-                4855 Charter Bus IndustryT
+                4855 Charter Bus Industry <sup>T</sup>
 
-                4859 Other Transit and Ground Passenger TransportationT
+                4859 Other Transit and Ground Passenger Transportation <sup>T</sup>
 
-**486        Pipeline Transportation**** T**
+**486        Pipeline Transportation <sup>T</sup>**
 
-                4861 Pipeline Transportation of Crude OilT
+                4861 Pipeline Transportation of Crude Oil <sup>T</sup>
 
-                4862 Pipeline Transportation of Natural GasT
+                4862 Pipeline Transportation of Natural Gas <sup>T</sup>
 
-                4869 Other Pipeline TransportationT
+                4869 Other Pipeline Transportation <sup>T</sup>
 
-**487        Scenic and Sightseeing Transportation**** T**
+**487        Scenic and Sightseeing Transportation <sup>T</sup>**
 
-                4871 Scenic and Sightseeing Transportation, LandT
+                4871 Scenic and Sightseeing Transportation, Land <sup>T</sup>
 
-                4872 Scenic and Sightseeing Transportation, WaterT
+                4872 Scenic and Sightseeing Transportation, Water <sup>T</sup>
 
-                4879 Scenic and Sightseeing Transportation, OtherT
+                4879 Scenic and Sightseeing Transportation, Other <sup>T</sup>
 
-**488        Support Activities for Transportation**** T**
+**488        Support Activities for Transportation <sup>T</sup>**
 
-                4881 Support Activities for Air TransportationT
+                4881 Support Activities for Air Transportation <sup>T</sup>
 
-                4882 Support Activities for Rail TransportationT
+                4882 Support Activities for Rail Transportation <sup>T</sup>
 
-                4883 Support Activities for Water TransportationT
+                4883 Support Activities for Water Transportation <sup>T</sup>
 
-                4884 Support Activities for Road TransportationT
+                4884 Support Activities for Road Transportation <sup>T</sup>
 
-                4885 Freight Transportation ArrangementT
+                4885 Freight Transportation Arrangement <sup>T</sup>
 
-                4889 Other Support Activities for TransportationT
+                4889 Other Support Activities for Transportation <sup>T</sup>
 
-**491        Postal Service**** T**
+**491        Postal Service <sup>T</sup>**
 
-                4911 Postal ServiceT
+                4911 Postal Service <sup>T</sup>
 
-**492        Couriers and Messengers**** T**
+**492        Couriers and Messengers <sup>T</sup>**
 
-                4921 Couriers and Express Delivery ServicesT
+                4921 Couriers and Express Delivery Services <sup>T</sup>
 
-                4922 Local Messengers and Local DeliveryT
+                4922 Local Messengers and Local Delivery <sup>T</sup>
 
-**493        Warehousing and Storage**** T**
+**493        Warehousing and Storage <sup>T</sup>**
 
-                4931 Warehousing and StorageT
+                4931 Warehousing and Storage <sup>T</sup>
 
-**Sector 51--Information**** T**
+**Sector 51--Information <sup>T</sup>**
 
-**511        Publishing Industries (except Internet)****T**
+**511        Publishing Industries (except Internet) <sup>T</sup>**
 
-                5111 Newspaper, Periodical, Book, and Directory PublishersT
+                5111 Newspaper, Periodical, Book, and Directory Publishers <sup>T</sup>
 
-                5112 Software PublishersT
+                5112 Software Publishers <sup>T</sup>
 
-**512        Motion Picture and Sound Recording Industries**** T**
+**512        Motion Picture and Sound Recording Industries <sup>T</sup>**
 
-                5121 Motion Picture and Video IndustriesT
+                5121 Motion Picture and Video Industries <sup>T</sup>
 
-                5122 Sound Recording IndustriesT
+                5122 Sound Recording Industries <sup>T</sup>
 
-**515        Broadcasting (except Internet)****T**
+**515        Broadcasting (except Internet) <sup>T</sup>**
 
-                5151 Radio and Television BroadcastingT
+                5151 Radio and Television Broadcasting <sup>T</sup>
 
-                5152 Cable and Other Subscription ProgrammingT
+                5152 Cable and Other Subscription Programming <sup>T</sup>
 
-**517 Telecommunications**** T**
+**517 Telecommunications <sup>T</sup>**
 
-                5173 Wired and Wireless Telecommunications CarriersT
+                5173 Wired and Wireless Telecommunications Carriers <sup>T</sup>
 
-                5174 Satellite TelecommunicationsT
+                5174 Satellite Telecommunications <sup>T</sup>
 
-                5179 Other TelecommunicationsT
+                5179 Other Telecommunications <sup>T</sup>
 
-**518        Data Processing, Hosting, and Related Services**** T**
+**518        Data Processing, Hosting, and Related Services <sup>T</sup>**
 
-                5182 Data Processing, Hosting, and Related ServicesT
+                5182 Data Processing, Hosting, and Related Services <sup>T</sup>
 
-**519        Other Information Services**** T**
+**519        Other Information Services <sup>T</sup>**
 
-                5191 Other Information ServicesT
+                5191 Other Information Services <sup>T</sup>
 
-**Sector 52--Finance and Insurance**** T**
+**Sector 52--Finance and Insurance <sup>T</sup>**
 
-**521        Monetary Authorities-Central Bank**** T**
+**521        Monetary Authorities-Central Bank <sup>T</sup>**
 
-                5211 Monetary Authorities-Central BankT
+                5211 Monetary Authorities-Central Bank <sup>T</sup>
 
-**522        Credit Intermediation and Related Activities**** T**
+**522        Credit Intermediation and Related Activities <sup>T</sup>**
 
                 5221 Depository Credit Intermediation 5222 Nondepository Credit Intermediation
 
                 5223 Activities Related to Credit Intermediation
 
-**523        Securities, Commodity Contracts, and Other Financial Investments and Related Activities**** T**
+**523        Securities, Commodity Contracts, and Other Financial Investments and Related Activities <sup>T</sup>**
 
-                5231        Securities and Commodity Contracts Intermediation and BrokerageT
+                5231        Securities and Commodity Contracts Intermediation and Brokerage <sup>T</sup>
 
-                5232 Securities and Commodity ExchangesT
+                5232 Securities and Commodity Exchanges <sup>T</sup>
 
-                5239 Other Financial Investment ActivitiesT
+                5239 Other Financial Investment Activities <sup>T</sup>
 
-**524        Insurance Carriers and Related Activities**** T**
+**524        Insurance Carriers and Related Activities <sup>T</sup>**
 
-                5241 Insurance CarriersT
+                5241 Insurance Carriers <sup>T</sup>
 
-                5242 Agencies, Brokerages, and Other Insurance Related ActivitiesT
+                5242 Agencies, Brokerages, and Other Insurance Related Activities <sup>T</sup>
 
 **525        Funds, Trusts, and Other Financial Vehicles**
 
@@ -613,79 +608,79 @@ The complete table with industries and United States detail industries may be fo
 
                 5259 Other Investment Pools and Funds
 
-**Sector 53--Real Estate and Rental and Leasing**** T**
+**Sector 53--Real Estate and Rental and Leasing <sup>T</sup>**
 
-**531        Real Estate**** T**
+**531        Real Estate <sup>T</sup>**
 
-                5311 Lessors of Real EstateT
+                5311 Lessors of Real Estate <sup>T</sup>
 
-                5312 Offices of Real Estate Agents and BrokersT
+                5312 Offices of Real Estate Agents and Brokers <sup>T</sup>
 
-                5313 Activities Related to Real EstateT
+                5313 Activities Related to Real Estate <sup>T</sup>
 
-**532        Rental and Leasing Services**** T**
+**532        Rental and Leasing Services <sup>T</sup>**
 
-                5321 Automotive Equipment Rental and LeasingT
+                5321 Automotive Equipment Rental and Leasing <sup>T</sup>
 
-                5322 Consumer Goods RentalT
+                5322 Consumer Goods Rental <sup>T</sup>
+                
+                5323 General Rental Centers <sup>T</sup>
 
-                5323 General Rental CentersT
+                5324 Commercial and Industrial Machinery and Equipment Rental and Leasing <sup>T</sup>
 
-                5324 Commercial and Industrial Machinery and Equipment Rental and LeasingT
+**533        Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) <sup>T</sup>**
 
-**533        Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)****T**
+                5331 Lessors of Nonfinancial Intangible Assets (except Copyrighted Works) <sup>T</sup>
 
-                5331 Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)T
+**Sector 54--Professional, Scientific, and Technical Services <sup>T</sup>**
 
-**Sector 54--Professional, Scientific, and Technical Services**** T**
+**541        Professional, Scientific, and Technical Services <sup>T</sup>**
 
-**541        Professional, Scientific, and Technical Services**** T**
+                5411 Legal Services <sup>T</sup>
 
-                5411 Legal ServicesT
+                5412 Accounting, Tax Preparation, Bookkeeping, and Payroll Services <sup>T</sup>
 
-                5412 Accounting, Tax Preparation, Bookkeeping, and Payroll ServicesT
+                5413 Architectural, Engineering, and Related Services <sup>T</sup>
 
-                5413 Architectural, Engineering, and Related ServicesT
+                5414 Specialized Design Services <sup>T</sup>
 
-                5414 Specialized Design ServicesT
+                5415 Computer Systems Design and Related Services <sup>T</sup>
 
-                5415 Computer Systems Design and Related ServicesT
+                5416 Management, Scientific, and Technical Consulting Services <sup>T</sup>
 
-                5416 Management, Scientific, and Technical Consulting ServicesT
+                5417 Scientific Research and Development Services <sup>T</sup>
 
-                5417 Scientific Research and Development ServicesT
+                5418 Advertising, Public Relations, and Related Services <sup>T</sup>
 
-                5418 Advertising, Public Relations, and Related ServicesT
+                5419 Other Professional, Scientific, and Technical Services <sup>T</sup>
 
-                5419 Other Professional, Scientific, and Technical ServicesT
+**Sector 55--Management of Companies and Enterprises <sup>T</sup>**
 
-**Sector 55--Management of Companies and Enterprises**** T**
+**551        Management of Companies and Enterprises <sup>T</sup>**
 
-**551        Management of Companies and Enterprises**** T**
+                5511 Management of Companies and Enterprises <sup>T</sup>
 
-                5511 Management of Companies and EnterprisesT
+**Sector 56--Administrative and Support and Waste Management and Remediation Services <sup>T</sup>**
 
-**Sector 56--Administrative and Support and Waste Management and Remediation Service**** s ****T**
+**561        Administrative and Support Services <sup>T</sup>**
 
-**561        Administrative and Support Services**** T**
+                5611 Office Administrative Services <sup>T</sup>
 
-                5611 Office Administrative ServicesT
+                5612 Facilities Support Services <sup>T</sup>
 
-                5612 Facilities Support ServicesT
+                5613 Employment Services <sup>T</sup>
 
-                5613 Employment ServicesT
+                5614 Business Support Services <sup>T</sup>
 
-                5614 Business Support ServicesT
+                5615 Travel Arrangement and Reservation Services <sup>T</sup>
 
-                5615 Travel Arrangement and Reservation ServicesT
+                5616 Investigation and Security Services <sup>T</sup>
 
-                5616 Investigation and Security ServicesT
+                5617 Services to Buildings and Dwellings <sup>T</sup>
 
-                5617 Services to Buildings and DwellingsT
+                5619 Other Support Services <sup>T</sup>
 
-                5619 Other Support ServicesT
-
-**562        Waste Management and Remediation Services**** T**
+**562        Waste Management and Remediation Services <sup>T</sup>**
 
                 5621 Waste Collection
 
@@ -693,129 +688,129 @@ The complete table with industries and United States detail industries may be fo
 
                 5629 Remediation and Other Waste Management Services
 
-**Sector 61--Educational Services**** T**
+**Sector 61--Educational Services <sup>T</sup>**
 
-**611        Educational Services**** T**
+**611        Educational Services <sup>T</sup>**
 
-                6111 Elementary and Secondary SchoolsT
+                6111 Elementary and Secondary Schools <sup>T</sup>
 
-                6112 Junior CollegesT
+                6112 Junior Colleges <sup>T</sup>
 
-                6113 Colleges, Universities, and Professional SchoolsT
+                6113 Colleges, Universities, and Professional Schools <sup>T</sup>
 
-                6114 Business Schools and Computer and Management TrainingT
+                6114 Business Schools and Computer and Management Training <sup>T</sup>
 
-                6115 Technical and Trade SchoolsT
+                6115 Technical and Trade Schools <sup>T</sup>
 
-                6116 Other Schools and InstructionT
+                6116 Other Schools and Instruction <sup>T</sup>
 
-                6117 Educational Support ServicesT
+                6117 Educational Support Services <sup>T</sup>
 
-**Sector 62--Health Care and Social Assistance**** T**
+**Sector 62--Health Care and Social Assistance <sup>T</sup>**
 
-**621        Ambulatory Health Care Services**** T**
+**621        Ambulatory Health Care Services <sup>T</sup>**
 
-                6211 Offices of PhysiciansT
+                6211 Offices of Physicians <sup>T</sup>
 
-                6212 Offices of DentistsT
+                6212 Offices of Dentists <sup>T</sup>
 
-                6213 Offices of Other Health PractitionersT
+                6213 Offices of Other Health Practitioners <sup>T</sup>
 
-                6214 Outpatient Care CentersT
+                6214 Outpatient Care Centers <sup>T</sup>
 
-                6215 Medical and Diagnostic LaboratoriesT 62151 Medical and Diagnostic LaboratoriesT
+                6215 Medical and Diagnostic LaboratoriesT 62151 Medical and Diagnostic Laboratories <sup>T</sup>
 
-                6216 Home Health Care ServicesT
+                6216 Home Health Care Services <sup>T</sup>
 
-                6219 Other Ambulatory Health Care ServicesT
+                6219 Other Ambulatory Health Care Services <sup>T</sup>
 
-**622 Hospitals**** T**
+**622 Hospitals <sup>T</sup>**
 
-                6221 General Medical and Surgical HospitalsT
+                6221 General Medical and Surgical Hospitals <sup>T</sup>
 
-                6222 Psychiatric and Substance Abuse HospitalsT
+                6222 Psychiatric and Substance Abuse Hospitals <sup>T</sup>
 
-                6223 Specialty (except Psychiatric and Substance Abuse) HospitalsT
+                6223 Specialty (except Psychiatric and Substance Abuse) Hospitals <sup>T</sup>
 
-**623        Nursing and Residential Care Facilities**** T**
+**623        Nursing and Residential Care Facilities <sup>T</sup>**
 
-                6231 Nursing Care Facilities (Skilled Nursing Facilities)T
+                6231 Nursing Care Facilities (Skilled Nursing Facilities) <sup>T</sup>
 
-                6232 Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse FacilitiesT
+                6232 Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities <sup>T</sup>
 
-                6233 Continuing Care Retirement Communities and Assisted Living Facilities for the ElderlyT
+                6233 Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly <sup>T</sup>
 
-                6239 Other Residential Care FacilitiesT
+                6239 Other Residential Care Facilities <sup>T</sup>
 
-**624        Social Assistance**** T**
+**624        Social Assistance <sup>T</sup>**
 
-                6241 Individual and Family ServicesT
+                6241 Individual and Family Services <sup>T</sup>
 
-                6242 Community Food and Housing, and Emergency and Other Relief ServicesT
+                6242 Community Food and Housing, and Emergency and Other Relief Services <sup>T</sup>
 
-                6243 Vocational Rehabilitation ServicesT
+                6243 Vocational Rehabilitation Services <sup>T</sup>
 
-                6244 Child Day Care ServicesT
+                6244 Child Day Care Services <sup>T</sup>
 
-**Sector 71--Arts, Entertainment, and Recreatio**** n ****T**
+**Sector 71--Arts, Entertainment, and Recreation <sup>T</sup>**
 
-**711        Performing Arts, Spectator Sports, and Related Industries**** T**
+**711        Performing Arts, Spectator Sports, and Related Industries <sup>T</sup>**
 
-                7111 Performing Arts CompaniesT
+                7111 Performing Arts Companies <sup>T</sup>
 
-                7112 Spectator SportsT
+                7112 Spectator Sports <sup>T</sup>
 
-                7113 Promoters of Performing Arts, Sports, and Similar EventsT
+                7113 Promoters of Performing Arts, Sports, and Similar Events <sup>T</sup>
 
-                7114 Agents and Managers for Artists, Athletes, Entertainers, and Other Public FiguresT
+                7114 Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures <sup>T</sup>
 
-                7115 Independent Artists, Writers, and PerformersT
+                7115 Independent Artists, Writers, and Performers <sup>T</sup>
 
-**712        Museums, Historical Sites, and Similar Institutions**** T**
+**712        Museums, Historical Sites, and Similar Institutions <sup>T</sup>**
 
-                7121 Museums, Historical Sites, and Similar InstitutionsT
+                7121 Museums, Historical Sites, and Similar Institutions <sup>T</sup>
 
-**713        Amusement, Gambling, and Recreation Industries**** T**
+**713        Amusement, Gambling, and Recreation Industries <sup>T</sup>**
 
-                7131 Amusement Parks and ArcadesT
+                7131 Amusement Parks and Arcades <sup>T</sup>
 
-                7132 Gambling IndustriesT
+                7132 Gambling Industries <sup>T</sup>
 
-                7139 Other Amusement and Recreation IndustriesT
+                7139 Other Amusement and Recreation Industries <sup>T</sup>
 
-**Sector 72--Accommodation and Food Services**** T**
+**Sector 72--Accommodation and Food Services <sup>T</sup>**
 
-**721 Accommodation**** T**
+**721 Accommodation <sup>T</sup>**
 
-                7211 Traveler AccommodationT
+                7211 Traveler Accommodation <sup>T</sup>
 
-                7212 RV (Recreational Vehicle) Parks and Recreational CampsT
+                7212 RV (Recreational Vehicle) Parks and Recreational Camps <sup>T</sup>
 
-                7213 Rooming and Boarding Houses, Dormitories, and Workers&#39; CampsT
+                7213 Rooming and Boarding Houses, Dormitories, and Workers&#39; Camps <sup>T</sup>
+                
+**722        Food Services and Drinking Places <sup>T</sup>**
 
-**722        Food Services and Drinking Places**** T**
+                7223        Special Food Services <sup>T</sup>
 
-                7223        Special Food ServicesT
+                7224        Drinking Places (Alcoholic Beverages) <sup>T</sup>
 
-                7224        Drinking Places (Alcoholic Beverages)T
+                7225 Restaurants and Other Eating Places <sup>T</sup>
 
-                7225 Restaurants and Other Eating PlacesT
+**Sector 81--Other Services (except Public Administration) <sup>T</sup>**
 
-**Sector 81--Other Services (except Public Administration)****T**
+**811        Repair and Maintenance <sup>T</sup>**
 
-**811        Repair and Maintenance**** T**
+                8111 Automotive Repair and Maintenance <sup>T</sup>
 
-                8111 Automotive Repair and MaintenanceT
+                8112 Electronic and Precision Equipment Repair and Maintenance <sup>T</sup>
 
-                8112 Electronic and Precision Equipment Repair and MaintenanceT
-
-        8113 Commercial and Industrial Machinery and Equipment Repair and MaintenanceT
+        8113 Commercial and Industrial Machinery and Equipment Repair and Maintenance <sup>T</sup>
 
                 (except Automotive and Electronic)
 
-                8114 Personal and Household Goods Repair and MaintenanceT
+                8114 Personal and Household Goods Repair and Maintenance <sup>T</sup>
 
-**812        Personal and Laundry Services**** T**
+**812        Personal and Laundry Services <sup>T</sup>**
 
                 8121 Personal Care Services
 
@@ -825,7 +820,7 @@ The complete table with industries and United States detail industries may be fo
 
                 8129 Other Personal Services
 
-**813        Religious, Grantmaking, Civic, Professional, and Similar Organizations**** T**
+**813        Religious, Grantmaking, Civic, Professional, and Similar Organizations <sup>T</sup>**
 
                 8131 Religious Organizations
 
@@ -837,11 +832,11 @@ The complete table with industries and United States detail industries may be fo
 
                 8139 Business, Professional, Labor, Political, and Similar Organizations
 
-**814        Private Households**** T**
+**814        Private Households <sup>T</sup>**
 
-                8141 Private HouseholdsT
+                8141 Private Households <sup>T</sup>
 
-**Sector 92--Public Administration**** T**
+**Sector 92--Public Administration <sup>T</sup>**
 
 **921        Executive, Legislative, and Other General Government Support**
 
