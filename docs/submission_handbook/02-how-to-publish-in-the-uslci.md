@@ -1,4 +1,6 @@
-# How do I publish my data in the USLCI?
+# Section 2: How do I publish my data in the USLCI?
+
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
 
 This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web].  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see *[Should I publish in the USLCI?](01-should-i-publish-in-the-uslci.md)*  You can also find a list of frequently asked questions [here](03-frequently-asked-questions.md).
 
@@ -8,7 +10,7 @@ This page is divided into the following subsections.
 3.	The openLCA field conventions and metadata guidance
 
 
-<a id="Working with NREL"></a>
+<a id="working-with-nrel"></a>
 ## Working with NREL
 The data publication process is a collaborative effort between you (i.e., the Data Provider) and the NREL. Practically speaking, that means you will be working closely with one of NREL's LCI Data Curators throughout the publication process.
 
@@ -29,7 +31,7 @@ To facilitate compliance with these standards, we use GitHub as our principal pr
 As mentioned in the Data Formatting section, NREL uses openLCA v1.6 as its platform for receiving, reviewing, and publishing LCI data. openLCA is a free, open source LCA software platform that can import data from many commercial LCA software applications including GaBi and SimaPro.
 
 
-<a id="Overview of the Digital Curation Process"></a>
+<a id="overview-digital-curation"></a>
 ##Overview of the Digital Curation Process
 
 NREL uses a Digital Curation Process for receiving, reviewing, publishing, and preserving data and metadata submitted to the USLCI Database. The process is divided into five phases:
@@ -148,3 +150,6 @@ The USLCI is updated with new and revised data on a quarterly basis:
 ### Preservation
 
 NREL will preserve the final dataset files according to ISO 14721.That is, the final dataset file versions are stabilized, checked for fixity (i.e., verifying no digital file corruption), and stored such that the original and published datasets and their supporting metadata are archived. Only the initial dataset submission and the version final dataset as published are archived. These datasets will be saved until the next update is submitted and published. Older datasets may not be saved in the Federal LCA Data Commons but NREL retains the older datasets on their servers. Updates to previously published datasets shall contain a relevant note in the ‘Intended Application’ field of the unit process Administrative Information. If a user needs to access an older dataset, they may contact NREL for a copy.
+
+
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
