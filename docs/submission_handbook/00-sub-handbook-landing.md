@@ -23,7 +23,7 @@ A detailed [TABLE OF CONTENTS](#toc) is available below.
 ### [Preface](./i-preface.md)
 ### [Acronyms & Abbreviations](./ii-acronyms-abbreviations.md)
 ### [Section 1: Should I publish my data in the US LCI?](./01-should-i-publish-in-the-uslci.md)
-  * **Benefits**
+  * [**Benefits**](./01-should-i-publish-in-the-uslci.md#benefits)
   * **Expectations**
     * _Placing your data in the public domain_
     * _Dataset citations_
