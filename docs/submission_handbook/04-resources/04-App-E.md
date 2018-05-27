@@ -9,15 +9,15 @@ The complete table with industries and United States detail industries may be fo
 
 **111        Crop Production <sup>T</sup>**
 
-                1111 Oilseed and Grain Farming <sup>T</sup>
+                1111 Oilseed and Grain Farming <sup>T</sup> 
 
-                1112 Vegetable and Melon Farming <sup>T</sup>
+                1112 Vegetable and Melon Farming <sup>T</sup> 
 
-                1113 Fruit and Tree Nut Farming <sup>T</sup>
+                1113 Fruit and Tree Nut Farming <sup>T</sup> 
 
-                1114 Greenhouse, Nursery, and Floriculture Production <sup>T</sup>
+                1114 Greenhouse, Nursery, and Floriculture Production <sup>T</sup> 
 
-                1119 Other Crop Farming <sup>T</sup>
+                1119 Other Crop Farming <sup>T</sup> 
 
 **112        Animal Production and Aquaculture <sup>T</sup>**
 
