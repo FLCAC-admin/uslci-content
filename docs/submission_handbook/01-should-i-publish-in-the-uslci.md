@@ -4,6 +4,19 @@
 
 This page provides a high-level explanation of the benefits, expectations, and general process for publishing data on the [U.S. Life Cycle Inventory Database (USLCI)][uslci-web]. This Submission Overview is intended to help interested parties understand the benefits of publishing their data on the USLCI and set reasonable expectations for the publication documentation and standards.   
 
+
+This page is divided into the following subsections.
+1. [**Benefits**](./01-should-i-publish-in-the-uslci.md#benefits)
+2. [**Expectations**](./01-should-i-publish-in-the-uslci.md#expectations)
+    * [_Placing your data in the public domain_](./01-should-i-publish-in-the-uslci.md#placing-your-data-in-the-public-domain)
+    * [_Dataset citations_](./01-should-i-publish-in-the-uslci.md#dataset-citations)
+    * [_Data formatting_](./01-should-i-publish-in-the-uslci.md#data-formatting)
+3. [**Data requirements**](./01-should-i-publish-in-the-uslci.md#data-requirements)
+    * [_Data reliability and reproducibility_](./01-should-i-publish-in-the-uslci.md#data-reliability-and-reproducibility)
+    * [_Nomenclature_](./01-should-i-publish-in-the-uslci.md#nomenclature)
+
+
+
 <a id="benefits"></a>
 ## Benefits
 
