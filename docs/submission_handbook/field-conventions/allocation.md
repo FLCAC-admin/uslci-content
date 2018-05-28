@@ -2,6 +2,7 @@
 
 >**NOTE:** Mandatorily Used Only with Multi-Functional Processes
 <br>
+
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
 
 [**Return to Metadata Guidance Tables List**](../02-how-to-publish-in-the-uslci.md#metadata-guidance-tables)
