@@ -1,5 +1,9 @@
 # PREFACE
 
+
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
+
+
 ![](https://github.com/uslci-admin/private-uslci-content/blob/dev/images/NREL_1.png)
 
 Thank you for your interest in providing access to your life cycle inventory (LCI) data through the US LCI Database (USLCI), part of the life cycle assessment (LCA) Data Commons. Datasets submitted to the USLCI Database must adhere to specific data documentation, formatting, and nomenclature requirements to ensure lossless loading of data and accurate representation in the repository.
@@ -20,4 +24,9 @@ The LCA Commons data curation process is collaborative and iterative. Upon submi
 
 Before submitting data, please review [these guidelines](./00-sub-handbook-landing.md), the [Data Provider’s Content License Agreement (“Agreement”)](./04-resources/04-App-B.md), and the [Placing Your Data in the Public Domain](./01-should-i-publish-in-the-uslci.md#placing-your-data-in-the-public-domain) section of this document. If you have any questions, concerns, or recommendations, please at: lci@nrel.gov.
 
+     
 May 2018
+
+ 
+  
+  [**_Return to TOC_**](./00-sub-handbook-landing.md)
