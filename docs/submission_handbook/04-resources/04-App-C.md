@@ -1,6 +1,6 @@
 # Creative Commons Legal Code
 
-[**_Return to TOC_**](./00-sub-handbook-landing.md)
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
 
 **CC0 1.0 Universal**
 
@@ -38,4 +38,4 @@ For these and/or other purposes and motivations, and without any expectation of 
   * **c.** Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person&#39;s Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
   * **d.** Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
   
-  [**_Return to TOC_**](./00-sub-handbook-landing.md)
+  [**_Return to TOC_**](../00-sub-handbook-landing.md)
