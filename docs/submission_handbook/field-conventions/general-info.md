@@ -1,10 +1,8 @@
 # General Information Field Conventions
 
-<br><br><br>
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
-<br><br>
+
 [**Return to Metadata Guidance Tables List**](./05-field-conventions.md)
-<br><br><br>
 
 ## General Information
 
