@@ -1,6 +1,7 @@
 # Section 4: Resources
 
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
+<br>
 
 CPM (2003). Introduction and guide to LCA data documentation using the CPM documentation criteria and ISO/TS 14048 data documentation format, CPM Report 2003:3 by Karolina Flemstrom and Ann-Christin Palsson at Chalmers University of Technology, Goteborg, Sweden 2003. Accessed at: [http://cpmdatabase.cpm.chalmers.se/Document/CPM\_Report\_2003\_3\_Introduction\_and\_guide.pdf](http://cpmdatabase.cpm.chalmers.se/Document/CPM_Report_2003_3_Introduction_and_guide.pdf).
 
@@ -8,7 +9,9 @@ EPA (2016). Guidance on Data Quality Assessment for Life Cycle Inventory Data, V
 
 GreenDelta: Class Data Set Information. Accessed at: [https://github.com/GreenDelta/olca-app](https://github.com/GreenDelta/olca-app)
 
-ILCD Handbook: Nomenclature and other conventions. Accessed at: [http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf](http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf).
+ILCD (2010). European Commission - Joint Research Centre - Institute for Environment and Sustainability: International Reference Life Cycle Data System (ILCD) Handbook – General Guide for Life Cycle Assessment – Detailed Guidance. First edition March 2010. EUR 24708 EN. Luxembourg. Publications Office of the European Union, 2010. Accessed at: [http://publications.jrc.ec.europa.eu/repository/bitstream/JRC48157/ilcd_handbook-general_guide_for_lca-detailed_guidance_12march2010_isbn_fin.pdf.](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC48157/ilcd_handbook-general_guide_for_lca-detailed_guidance_12march2010_isbn_fin.pdf)
+
+ILCD (2010) ILCD Handbook: Nomenclature and other conventions. Accessed at: [http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf](http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf).
 
 ISO/TS 14048:2002: Environmental management—Life cycle assessment—Data documentation format, Available at [https://www.iso.org/standard/29872.html](https://www.iso.org/standard/29872.html).
 
@@ -21,6 +24,7 @@ NAL (2018) LCA Commons Submission Guidelines, Accessed at: [https://www.lcacommo
 US EPA Federal LCA Unit Process Template
 
 UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a. the &#39;Shonan Guidelines,&#39; ©2011 United Nations Environment Programme. Accessible at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
+<br>
 
 ## Additional Documentation & Resources
 ### (USLCI Data Submission Handbook PDF Appendices)
@@ -31,5 +35,7 @@ UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Database
   * [ILCD Nomenclature Rules](./04-App-D.md)
   * [2017 NAICS United States Structure](./04-App-E.md)
   * [Example openLCA Element Addition](./04-App-F.md)
+
+<br>
 
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
