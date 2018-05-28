@@ -21,10 +21,11 @@ US EPA Federal LCA Unit Process Template
 UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a. the &#39;Shonan Guidelines,&#39; ©2011 United Nations Environment Programme. Accessible at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
 
 ## Additional Documentation & Resources
+### (USLCI Data Submission Handbook PDF Appendices)
 
-  * [Data Use Disclaimer Agreement](./04-resources/04-App-A.md)
-  * [Data Provider's Content License Agreement](./04-resources/04-App-B.md)
-  * [Creative Commons Legal Code](./04-resources/04-App-C.md)
-  * [ILCD Nomenclature Rules](./04-resources/04-App-D.md)
-  * [2017 NAICS United States Structure](./04-resources/04-App-E.md)
-  * [Example openLCA Element Addition](./04-resources/04-App-F.md)
+  * [Data Use Disclaimer Agreement](./04-App-A.md)
+  * [Data Provider's Content License Agreement](./04-App-B.md)
+  * [Creative Commons Legal Code](./04-App-C.md)
+  * [ILCD Nomenclature Rules](./04-App-D.md)
+  * [2017 NAICS United States Structure](./04-App-E.md)
+  * [Example openLCA Element Addition](./04-App-F.md)
