@@ -1,5 +1,7 @@
 # Creative Commons Legal Code
 
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
+
 **CC0 1.0 Universal**
 
 Official translations of this legal tool are available
@@ -35,3 +37,5 @@ For these and/or other purposes and motivations, and without any expectation of 
   * **b.** Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non-infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
   * **c.** Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person&#39;s Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
   * **d.** Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
+  
+  [**_Return to TOC_**](./00-sub-handbook-landing.md)
