@@ -1,6 +1,6 @@
 # Section 4: Resources
 
-[**_Return to TOC_**](./00-sub-handbook-landing.md)
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
 
 CPM (2003). Introduction and guide to LCA data documentation using the CPM documentation criteria and ISO/TS 14048 data documentation format, CPM Report 2003:3 by Karolina Flemstrom and Ann-Christin Palsson at Chalmers University of Technology, Goteborg, Sweden 2003. Accessed at: [http://cpmdatabase.cpm.chalmers.se/Document/CPM\_Report\_2003\_3\_Introduction\_and\_guide.pdf](http://cpmdatabase.cpm.chalmers.se/Document/CPM_Report_2003_3_Introduction_and_guide.pdf).
 
@@ -32,4 +32,4 @@ UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Database
   * [2017 NAICS United States Structure](./04-App-E.md)
   * [Example openLCA Element Addition](./04-App-F.md)
 
-[**_Return to TOC_**](./00-sub-handbook-landing.md)
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
