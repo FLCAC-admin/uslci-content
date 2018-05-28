@@ -199,7 +199,7 @@ The key sources for the guidance are the:
 <a id="metadata-guidance-tables"></a>
 ## Metadata Guidance Tables
 
-Click the links below to see guidance (i.e., conventions and examples) for the fields of each of the openLCA tabs. Each table has a link to return to this list or to the main guidelines table of contents:
+Click the links below to see guidance for the fields of each of the openLCA tabs (i.e., conventions and examples). Each table has a link to return to this list or to the main guidelines table of contents:
 ### [General Information Tab](../field-conventions/general-info.md)
 - [General Information](../field-conventions/general-info.md#general-information)
 - [Quantitative Reference](../field-conventions/general-info.md#quantitative-reference)
@@ -207,6 +207,30 @@ Click the links below to see guidance (i.e., conventions and examples) for the f
 - [Geography](../field-conventions/general-info.md#geography)
 - [Technology](../field-conventions/general-info.md#technology)
 - [Data Quality](../field-conventions/general-info.md#data-quality)
+### [Inputs Tab](../field-conventions/inputs.md)
+- [Inputs](../field-conventions/inputs.md#inputs)
+### [Outputs Tab](../field-conventions/outputs.md)
+- [Outputs](../field-conventions/outputs.md#outputs)
+### [Administrative Information Tab](../field-conventions/administrative-information.md)
+- [Administrative Information](../field-conventions/administrative-information.md#administrative-information)
+### [Modeling and Validation Tab](../field-conventions/modeling-and-validation.md)
+- [Modeling and Validation](../field-conventions/modeling-and-validation.md#modeling-and-validation)
+- [Data Source Information](../field-conventions/modeling-and-validation.md#data-source-information)
+- [Process Evaluation and Validation](../field-conventions/modeling-and-validation.md#process-evaluation-and-validation)
+- [Sources](../field-conventions/modeling-and-validation.md#sources)
+### [Global Parameters Tab](../field-conventions/global-parameters.md)
+- [General Information](../field-conventions/global-parameters.md#general-information)
+- [Additional information](../field-conventions/global-parameters.md#additional-information)
+### [Process Parameters Tab](../field-conventions/process-parameters.md)
+- [Input & Dependent Parameters](../field-conventions/process-parameters.md#input-and-dependent-parameters)
+- [Additional Information](../field-conventions/process-parameters.md#additional-information)
+### [Allocation Tab](../field-conventions/allocation.md)
+- [Physical & Economic Allocation](../field-conventions/allocation.md#physical-and-economic)
+- [Causal Allocation](../field-conventions/allocation.md#causal)
+
+<br>
+
+**NOTE: Social aspects are not addressed in this handbook.**
 
 <br><br>
 
