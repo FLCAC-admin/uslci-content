@@ -52,21 +52,21 @@ NREL uses a Digital Curation Process for receiving, reviewing, publishing, and p
 
 Each of the five phases is discussed in detail below but a quick overview of the entire procedure for submitting data to the USLCI is as follows:
 
-* Submit preliminary data sets
-* Appraisal Meeting with NREL
-* Acquire a [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/)
-* Watch the first 1 minute and 15 seconds of [this video](https://www.youtube.com/watch?v=w3jLJU7DT5E) about GitHub
-* Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min)
-* Download the openLCA software and install it on your computer
-* Download the current [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import it into openLCA
-* Download the [US EPA’s data quality system](http://www.openlca.org/download/) and import it into openLCA
-* Kick-off Meeting with NREL
-* Edit your unit processes/product system in openLCA
-* Export your edits as JSON-LD files and submit to NREL on GitHub
-* Reconcile issues identified by NREL during the Review Process
-* Approve final version
-* NREL publishes the dataset(s) in the USLCI
-* NREL preserves the final dataset files
+- [ ] Submit preliminary data sets
+- [ ] Appraisal Meeting with NREL
+- [ ] Acquire a [GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/)
+- [ ] Watch the first 1 minute and 15 seconds of [this video](https://www.youtube.com/watch?v=w3jLJU7DT5E) about GitHub
+- [ ] Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min)
+- [ ] Download the openLCA software and install it on your computer
+- [ ] Download the current [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import it into openLCA
+- [ ] Download the [US EPA’s data quality system](http://www.openlca.org/download/) and import it into openLCA
+- [ ] Kick-off Meeting with NREL
+- [ ] Edit your unit processes/product system in openLCA
+- [ ] Export your edits as JSON-LD files and submit to NREL on GitHub
+- [ ] Reconcile issues identified by NREL during the Review Process
+- [ ] Approve final version
+- [ ] NREL publishes the dataset(s) in the USLCI
+- [ ] NREL preserves the final dataset files
 
 
 <a id="appraisal"></a>
@@ -97,12 +97,12 @@ To begin this phase, a Kick-off Meeting is scheduled between you and NREL’s Da
 
 The following is a list of pre-meeting activities to facilitate the data curation process:
 
-1.	Acquire a [GitHub account username](https://help.github.com/articles/signing-up-for-a-new-github-account/). The NREL Data Curator will invite you to collaborate on the repository(ies) created for the curation of your data.
-2.	Watch the first 1 minute and 15 seconds of [this video](https://www.youtube.com/watch?v=w3jLJU7DT5E) about GitHub.
-3.	Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min).
-4.	Download the openLCA software and install it on your computer.
-5.	Download the current [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import it into openLCA.
-6.	Download the [US EPA’s data quality system](http://www.openlca.org/download/) and import it into openLCA.
+- [ ]	Acquire a [GitHub account username](https://help.github.com/articles/signing-up-for-a-new-github-account/). The NREL Data Curator will invite you to collaborate on the repository(ies) created for the curation of your data.
+- [ ]	Watch the first 1 minute and 15 seconds of [this video](https://www.youtube.com/watch?v=w3jLJU7DT5E) about GitHub.
+- [ ]	Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min).
+- [ ]	Download the openLCA software and install it on your computer.
+- [ ]	Download the current [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import it into openLCA.
+- [ ]	Download the [US EPA’s data quality system](http://www.openlca.org/download/) and import it into openLCA.
 
 Prior to the Kick-off Meeting, you will receive an invitation to the [NREL GitHub repository(ies)](https://github.com/uslci-admin) created expressly for the curation of your data.
 
