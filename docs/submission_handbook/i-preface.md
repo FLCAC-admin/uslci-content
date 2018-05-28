@@ -18,6 +18,6 @@ The guidance and requirements in this document are intended do the following:
 
 The LCA Commons data curation process is collaborative and iterative. Upon submission, the National Renewable Energy Laboratory (NREL) will conduct an internal review of your dataset to verify compliance with these LCA Commons Submission Guidelines and elementary flow connectivity with one or more impact methods. Upon culmination of the internal review, NREL will collaborate with you to reconcile issues identified in the internal dataset documentation review (i.e., metadata review). It is important to note this process does not include a technical review of the inventory data.
 
-Before submitting data, please review these guidelines, the Data Provider’s Content License Agreement (“Agreement”), and the Placing Your Data in the Public Domain section of this document. If you have any questions, concerns, or recommendations, please at: lci@nrel.gov.
+Before submitting data, please review [these guidelines](./00-sub-handbook-landing.md), the [Data Provider’s Content License Agreement (“Agreement”)](./04-resources/04-App-B.md), and the [Placing Your Data in the Public Domain](/01-should-i-publish-in-the-uslci.md#placing-your-data-in-the-public-domain) section of this document. If you have any questions, concerns, or recommendations, please at: lci@nrel.gov.
 
 May 2018
