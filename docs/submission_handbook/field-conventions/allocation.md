@@ -1,6 +1,5 @@
 # Allocation Field Conventions
-
->(**Only for Multi-Functional Processes)
+>**NOTE:** Mandatorily Used Only with Multi-Functional Processes
 <br>
 
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
@@ -15,22 +14,27 @@ This set of tables includes conventions for the following fields in this tab of 
 <br>
 <a id="physical-and-economic"></a> 
 ## Physical & Economic Allocation
-
+>**NOTE:** Mandatorily Used Only for Physical & Economic Allocation
+<br>
 | Field Name | Convention | Examples |
 |:---:|:-----|:---------|
-|(O) Name|Parameter name. Parameter names have the following restrictions: no spaces; no special characters; no more than 255 characters|_belt_length_|
-|(O) Description|Brief description of how and why the parameter was developed.|_Total conveyor belt length in meters._|
+|(M) Default method|Pull-down menu allows designation of no method or causal, economic, or physical allocation methods for multi-functional processes|_Physical_|
+|(A) Product|Is the first reference flow by default; the primary product and co-products must have the same flow property|_bark (0.3 kg)_<br>_wood (1.00 kg)_|
+|(A) Physical|Allocation factors are based on the physical (e.g., mass or energy) ratio of the product flows; the ratio for the product will be 1.0 for a single-output process; for multi-output processes, the â€˜Calculate default valuesâ€™ button will automatically calculate the ratios based on the default (reference) flow property|_0.23076923076923075_<br>_0.7692307692307692_|
+|(A) Economic|Allocation factors are based on the economic value of the product flows; the ratio of the product will be 1.0 for a single-output process; for multi-output processes, an economic flow property must first be added to each product flow; then, the â€˜Calculate default valuesâ€™ button will automatically calculate the ratios based on the economic value of the product flows|_0.1071428571485712_<br>_0.8928571428571428_|
+
 <br>
 
-
-<a id="additional-information"></a> 
-## Additional Information
-
+<a id="causal"></a> 
+## Causal Allocation
+>**NOTE:** Mandatorily Used Only for Causual Allocation
+<br>
 | Field Name | Convention | Examples |
 |:---:|:-----|:---------|
-|(O) Amount/Value|The default numeric value for the database|_73.32_|
-|(O) Uncertainty|Describe parameter's uncertainty. This information is not required, but if available and provided, increases the dataset's clarity.|_Triangle distribution_<br>Minimum = 50<br>Mode = 75<br>Maximum = 100|
-|(O) Dependent Parameter Formula|Parameter formulas have the following rules:<ul><li> Operators include "+","-","*","/".</li><li>Must use the parameter names as named in the ‘Parameters’ tab or otherwise already defined as global parameters in the openLCA database navigator.</li><li>Maximum of 255 characters and no units so these should be added to the ‘Description’ field</li><li>More complex functions are possible (such as using Booleans and regular expressions), but are not documented and described here.</li><li>Additional information on parameter functions can be found in the openLCA user manual</li></ul>|_(cold_st_wt*belt_length)+tail_pulley+drive_pulley_|
+|(A) Flow|Lists the process flow outputs and inputs|_Green lumber_|
+|(A) Direction|Indicates whether the flow is a process input or output|_Output_|
+|(A) Category|Indicates the flow category|_Forestry and logging/Logging_|
+|(A) Amount|The amounts are automatically calculated given the causal allocation ratio entered in the columns to the right of the amounts (i.e., for each product/by-product); the ratios are added manually|_Bark 0.4 kg; Wood 0.6 kg for a causal ratio of 0.4 to 0.6_|
 
 <br><br><br>
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
