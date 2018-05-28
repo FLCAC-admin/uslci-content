@@ -1,7 +1,7 @@
 # WELCOME TO THE USLCI DATA SUBMISSION HANDBOOK
-![](https://github.com/uslci-admin/private-uslci-content/blob/dev/images/site_hpphoto_buildings_lci.png)
+![](.../images/site_hpphoto_buildings_lci.png)
 
-This Data Submission Handbook for the [U.S. Life Cycle Inventory Database (USLCI)][uslci] is part of the [USLCI Content Repository](https://github.com/uslci-admin/private-uslci-content/wiki) and is intended to support the USLCI data submission process.
+This Data Submission Handbook for the [U.S. Life Cycle Inventory Database (USLCI)][uslci] is part of the [USLCI Content Repository](.../wiki/) and is intended to support the USLCI data submission process.
 
 To return to this welcome and navigation page from any page in the handbook, click [**"Return to TOC"**](#toc) at the top or bottom of any of the pages. To view all files associated with this handbook, click _submission_handbook_ in the filepath at the top of this page. 
 
@@ -14,14 +14,14 @@ The handbook is divided into four major sections.
 
 [Section 1](./01-should-i-publish-in-the-uslci.md) helps potential data Providers decide if publishing their data in the USLCI Database/Federal Data Commons is a good fit for their publication goals. This section includes information on the benefits of publishing in the USLCI Database and dataset standards and formatting requirements.  [Section 2](./02-how-to-publish-in-the-uslci.md) contains a detailed guidance for publishing data in the USLCI. This section includes information on the data curation process, information on data forms (e.g., nomenclature, units, metadata, peer review), and submission instructions.  [Section 3](./03-frequently-asked-questions.md) provides answers to frequently asked questions.  [Section 4](./04-resources/04-resources.md) contains links to templates, tools, licensing information, an openLCA example, and other files which support the data submission process.  
 
-A detailed [TABLE OF CONTENTS](#toc) is available below.
+Here is a detailed [TABLE OF CONTENTS](#toc).
 
 <a id="toc"></a>
 # TABLE OF CONTENTS
 
 
-### [Preface](./i-preface.md)
-### [Acronyms & Abbreviations](./ii-acronyms-abbreviations.md)
+### [Preface](./00-preface.md)
+### [Acronyms & Abbreviations](./00-acronyms-abbreviations.md)
 ### [Section 1: Should I publish my data in the US LCI?](./01-should-i-publish-in-the-uslci.md)
   * [Benefits](./01-should-i-publish-in-the-uslci.md#benefits)
   * [Expectations](./01-should-i-publish-in-the-uslci.md#expectations)
@@ -50,7 +50,7 @@ A detailed [TABLE OF CONTENTS](#toc) is available below.
   * [Do I have to go through the publication process alone?](./03-frequently-asked-questions.md#go-through-publishing-alone)
   * [Who owns my data after it is published?](./03-frequently-asked-questions.md#who-owns-published-data)
   * [How is my data used after it is published?](./03-frequently-asked-questions.md#how-published-data-used)
-### Section 4: Resources
+### [Section 4: Resources](./04-resources/04-resources.md)
   * [Links to useful resources](./04-resources/04-resources.md)
   * [Data Use Disclaimer Agreement](./04-resources/04-App-A.md)
   * [Data Provider's Content License Agreement](./04-resources/04-App-B.md)
