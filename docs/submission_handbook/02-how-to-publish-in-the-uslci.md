@@ -199,6 +199,16 @@ The key sources for the guidance are the:
 <a id="metadata-guidance-tables"></a>
 ## Metadata Guidance Tables
 
+Click the links below to see guidance (i.e., conventions and examples) for the fields of each of the openLCA tabs. Each table has a link to return to this list or to the main guidelines table of contents:
+### [General Information Tab](../field-conventions/general-info.md)
+- [General Information](../field-conventions/general-info.md#general-information)
+- [Quantitative Reference](../field-conventions/general-info.md#quantitative-reference)
+- [Time](../field-conventions/general-info.md#time)
+- [Geography](../field-conventions/general-info.md#geography)
+- [Technology](../field-conventions/general-info.md#technology)
+- [Data Quality](../field-conventions/general-info.md#data-quality)
+
+<br><br>
 
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
