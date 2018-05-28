@@ -51,7 +51,7 @@ This set of tables includes the following conventions for this tab in openLCA:
 
 | Field Name | Convention | Examples |
 |:---:|:-----|:---------|
-|(M) Sources|Reference to the openLCA Source(s) used to compile the data.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_Wernet et al. (2016) The ecoinvent database version 3 (part I): overview and methodology._<br><br>_Institute for Environment and Sustainablility. (2010). General guide for Life Cycle Assessment - Detailed guidance._<br><br>_National Renewable Energy Laboratory (2016). US Life Cycle Inventory Database. Sustainable Solutions Corporation. (2016). IMA-NA Calcium Carbonate Life Cycle Assessment_|
+|(M) Sources|Reference to the openLCA Source(s) used to compile the data.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_Wernet et al. (2016) The ecoinvent database version 3 (part I): overview and methodology._<br><br>_Institute for Environment and Sustainablility. (2010). General guide for Life Cycle Assessment - Detailed guidance._<br><br>_National Renewable Energy Laboratory (2016). US Life Cycle Inventory Database. Sustainable Solutions Corporation. (2016). IMA-NA Calcium Carbonate Life Cycle Assessment_|
 
 <br><br><br>
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
