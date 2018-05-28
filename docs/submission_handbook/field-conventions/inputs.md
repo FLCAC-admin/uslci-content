@@ -4,7 +4,7 @@
 
 [**Return to Metadata Guidance Tables List**](../02-how-to-publish-in-the-uslci.md#metadata-guidance-tables)
 
-This set of tables includes conventions for the following fields in this tab of openLCA:
+This table includes conventions for the following set of fields in this tab of openLCA:
 
 - [Inputs](#inputs)
 
