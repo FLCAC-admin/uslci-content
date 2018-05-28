@@ -1,5 +1,7 @@
 # Section 4: Resources
 
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
+
 CPM (2003). Introduction and guide to LCA data documentation using the CPM documentation criteria and ISO/TS 14048 data documentation format, CPM Report 2003:3 by Karolina Flemstrom and Ann-Christin Palsson at Chalmers University of Technology, Goteborg, Sweden 2003. Accessed at: [http://cpmdatabase.cpm.chalmers.se/Document/CPM\_Report\_2003\_3\_Introduction\_and\_guide.pdf](http://cpmdatabase.cpm.chalmers.se/Document/CPM_Report_2003_3_Introduction_and_guide.pdf).
 
 EPA (2016). Guidance on Data Quality Assessment for Life Cycle Inventory Data, Version 1, National Risk Management Research Laboratory Office of Research and Development, EPA/600/R-16/096, June 2016. Accessed at: [https://cfpub.epa.gov/si/si\_public\_file\_download.cfm?p\_download\_id=528687](https://cfpub.epa.gov/si/si_public_file_download.cfm?p_download_id=528687).
@@ -29,3 +31,5 @@ UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Database
   * [ILCD Nomenclature Rules](./04-App-D.md)
   * [2017 NAICS United States Structure](./04-App-E.md)
   * [Example openLCA Element Addition](./04-App-F.md)
+
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
