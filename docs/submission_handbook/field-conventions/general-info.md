@@ -2,7 +2,7 @@
 
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
 
-[**Return to Metadata Guidance Tables List**](./05-field-conventions.md)
+[**Return to Metadata Guidance Tables List**](../02-how-to-publish-in-the-uslci.md#metadata-guidance-tables)
 
 This set of tables includes the following conventions for this tab in openLCA:
 - [General Information](#general-information)
@@ -69,7 +69,7 @@ This set of tables includes the following conventions for this tab in openLCA:
 <br><br><br>
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
 <br><br>
-[**Return to Metadata Guidance Tables List**](./05-field-conventions.md)
+[**Return to Metadata Guidance Tables List**](../02-how-to-publish-in-the-uslci.md#metadata-guidance-tables)
 <br><br><br>
 
 
