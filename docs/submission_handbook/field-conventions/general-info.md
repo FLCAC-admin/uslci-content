@@ -24,6 +24,7 @@ This set of tables includes the following conventions for this tab in openLCA:
   |(A) UUID|32-digit Universally Unique Identifier (UUID) for the data set|_961fad56-bde2-4fbe-8895-5be03461729b_|
   |(A) Last change|The date and time when the dataset was last saved|_2018-04-01T17:38:55-0600_|
   |(M) Infrastructure process|Checking this box indicates that the process includes infrastructure requirements in its inventory. Leave this box unchecked if infrastructure requirements are not included in the process|_False_|
+  <br>
   
   <a id="quantitative-reference"></a> 
   ## Quantitative Reference
@@ -31,7 +32,8 @@ This set of tables includes the following conventions for this tab in openLCA:
   | Field Name | Convention | Examples |
 |:---:|:-----|:---------|
 |(M) Quantitative reference|When you create a new process, this is the basis by which all the process flows are scaled; often the functional unit; the quantitative reference must be one of the process output flows; the output flows appear in a pull-down menu by default (See Rule 16: “Quantitative flow properties” name field, in [Appendix D: ILCD Nomenclature Rules](../04-resources/04-App-D.md).|_Scanner; Kodak Alaris i940 desktop scanner; Global supply chain; 1 unit, 1.55 kg_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-
+ <br>
+ 
 <a id="time"></a> 
 ## Time
 
@@ -40,7 +42,8 @@ This set of tables includes the following conventions for this tab in openLCA:
 |(M) Start date|Start date for the time period that the process represents. The date format is MM/DD/YYYY|_01/01/2017_|
 |(M) End date|End date for the time period that the process represents. The date format is MM/DD/YYYY|_12/31/2017_|
 |M Description|Additional information regarding the temporal characteristics and period that the process represents. Examples can include the period for which the process is valid, any temporal aggregation, data collection period, seasonal/annual variations, and carbon provenance|_This unit process is representative of operations from 2014-2015. Water consumption varied seasonally but was averaged over an annual period._|
-
+ <br>
+ 
 <a id="geography"></a> 
 ## Geography
 
@@ -49,13 +52,15 @@ This set of tables includes the following conventions for this tab in openLCA:
 |(M) Location|The geographic area to which the unit process data were collected or refer. NREL recommends that the geography reference the highest geographic resolution possible. Indicate ‘US’ unless higher geographic resolution is available. Use ISO 3166-2 code indicating the process’ geographic location if it is a US state. If the data are not a US state, also describe the locations in the geography ‘Description’ field|_US-CO_|
 |(O) KML|Keyhole Markup Language (KML) file which allows users to create a coordinate point, bounding box or polygon indicating the geographic area the process represents; external KML files cannot be submitted|_Polygon [-77.92, 39.55… -77.92, 39.55]_|
 |(M) Description|Description of the process' geographic representativeness and any geographic aggregation methods|_This process is representative of production in the state of Colorado. Production data were aggregated across five sites ranging from eastern to western Colorado._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-
+ <br>
+ 
 <a id="technology"></a> 
 ## Technology
 | Field Name | Convention | Examples |
 |:---:|:-----|:---------|
 |(M) Description|A short (i.e., 1-3 paragraphs), general description of the process intended technical scope, representativeness, and relevance. Include the following information (if applicable):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><ul><li>Process design including sub-processes, unit operations, and/or other activities (anthropogenic or natural) included in the process.</li><li>Material selection and quality.</li><li>Operational conditions.</li><li>A description of any fate and transport modeling.</li><ul>|_This process represents the production of "Calcium carbonate, ground, 20 microns, at plant" using average technologies for the United States from 2015-2016.<br><br>The process includes three sub-processes: Quarry Operations; Transport and Plant Processing. Quarry Operations includes the following unit operations: mechanical extraction; primary crushing; screening; and intermediate storage of calcium carbonate rock (marble, limestone, or chalk). Transport includes the transport of materials from Quarry Operations to Plant Processing via barge, train, or truck. Plant processing which includes jaw crushing, washing, impact crushing, ball milling to particle size, and then classifying. Material selection and quality represent industry averages from the contiguous United States. Operational conditions represent industry averages from the contiguous United States.Fate and transport modeling was not considered for this process._|
-
+ <br>
+  
 <a id="data-quality"></a> 
 ## Data Quality
   
