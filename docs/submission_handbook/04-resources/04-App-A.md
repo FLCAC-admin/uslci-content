@@ -1,6 +1,6 @@
 # DATA USE DISCLAIMER AGREEMENT (&quot;Agreement&quot;)
 
-[**_Return to TOC_**](./submission_handbook/00-sub-handbook-landing.md)
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
 
 These U.S. LCI Database Project data (&quot;Data&quot;) are provided by the National Renewable Energy Laboratory (&quot;NREL&quot;), operated by the Alliance for Sustainable Energy, LLC (&quot;Alliance&quot;) for the US Department of Energy (&quot;DOE&quot;) under Contract No. DE-AC36-08GO28308. The United States Government (the &quot;Government&quot;) retains and the user acknowledges that the Government retains a non-exclusive, paid-up, irrevocable, worldwide license to publish or reproduce the published form of these data, or allow others to do so, for Government purposes.
 
@@ -8,4 +8,4 @@ Access to and use of these Data shall impose the following obligations on the us
 
 YOU AGREE TO INDEMNIFY THE GOVERNMENT AND DOE/NREL/ALLIANCE, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, AND EMPLOYEES AGAINST ANY CLAIM OR DEMAND, INCLUDING REASONABLE ATTORNEYS&#39; FEES, RELATED TO YOUR USE OF THESE DATA. THESE DATA ARE PROVIDED BY DOE/NREL/ALLIANCE &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE GOVERNMENT OR DOE/NREL/ALLIANCE BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS ASSOCIATED WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN CONTRACT, NEGLIGENCE OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN CONNECTION WITH THE ACCESS, USE OR PERFORMANCE OF THESE DATA.
 
-[**_Return to TOC_**](./00-sub-handbook-landing.md)
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
