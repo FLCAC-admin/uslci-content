@@ -1,6 +1,6 @@
 ﻿# ILCD Nomenclature Rules
 
-[**_Return to TOC_**](./00-sub-handbook-landing.md)
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
 
 All rules paraphrased from the International Reference Life Cycle Data (ILCD) System Handbook on Nomenclature and other Conventions. First edition 2010. EUR 24384 EN. For the complete versions of each rule with details and examples, please access the handbook at: [http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf](http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf).
 
@@ -415,7 +415,7 @@ _(Recommended for technical and non-technical target audience)_
 - &quot;Publications and communications&quot;
 - &quot;Other source types&quot;
 
-[**_Return to TOC_**](./00-sub-handbook-landing.md)
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
 
 
 #
