@@ -60,7 +60,7 @@ Detailed guidance on the data submission process is covered in Section 2: How do
 <a id="data-requirements"></a>
 ## Data Requirements
 
-The LCA Commons will accept both unit process (i.e., ‘gate-to-gate’) and product system (i.e., ‘cradle-to-gate’ or aggregated) models. While it is preferred to have the data in a gate-to-gate format to support transparency of data, it is understood that a certain level of aggregation may be required to protect confidential data. In these cases, it is requested to aggregate only as much as needed to protect the data. Some data providers have been providing their data in both a system’s level dataset (fully aggregated) as well as a gate-to-gate format. This approach allows those users who prefer to utilize the systems level dataset and those who want to be able to do certain scenario modelling to use the gate-to-gate versions. Any aggregated or product system datasets must include documentation stating the type of and motivation for the aggregation (e.g., horizontal averaging, vertical aggregation; proprietary, ease-of-use). 
+The LCA Commons will accept both unit process (i.e., ‘gate-to-gate’) and product system (i.e., ‘cradle-to-gate’ or aggregated) models. While it is preferred to have the data in a gate-to-gate format to support transparency of data, it is understood that a certain level of aggregation may be required to protect confidential data. In these cases, it is requested to aggregate only as much as needed to protect the data. Some data providers have been providing their data in both a system’s level dataset (fully aggregated) as well as a gate-to-gate format. This approach allows those users who prefer to utilize the systems level dataset and those who want to be able to do certain scenario modelling to use the gate-to-gate versions. Any aggregated or product system datasets must include documentation stating the type of and motivation for the aggregation (e.g., horizontal averaging, vertical aggregation; proprietary, ease-of-use)[**1**](#fn1). 
 
 Multi¬functional unit processes should include all co-products and may also include allocation factors or displaced products (according to the discretion of the submitter). The allocation approach should be justified and clearly described. Unit processes may be submitted as single gate-to-gate processes, or related processes grouped as product or intermediate product systems. If multiple unit processes for a product system are submitted, the linking between them should be explicit.
 
@@ -74,7 +74,9 @@ Flow data within the unit process(es) must be based on measurements using a spec
 
 Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). A technosphere flow that is not being submitted as a dataset and is not already in the USLCI should be labeled a ‘CUTOFF’ or a reasonable proxy from the USLCI identified with a note in the ‘Input Flow, Description’ field regarding the flow origin (database and flow name). Processes from other databases should not be submitted as datasets.
 
-
+>Footnotes
+<a id="fn1"></a>
+1. For more information regarding motivations for data aggregation, see: Table 3.1 Motivations for aggregated datasets, UNEP/SETAC 2011 Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a., The “Shonan Guidance Principles,’ available at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
 
