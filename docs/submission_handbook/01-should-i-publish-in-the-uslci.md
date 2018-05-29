@@ -73,10 +73,12 @@ Flow data within the unit process(es) must be based on measurements using a spec
 ### Nomenclature
 
 Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). A technosphere flow that is not being submitted as a dataset and is not already in the USLCI should be labeled a ‘CUTOFF’ or a reasonable proxy from the USLCI identified with a note in the ‘Input Flow, Description’ field regarding the flow origin (database and flow name). Processes from other databases should not be submitted as datasets.
+<br><br>
 
 >Footnotes
 <a id="fn1"></a>
 1. For more information regarding motivations for data aggregation, see: Table 3.1 Motivations for aggregated datasets, UNEP/SETAC 2011 Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a., The “Shonan Guidance Principles,’ available at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
+<br><br>
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
 
