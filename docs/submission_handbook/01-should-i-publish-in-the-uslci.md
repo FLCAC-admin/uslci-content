@@ -49,7 +49,7 @@ The International Organization for Standardization (ISO) specifies data document
 
 
 
-To facilitate compliance with this standard, as of May 2018, the LCA Commons is structured upon the [openLCA v1.6](https://sourceforge.net/projects/openlca/files/openlca_framework/) database schema, which includes the elements designated in the above figure. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA v1.6. If you already work in a newer version of openLCA, discuss this with the NREL Data Curator at the beginning of the data submission process.
+To facilitate compliance with this standard, as of May 2018, the LCA Commons is structured upon the [openLCA v1.6](https://sourceforge.net/projects/openlca/files/openlca_framework/) database schema<sup>[**[1]**](#fn1)</sup>, which includes the elements designated in the above figure. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA v1.6. If you already work in a newer version of openLCA, discuss this with the NREL Data Curator at the beginning of the data submission process.
 
 Editing guidance is provided in the Ingest & Onboarding and Guidance on Data Compilation in openLCA sections of this handbook. Once you edit your Unit Processes or product systems in openLCA, you may share them through your institutional repository hosted by NREL as exported JSON-LD files. NREL will then publish the data to its internal repository. The openLCA software can be downloaded free of charge at openLCA.org.
 
@@ -60,7 +60,7 @@ Detailed guidance on the data submission process is covered in Section 2: How do
 <a id="data-requirements"></a>
 ## Data Requirements
 
-The LCA Commons will accept both unit process (i.e., ‘gate-to-gate’) and product system (i.e., ‘cradle-to-gate’ or aggregated) models. While it is preferred to have the data in a gate-to-gate format to support transparency of data, it is understood that a certain level of aggregation may be required to protect confidential data. In these cases, it is requested to aggregate only as much as needed to protect the data. Some data providers have been providing their data in both a system’s level dataset (fully aggregated) as well as a gate-to-gate format. This approach allows those users who prefer to utilize the systems level dataset and those who want to be able to do certain scenario modelling to use the gate-to-gate versions. Any aggregated or product system datasets must include documentation stating the type of and motivation for the aggregation (e.g., horizontal averaging, vertical aggregation; proprietary, ease-of-use)[**1**](#fn1). 
+The LCA Commons will accept both unit process (i.e., ‘gate-to-gate’) and product system (i.e., ‘cradle-to-gate’ or aggregated) models. While it is preferred to have the data in a gate-to-gate format to support transparency of data, it is understood that a certain level of aggregation may be required to protect confidential data. In these cases, it is requested to aggregate only as much as needed to protect the data. Some data providers have been providing their data in both a system’s level dataset (fully aggregated) as well as a gate-to-gate format. This approach allows those users who prefer to utilize the systems level dataset and those who want to be able to do certain scenario modelling to use the gate-to-gate versions. Any aggregated or product system datasets must include documentation stating the type of and motivation for the aggregation (e.g., horizontal averaging, vertical aggregation; proprietary, ease-of-use)<sup>[**[2]**](#fn2)</sup>. 
 
 Multi¬functional unit processes should include all co-products and may also include allocation factors or displaced products (according to the discretion of the submitter). The allocation approach should be justified and clearly described. Unit processes may be submitted as single gate-to-gate processes, or related processes grouped as product or intermediate product systems. If multiple unit processes for a product system are submitted, the linking between them should be explicit.
 
@@ -76,8 +76,14 @@ Detailed guidance on process and flow nomenclature are provided in [Table 1. Gen
 <br><br>
 
 >Footnotes
+<br>
+
 <a id="fn1"></a>
-1. For more information regarding motivations for data aggregation, see: Table 3.1 Motivations for aggregated datasets, UNEP/SETAC 2011 Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a., The “Shonan Guidance Principles,’ available at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
+>[1](#fn1). This requirement exists to enable data transfer and does not imply an official endorsement of openLCA as a life cycle modeling tool.
+
+<a id="fn2"></a>
+>[2](#fn2). For more information regarding motivations for data aggregation, see: Table 3.1 Motivations for aggregated datasets, UNEP/SETAC 2011 Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a., The “Shonan Guidance Principles,’ available at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
+
 <br><br>
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
