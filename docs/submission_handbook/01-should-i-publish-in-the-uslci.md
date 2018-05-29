@@ -46,8 +46,8 @@ The International Organization for Standardization (ISO) specifies data document
 
 ![](https://github.com/uslci-admin/private-uslci-content/blob/dev/images/ISO%2014048%20-%20Graphic.png)
 **_ISO 14048 LCA Data Documentation Format Concepts_**   
-
-
+<br>
+<br>
 
 To facilitate compliance with this standard, as of May 2018, the LCA Commons is structured upon the [openLCA v1.6](https://sourceforge.net/projects/openlca/files/openlca_framework/) database schema<sup>[**[1]**](#fn1)</sup>, which includes the elements designated in the above figure. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA v1.6. If you already work in a newer version of openLCA, discuss this with the NREL Data Curator at the beginning of the data submission process.
 
@@ -75,14 +75,12 @@ Flow data within the unit process(es) must be based on measurements using a spec
 Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). A technosphere flow that is not being submitted as a dataset and is not already in the USLCI should be labeled a ‘CUTOFF’ or a reasonable proxy from the USLCI identified with a note in the ‘Input Flow, Description’ field regarding the flow origin (database and flow name). Processes from other databases should not be submitted as datasets.
 <br><br>
 
->Footnotes
-<br>
 
 <a id="fn1"></a>
->[1](#fn1). This requirement exists to enable data transfer and does not imply an official endorsement of openLCA as a life cycle modeling tool.
+>[1](#data-formatting). This requirement exists to enable data transfer and does not imply an official endorsement of openLCA as a life cycle modeling tool.
 
 <a id="fn2"></a>
->[2](#fn2). For more information regarding motivations for data aggregation, see: Table 3.1 Motivations for aggregated datasets, UNEP/SETAC 2011 Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a., The “Shonan Guidance Principles,’ available at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
+>[2](#data-requirements). For more information regarding motivations for data aggregation, see: Table 3.1 Motivations for aggregated datasets, UNEP/SETAC 2011 Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a., The “Shonan Guidance Principles,’ available at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
 
 <br><br>
 
