@@ -72,7 +72,7 @@ Flow data within the unit process(es) must be based on measurements using a spec
 <a id="nomenclature"></a>
 ### Nomenclature
 
-Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-admin.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D:ILCD Nomenclature Rules](../04-resources/04-App-D.md). A technosphere flow that is not being submitted as a dataset and is not already in the USLCI should be labeled a ‘CUTOFF’ or a reasonable proxy from the USLCI identified with a note in the ‘Input Flow, Description’ field regarding the flow origin (database and flow name). Processes from other databases should not be submitted as datasets.
+Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). A technosphere flow that is not being submitted as a dataset and is not already in the USLCI should be labeled a ‘CUTOFF’ or a reasonable proxy from the USLCI identified with a note in the ‘Input Flow, Description’ field regarding the flow origin (database and flow name). Processes from other databases should not be submitted as datasets.
 
 
 
