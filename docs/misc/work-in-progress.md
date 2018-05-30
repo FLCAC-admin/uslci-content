@@ -1,12 +1,12 @@
 Thanks for clicking this link!  However, this page is still a work in progress.  Please check back later for updates.   
 <br><br>
-**Click [here](./README.md) to return to the [USLCI Content Repository's Home Page](./README.md)**.
+**Click [here](https://github.com/uslci-admin/uslci-content/wiki) to return to the [USLCI Content Repository's Home Page](https://github.com/uslci-admin/uslci-content/wiki)**.
 
 <br><br><br>
 
 
 
-![Work-in-progress](../../img/work-in-progress_640.png)   
+![Work-in-progress](../../images/work-in-progress_640.png)   
 
 <br><br><br>
 
