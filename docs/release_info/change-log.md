@@ -2,7 +2,8 @@
 
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
-<br><br>
+<br>
+
 
 
 This change log contains a summary of changes to the [U.S. Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/).  The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm).
