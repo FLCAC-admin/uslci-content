@@ -29,9 +29,11 @@ Your role in the publication process is to transform your raw LCI data into a pr
 The documentation, [metadata guidance](#metadata-guidance-tables), and [resources](./04-resources/04-resources.md) in this Data Submission Guide will be essential resources in that process.
 
 The International Organization for Standardization (ISO) specifies a framework for archival concepts necessary for long-term digital information preservation and access in [ISO 14721:2012](https://www.iso.org/standard/57284.html). This framework designates the importance of provenance information such as the history of content information, custody, and change history.
+<br>
 
 ![](https://github.com/uslci-admin/private-uslci-content/blob/dev/images/ISO%2014721%20OAIS%20-%20Graphic.png)
 **_Open Archival Information System (OAIS) Preservation Description Information_**
+<br>
 
 
 To facilitate compliance with these standards, we use [GitHub](https://github.com/) as our principal project management and communication tool. This platform assists in the storage, handling, and migration of LCI data during the curation and publication process. GitHub contains robust features for version control, issues management, and team communication. Moreover, it makes it easy for the Data Provider to keep a local version of the data curation process and end product once the project is complete. Early in the publication process, the Data Curator will work with you to get you set up with one or more private data repositories on GitHub.
@@ -63,7 +65,7 @@ Each of the five phases is discussed in detail below but a quick overview of the
 - [ ] Kick-off Meeting with NREL
 - [ ] Edit your unit processes/product system in openLCA
 - [ ] Export your edits as JSON-LD files and submit to NREL on GitHub
-- [ ] Reconcile issues identified by NREL during the Review Process
+- [ ] Reconcile issues identified by NREL during the [Review](#review) Process
 - [ ] Approve final version
 - [ ] NREL publishes the dataset(s) in the USLCI
 - [ ] NREL preserves the final dataset files
@@ -73,7 +75,7 @@ Each of the five phases is discussed in detail below but a quick overview of the
 ### Appraisal
 The objectives of the Appraisal phase are to:
   * Verify the fitness of your data for publication in the USLCI
-  * If appropriate, develop a plan for the [Ingest](#ingest) and [Review](#review) phases of the Digital Curation Process.
+  * If appropriate, develop a plan for the [Ingest](#ingest-and-onboarding) and [Review](#review) phases of the Digital Curation Process.
 
 The Appraisal phase is composed of the following elements:
   * Preliminary data review by the Data Curator
@@ -110,7 +112,7 @@ Prior to the Kick-off Meeting, you will receive an invitation to the [NREL GitHu
 
 During the Kick-off Meeting, NREL’s Data Curator will guide you through using these resources, provide you with an overview of the curation process, and discuss your data in the context of the USLCI. Whether you have existing data formats you import into openLCA, or you compile them from scratch, NREL’s Data Curator will guide you through the compilation of your data and supporting metadata in the openLCA software.
 
-As mentioned in the [Expectations section](./01-should-i-publish-in-the-uslci.md#expectations) and the [Overview of the Digital Curation Process](#overview-digital-curation), the LCA Commons is structured upon the [openLCA v1.6](https://sourceforge.net/projects/openlca/files/openlca_framework/) database schema to facilitate compliance with [ISO 14048:2002](https://www.iso.org/standard/29872.html) – LCA Data Documentation Format standards. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA v1.6. If you are already using a newer version of openLCA, discuss this with the Data Curator during the Appraisal Meeting. Once you edit your Unit Processes or product systems in openLCA, you may share them through your institutional GitHub repository hosted by NREL as exported [JSON-LD files](https://json-ld.org/).
+As mentioned in the [Expectations](./01-should-i-publish-in-the-uslci.md#expectations) section and the [Overview of the Digital Curation Process](#overview-digital-curation), the LCA Commons is structured upon the [openLCA v1.6](https://sourceforge.net/projects/openlca/files/openlca_framework/) database schema to facilitate compliance with [ISO 14048:2002](https://www.iso.org/standard/29872.html) – LCA Data Documentation Format standards. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA v1.6. If you are already using a newer version of openLCA, discuss this with the Data Curator during the Appraisal Meeting. Once you edit your Unit Processes or product systems in openLCA, you may share them through your institutional GitHub repository hosted by NREL as exported [JSON-LD files](https://json-ld.org/).
 
 
 <a id="review"></a>
