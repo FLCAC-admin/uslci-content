@@ -1,5 +1,14 @@
 # USLCI Change Log
+
+[Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+
+<br><br>
+
+
 This change log contains a summary of changes to the [U.S. Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/).  The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm).
+<br><br>
+
+
 
 ###### Table 1. USLCI Change Log
 
@@ -46,3 +55,8 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY17.Q4.02 | Source | Revision | Sustainable Solutions Corporation. (2015). IMA-NA Soda Ash Life Cycle Assessment  | - | Add metadata |   
 | FY17.Q4.02 | Source | New content | Sustainable Solutions Corporation. (2016). IMA-NA Calcium Carbonate Life Cycle Assessment | - | - |
 | FY17.Q4.02 | Source | Revision | Wood. (2016). Greenhouse Gas Life Cycle Assessment Summary Report - Kodak Alaris i710, i703EX, i940, i1150, i1150WN, i1190,i1190E, i1190WN Scanners, ISO 14044 Protocol  | - | Add URL |    
+
+<br><br>
+
+
+[Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
