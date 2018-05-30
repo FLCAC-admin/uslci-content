@@ -29,12 +29,13 @@ Your role in the publication process is to transform your raw LCI data into a pr
 The documentation, [metadata guidance](#metadata-guidance-tables), and [resources](./04-resources/04-resources.md) in this Data Submission Guide will be essential resources in that process.
 
 The International Organization for Standardization (ISO) specifies a framework for archival concepts necessary for long-term digital information preservation and access in [ISO 14721:2012](https://www.iso.org/standard/57284.html). This framework designates the importance of provenance information such as the history of content information, custody, and change history.
+
 <br>
 
 ![](https://github.com/uslci-admin/private-uslci-content/blob/dev/images/ISO%2014721%20OAIS%20-%20Graphic.png)
 **_Open Archival Information System (OAIS) Preservation Description Information_**
-<br>
 
+<br>
 
 To facilitate compliance with these standards, we use [GitHub](https://github.com/) as our principal project management and communication tool. This platform assists in the storage, handling, and migration of LCI data during the curation and publication process. GitHub contains robust features for version control, issues management, and team communication. Moreover, it makes it easy for the Data Provider to keep a local version of the data curation process and end product once the project is complete. Early in the publication process, the Data Curator will work with you to get you set up with one or more private data repositories on GitHub.
 
