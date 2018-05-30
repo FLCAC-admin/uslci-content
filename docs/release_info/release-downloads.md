@@ -5,6 +5,7 @@ USLCI Release Downloads
 This page contains dowloads for the [US Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/uslci/search) release downloads in various data formats. It is intended to support the USLCI data submission process.
 
 <br>
+
 [Table 1](release-downloads.md#table-1-uslci-release-downloads) contains download links for each USLCI release in four data formats: 
 * openLCA (.zolca)
 * JSON-LD
@@ -29,5 +30,7 @@ In addition to the download options listed above, an unzipped JSON-LD version of
 
 <br>
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+<br>
+
 
 [openlca]: http://www.openlca.org/download/
