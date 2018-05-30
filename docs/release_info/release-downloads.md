@@ -24,9 +24,9 @@ In addition to the download options listed above, an unzipped JSON-LD version of
 
 | Release | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD |   
 |:---:|:---:|:---:|:---:|:---:|:--:|     
-| FY18.Q1.01 | v1.7.0 | [openLCA](../downloads/uslci_fy18_q1_01_olca1_7_0.zolca) |  [JSON-LD](../downloads/uslci_fy18_q1_01_olca1_7_0_json_ld.zip) | [ecoSpold2](../downloads/uslci_fy18_q1_01_olca1_7_0_ecospold2.zip) | [ILCD](../downloads/uslci_fy18_q1_01_olca1_7_0_ilcd.zip) |  
-| FY18.Q1.01 | v1.5.0 | [openLCA](../downloads/uslci_fy18_q1_01_olca1_5_0.zolca) |  [JSON-LD](../downloads/uslci_fy18_q1_01_olca1_5_0_json_ld.zip) | [ecoSpold2](../downloads/uslci_fy18_q1_01_olca1_5_ecospold2.zip) | [ILCD](../downloads/uslci_fy18_q1_01_olca1_5_0_ilcd.zip) |   
-| FY17.Q4.02 | v1.5.0 | [openLCA](../downloads/uslci_fy17_q4_02_olca1_5_0.zolca) | -- | [ecoSpold2](../downloads/uslci_fy17_q4_02_olca1_5_0_ecospold2.zip) | [ILCD](../downloads/uslci_fy17_q4_02_olca1_5_0_ilcd.zip) |  
+| FY18.Q1.01 | v1.7.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0.zolca) |  [JSON-LD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_json_ld.zip) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_ilcd.zip) |  
+| FY18.Q1.01 | v1.5.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0.zolca) |  [JSON-LD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0_json_ld.zip) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0_ilcd.zip) |   
+| FY17.Q4.02 | v1.5.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0.zolca) | -- | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ilcd.zip) |  
 
 <br><br><br>
 
