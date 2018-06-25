@@ -41,8 +41,7 @@ This set of tables includes the following conventions for this tab in openLCA:
 | Field Name | Convention | Examples |
 |:---:|:-----|:---------|
 |(M) Reviewer|Reference to the openLCA Actor who reviewed the dataset.|_Jay Mathewson_|
-|(O) Data set other evaluation|End date for the time period that the process represents. The date format is MM/DD/YYYY|_12/31/2017_|
-|M Description|Additional review information pertaining to the dataset (e.g., single or panel review, internal or third party, data entry proofreading, mass balance verification, data documentation review, etc.).|_The LCA study that produced this unit process was critically reviewed per ISO 14040 and 14044 standards by Dr. Thomas Gloria of Industrial Ecology Consultants._|
+|(O) Data set other evaluation|End date for the time period that the process represents. The date format is MM/DD/YYYY and any additional review information pertaining to the dataset (e.g., single or panel review, internal or third party, data entry proofreading, mass balance verification, data documentation review, etc.).|_12/31/2017. The LCA study that produced this unit process was critically reviewed per ISO 14040 and 14044 standards by Dr. Thomas Gloria of Industrial Ecology Consultants._|
 
 <br>
 
