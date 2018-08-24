@@ -1,7 +1,7 @@
 # WELCOME TO THE USLCI DATA SUBMISSION HANDBOOK
 ![](../../images/site_hpphoto_buildings_lci.png)
 
-This Data Submission Handbook for the [U.S. Life Cycle Inventory Database (USLCI)][uslci] is part of the [USLCI Content Repository](https://github.com/uslci-admin/uslci-content/wiki) and is intended to support the USLCI data submission process.
+This Data Submission Handbook for the [U.S. Life Cycle Inventory Database (USLCI)][uslci] is part of the [USLCI Content Repository](https://github.com/uslci-admin/uslci-content/wiki) and is intended to support the USLCI data submission process. **Note this is a living document and is being updated as the Federal LCA Commons data submission process evolves.**
 
 To return to this welcome and navigation page from any page in the handbook, click [**"Return to TOC"**](#toc) at the top or bottom of any of the pages.
 
