@@ -2,16 +2,17 @@ USLCI Release Downloads
 ==================
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
-This page contains dowloads for the [US Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/uslci/search) release downloads in various data formats. It is intended to support the USLCI data submission process.
+This page contains dowloads for the [US Life Cycle Inventory Database (USLCI)](https://www.nrel.gov/lci/) release downloads in various data formats. It is intended to support the USLCI data submission process.
+
+The USLCI Database repository and individual datasets are also available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** buttom to the right of any element, and selecting the desired format (JSON-LD or ILCD).
 
 
-[Table 1](release-downloads.md#table-1-uslci-release-downloads) contains download links for each USLCI release in four data formats: 
-* openLCA (.zolca)
-* JSON-LD
+[Table 1](release-downloads.md#table-1-uslci-release-downloads) contains download links for each USLCI release in three data formats: 
+* openLCA JSON-LD (.zolca files are discontinued as of 10/2018)
 * ecoSpold2
 * ILCD
 
-For many users, the openLCA or JSON-LD (zipped) formats will be the most useful since they are not subject to data/metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges.
+For many users, the JSON-LD (zipped) formats will be the most useful since they are not subject to data/metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges.
 
 Downloads are available starting with USLCI release FY17.Q4.02. 
 
@@ -24,15 +25,12 @@ Select the desired format type and then _"View Raw"_ to download the file on the
 
 | Release | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD |   
 |:---:|:---:|:---:|:---:|:---:|:--:|     
-| FY18.Q1.01 | v1.7.2 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0.zolca) |  [JSON-LD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_json_ld.zip) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_ilcd.zip) |  
+| FY18.Q3.01 | v1.7.2 | .zolca files discontinued 10/2018 |  [JSON-LD](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy18_q3_01_olca1_7_2_json_ld.zip) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy18_q1_01_olca1_7_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ilcd.zip) |  
+| FY18.Q2.01 | v1.7.2 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0.zolca) |  [JSON-LD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_json_ld.zip) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_7_0_ilcd.zip) |  
 | FY18.Q1.01 | v1.5.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0.zolca) |  [JSON-LD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0_json_ld.zip) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0_ilcd.zip) |   
 | FY17.Q4.02 | v1.5.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0.zolca) | -- | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ilcd.zip) |  
 
 <br>
-
-In addition to the download options listed above, an unzipped JSON-LD version of the latest USLCI release is available
-[here](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_olca1_5_0_json_ld). Since these files are unzipped, the easiest way to access these files is by cloning or forking this repository.
-
 
 <br><br><br>
 
