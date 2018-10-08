@@ -14,7 +14,94 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 ###### Table 1. USLCI Change Log
 
 | Release | File Type | Change Type | File Name | UUID | Description |
-|:---:|:---:|:---:|:---|:---|:--|   
+|:---:|:---:|:---:|:---|:---|:--|  
+| FY18.Q3.01 | Process | New content | Printer, AltaLink B8045/55, multi-functional device (MFD) | 50356d14-b626-4a38-babf-bf5657d08358 | - |
+| FY18.Q3.01 | Process | Revision | Corrugated product, 100% recycled, at mill |   | Update to and replacement for the similarly named 2010 process |
+| FY18.Q3.01 | Process | Revision | Corrugated product, average production, at mill |   | Update to and replacement for the similarly named 2010 process |
+| FY18.Q3.01 | Process | Revision | Containerboard, 100% recycled, at mill |   | RENAMED process by removing &quot;average production&quot; from flow name |
+| FY18.Q3.01 | Process | Revision | Containerboard, average production, at mill |   | RENAMED flow and process name to reference only new quantiative flow nomenclature (i.e., sans data year); data year only referenced in temporal data quality fields |
+| FY18.Q3.01 | Process | Revision | Corrugated product, containerboard, average production, at mill, 2010 - US |   | DELETED - Archived in older database version |
+| FY18.Q3.01 | Process | Revision | Sold electricity, from 100% recycled containerboard (2010) - US |   | Renamed to eliminate the data year |
+| FY18.Q3.01 | Process | Revision | Sold electricity, from industry-average containerboard (2010) - US |   | Renamed to eliminate the data year |
+| FY18.Q3.01 | Process | Revision | Sold steam, from industry-average containerboard (2010) - US |   | Renamed to eliminate the data year |
+| FY18.Q3.01 | Process | Revision | Tall oil, from industry-average containerboard (2010) - US |   | Renamed to eliminate the data year |
+| FY18.Q3.01 | Process | New content | Steam, purchased by containerboard mills |   | Process is an input to the updated NCASI Corrugated data |
+| FY18.Q3.01 | Process | Revision | Sold electricity, from industry-average containerboard production |   | RENAMED from &quot;Sold electricity, from industry-average containerboard production (2010)&quot; |
+| FY18.Q3.01 | Process | Revision | Electricity, Eastern US, 2014 |   | Updated from &quot;Electricity, at grid, Eastern US, 2000&quot; for updated NCASI Corrugated data |
+| FY18.Q3.01 | Process | Revision | Electricity, Texas US, 2014 |   | Updated from &quot;Electricity, at grid, Texas, 2000&quot; for updated NCASI Corrugated data |
+| FY18.Q3.01 | Process | Revision | Electricity, Western, US 2014 |   | Updated from &quot;Electricity, at grid, Western US, 2000&quot; for updated NCASI Corrugated data |
+| FY18.Q3.01 | Process | Revision | Planed dried lumber processing, at planer mill, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Planed dried lumber processing, at planer mill, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Planed green lumber processing, at planer mill, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Composite wood I-joist processing, at plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Engineered flooring, hardwood, unfinished, E |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Composite wood I-joist processing, at plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Composite wood I-joist processing, at plant, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Glue laminated beam processing, at plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Glue laminated beam processing, at plant, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Oriented strand board processsing, at plant, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Roundwood, hardwood, green, at logyard, SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Roundwood, hardwood, green, at mill, E |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Roundwood, hardwood, green, at mill, SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Cellulosic fiberboard, uncoated, at plant |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Hardboard, at hardboard plant |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Wood Combusted, at boiler, at cellulosic fiberboard mill |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Wood Combusted, at boiler, at hardboard mill |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Debarking, at plywood plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Debarking, at plywood plant, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Rough green lumber processing, at sawmill, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Rough green lumber processing, at sawmill, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn lumber, hardwood, planed, kiln dried, at planer mill, NE-NC |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn lumber, hardwood, rough, green, at sawmill, NE-NC |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn lumber, hardwood, rough, green, at sawmill, SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn lumber, softwood, planed, kiln dried, at planer, NE-NC |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn Lumber, softwood, planed, kiln dried, at planer mill, INW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn lumber, softwood, rough, green, at sawmill, INW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Sawn lumber, softwood, rough, green, at sawmill, NE-NC |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Solid strip and plank flooring, hardwood, E |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Bucked and debarked log, hardwood, green, at veneer mill, E |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Dry veneer processing, at plywood  plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Green veneer processing, at plywood plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Green veneer processing, at plywood plant, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Heat, drying veneer, hardwood, at veneer mill, E |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Laminated veneer lumber processing, at plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Laminated veneer lumber processing, at plant, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Medium density fiberboard (MDF), at MDF mill |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Particleboard, average, softwood, particleboard mill |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Trim and saw process, at plywood plant, US PNW |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Trim and saw process, at plywood plant, US SE |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Veneer, hardwood, dry, at veneer mill, E |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | Revision | Veneer, hardwood, green, at veneer mill, E |   | Physical allocation applied as a default |
+| FY18.Q3.01 | Process | New content | CUTOFF Pitch despergents, in paper production |   | New input to the updated NCASI Corrugated datasets |
+| FY18.Q3.01 | Process | New content | CUTOFF Tire derived fuel |   | Moved from the Paper Manufacturing folder to the CUTOFF folder as Input to the updated NCASI Corrugated datasets |
+| FY18.Q3.01 | Process | New content | CUTOFF Unspecified additive |   | New input to the updated NCASI Corrugated datasets |
+| FY18.Q3.01 | Flow | New content | Printer, AltaLink B8045/55, multi-functional device (MFD) |   | Quantitative reference  created for new process |
+| FY18.Q3.01 | Flow | Revision | Corrugated product, average production, at mill |   | Quantitative reference renamed from &quot;Corugated Product - US&quot; |
+| FY18.Q3.01 | Flow | Revision | Corrugated product, 100% recycled, at mill |   | Quantitative reference renamed from &quot;Corrugated Product, 100% Recycled - US&quot; |
+| FY18.Q3.01 | Flow | Revision | Steam, purchased by containerboard mills |   | Process is an input to the updated NCASI Corrugated data |
+| FY18.Q3.01 | Flow | Revision | Corrugated Product - CH |   | Bulk replaced with CUTOFF Corrugated board, mixed fibre, single wall, at plant - CH and then deleted |
+| FY18.Q3.01 | Flow | Revision | Sulfuric acid, dimethyl ester |   | Bulk replaced from air/uspecified folder to IUPAC-named &quot;Dimethyl sulfate&quot; in Elementary Flows folder |
+| FY18.Q3.01 | Flow | Revision | 2-Chloroacetophenone |   | Bulk replaced from air/uspecified folder to IUPAC-named &quot;Chloromethylbenzene&quot; in Elementary Flows folder |
+| FY18.Q3.01 | Flow | Revision | Toluene, chloro- |   | Bulk replaced from air/uspecified folder to Elementary Flows folder |
+| FY18.Q3.01 | Flow | Revision | Ethane, 1,2-dichloro- |   | Bulk replaced from air/uspecified folder to IUPAC-named &quot;2-Chloro-1-phenylethanone&quot; in Elementary Flows folder |
+| FY18.Q3.01 | Actor | New content | Alissa Santucci |   | New actor for Xerox printer process |
+| FY18.Q3.01 | Actor | New content | Corrugated Packaging Alliance (CPA) |   | New actor for the NCASI Corrugated update |
+| FY18.Q3.01 | Actor | New content | Victoria DeYoung |   | New actor for Xerox printer process |
+| FY18.Q3.01 | Actor | New content | Xerox Corporation |   | New actor for Xerox printer process |
+| FY18.Q3.01 | Source | New content | Guidance on Data Quality Assessment for Life Cycle Inventory Data |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | IEEE (2012). 1680.2-2012 - IEEE Standard for Environmental Assessment of Imaging Equipment, 19 Oct. 2012. |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2006). ISO 14025:2006: Environmental labels and declarations -- Type III environmental declarations -- Principles and procedures |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2006). ISO 14040:2006: Environmental management -- Life cycle assessment -- Principles and framework |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2006). ISO 14044:2006: Environmental management -- Life cycle assessment -- Requirements and guidelines |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2006). ISO 14064-1:2006: Greenhouse gases -- Part 1: Specification with guidance at the organization level for quantification and reporting of greenhouse gas emissions and removals |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2006). ISO 14064-2:2006: Greenhouse gases -- Part 2: Specification with guidance at the project level for quantification, monitoring and reporting of greenhouse gas emission reductions or removal enhancements |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2006). ISO 14064-3:2006: Greenhouse gases -- Part 3: Specification with guidance for the validation and verification of greenhouse gas assertions |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2013). ISO 14065:2013: Greenhouse gases -- Requirements for greenhouse gas validation and verification bodies for use in accreditation or other forms of recognition |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | ISO (2018). ISO/TS 14067:2018: Greenhouse gases -- Carbon footprint of products -- Requirements and guidelines for quantification and communication |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | PAS 2050 (2011). Specification for the assessment of the life cycle greenhouse gas emissions of goods and services |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | WRI (2011). Greenhouse Gas (GHG Protocol: Product Life Cycle Accounting and Reporting Standard. |   | New source for added processes |
+| FY18.Q3.01 | Source | New content | Xerox Corporation (2018). Life Cycle Assessment of Xerox AltaLink B8045/B8055/B8065/B8075/B8090, August 2018 |   | New source for added processes |
 | FY18.Q1.01 | Actor | New content | EPS Industry Alliance (EPS-IA) | 0b2b785e-5cfd-4331-8711-790742934e47 | - |
 | FY18.Q1.01 | Actor | New content | Melissa Huff | f3ce0eca-08f6-4eac-bd6e-cecabe5b4252 | - |
 | FY18.Q1.01 | Actor | New content | Franklin Associates, A Division of ERG | 38e67478-a915-43d9-ad67-e25db79a4acc | Updated version of the _Franklin Associates_ actor |   
