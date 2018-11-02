@@ -1,6 +1,6 @@
 # Using the US EPA Data Quality Matrix in openLCA
 
-## Step 1: DOWNLOAD
+## Step 1: DOWNLOAD THE MATRIX
 
 You may download the US EPA Data Quality Matrix from the [openLCA Downloads](https://www.openlca.org/download/) page.
 
@@ -10,7 +10,7 @@ You may download the US EPA Data Quality Matrix from the [openLCA Downloads](htt
 <br>
 <br>
 
-## Step 2: IMPORT
+## Step 2: IMPORT THE MATRIX
 
 To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** you must import it for each database in which you wish to use this pedigree matrix (as the only default matrix available is that from ecoinvent). 
 * Thus, you can open the database of interest in openLCA, right-click on the database name, and select **_"Import."_** 
@@ -23,7 +23,7 @@ To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** 
 <br>
 <br>
 
-## Step 3:DESIGNATE THE PEDIGREE MATRIX
+## Step 3:DESIGNATE THE MATRIX INSIDE EACH PROCESS
 
 * Select the **_"USEPA\_DataQualitySchemes\_JSON-LDforopenLCA1.6.zip"_** file and click **_"Finish."_** The Pedigree Matrix file is not very large so should import very quickly. 
 * Next, open your process of interest and on the first **_"General Information"_** tab, you may scroll down to the **_"Data quality"_** section and **_"Process schema"_** field. There is a drop-down menu and the **_"US EPA – Process Pedigree Matrix"_** should now be an option you may select. 
