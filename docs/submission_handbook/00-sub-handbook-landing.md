@@ -58,5 +58,7 @@ Here is a detailed [TABLE OF CONTENTS](#toc).
   * [ILCD Nomenclature Rules](./04-resources/04-App-D.md)
   * [2017 NAICS United States Structure](./04-resources/04-App-E.md)
   * [Example openLCA Element Addition](./04-resources/04-App-F.md)
+  * [Using the EPA Data Quality Pedigree Matrix in openLCA](./04-resources/04-App-G.md)
+
     
 [uslci]: https://uslci.lcacommons.gov/uslci/search   
