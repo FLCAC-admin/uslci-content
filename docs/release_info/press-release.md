@@ -2,8 +2,6 @@
 
 [Return to the USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
-## Content
-
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/) project pages.
 <br>
 
