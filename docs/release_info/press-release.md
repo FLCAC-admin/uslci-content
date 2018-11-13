@@ -1,6 +1,8 @@
 # :earth_americas: USLCI Press Releases :newspaper:
-<br>
+<br><br>
 [Return to the USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+
+
 <br>
 
 ## Content
