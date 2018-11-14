@@ -6,7 +6,7 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 <br>
 
 
-## [2018 - Fall Quarter (September 30)](https://github.com/uslci-admin/uslci-content/edit/dev/docs/release_info/press-release/2018_q3.md)
+## [2018 - Fall Quarter (September 30)](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release/2018_q3.md)
 The most recent udate of the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) is now available on the newly created [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) (_beta version_), which contains multiple group repositories.
 
 <br>
