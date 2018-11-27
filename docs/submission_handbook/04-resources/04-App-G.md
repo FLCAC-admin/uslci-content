@@ -39,6 +39,7 @@ To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** 
 <br>
 <br>
 
+
 ## Step 4: SELECT PROCESS INDICATORS
 
 Now, at the **_"Data quality entry"_** field, you may select the **_"not specified"_** hyperlink (still on the first **_"General information"_** tab in the **_"Data quality"_** section). You should now be able click on matrix cells to select entries for **_"Process Review"_** and **_"Process Completeness"_** data quality indicators.
