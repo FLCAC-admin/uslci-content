@@ -1,5 +1,7 @@
 # Using the US EPA Data Quality Matrix in openLCA
 
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
+
 ## Step 1: DOWNLOAD THE MATRIX
 
 You may download the US EPA Data Quality Matrix from the [openLCA Downloads](https://www.openlca.org/download/) page.
@@ -48,8 +50,11 @@ Now, at the **_"Data quality entry"_** field, you may select the **_"not specifi
 **_STEP 4a: Designating the Data Quality Entry at Process Level_**
 <br>
 
+
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/4b_Select_Process_Indicators.png)
+
 **_STEP 4b: Selecting Process Indicator Matrix Cell Entries_**
+
 <br>
 <br>
 <br>
@@ -65,8 +70,11 @@ You may now go to the **_"Data quality entry"_** column of any input or output f
 - Technological correlation
 - Data collection methods
 
+
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/5_Select_Flow_Indicators.png)
+
 **_STEP 5: Selecting Flow Indicators_**
+
 <br>
 <br>
 
@@ -78,5 +86,8 @@ For guidance on selecting process- and flow-level indicators for your life cycle
 **If you need to cite the EPA Data Quality Guidance document, use the following citation:**
 
 _Edelen, A. AND W. Ingwersen. Guidance on Data Quality Assessment for Life Cycle Inventory Data. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-16/096, 2016._
+
+[**_Return to TOC_**](../00-sub-handbook-landing.md)
+
 
 ---
