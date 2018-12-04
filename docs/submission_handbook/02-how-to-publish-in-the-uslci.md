@@ -202,6 +202,14 @@ The key sources for the guidance are the:
 <a id="metadata-guidance-tables"></a>
 ## Metadata Guidance Tables
 
+[Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+
+[**_Return to TOC_**](./00-sub-handbook-landing.md)
+<br>
+
+
+
+
 Click the links below to see guidance for the fields of each of the openLCA tabs (i.e., conventions and examples). Each table has a link to return to this list or to the main guidelines table of contents:
 #### [General Information Tab](./field-conventions/general-info.md)
 - [General Information](./field-conventions/general-info.md#general-information)
@@ -236,3 +244,7 @@ Click the links below to see guidance for the fields of each of the openLCA tabs
 
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
+<br>
+
+[Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+
