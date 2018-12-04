@@ -1,6 +1,9 @@
 # WELCOME TO THE USLCI DATA SUBMISSION HANDBOOK
 ![](../../images/site_hpphoto_buildings_lci.png)
 
+[Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+
+
 This Data Submission Handbook for the [U.S. Life Cycle Inventory Database (USLCI)][uslci] is part of the [USLCI Content Repository](https://github.com/uslci-admin/uslci-content/wiki) and is intended to support the USLCI data submission process. **Note this is a living document and is being updated as the Federal LCA Commons data submission process evolves.**
 
 To return to this welcome and navigation page from any page in the handbook, click [**"Return to TOC"**](#toc) at the top or bottom of any of the pages.
@@ -59,6 +62,11 @@ Here is a detailed [TABLE OF CONTENTS](#toc).
   * [2017 NAICS United States Structure](./04-resources/04-App-E.md)
   * [Example openLCA Element Addition](./04-resources/04-App-F.md)
   * [Using the EPA Data Quality Pedigree Matrix in openLCA](./04-resources/04-App-G.md)
-
+  
+  <br>
+  <br>
+  
+  [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+  
     
 [uslci]: https://uslci.lcacommons.gov/uslci/search   
