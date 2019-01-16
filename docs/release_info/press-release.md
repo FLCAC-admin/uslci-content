@@ -6,8 +6,8 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 <br>
 
 
-## 2018 - Winter Quarter Impending
-The USLCI quarterly update will occur on December 21, 2018 and then not again until March 31, 2019. Please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md) in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for either of these release dates. Of course, any curation project for the December release would have to be a relatively small effort given the time constraints. We look forward to hearing from you soon.
+## 2018 - Winter Quarter (December 21)
+The USLCI quarterly update occurred on December 21, 2018 and will not be updated again until March 31, 2019. Please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md) in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the Spring 2019 release date. We look forward to hearing from you soon.
 
 <br>
 
