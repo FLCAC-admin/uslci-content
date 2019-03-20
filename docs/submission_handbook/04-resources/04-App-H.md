@@ -1,4 +1,4 @@
-# Syncing a Federal LCA Commons respository to openLCA
+# Syncing a Federal LCA Commons Respository to openLCA Desktop
 
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
 
