@@ -241,7 +241,7 @@ _(Mandatory for technical target audience, recommended for non-technical target 
 
 _(Recommended for both technical and non-technical target audience)_
 
-- Entries within the same name component field should be listed separated by the character,&quot;&quot;. Within the entries of the various name component fields the character &quot;;&quot; should be avoided.
+- Entries within the same name component field should be listed separated by the character,&quot;,&quot;. Within the entries of the various name component fields the character &quot;;&quot; should be avoided.
 - Abbreviations should be avoided in the base name field, unless these are very widely in use and complement the long name in the name field (e.g. do not use &quot;PP&quot; for &quot;Polypropylene&quot;, but it can be added as &quot;Polypropylene, PP&quot;) or chemical element symbols (e.g. do not use &quot;Fe&quot; for &quot;Iron&quot;).
 - Chemical symbols can be used in the &quot;Quantitative flow properties&quot; field to indicate concentrations (e.g. &quot;45% Fe&quot; for an iron ore can be used).
 - Brackets within the field entries should be avoided.
