@@ -2,8 +2,11 @@
 
 [Return to the USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
-This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/) project pages.
+This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
+
+## 2019 Mid-Quarter - Spring (May 30)
+NREL is publishing a coordination report to provide information about the US Federal Life Cycle Assessment Commons (FLCAC). The FLCAC is not only a public data source but also a repository for data developed under Energy Efficiency & Renewable Energy (EERE) programs. The FLCAC Commons Working Group is coordinating and focusing efforts to improve the standardization of data documentation, formatting, and nomenclature to ensure lossless data loading and accurate data representation in the repository server. The report introduces LCA within EERE programs, describes the current status of the FLCAC, and iterates opportunities for the FLCAC to support EERE goals and objectives. See the full report [here](https://github.com/uslci-admin/uslci-content/blob/dev/docs/).
 
 ## 2019 - Spring Quarter (March 31)
 The USLCI quarterly update occurred on March 31, 2019. There were no new data or data updates so there is no change log. Please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md) in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the June 30, Summer 2019 release date. We look forward to hearing from you soon.
