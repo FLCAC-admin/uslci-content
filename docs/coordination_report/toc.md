@@ -7,15 +7,15 @@
 
 ### [1        EERE &amp; the Federal LCA Commons](./01-eere.md)     
 
-#### 1.1        Introduction       
+#### [1.1        Introduction](./01-eere.md#11-introduction)
 
-##### 1.1.1        Overview of LCA Methodology &amp; Standards   
+##### [1.1.1        Overview of LCA Methodology &amp; Standards](01-eere.md#111-overview-of-lca-methodology--standards)
 
-##### 1.1.2        Brief History of LCA in the US     
+##### [1.1.2        Brief History of LCA in the US](01-eere.md#112-brief-history-of-lca-in-the-us)
 
-##### 1.1.3        LCA Applications  
+##### [1.1.3        LCA Applications](01-eere.md#113-lca-applications)
 
-#### 1.2        Current Status of the Federal LCA Commons      
+#### [1.2        Current Status of the Federal LCA Commons](01-eere.md#12-current-status-of-the-federal-lca-commons)
 
 ### [2        Federal LCA Commons Benefits &amp; Challenges](./02-benefits.md)
 
