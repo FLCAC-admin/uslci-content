@@ -1,6 +1,10 @@
-# Appendix F – Bibliography for Figure 3 Federal LCA Studies Bubble Chart
+# Appendix F â€“ Bibliography for Figure 3 Federal LCA Studies Bubble Chart
+<br>
 
-[**_Return to TOC_**](./2019_Coordination_Report.md)
+
+[**_Return to TOC_**](./toc.md)
+<br>
+
 
 ## Sustainable Transportation
 
@@ -746,7 +750,7 @@ _NETL (2015) Managing Uncertainty in Life Cycle Analysis of Natural Gas Energy S
 
 _NETL (2015) NETL Fischer-Tropsch Black Box Model;_ [https://www.netl.doe.gov/energy-analysis/details?id=1187](https://www.netl.doe.gov/energy-analysis/details?id=1187)_._
 
-_NETL (2015) U.S. Coal Exports – Life Cycle GHG comparison of PRB coal to foreign export competitors in the Asian Market;_ [https://www.netl.doe.gov/energy-analysis/details?id=1190](https://www.netl.doe.gov/energy-analysis/details?id=1190)_._
+_NETL (2015) U.S. Coal Exports â€“ Life Cycle GHG comparison of PRB coal to foreign export competitors in the Asian Market;_ [https://www.netl.doe.gov/energy-analysis/details?id=1190](https://www.netl.doe.gov/energy-analysis/details?id=1190)_._
 
 _NETL (2016) Life Cycle Greenhouse Gas Emissions: Natural Gas and Power Production;_ [https://www.eia.gov/conference/2015/pdf/presentations/skone.pdf](https://www.eia.gov/conference/2015/pdf/presentations/skone.pdf)_._
 
@@ -821,5 +825,8 @@ _USDA &amp; EPA (2017) Challenge Paper: Challenges to Sharing Data and Models fo
 _USDA (2013). Big Data in Life Cycle Assessment;_ [https://onlinelibrary.wiley.com/doi/pdf/10.1111/jiec.12069](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jiec.12069)_._
 
 _USDA (2015) Allocation Games: Addressing the III-Posed Nature of Allocation in Life-Cycle Inventories;_ [https://pubs.acs.org/doi/abs/10.1021/acs.est.5b01192](https://pubs.acs.org/doi/abs/10.1021/acs.est.5b01192)_._
+<br>
+<br>
 
-[**_Return to TOC_**](./2019_Coordination_Report.md)
+
+[**_Return to TOC_**](./toc.md)
