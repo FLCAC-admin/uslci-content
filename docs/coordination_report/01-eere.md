@@ -18,31 +18,30 @@ The first quantitative aspect of an LCA is to compile an LCI for the targeted sy
 The second quantitative aspect of LCA is the life cycle impact assessment (LCIA). In this phase, the inventory items are categorized into lists based on their contribution to a set of environmental effects on resource and energy depletion or changes to air, water, and soil environmental compartments. The inventory items are then multiplied by standardized impact factor for that category. This set of computations provides a more comprehensive view of the per unit environmental footprint of the product for its entire life cycle. There are several impact assessment categories at local, regional, and global scales and there are established methods available for various geographic scopes and time periods. The TRACI methodology,1 which was developed for the US geographic scope by the US EPA, is the most common LCIA method employed for North American LCAs.
 
 Cumulatively, the LCI and LCIA results of an LCA study allow the environmental impacts of the product to be evaluated relative to its benefits. Primarily, impact categories are those affecting resource availability, life support systems, human health, and biodiversity. The results are easily interpreted, especially when normalized to a reference situation (e.g., for each unit demanded in a given region, the kilograms CO2 equivalent contribution to the state, national, or global annual generation). Commonly assessed indicators in LCA may be inventory items (e.g., total energy or water consumption) or groups of inventory items to which impact factor multipliers have been applied (e.g., climate change impacts or respiratory effects).. Common impact assessments categories included in LCA studies are listed in Table 1; for a more comprehensive list, see in Appendix E – LCIA Impact Categories.
+<br>
+
 
 **Table 1. LCIA Impact Category Examples**
 
 | Model/Method | LCIA Impact Category | Units |
 | --- | --- | --- |
-|
-**TRACI Midpoint**** 2 ****,**** 3**
- | Ecotoxicity | comparative toxic units (CTUe) |
-| Global Warming Potential | kilograms CO2 eq |
-| Human Health - Carcinogenics | comparative toxic units (CTUh) |
-| Human Health – Non-Carcinogenics | comparative toxic units (CTUh) |
-| Resource Depletion Potential(Fossil Fuels) | Mega Joules surplus |
-|
-**ReCiPe Midpoint**** 4**
- | Climate Change | (kilograms CO2 eq) |
-| Fossil Depletion | kilograms oil eq |
-| Human Toxicity | kilogram 1,4-DB eq |
-| Ionising Radiation | kilogram U235 eq |
-| Metal Depletion | kilogram Fe eq |
-| Water Depletion | m3 |
-|
-**ReCiPe Endpoint**** 5**
- | Ecosystems – total | species/year |
-| Human Health – total | DALY |
-| Resources - total | $ |
+|**TRACI Midpoint**|Ecotoxicity | comparative toxic units (CTUe) |
+|**TRACI Midpoint**| Global Warming Potential | kilograms CO2 eq |
+|**TRACI Midpoint**| Human Health - Carcinogenics | comparative toxic units (CTUh) |
+|**TRACI Midpoint**| Human Health – Non-Carcinogenics | comparative toxic units (CTUh) |
+|**TRACI Midpoint**| Resource Depletion Potential(Fossil Fuels) | Mega Joules surplus |
+|**ReCiPe Midpoint**| Climate Change | (kilograms CO2 eq) |
+|**ReCiPe Midpoint**| Fossil Depletion | kilograms oil eq |
+|**ReCiPe Midpoint**| Human Toxicity | kilogram 1,4-DB eq |
+|**ReCiPe Midpoint**| Ionising Radiation | kilogram U235 eq |
+|**ReCiPe Midpoint**| Metal Depletion | kilogram Fe eq |
+|**ReCiPe Midpoint**| Water Depletion | m3 |
+|**ReCiPe Endpoint**| Ecosystems – total | species/year |
+|**ReCiPe Endpoint**| Human Health – total | DALY |
+|**ReCiPe Endpoint**| Resources - total | $ |
+<br>
+<br>
+
 
 
 
@@ -55,6 +54,15 @@ Figure 2 shows the timeline of the LCA history overview. Use of life-cycle think
 For the next 20 years, policies stimulated developments in data quality, availability, and standardization while private industry continued to use LCA to analyze and market their own products. The USLCI Database project began in 2001 when the US DOE directed NREL and the Athena Institute to explore the development of a national public database. The US LCI (USLCI) Database has been publicly available via [www.nrel.gov/lci](http://www.nrel.gov/lci) since 2003 and strives to provide publicly available LCI data following a consistent protocol.
 
 The LCA approach significantly contributed to the development of biofuel emission thresholds and standards for the Renewable Fuels Standard (RFS) (USC 2007). There have also been a few cases of LCA study results supporting decision-making by the State of California (see the LCA Application section). In the EU, LCA has been used in policy development and decision-making for decades on a range of issues from battery recycling and chemicals regulation, to electrical and electronics equipment and other hazardous materials.
+<br>
+<br>
+![](../../images/History_of_LCA.png)
+<br>
+**_Figure 1. Brief History of Life Cycle Assessment (LCA)_**
+<br>
+<br>
+<br>
+
 
 #### 1.1.3 LCA Applications
 
@@ -67,6 +75,9 @@ Next, LCI data from the quantitative benchmarks can be used to _compare_ product
 Finally, the LCA methodology can be utilized to support decisions given specific environmental criteria, e.g., reducing greenhouse gases (GHGs) by a specific percentage.12 Further, the LCI data can be applied using the LCA methodology to support the evaluation of the life-cycle effects of economy-wide resource and supply chain substitution scenarios (e.g., switching the ratio of coal-to-natural gas for electricity production; transitioning to renewably-sourced electricity or electric vehicles).13
 
 Overall, developing, maintaining, and sharing LCI data facilitates the use of LCA by federal agencies, which is a systematic and quantitative methodology to support decision-making in accomplishing the objectives of the EERE mission. Table 2 lists several examples of LCA agency-developed studies, data, or dynamic tools that are useful in supporting EERE mission objectives.
+<br>
+<br>
+
 
 
 
@@ -85,7 +96,10 @@ Overall, developing, maintaining, and sharing LCI data facilitates the use of LC
 | SunShot Vision Study (DOE 2012) | DOE Solid-State Lighting Program LCA of Light Emitting Diode (LED) Lighting Products (EERE 2012) | NETL CO2 Sequestration &amp; Storage Assessments |
 | Renewable Electricity Futures Study (NREL 2012) | EPA Design for Environment (DfE) Assessments | NETL Energy Technology &amp; Pathway Assessments |
 | Pavement LCA Framework (FHWA 2016) | Material &amp; Energy Flows in Production of Lithium Ion Batteries (ANL 2014) | _DOE BER Potential for Electrified Vehicles to Contribute to US Petroleum and Climate Goals and Implications for Advanced Biofuels_ |
-| Federal LCA Commons |
+| Federal LCA Commons | Federal LCA Commons | Federal LCA Commons |
+<br>
+<br>
+
 
 
 
@@ -98,10 +112,16 @@ In 2013, the Obama Administration gave the Executive Order (EO) 13642 requiring 
 Currently, the Federal LCA Commons contains repositories from multiple agencies, including the USDA NAL agricultural data sets for field crops, swine, poultry, and beef; NREL&#39;s US LCI covering commonly used materials, products, and processes such as utilities, transportation, fuel production and delivery, common chemicals, plastic resins, and paper and metal products; NETL&#39;s coal production data sets; EPA&#39;s US Environmentally Extended Input-Output (EEIO) model; USFS Forest Product&#39;s Lab datasets, and several agricultural and biofuel repositories.. All are now available via the Federal LCA Commons ([www.lcacommons.gov](http://www.lcacommons.gov)) portal and several additional repositories from aforementioned and additional member agencies are slated for near-term launching. An active Technical Working Group comprised of Federal LCA Commons members coordinates advancing standards for formatting and documentation as well as updates to the platform and content. Several work products have been published as the result of direct collaboration and shared funding between NREL, USDA, NETL and EPA, including for example: coal extraction models, a revised and more usable USLCI, and a baseline electricity dataset. All Federal LCA Commons data are published based on a consistent scheme, the schema of openLCA, free open-source LCA software provided by GreenDelta.
 
 LCA modeling is quite resource and time intensive, not to mention cumbersome without LCA-dedicated software. To date, most LCA software packages have been commercial—licensing for around $10,000 per year—making LCA relatively cost-prohibitive to many users. In 2006, GreenDelta started the openLCA project. This project has led to the creation of openLCA, a high-performance, reliable, fully transparent, and dedicated LCA software. The open-source, open-data platform is DKAN (i.e., Drupal-based, community-driven) with a full suite of cataloging, publishing, and visualization features for structured data. Both of these tools allow agencies and organizations to easily share LCA data with each other and the public (see Figure 2). Therefore, users may submit and access both structured LCI data and LCA-related data that are not necessarily formatted for an inventory database. Through the openLCA desktop application, modelers can also access the work of others on the Collaboration Server either through shared repositories or through the Federal LCA Commons search application.
+<br>
+<br>
 
 
 
-**Figure 2. Federal LCA Commons Collaboration Server Structure; where Users = Federal Agency Representatives.**
+![](../../images/GD_Collab_server_scheme.png)
+**_Figure 2. Federal LCA Commons Collaboration Server Structure; where Users = Federal Agency Representatives._**
+<br>
+<br>
+
 
 
 
@@ -112,6 +132,8 @@ In order to move toward interoperability and transparency, the group is focusing
 The long-term goal for the Federal LCA Commons is to provide a single LCA data framework, i.e., a mega-repository for the US geographic scope. Establishing this framework will require a formal interagency group and the compilation of single core datasets (i.e., for commonly utilized US resources such as electricity, fuels, transports, materials, etc.). With a searchable, common LCI and LCA data repository, there will be enhanced federal agency and public access to Federal LCI data. With a single set of core US datasets available for incorporation into LCA studies, energy system assessments become exponentially more representative and comparable and, therefore, substantive.
 
 Overall, the Federal LCA Commons will provide advanced LCI data, research, and information as well as a collaborative forum for multiple agencies to continue developing, sharing, and using the LCA methodology to meet their respective and the overall EERE mission objectives. This initiative will improve consistency in LCA methods for decision-making and public disclosure.
+<br>
+<br>
 
 
 
