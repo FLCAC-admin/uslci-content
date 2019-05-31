@@ -1,4 +1,6 @@
 [**_Return to TOC_**](./toc.md)
+<br>
+
 
 # Appendix A – EERE Timeline
 <br>
@@ -48,4 +50,5 @@
 <br>
 <br>
 
-[**_Return to TOC_**](./2019_Coordination_Report.md)
+[**_Return to TOC_**](./toc.md)
+
