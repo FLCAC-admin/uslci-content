@@ -1,4 +1,3 @@
-# WELCOME TO THE 2019 NREL FEDERAL LCA COMMONS COORDINATION REPORT
 ![](../../images/Coord_report_cover_page_short.png)
 # Table of Contents
 
