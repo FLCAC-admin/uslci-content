@@ -19,11 +19,11 @@
 
 ### [2        Federal LCA Commons Benefits &amp; Challenges](./02-benefits.md)
 
-#### 2.1        Supporting the EERE Mission 
+#### [2.1        Supporting the EERE Mission](02-benefits.md#21-supporting-the-eere-mission)
 
-#### 2.2        Federally-Funded LCA Studies &amp; Data
+#### [2.2        Federally-Funded LCA Studies &amp; DatA](02-benefits.md#22-federally-funded-lca-studies--data)
 
-#### 2.3        Conclusion 
+#### [2.3        Conclusion](02-benefits.md#conclusion)
 
 ## [REFERENCES](./references.md)
 
