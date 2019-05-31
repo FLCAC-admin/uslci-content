@@ -1,6 +1,8 @@
 # PREFACE
 <br>
+
 [**_Return to TOC_**](./toc.md)
+
 <br>
 <br>
 
@@ -21,4 +23,6 @@ June 2019
 <br>
 <br>
 <br>
+
 [**_Return to TOC_**](./toc.md)
+
