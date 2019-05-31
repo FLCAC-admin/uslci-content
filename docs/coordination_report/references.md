@@ -1,6 +1,6 @@
 # 4REFERENCES
 
-[**_Return to TOC_**](./2019_Coordination_Report.md)
+[**_Return to TOC_**](./toc.md)
 
 Barbose G (2018). US Renewable Portfolio Standards: 2018 Annual Status Report, Lawrence Berkeley National Laboratory, Energy Technologies Area, Available at: rps.lbl.gov.
 
@@ -15,7 +15,7 @@ Ciroth A, Arbuckle P, Cherubini E, Ugaya C, Edelen A (2017). Task 3: Core meta-d
 
 [Cohen](https://academiccommons.columbia.edu/catalog?f%5bauthor_facet%5d%5b%5d=Cohen,%20Steven%20Alan) SA (2013). Life Cycle Assessment and the U.S. Policy-Making Context, Columbia University Academic Commons, [https://doi.org/10.7916/D8GM86P2](https://doi.org/10.7916/D8GM86P2).
 
-Curran MA (2012). Sourcing Life Cycle Inventory Data, Chapter 5 in Life Cycle Assessment Handbook: A Guide for Environmentally Sustainable Products ©2012 Scrivener Publishing LLC.
+Curran MA (2012). Sourcing Life Cycle Inventory Data, Chapter 5 in Life Cycle Assessment Handbook: A Guide for Environmentally Sustainable Products Â©2012 Scrivener Publishing LLC.
 
 DOE (2011). Geothermal Vision Study Plan, Geothermal Technologies Program, Energy Efficiency &amp; Renewable Energy, US Department of Energy, Februrary 2012. Available at: [https://www.energy.gov/sites/prod/files/2014/02/f7/gtp\_vision\_study\_plan.pdf](https://www.energy.gov/sites/prod/files/2014/02/f7/gtp_vision_study_plan.pdf).
 
@@ -29,7 +29,7 @@ Ingwersen W (2015). Test of federal life cycle inventory data interoperability, 
 
 Ingwersen W, Hawkins T, Transue T, Meyer D, Moore D, Kahn E, Arbuckle P, Paulsen H, Norris G (2015).. A new data architecture for advancing life cycle assessment. International Journal of Life Cycle Assessment 20(4): 520-526.
 
-Joshi S. (2000). Product Environmental Life-Cycle Assessment using input—output techniques, Journal of Industrial Ecology, 3(2-3): 95-120.
+Joshi S. (2000). Product Environmental Life-Cycle Assessment using inputâ€”output techniques, Journal of Industrial Ecology, 3(2-3): 95-120.
 
 Kahn E, Ingwersen W, Henderson A, Edelen A, Bergmann M (2016). US Federal LCA Commons Life Cycle Inventory Unit Process Template. US Environmental Protection Agency, Washington, DC, 2016.
 
@@ -45,12 +45,12 @@ Suh S, Huppes G. (2005). Methods for life cycle inventory of a product. Journal 
 
 Suh S, Leighton M, Tomar S, Chen C (2016). Interoperability between ecoinvent ver. 3 and US LCI database: a case study, International Journal of Life Cycle Assessment 21: 1290-1298.
 
-Treloar G. (1997). Extracting embodied energy paths from input—output tables: towards an input—outputbased hybrid energy analysis method, Economic Systems Research, 9(4): 375-391.
+Treloar G. (1997). Extracting embodied energy paths from inputâ€”output tables: towards an inputâ€”outputbased hybrid energy analysis method, Economic Systems Research, 9(4): 375-391.
 
-UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a. the &#39;Shonan Guidelines,&#39; ©2011 United Nations Environment Programme. Accessible at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
+UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Databases: A Basis for Greener Processes and Products, a.k.a. the &#39;Shonan Guidelines,&#39; Â©2011 United Nations Environment Programme. Accessible at: [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf).
 
-UNEP SETAC (2015). Analysis of the conformance of LCA databases with the Shonan Guidance Principles: Development of Shonan Guidance Conformance Criteria, DRAFT version September 2015 after-LCM conference ©2015 United Nations Environment Programme DTIE. Accessible at: https://www.lifecycleinitiative.org/wp-content/uploads/2015/11/ShonanGuidancePrinciplesCriteria\_v2.1-consultation-Clear.pdf
+UNEP SETAC (2015). Analysis of the conformance of LCA databases with the Shonan Guidance Principles: Development of Shonan Guidance Conformance Criteria, DRAFT version September 2015 after-LCM conference Â©2015 United Nations Environment Programme DTIE. Accessible at: https://www.lifecycleinitiative.org/wp-content/uploads/2015/11/ShonanGuidancePrinciplesCriteria\_v2.1-consultation-Clear.pdf
 
-USC (2007). Subtitle A—Renewable Fuel Standard in Title II-Energy Security Through Increased Production of Biofuels of the Energy Independence and Security Act of 2007, United States Code, 42 USC 17001.
+USC (2007). Subtitle Aâ€”Renewable Fuel Standard in Title II-Energy Security Through Increased Production of Biofuels of the Energy Independence and Security Act of 2007, United States Code, 42 USC 17001.
 
-[**_Return to TOC_**](./2019_Coordination_Report.md)
+[**_Return to TOC_**](./toc.md)
