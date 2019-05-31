@@ -29,7 +29,7 @@ As LCI data availability improves and the methodology advances, LCA can increasi
 
 To date, the LCA methodology has been use in US policy in developing:
 
--
+
   - Product-oriented policies (eco-labeling/green purchasing)
   - Deposit-refund schemes (including waste management policies)
   - General process-oriented policies (e.g., toxic substance management)
@@ -37,7 +37,7 @@ To date, the LCA methodology has been use in US policy in developing:
 
 Further, the methodology has been utilized:
 
--
+
   - As a decision support tool in several US states (Schenck 2009)
     - CA State Office Pollution Prevention &amp; Technology Department: Shredder residue assessment &amp; hazardous waste mgmt. (CA DTSC)
     - State programs for LCA
@@ -68,6 +68,29 @@ Figure 3 displays instances where LCA has been used in federal research endeavor
 
 The broad coverage of EERE mission-critical support operations by Federal LCA Commons members and DOE-funded entities indicates that LCA is critical to the path forward.
 
+<br>
+<br>
+
+![](../../images/Coord_bubble_chart.png)
+<br>
+<br>
+**_Figure 3. LCA Studies by Federal LCA Commons Members, DOE Agencies, and National Laboratories Relevant to EERE Mission-Critical Operations_**
+(Bubble size represents number of studies performed and color correlates to specific agency or lab; total is 389 studies; see bibliography in Appendix G)
+<br>
+<br>
+<br>
+![](../../images/Coord_bubble_chart_legend.png)
+<br>
+<br>
+
+
+**_Table 3. Legend to Figure 3. Bubble Chart LCA Studies by Federal LCA Commons Members &amp; DOE Agencies_**
+<br>
+<br>
+<br>
+<br>
+
+
 # Conclusion
 
 This report describes the mission of the DOE EERE and the relevance of the LCA methodology and the Federal LCA Commons to this mission. An overview of the LCA methodology, its history in the US, current standards, and practical applications shows that LCA is useful in supporting EERE mission objectives. In response to open government initiatives and multi-agency collaboration, the Federal LCA Commons is advancing new data format and documentation standards. Recent developments include converting multiple agency databases to a common repository, the Federal LCA Commons Collaboration Server. The now multi-agency, public repository is focusing on harmonizing digital data access and preservation to increase the collaboration potential and reviewability of the LCA data exchange process.
@@ -75,12 +98,12 @@ This report describes the mission of the DOE EERE and the relevance of the LCA m
 As federal efforts and protocols are aligned, existing federal data pools can be mined to expand LCI databases and improve data completeness. Larger, more complete databases using a common format and access portal will make a quantum leap toward achieving interoperability and transparency criteria in federally available life cycle data.
 
 The coordination and standardization efforts improve the uniformity and transparency of the LCI data, which progresses the reliability of LCA study results incorporating these data. Improved reliability and public access to US LCI information paves the way to higher quality, lower cost US LCA studies with fewer misinterpretation errors and uncertainty due to data gaps; an outcome that has great potential to support US industry competitiveness.
+<br>
+<br>
+<br>
 
-**Figure**  **3****. LCA Studies by Federal LCA Commons Members, DOE Agencies, and National Laboratories Relevant to EERE Mission-Critical Operations**
 
- (Bubble size represents number of studies performed and color correlates to specific agency or lab; total is 389 studies; see bibliography in Appendix G)
 
-**Table**  **3****. Legend to Figure 3. Bubble Chart LCA Studies by Federal LCA Commons Members &amp; DOE** Agencies
 
 
 [**_Return to TOC_**](./toc.md)
