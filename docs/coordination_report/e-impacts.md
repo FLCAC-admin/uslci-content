@@ -1,48 +1,47 @@
-# Appendix E – LCIA Impact Categories
+# Appendix E â€“ LCIA Impact Categories
 
-[**_Return to TOC_**](./2019_Coordination_Report.md)
+[**_Return to TOC_**](./toc.md)
+<br>
 
 
-**Table 7. LCIA Impact Categories**
+
+## Table 7. LCIA Impact Categories**
 
 | Model/Method | LCIA Impact Category | Units |
 | --- | --- | --- |
-|
-TRACI Midpoint19,20
- | Acidification Potential | kilograms SO2 eq |
-| Ecotoxicity | comparative toxic units (CTUe) |
-| Eutrophication Potential | kilograms N eq |
-| Global Warming Potential | kilograms CO2 eq |
-| Human Health - Carcinogenics | comparative toxic units (CTUh) |
-| Human Health – Non-Carcinogenics | comparative toxic units (CTUh) |
-| Ozone Depletion Potential | kilograms CFC-11 eq |
-| Photochemical Ozone Creation Potential (Smog) | kilograms O3 eq |
-| Resource Depletion Potential (Fossil Fuels) | Mega Joules surplus |
-| Respiratory Effects | kilograms PM2.5 eq |
-|
-ReCiPe Midpoint21
- | Agricultural Land Occupation | (area per year) M2\*a |
-| Climate Change | (kilograms CO2 eq) |
-| Fossil Depletion | kilograms oil eq |
-| Freshwater ecotoxicity | kilograms 1,4-DB eq |
-| Freshwater eutrophication | kilogram P eq |
-| Human Toxicity | kilogram 1,4-DB eq |
-| Ionising Radiation | kilogram U235 eq |
-| Marine Ecotoxicity | kilogram 1,4-DB eq |
-| Marine Eutrophication | kilogram N eq |
-| Metal Depletion | kilogram Fe eq |
-| Natural Land transformation | m2 |
-| Ozone Depletion | kilogram CFC-11 eq |
-| Particulate Matter Formation | kilogram PM10 eq |
-| Photochemical Oxidant Formation | kilogram NMVOC |
-| Terrestrial Acidification | kilogram SO2 |
-| Terrestrial Ecotoxicity | kilogram 1,4-DB-eq |
-| Urban Land Occupation | m2\*a |
-| Water Depletion | m3 |
-|
-ReCiPe Endpoint22
- | Ecosystems – total | species/year |
-| Human Health – total | DALY |
-| Resources - total | $ |
+|TRACI Midpoint | Acidification Potential | kilograms SO2 eq |
+|TRACI Midpoint | Ecotoxicity | comparative toxic units (CTUe) |
+|TRACI Midpoint | Eutrophication Potential | kilograms N eq |
+|TRACI Midpoint | Global Warming Potential | kilograms CO2 eq |
+|TRACI Midpoint | Human Health - Carcinogenics | comparative toxic units (CTUh) |
+|TRACI Midpoint | Human Health â€“ Non-Carcinogenics | comparative toxic units (CTUh) |
+|TRACI Midpoint | Ozone Depletion Potential | kilograms CFC-11 eq |
+|TRACI Midpoint | Photochemical Ozone Creation Potential (Smog) | kilograms O3 eq |
+|TRACI Midpoint | Resource Depletion Potential (Fossil Fuels) | Mega Joules surplus |
+|TRACI Midpoint | Respiratory Effects | kilograms PM2.5 eq |
+|ReCiPe Midpoint | Agricultural Land Occupation | (area per year) M2\*a |
+|ReCiPe Midpoint | Climate Change | (kilograms CO2 eq) |
+|ReCiPe Midpoint | Fossil Depletion | kilograms oil eq |
+|ReCiPe Midpoint | Freshwater ecotoxicity | kilograms 1,4-DB eq |
+|ReCiPe Midpoint | Freshwater eutrophication | kilogram P eq |
+|ReCiPe Midpoint | Human Toxicity | kilogram 1,4-DB eq |
+|ReCiPe Midpoint | Ionising Radiation | kilogram U235 eq |
+|ReCiPe Midpoint | Marine Ecotoxicity | kilogram 1,4-DB eq |
+|ReCiPe Midpoint | Marine Eutrophication | kilogram N eq |
+|ReCiPe Midpoint | Metal Depletion | kilogram Fe eq |
+|ReCiPe Midpoint | Natural Land transformation | m2 |
+|ReCiPe Midpoint | Ozone Depletion | kilogram CFC-11 eq |
+|ReCiPe Midpoint | Particulate Matter Formation | kilogram PM10 eq |
+|ReCiPe Midpoint | Photochemical Oxidant Formation | kilogram NMVOC |
+|ReCiPe Midpoint | Terrestrial Acidification | kilogram SO2 |
+|ReCiPe Midpoint | Terrestrial Ecotoxicity | kilogram 1,4-DB-eq |
+|ReCiPe Midpoint | Urban Land Occupation | m2\*a |
+|ReCiPe Midpoint | Water Depletion | m3 |
+|ReCiPe Endpoint | Ecosystems â€“ total | species/year |
+|ReCiPe Endpoint| Human Health â€“ total | DALY |
+|ReCiPe Endpoint| Resources - total | $ |
+<br>
+<br>
 
-[**_Return to TOC_**](./2019_Coordination_Report.md)
+
+[**_Return to TOC_**](./toc.md)
