@@ -11,13 +11,12 @@
 
 | Year | Initiative | Origination | Mission |
 | --- | --- | --- | --- |
-| 1973 |&#39;Project Independence&#39;|Energy Policy Office (EPO) | US energy independence by 1980 |
+| 1973 |&#39;Project Independence&#39|Energy Policy Office (EPO)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | US energy independence by 1980&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | 1973-1975 |Establish predecessor agencies |<ul><li>Federal Energy Administration (FEA)</li><li>Energy Research &amp; Development Administration (ERDA)</li><li>Energy Resource Council (ERC)</li></ul> | Broad energy conservation &amp; long-term planning  |
 | 1975 |Energy Policy &amp; Conservation Act |Executive branch | Increase energy production/supply, reduce demand, provide efficiency, and give exec. branch power to respond to supply disruptions |
 | 1975 |Federal Energy Management Program (FEMP) |EERE | Program to help federal agencies meet energy- and water-reduction requirements and goals; over time has reduced energy intensity of facilities by 49% |
 | 1977 | Establish Federal Solar Energy Research Institute (SERI) |Executive branch | Identify and improve ways to harness solar energy |
-| 1978 |National Energy Act includes Energy Tax Act- National Conservation Policy Act |Office of Conservation and Solar Energy (CSE)
-| Promote fuel efficiency and renewable energy tax credits and establish CSE; subsidies for alternative fuels |
+| 1978 |<ul><li>National Energy Act includes Energy Tax Act</li><li>National Conservation Policy Act</li></ul> | Office of Conservation and Solar Energy (CSE)| Promote fuel efficiency and renewable energy tax credits and establish CSE; subsidies for alternative fuels |
 | 1980 |Energy Security Act:- Renewable Energy Resources Act- Solar Energy &amp; Solar Conservation Bank Act- Geothermal Energy Act- Ocean Thermal Energy Conversion Act |Executive branch |   |
 | 1981 |CSE renamed |Office of Conservation &amp; Renewable Energy (CRE) | Broaden CSE mission |
 | 1991 |National Renewable Energy Laboratory (NREL) established |EERE | SERI elevated to national lab status for state-of-the-art research in solar and renewable energy technologies |
@@ -37,13 +36,13 @@
 | 2013 |Clean Energy Manufacturing Initiative (CEMI) |DOE-wide commitment | Boosting competiveness through improvements in manufacturing energy productivity |
 | 2013 |Climate Action Plan: Strategy to Reduce Methane Emissions |Executive branch | Numerous renewable energy and energy efficiency initiatives |
 | 2014 |2014-2018 Strategic Plan |DOE | Supporting Climate Action Plan with development, deployment, and efficient use of clean energy technologies, new jobs, and industries |
-| 2014 |Geothermal research facility |- Frontier Observatory for Research in Geothermal Energy (FORGE) | Launch research site to develop and test new geothermal technologies |
-| 2015 |Clean Energy Investment Initiative |- DOE in partnership with private sector | Catalyze $2 b private sector investment to address climate change |
+| 2014 |Geothermal research facility |Frontier Observatory for Research in Geothermal Energy (FORGE) | Launch research site to develop and test new geothermal technologies |
+| 2015 |Clean Energy Investment Initiative |DOE in partnership with private sector | Catalyze $2 b private sector investment to address climate change |
 | 2015 |Wind Vision Report |- EERE | Analysis of US wind energy industry through 2050 |
-| 2016 |Mission Innovation during the COP21 |- EERE contribution to the Paris Agreement | Address global climate change, provide affordable clean energy to consumers across the globe and create additional commercial opportunities in clean energy |
-| 2016 |National Lab Impact Summit- National Laboratory Impact Initiative |- EERE | Celebrate National Lab successes in helping businesses better use national lab resources and emphasize product commercialization; plan for next stages |
-| 2016 |Hydropower Vision |- EERE&#39;s Water Power Program | Roadmap to grow sustainable domestic hydropower in next 50 years || 2016 |- On the Path to SunShot: The Environmental and Public Health Benefits of Achieving High Solar Penetrations in the United States |- NREL | Analysis of cost reductions resulting from solar energy technologies deployment in the US energy market |
-| 2016 |A Retrospective Analysis of Benefits and Impacts of US Renewable Portfolio Standards (RPS) |- NREL &amp; Lawrence Berkeley National Laboratory | Examines the efficacy of state RPSs based on RPS compliance costs, resulting environmental benefits accrued to society, and impacts in terms of resource transfers between markets segments |
+| 2016 |Mission Innovation during the COP21 |EERE contribution to the Paris Agreement | Address global climate change, provide affordable clean energy to consumers across the globe and create additional commercial opportunities in clean energy |
+| 2016 |National Lab Impact Summit- National Laboratory Impact Initiative |EERE | Celebrate National Lab successes in helping businesses better use national lab resources and emphasize product commercialization; plan for next stages |
+| 2016 |Hydropower Vision |EERE&#39;s Water Power Program | Roadmap to grow sustainable domestic hydropower in next 50 years || 2016 |- On the Path to SunShot: The Environmental and Public Health Benefits of Achieving High Solar Penetrations in the United States |- NREL | Analysis of cost reductions resulting from solar energy technologies deployment in the US energy market |
+| 2016 |A Retrospective Analysis of Benefits and Impacts of US Renewable Portfolio Standards (RPS) |NREL &amp; Lawrence Berkeley National Laboratory | Examines the efficacy of state RPSs based on RPS compliance costs, resulting environmental benefits accrued to society, and impacts in terms of resource transfers between markets segments |
 
 <br>
 <br>
