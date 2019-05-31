@@ -1,5 +1,5 @@
 # WELCOME TO THE 2019 NREL FEDERAL LCA COMMONS COORDINATION REPORT
-![](../../images/site_hpphoto_buildings_lci.png)
+![](../../images/Coord_report_cover_page.png)
 # Table of Contents
 
 ## [ACRONYMS &amp; ABBREVIATIONS](../00-acronyms.md)
