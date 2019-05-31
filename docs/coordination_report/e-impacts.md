@@ -5,7 +5,7 @@
 
 
 
-## Table 7. LCIA Impact Categories**
+## Table 7. LCIA Impact Categories
 
 | Model/Method | LCIA Impact Category | Units |
 | --- | --- | --- |
