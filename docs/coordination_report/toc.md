@@ -1,7 +1,7 @@
 ![](../../images/Coord_report_cover_page_short.png)
 # Table of Contents
 
-## [ACRONYMS &amp; ABBREVIATIONS](../00-acronyms.md)
+## [ACRONYMS &amp; ABBREVIATIONS](./00-acronyms.md)
 
 ## [PREFACE](./00-preface.md)  
 
