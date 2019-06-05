@@ -45,6 +45,8 @@
 | 2016 |National Lab Impact Summit- National Laboratory Impact Initiative |EERE | Celebrate National Lab successes in helping businesses better use national lab resources and emphasize product commercialization; plan for next stages |
 | 2016 |Hydropower Vision |EERE&#39;s Water Power Program | Roadmap to grow sustainable domestic hydropower in next 50 years || 2016 |- On the Path to SunShot: The Environmental and Public Health Benefits of Achieving High Solar Penetrations in the United States |- NREL | Analysis of cost reductions resulting from solar energy technologies deployment in the US energy market |
 | 2016 |A Retrospective Analysis of Benefits and Impacts of US Renewable Portfolio Standards (RPS) |NREL &amp; Lawrence Berkeley National Laboratory | Examines the efficacy of state RPSs based on RPS compliance costs, resulting environmental benefits accrued to society, and impacts in terms of resource transfers between markets segments |
+| 2017 |USDA, EPA, DOE & NIST sign memorandum of agreement (MOU) | DOE, USDA, EPA & NIST | To formerly establish a working relationship to collaborate on the development of environmental data, research, and information systems |
+
 
 <br>
 <br>
