@@ -14,7 +14,27 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 ###### Table 1. USLCI Change Log
 
 | Release | File Type | Change Type | File Name | UUID | Description |
-|:---:|:---:|:---:|:---|:---|:--|  
+|:---:|:---:|:---:|:---|:---|:--|
+| FY19.Q2.01 | Process | Revision | Hydrogen, liquid, synthesis gas, at plant | 4eaec911-05e8-304e-b7a6-98ce06fc9820 | Corrected server display of  for missing decimal in carbon dioxide air emissions (i.e., 800000 corrected to 8.00 kg/1kg) |
+| FY19.Q2.01 | Process | Deletion | Crude oil, at refinery | dc72e285-719b-318b-9c9c-c838846a9cf4 | Deleted outdated provider |
+| FY19.Q2.01 | Process | Revision | Petroleum refining, at refinery - RNA | 0aaf1e13-5d80-37f9-b7bb-81a6b8965c71 | Physical allocation applied as a default |
+| FY19.Q2.01 | Process | Revision | Dry rough lumber, at kiln, US PNW - RNA | 6951704b-be4b-313d-9965-8561760f733f | Physical allocation applied as a default |
+| FY19.Q2.01 | Process | Revision | Dry rough lumber, at kiln, US SE - RNA | f337d438-49db-3078-b1dd-3e6e7ca1e9b5 | Physical allocation applied as a default |
+| FY19.Q2.01 | Process | Revision | Railroad tie, hardwood, rough, green, at sawmill, SE - RNA | bbb16d92-dd0c-33c5-92c7-feca45646d83 | Physical allocation applied as a default |
+| FY19.Q2.01 | Process | Revision | Railroad ties, hardwood, creosote treated, SE | a24e59f5-c156-398d-9a15-7d853ef2bf37 | Physical allocation applied as a default |
+| FY19.Q2.01 | Process | Deletion | Acrylonitrile-butadiene-styrene copolymer, resin, at plant | cd082abe-1655-3803-9a92-e951947a3034 | Deleted outdated provider |
+| FY19.Q2.01 | Process | Deletion | Methylene diphenyl diisocyanate, resin, at plant | 8b7ca8cd-d3f5-32de-acd1-866da60df926 | Deleted outdated provider |
+| FY19.Q2.01 | Process | Deletion | Polyethylene terephthalate, resin, at plant | 7b69255a-a7b2-318e-9433-54b7c4d13ece | Deleted outdated provider |
+| FY19.Q2.01 | Process | Deletion | Polyethylene, high density, resin, at plant | d7c36a39-fdcc-3eb8-a8cd-c6c2b5a11c9a | Deleted outdated provider |
+| FY19.Q2.02 | Process | Deletion | Polyethylene, linear low density, resin, at plant | 22b1bab0-c987-3728-9c44-f383f9ef98c7 | Deleted outdated provider |
+| FY19.Q2.03 | Process | Deletion | Polyethylene, low density, resin, at plant | 05561830-e889-31a3-b2be-7c52ee2ea545 | Deleted outdated provider | 
+| FY19.Q2.04 | Process | Deletion | Polyol ether, for flexible foam polyurethane production, at plant | 51f92626-bf53-307b-9f7b-50c1c64ee887 | Deleted outdated provider |
+| FY19.Q2.05 | Process | Deletion | Polyol ether, for rigid foam polyurethane production, at plant | 7f4424b8-da85-3804-ad14-2650343af83c | Deleted outdated provider |
+| FY19.Q2.06 | Process | Deletion | Polystyrene, general purpose, at plant | dc8ba0cc-e7bb-3e8f-8d07-39f2e873dd24 | Deleted outdated provider |
+| FY19.Q2.07 | Process | Deletion | Polystyrene, high impact, resin, at plant | e10de570-42e6-3cb6-98fe-7bf6da57046c | Deleted outdated provider |
+| FY19.Q2.08 | Process | Deletion | Polyvinyl chloride, resin, at plant | b19fe3da-392e-36af-9342-910be1d2160a | Deleted outdated provider |
+| FY19.Q2.09 | Process | Deletion | Toluene diisocyanate, at plant | 268e1ddf-197a-37d5-b229-e559c2d6c677 | Deleted outdated provider |
+| FY19.Q2.01 | Process | Revision | Hydrogen, liquid, synthesis gas, at plant | 4eaec911-05e8-304e-b7a6-98ce06fc9820 | Corrected server display of  for missing decimal in carbon dioxide air emissions (i.e., 800000 corrected to 8.00 kg/1kg) |
 | FY18.Q3.01 | Process | New content | Printer, AltaLink B8045/55, multi-functional device (MFD) | 50356d14-b626-4a38-babf-bf5657d08358 | - |
 | FY18.Q3.01 | Process | Revision | Corrugated product, 100% recycled, at mill |   | Update to and replacement for the similarly named 2010 process |
 | FY18.Q3.01 | Process | Revision | Corrugated product, average production, at mill |   | Update to and replacement for the similarly named 2010 process |
