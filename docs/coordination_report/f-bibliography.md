@@ -512,7 +512,17 @@ _LBNL (2017) IEA EBC Annex 66: Definition and simulation of occupant behavior in
 
 _NIST (2010) Building for Environmental and Economic Sustainability (BEES);_ [https://www.nist.gov/services-resources/software/bees](https://www.nist.gov/services-resources/software/bees)_._
 
+_NIST (2014)__Environmental Performance of Green Building Code and Certification Systems, Environmental Science &amp; Technology 48(5): 2551-2560._[https://www.ncbi.nlm.nih.gov/pubmed/24483287](https://www.ncbi.nlm.nih.gov/pubmed/24483287).
+
+_NIST (2015) Sustainability Performance of the NIST Net Zero Energy Residential Test Facility Relative to a Maryland Code Compliant Design, National Institute of Standards and Technology, US Department of Commerce._ [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1187.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1187.pdf)
+
+_NIST (2016) Evaluating the Sustainability Performance of Alternative Residential Building Designs using the BIRDS Low-Energy Residential Database, National Institute of Standards and Technology, US Department of Commerce._ [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1205.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1205.pdf)
+
+_NIST (2017) An exploration of the relationship between improvements in energy efficiency and life-cycle energy and carbon emissions using the BIRDS low-energy residential database, Energy and Buildings 160: 19-33._ [https://www.sciencedirect.com/science/article/pii/S0378778817315086](https://www.sciencedirect.com/science/article/pii/S0378778817315086).
+
 _NIST (2017) Building Industry Reporting and Design for Sustainability (BIRDS);_ [https://ws680.nist.gov/Birds/Home/Index](https://ws680.nist.gov/Birds/Home/Index)_._
+
+_NIST (2019) Gas vs. electric: Heating system fuel source implications on low-energy single-family dwelling sustainability performance, Journal of Building Engineering 25: 1-13._ [https://www.sciencedirect.com/science/article/pii/S2352710218314633](https://www.sciencedirect.com/science/article/pii/S2352710218314633).
 
 _ORNL (2013) Interactive Effects of Environmental Change and Management Strategies on Regional Forest Carbon Emissions;_ [https://pubs.acs.org/doi/abs/10.1021/es402903u](https://pubs.acs.org/doi/abs/10.1021/es402903u)_._
 
