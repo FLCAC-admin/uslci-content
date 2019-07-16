@@ -71,7 +71,7 @@ The broad coverage of EERE mission-critical support operations by Federal LCA Co
 <br>
 <br>
 
-![](../../images/Coord_bubble_chart.png)
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Coordination_Bubble_Chart_w_Total_%20July.png)
 <br>
 <br>
 **_Figure 3. LCA Studies by Federal LCA Commons Members, DOE Agencies, and National Laboratories Relevant to EERE Mission-Critical Operations_**
