@@ -21,7 +21,7 @@
 
 #### [2.1        Supporting the EERE Mission](02-benefits.md#21-supporting-the-eere-mission)
 
-#### [2.2        Federally-Funded LCA Studies &amp; DatA](02-benefits.md#22-federally-funded-lca-studies--data)
+#### [2.2        Federally-Funded LCA Studies &amp; Data](02-benefits.md#22-federally-funded-lca-studies--data)
 
 #### [2.3        Conclusion](02-benefits.md#conclusion)
 
