@@ -4,7 +4,7 @@ USLCI Release Downloads
 
 This page contains dowloads for the [US Life Cycle Inventory Database (USLCI)](https://www.nrel.gov/lci/) release downloads in various data formats. It is intended to support the USLCI data submission process.
 
-The USLCI Database repository and individual datasets are also available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** buttom to the right of any element, and selecting the desired format (JSON-LD or ILCD).
+The USLCI Database repository and individual datasets are also available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** button to the right of any element, and selecting the desired format (JSON-LD or ILCD).
 
 
 [Table 1](release-downloads.md#table-1-uslci-release-downloads) contains download links for each USLCI release in three data formats: 
