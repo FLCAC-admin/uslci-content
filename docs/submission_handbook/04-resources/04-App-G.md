@@ -19,10 +19,13 @@ You will be re-directed to this page:
 **_STEP 1b: View the Pedigree Matrix files on the LCA Collaboration Server developed by GreenDelta_**
 <br>
 <br>
+<br>
+
 You may then download the JSON-LD file for each matrix and leave it zipped:
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/EPA%20Pedigree%20Matrix%20Download.png)
-**_STEP 1c: Download the Pedigree Matrix files and leave them zipped
+**_STEP 1c: Download the Pedigree Matrix files and leave them zipped_**
+
 
 
 <br>
