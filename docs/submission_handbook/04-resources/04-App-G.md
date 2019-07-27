@@ -7,7 +7,24 @@
 You may download the US EPA Data Quality Matrix from the [openLCA Downloads](https://www.openlca.org/download/) page.
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/1_openLCA_Downloads_Page_EPA_DQ_Matrix.png)
-**_STEP 1: Downloading the US EPA Data Quality Pedigree Matrix Zip File from openLCA Downloads_**
+**_STEP 1a: Navigate to the US EPA Data Quality Pedigree Matrix from openLCA Downloads_**
+
+<br>
+<br>
+
+You will be re-directed to this page:
+
+
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/EPA%20Matrix%20-%20GD%20CS%20Redirect%20Page.png)
+**_STEP 1b: View the Pedigree Matrix files on the LCA Collaboration Server developed by GreenDelta_**
+<br>
+<br>
+You may then download the JSON-LD file for each matrix and leave it zipped:
+
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/EPA%20Pedigree%20Matrix%20Download.png)
+**_STEP 1c: Download the Pedigree Matrix files and leave them zipped
+
+
 <br>
 <br>
 <br>
@@ -19,7 +36,7 @@ To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** 
 * You may then select **_Linked Data (JSON-LD)_** as the file type and click **_"Next."_** 
 * In the **_"Choose Directory,"_** field, designate your **_"Downloads"_** folder and the **_"USEPA\_DataQualitySchemes\_JSON-LDforopenLCA1.6.zip"_** file you just downloaded should appear as an option.
 
-![](https://github.com/uslci-admin/uslci-content/blob/dev/images/2_Importing_EPA_DQ_Matrix.png)
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/EPA%20Matrix%20-%20olca%20import.png)
 **_STEP 2: Importing the US EPA Data Quality Pedigree Matrix Zip File into openLCA_**
 <br>
 <br>
