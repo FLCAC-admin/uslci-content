@@ -34,10 +34,11 @@ You may then download the JSON-LD file for each matrix and leave it zipped:
 
 ## Step 2: IMPORT THE MATRIX
 
-To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** you must import it for each database in which you wish to use this pedigree matrix (as the only default matrix available is that from ecoinvent). 
+To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** you must import both files for each database in which you wish to use this pedigree matrix (as the only default matrix available is that from ecoinvent). 
 * Thus, you can open the database of interest in openLCA, right-click on the database name, and select **_"Import."_** 
 * You may then select **_Linked Data (JSON-LD)_** as the file type and click **_"Next."_** 
-* In the **_"Choose Directory,"_** field, designate your **_"Downloads"_** folder and the **_"USEPA\_DataQualitySchemes\_JSON-LDforopenLCA1.6.zip"_** file you just downloaded should appear as an option.
+* In the **_"Choose Directory,"_** field, designate your **_"Downloads"_** folder and the **_“d13b2bc4-5e84-4cc8-a6be-9101ebb252ff….zip”_** and **_“70bf370f-9912-4ec1-baa3-fbd4eaf85a10….zip“_** files you just downloaded should appear as an option. Select each file and click **_"Finish."_** The Pedigree Matrix files are not very large so should import very quickly.
+
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/EPA%20Matrix%20-%20olca%20import.png)
 **_STEP 2: Importing the US EPA Data Quality Pedigree Matrix Zip File into openLCA_**
@@ -47,7 +48,6 @@ To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** 
 
 ## Step 3:DESIGNATE THE MATRIX INSIDE EACH PROCESS
 
-* Select the **_"USEPA\_DataQualitySchemes\_JSON-LDforopenLCA1.6.zip"_** file and click **_"Finish."_** The Pedigree Matrix file is not very large so should import very quickly. 
 * Next, open your process of interest and on the first **_"General Information"_** tab, you may scroll down to the **_"Data quality"_** section and **_"Process schema"_** field. There is a drop-down menu and the **_"US EPA – Process Pedigree Matrix"_** should now be an option you may select. 
 * You will also want to go to the **_"Flow schema"_** field just below and select **_"US EPA – Flow Pedigree Matrix"_** from its drop-down menu such that you can elect data quality indicators at both the process and flow levels.
 
