@@ -40,7 +40,7 @@ This set of tables includes the following conventions for this tab in openLCA:
 
 | Field Name | Convention | Examples |
 |:---:|:-----|:---------|
-|(M) Reviewer|Reference to the openLCA Actor who reviewed the dataset.|_Jay Mathewson_|
+|(M) Reviewer|Reference to the person(s) performing review on the publication source of the dataset(s). If the person is not yet an openLCA Actor, they may be added as an openLCA element so as to be selected for this field.|_Jay Mathewson_|
 |(O) Data set other evaluation|Additional review information pertaining to the dataset (e.g., single or panel review, internal or third party, data entry proofreading, mass balance verification, data documentation review, etc.).|_The LCA study that produced this unit process was critically reviewed per ISO 14040 and 14044 standards by Dr. Thomas Gloria of Industrial Ecology Consultants._|
 
 <br>
