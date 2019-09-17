@@ -11,9 +11,9 @@ See the [USLCI Data Submission Guidelines: Syncing to FLCAC](https://github.com/
 
 ## ALTERNATIVELY: Manual Download & Import
 
-Alternatively, you may download the US EPA Data Quality Matrix directly from the [openLCA Downloads](https://www.openlca.org/download/) page.
+Alternatively, you may download the US EPA Data Quality Matrix directly from the [openLCA Downloads](https://www.openlca.org/download/) page. You may choose this procedure if you are not using the FLCAC Starter Database but you still want to use the EPA Data Quality system in an openLCA database.
 
-### Step 1: USE THE FLCAC STARTER DATABASE OR DOWNLOAD THE MATRIX DIRECTLY
+### Step 1: MANUAL USE OF THE MATRIX
 
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/1_openLCA_Downloads_Page_EPA_DQ_Matrix.png)
