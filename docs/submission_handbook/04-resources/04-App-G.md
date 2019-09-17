@@ -3,7 +3,11 @@
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
 
 ## RECOMMENDED: [Use the FLCAC Starter Database](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md)
-You may simply use the Federal LCA Commons (FLCAC) Starter Database that already contains the Matrix and updated FLCAC repo data folder structures and move to [STEP 4]. Simply, navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration). Select the _**Federal_LCA_Commons**_ group and the _**Fed_Commons_Core_Database**_ repo. Download the repository as JSON-LD files and import into an empty database in openLCA. See the [USLCI Guidelines Appendix H](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md) for complete instructions on how to use the FLCAC Starter Database and import FLCAC repo data.
+You may simply use the Federal LCA Commons (FLCAC) Starter Database that already contains the Matrix and updated FLCAC repo data folder structures and move to [STEP 4: Selecting Process Indicators](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-G.md#step-4-select-process-indicators). 
+
+Simply, navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration). Select the _**Federal_LCA_Commons**_ group and the _**Fed_Commons_Core_Database**_ repo. Download the repository as JSON-LD files and import into an empty database in openLCA. 
+
+See the [USLCI Data Submission Guidelines: Syncing to FLCAC](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md) for complete instructions on how to use the FLCAC Starter Database and sync FLCAC repo data.
 
 ## ALTERNATIVELY: Manual Download & Import
 
