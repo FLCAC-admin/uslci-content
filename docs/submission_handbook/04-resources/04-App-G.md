@@ -2,9 +2,15 @@
 
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
 
-## Step 1: DOWNLOAD THE MATRIX
+## RECOMMENDED: [Use the FLCAC Starter Database](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md)
+You may simply use the Federal LCA Commons (FLCAC) Starter Database that already contains the Matrix and updated FLCAC repo data folder structures and move to [STEP 4]. Simply, navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration). Select the _**Federal_LCA_Commons**_ group and the _**Fed_Commons_Core_Database**_ repo. Download the repository as JSON-LD files and import into an empty database in openLCA. See the [USLCI Guidelines Appendix H](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md) for complete instructions on how to use the FLCAC Starter Database and import FLCAC repo data.
 
-You may download the US EPA Data Quality Matrix from the [openLCA Downloads](https://www.openlca.org/download/) page.
+## ALTERNATIVELY: Manual Download & Import
+
+Alternatively, you may download the US EPA Data Quality Matrix directly from the [openLCA Downloads](https://www.openlca.org/download/) page.
+
+### Step 1: USE THE FLCAC STARTER DATABASE OR DOWNLOAD THE MATRIX DIRECTLY
+
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/1_openLCA_Downloads_Page_EPA_DQ_Matrix.png)
 **_STEP 1a: Navigate to the US EPA Data Quality Pedigree Matrix from openLCA Downloads_**
@@ -32,7 +38,7 @@ You may then download the JSON-LD file for each matrix and leave it zipped:
 <br>
 <br>
 
-## Step 2: IMPORT THE MATRIX
+### Step 2: IMPORT THE MATRIX
 
 To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** you must import both files for each database in which you wish to use this pedigree matrix (as the only default matrix available is that from ecoinvent). 
 * Thus, you can open the database of interest in openLCA, right-click on the database name, and select **_"Import."_** 
@@ -46,7 +52,7 @@ To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** 
 <br>
 <br>
 
-## Step 3:DESIGNATE THE MATRIX INSIDE EACH PROCESS
+### Step 3: DESIGNATE THE MATRIX INSIDE EACH PROCESS
 
 * Next, open your process of interest and on the first **_"General Information"_** tab, you may scroll down to the **_"Data quality"_** section and **_"Process schema"_** field. There is a drop-down menu and the **_"US EPA – Process Pedigree Matrix"_** should now be an option you may select. 
 * You will also want to go to the **_"Flow schema"_** field just below and select **_"US EPA – Flow Pedigree Matrix"_** from its drop-down menu such that you can elect data quality indicators at both the process and flow levels.
@@ -62,7 +68,7 @@ To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** 
 <br>
 
 
-## Step 4: SELECT PROCESS INDICATORS
+### Step 4: SELECT PROCESS INDICATORS
 
 Now, at the **_"Data quality entry"_** field, you may select the **_"not specified"_** hyperlink (still on the first **_"General information"_** tab in the **_"Data quality"_** section). You should now be able click on matrix cells to select entries for **_"Process Review"_** and **_"Process Completeness"_** data quality indicators.
 
@@ -80,7 +86,7 @@ Now, at the **_"Data quality entry"_** field, you may select the **_"not specifi
 <br>
 
 
-## Step 5: SELECT FLOW INDICATORS
+### Step 5: SELECT FLOW INDICATORS
 
 You may now go to the **_"Data quality entry"_** column of any input or output flow on the **_"Inputs/Outputs"_** tab to select entries for the following data quality categories:
 
