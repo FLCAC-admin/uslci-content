@@ -62,7 +62,7 @@ Here is a detailed [TABLE OF CONTENTS](#toc).
   * [2017 NAICS United States Structure](./04-resources/04-App-E.md)
   * [Example openLCA Element Addition](./04-resources/04-App-F.md)
   * [Using the EPA Data Quality Pedigree Matrix in openLCA](./04-resources/04-App-G.md)
-  * [Syncing a Federal LCA Commons Repository to openLCA Desktop](./04-resources/04-App-H.md)
+  * [Starter Database & Syncing Repo Data to openLCA Desktop](./04-resources/04-App-H.md)
   
   <br>
   <br>
