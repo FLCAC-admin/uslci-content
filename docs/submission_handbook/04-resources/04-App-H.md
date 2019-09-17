@@ -4,21 +4,21 @@
 
 The following procedure demonstrates how to fetch the latest data from a repository on the Federal LCA Commons Collaboration Server using the NREL USLCI Database as an example.
 
-## Step 1: CREATE A DATABASE IN DESKTOP OPENLCA APP
+## Step 1: CREATE AN EMPTY DATABASE IN DESKTOP OPENLCA APP
 
-First, create a separate database in your openLCA desktop application to which to match the server repository data (e.g., USCLI). In this way, you can always keep a clean, updated copy of the repository for use in other projects (i.e., via import). 
+First, create an empty database in your openLCA desktop application into which you will import the FLCAC Starter Database and desired repository data (e.g., USCLI). In this way, you can always keep a clean, updated copy of the repository for use in other projects (i.e., via import). 
 
-![](https://github.com/uslci-admin/uslci-content/blob/dev/images/1.%20olca%20create%20or%20rename%20db%20after%20server%20repository.png)
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Create_empty_database.png)
 
-**_STEP 1: Create or Rename a database in your openLCA desktop app into which you will import the repository_**
+**_STEP 1: Create an empty database in your openLCA desktop app into which you will import the Starter & desired repo datasets_**
 <br>
 <br>
 <br>
 
 
-## Step 2: DOWNLOAD REPOSITORY FROM COLLABORATION SERVER
+## Step 2: DOWNLOAD STARTER & DESIRED REPOSITORIES FROM COLLABORATION SERVER
 
-Navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) and select from which group and which repository you wish to download.
+Navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration). Select the _**Federal_LCA_Commons**_ group and the _**Fed_Commons_Core_Database**_ repo. Download the repository as JSON-LD files. Next, select from which group and which repository you wish to download.
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/2.%20Downloading%20from%20FLCAC.png)
 
@@ -27,7 +27,7 @@ Navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommon
 <br>
 <br>
 
-Choose to download the **_"Repository as JSON-LD"_** and save the file somewhere. Leave the file compressed. You will import it in its compressed format into the openLCA desktop app.
+For both the Starter Database and desired repo datasets, choose to download the **_"Repository as JSON-LD"_** and save the files somewhere. Leave the files compressed. You will import them in their compressed format into the empty database you created in your openLCA desktop app.
 <br>
 <br>
 <br>
@@ -53,7 +53,7 @@ In the openLCA desktop app, select the database you created for this import and 
 
 ## Step 4: USE THE REPOSITORY IN OPENLCA
 
-Now you have a clean copy (as a separate database) of the Commons repository.  You can use this data in any of your projects by importing an **_“entire database”_** of an **_“existing database”_** and select the clean copy for import into your project database.
+Now you have a clean copy (as a separate database) of the desired Commons repository.  You can use this data in any of your projects by importing an **_“entire database”_** of an **_“existing database”_** and select the clean copy for import into your project database.
 
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/6.%20Import%20entire%20database.png)
