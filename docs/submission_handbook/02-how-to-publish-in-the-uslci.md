@@ -62,7 +62,6 @@ Each of the five phases is discussed in detail below but a quick overview of the
 - [ ] Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min)
 - [ ] Download the openLCA software and install it on your computer
 - [ ] Download the current [FLCAC Starter database](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md) and [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import into openLCA
-- [ ] Download the [US EPA’s data quality system](http://www.openlca.org/download/) and import it into openLCA
 - [ ] Kick-off Meeting with NREL
 - [ ] Edit your unit processes/product system in openLCA
 - [ ] Export your edits as JSON-LD files and submit to NREL on GitHub
