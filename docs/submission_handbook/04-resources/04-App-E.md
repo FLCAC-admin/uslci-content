@@ -4,7 +4,9 @@
 
 The following page contains a summary table of the 2017 North American Industry Classification System (NAICS) United States structure. This table shows the counts of subsectors, industry groups, industries, and United States detail industries for each of the NAICS sectors. This list displays the codes and official full titles for the sectors, subsectors, and industry groups. A &quot;T&quot; superscript on the title indicates a level at which Canada, Mexico, and the United States formally agreed to maintain comparability. Detail below that level may or may not be comparable to detail for one or both of the other countries.
 
-The complete table with industries and United States detail industries may be found at: [**census.gov/naics**](http://census.gov/naics) **.**
+The complete table with industries and United States detail industries (along with the 2017 NAICS manual) may be found at the: [**US Census Bureau NAICS Index**](https://www.census.gov/eos/www/naics/index.html) **.**
+
+
 
 ### Sector 11--Agriculture, Forestry, Fishing and Hunting <sup>T</sup>
 
