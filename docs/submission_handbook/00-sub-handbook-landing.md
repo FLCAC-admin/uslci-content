@@ -4,7 +4,7 @@
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
 
-This Data Submission Handbook for the [U.S. Life Cycle Inventory Database (USLCI)][uslci] is part of the [USLCI Content Repository](https://github.com/uslci-admin/uslci-content/wiki) and is intended to support the USLCI data submission process. **Note this is a living document and is being updated as the Federal LCA Commons data submission process evolves.**
+This Data Submission Handbook for the [U.S. Life Cycle Inventory Database (USLCI)][uslci] is part of the [USLCI Content Repository](https://github.com/uslci-admin/uslci-content/wiki) and is intended to support the USLCI data submission process. The National Renewable Energy Lab (NREL), in partnership with the USDA National Agricultural Library (NAL), has developed this comprehensive LCI data documentation and publication handbook and implemented a streamlined, transparent, user-focused publication workflow. This handbook outlines how to prepare your data for publication on the USLCI, including: metadata descriptors, nomenclature, categorization, and the representation of flows and processes. There are detailed descriptions on how to use openLCA to prepare your data, and how NREL will support the publication of your work. The USLCI data handbook and publication tools are fully aligned and compliant with the emerging [Federal LCA Commons](https://www.lcacommons.gov/) data guidelines.  **Note this is a living document and is being updated as the Federal LCA Commons data submission process evolves.**
 
 To return to this welcome and navigation page from any page in the handbook, click [**"Return to TOC"**](#toc) at the top or bottom of any of the pages.
 
