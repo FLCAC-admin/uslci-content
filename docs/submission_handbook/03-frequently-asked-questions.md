@@ -63,6 +63,10 @@ NREL and NAL do not claim ownership of the materials (each "Submission" and coll
 
 The data is available for use by anyone and increases data accessibility to the public. Providing the public with quality LCI data increases the level of transparency of LCA studies. Ensuring public LCI data are accompanied with complete documentation (i.e., metadata) enables and promotes the responsible use of the LCI data. A comprehensive and transparent public LCI database has the potential to facilitate more consistent LCA studies verifiable across sectors.
 
+## How do I contact someone for help?
+
+[Contact the USLCI Webmaster](https://www.nrel.gov/lci/contacts.html)
+
 
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
