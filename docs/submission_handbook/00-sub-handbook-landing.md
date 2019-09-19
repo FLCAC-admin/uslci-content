@@ -63,6 +63,7 @@ Here is a detailed [TABLE OF CONTENTS](#toc).
   * [Example openLCA Element Addition](./04-resources/04-App-F.md)
   * [Using the EPA Data Quality Pedigree Matrix in openLCA](./04-resources/04-App-G.md)
   * [Starter Database & Syncing Repo Data to openLCA Desktop](./04-resources/04-App-H.md)
+  * [Contact the USLCI Webmaster](https://www.nrel.gov/lci/contacts.html)
   
   <br>
   <br>
