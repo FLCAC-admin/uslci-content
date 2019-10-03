@@ -19,6 +19,8 @@ The USLCI quarterly update slated for September 30 ocurred on October 3, 2019. S
   
 Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/change-log.md) for details.
 
+The Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may "Browse Repositories" if you want to explore other data becoming available from Federal LCA Commons member agencies.
+
 Additionally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the December 31, 2019 Winter release date. We look forward to hearing from you soon.
 
 Finally, please note that deleted datasets are always still available in an archive managed by NREL (wherein previous USLCI database versions are available at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md)](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md).
