@@ -5,6 +5,24 @@
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
+## 2019 Fall Quarter (September 30)
+The USLCI quarterly update slated for September 30 ocurred on October 3, 2019. Several improvements and additions were made to the database available on the NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) including:
+
+  * Technospheric flows (processes and products) have been re-categorized to be aligned with the NAICS folder structure being adapted by repos of the Federal LCA Commons
+  *  The EPA Data Quality System is now integrated into the USLCI to be aligned with the system being adapted by the repos of the Federal LCA Commons (see the [relevant section in the USLCI Data Submission Guidelines](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-G.md#using-the-us-epa-data-quality-matrix-in-openlca) for details on how to use this system in openLCA)
+  *  Updated PET data (and supply chain links) from NAPCOR/ACC are now available
+  *  New electronic scanner data are available from Kodak-Alaris
+  *  Agricultural, utility, and transport products have been decoupled from the geographic and temporal scope of their parent processes to eliminate duplicate flows and allow end-users to designate a default provider for products having more than one parent process in openLCA
+  *  Several conversion factors have been inserted for natural gas and CO2 emissions corrected for diesel combustion
+  *  Coal extraction data have been phased out as they are now superceded by those available in the [NETL Coal Repository](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Energy_Technology_Lab%2Fcoal_extraction) on the Federal LCA Commons.
+  *  Several outdated and duplicate flows have been eliminated and flow nomenclature improved
+  
+Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/change-log.md) for details.
+
+Additionally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md) in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the December 31, 2019 Winter release date. We look forward to hearing from you soon.
+
+Finally, please note that deleted datasets are always still available in an archive managed by NREL (wherein previous USLCI database versions are available at:[https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md)](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md).
+
 ## 2019 Summer Quarter (June 30)
 The USLCI quarterly update occurred on June 30, 2019. The most recent udate of the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) is now available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), which contains multiple group repositories. For this update, there was a display correction for the hydrogen synthesis dataset, some corrections to the allocation settings for some wood manufacturing processes, and several deletions of old providers. Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/change-log.md) for details.
 
