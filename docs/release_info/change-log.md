@@ -15,7 +15,7 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
-| FY19.Q3.01 | All technospheric flows | Folder &amp; Flow Re-categorization | All technospheric processes and product flows |  ~ 5,000 flows (UUIDs not changed with re-categorization) | Transitioned to using the Federal LCA Commons Core (&quot;Starter&quot;) Database with the NAICS Folder Structure |
+| FY19.Q3.01 | All technospheric flows | Folder &amp; Flow Re-categorization | All technospheric processes and product flows |  ~ 5,000 flows (UUIDs not changed with re-categorization) | Transitioned to using the Federal LCA Commons Core (&quot;Starter&quot;) Database with the NAICS Folder Structure &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | FY19.Q3.01 | Product | Folder arrangement | CUTOFFs Folder | ~ 670 flows (UUIDs not changed with folder rearrangement) | Moved CUTOFF folder to &quot;Technosphere Flows&quot; folder under &quot;Flows&quot; |
 | FY19.Q3.01 | Products | Nomenclature | Flows/Technosphere Flows | ~ 1,000 flows (UUIDs not changed with nomenclature changes) | Primarily agricultural, utilities, and transport products decoupled from their parent processes to eliminate geographic and temporal specificity from the product flow name and eliminate duplicate flows; a default provider may now be selected for products with more than one parent process |
 | FY19.Q3.01 | Indicators &amp; Parameters/Data Quality Systems | Addition | US EPA - Flow Pedigree Matrix | d13b2bc4-5e84-4cc8-a6be-9101ebb252ff | Transitioned to using the Federal LCA Commons Core (&quot;Starter&quot;) Database with the EPA Data Quality System |
@@ -211,8 +211,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY19.Q3.01 | Product | Deletion | Mining truck; Manufacture; For surface mine, at plant; Gross machine operating weight  623,690 kg | 2ed3f4de-b092-4bbf-b47b-27eedc904370 | Phase out coal data as superseded by NETL repo coal data on the Federal LCA Commons |
 | FY19.Q3.01 | Product | Deletion | Track loader; Manufacture; At point-of-sale; 178 kW | 7d328575-1988-4b96-88eb-6a3474077ede | Phase out coal data as superseded by NETL repo coal data on the Federal LCA Commons |
 | FY19.Q3.01 | Product | Deletion | Tractor-propelled coal crusher;  Manufacture; For surface mine, at plant | 8f9ae883-1cd1-49f7-8f73-dc5374ddcf31 | Phase out coal data as superseded by NETL repo coal data on the Federal LCA Commons |
-| Release | File Type | Change Type | File Name | UUID | Description |
-|:---:|:---:|:---:|:---|:---|:--|
 | FY19.Q2.01 | Process | Revision | Hydrogen, liquid, synthesis gas, at plant | 4eaec911-05e8-304e-b7a6-98ce06fc9820 | Corrected server display of  for missing decimal in carbon dioxide air emissions (i.e., 800000 corrected to 8.00 kg/1kg) |
 | FY19.Q2.01 | Process | Deletion | Crude oil, at refinery | dc72e285-719b-318b-9c9c-c838846a9cf4 | Deleted outdated provider |
 | FY19.Q2.01 | Process | Revision | Petroleum refining, at refinery - RNA | 0aaf1e13-5d80-37f9-b7bb-81a6b8965c71 | Physical allocation applied as a default |
