@@ -4,22 +4,53 @@ USLCI Release Downloads
 
 This page contains dowloads for the [US Life Cycle Inventory Database (USLCI)](https://www.nrel.gov/lci/) release downloads in various data formats. It is intended to support the USLCI data submission process.
 
-The USLCI Database repository and individual datasets are also available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** button to the right of any element, and selecting the desired format (JSON-LD or ILCD).
+The USLCI Database repository and individual datasets are available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** button to the right of any element, and selecting the desired format (JSON-LD or ILCD).
+
+**STEP 1:** Navigate to the Federal LCA Commons [Landing Page](https://wwww.lcacommons.gov) and select "Browse Repositories" to enter the Commons.
+
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Browse%20repositories.png)
+
+**_STEP 1: Federal LCA Commons Landing Page_**
+<br>
+<br>
+<br>
 
 
-[Table 1](release-downloads.md#table-1-uslci-release-downloads) contains download links for each USLCI release in three data formats: 
+**STEP 2:** Once you have entered the Commons, you will see groups on the right and datasets in the left panel. Select from which group and which repository you wish to download. The USLCI is under the **National_Renewable_Energy_Laboratory/USLCI** Group.
+
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/2.%20Downloading%20from%20FLCAC.png)
+
+**_STEP 2: Federal LCA Commons Collaboration Server -- Groups & Repositories_**
+<br>
+<br>
+<br>
+
+**STEP 3:** Selecting the **"Download"** button to the right of any dataset brings up a pull-down menu allowing you to download either the individual dataset or the entire selected repository in the desired format (JSON-LD or ILCD).
+
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Download%20repository.png)
+
+**_STEP 3: Downloading Datasets & Repositories_**
+<br>
+<br>
+<br>
+
+
+
+
+
+[Table 1](release-downloads.md#table-1-uslci-release-downloads) below also contains download links for current and past USLCI quarter release versions in three data formats: 
 * openLCA JSON-LD (.zolca files are discontinued as of 10/2018)
 * ecoSpold2
 * ILCD
 
-For many users, the JSON-LD (zipped) formats will be the most useful since they are not subject to data/metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges.
+For many users, the JSON-LD (zipped) formats will be the most useful since they are not subject to data/metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges. EcoSpold file formats only contain processes so flows, indicators, & background data are excluded
 
-Downloads are available starting with USLCI release FY17.Q4.02. 
+Downloads are available starting with USLCI release FY17.Q4.02 and include the current quarter release available on the Federal LCA Commons Collaboration Server. 
 
 Select the desired format type: 
 * After 2019.Q3, the JSON-LD and ILCD files are larger in size and you will be re-directed to a dropbox link to download
 * For all others, select _"View Raw"_ to download the file on the subsequent GitHubscreen
-* For ecoSpold2, only "Processes" export from openLCA so the file size is smaller and flows, indicators, & background data are excluded
+* For ecoSpold2, only "Processes" export from openLCA so the file size is smaller
 
 
 <br>
