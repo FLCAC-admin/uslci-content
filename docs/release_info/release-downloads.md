@@ -17,8 +17,9 @@ For many users, the JSON-LD (zipped) formats will be the most useful since they 
 Downloads are available starting with USLCI release FY17.Q4.02. 
 
 Select the desired format type: 
-* For JSON-LD and ILCD, the files are larger in size and you will be re-directed to a dropbox link to download
-* For ecoSpold2, only "Processes" export from openLCA so the file size is smaller; select _"View Raw"_ to download the file on the subsequent GitHubscreen
+* After 2019.Q3, the JSON-LD and ILCD files are larger in size and you will be re-directed to a dropbox link to download
+* For all others, select _"View Raw"_ to download the file on the subsequent GitHubscreen
+* For ecoSpold2, only "Processes" export from openLCA so the file size is smaller and flows, indicators, & background data are excluded
 
 
 <br>
