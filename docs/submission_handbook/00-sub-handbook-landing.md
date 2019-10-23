@@ -1,4 +1,4 @@
-# :notebook: USLCI DATA SUBMISSION HANDBOOK
+# :books:  WELCOME TO THE USLCI DATA SUBMISSION HANDBOOK
 ![](../../images/site_hpphoto_buildings_lci.png)
 
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
