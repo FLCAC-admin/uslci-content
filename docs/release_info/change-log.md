@@ -1,4 +1,4 @@
-# USLCI Change Log
+# :notebook: USLCI Change Log
 
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
