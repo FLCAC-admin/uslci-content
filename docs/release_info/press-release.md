@@ -5,6 +5,15 @@
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
+## 2019 Fall Quarter (October 23)
+
+Currently, the Federal LCA Commons Collaboration Server is experiencing a bug so downloading repositories from the server is on hold until the issue is addressed. In the meantime, NREL has updated the [USLCI Release Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md) page to include the current USLCI release version. The JSON-LD and ILCD file sizes are larger than ecoSpold2 so these links will re-direct you to a Dropbox page to download the zip files. If importing the files into openLCA, leave the files zipped and select from the openLCA importer tool.
+
+For many users, the JSON-LD (zipped) formats will be the most useful since they are not subject to data/metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges. EcoSpold file formats only contain processes so flows, indicators, & background data are excluded.
+
+
+
+
 ## 2019 Fall Quarter (September 30)
 The USLCI quarterly update slated for September 30 ocurred on October 3, 2019. Several improvements and additions were made to the database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) including:
 
