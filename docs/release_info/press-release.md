@@ -19,7 +19,7 @@ The USLCI quarterly update slated for December 31 occurred on January 1, 2020. S
   
 Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/change-log.md) for details.
 
-Note, shortly there will be a version 2 of this 2019 Winter (Q4) release that will eliminate CORRIM data duplicates that now have updated versions available in the [USFS CORRIM Repository](https://www.lcacommons.gov/lca-collaboration/US_Forest_Service_Forest_Products_Lab/CORRIM) on the Federal LCA Commons.
+Note, shortly there will be a version 2 of this 2019 Winter (Q4) release that will eliminate CORRIM data duplicates that now have updated versions available in the [USFS CORRIM Repository](https://www.lcacommons.gov/lca-collaboration/US_Forest_Service_Forest_Products_Lab/CORRIM) on the Federal LCA Commons. This mid-quarter version will also have a complete mapping of elementary flows to the newly developed [Federal Elementary Flow List](https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=347251&Lab=NRMRL), developed by the EPA.
 
 Also, note that the Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may "Browse Repositories" if you want to explore other data becoming available from Federal LCA Commons member agencies.
 
