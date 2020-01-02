@@ -5,6 +5,28 @@
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
+## 2019 Winter Quarter (December 31)
+
+The USLCI quarterly update slated for December 31 occurred on January 1, 2020. Several improvements, reviesions, and deltions were implemented to the database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) including:
+
+  * The word "CUTOFF" has been removed from technospheric flows not having a producing process in the USLCI; however, all cutoff flows are categorized in the same Flows\Technosphere Flows\CUTOFF Flows folder and display within processes with this categorization, which helps identify provenance.
+  *  Over 19,000 orphan flows have been identified and eliminated from the USLCI (i.e., those not linked to any exchanges)
+  *  Updated PET data (and supply chain links) from NAPCOR/ACC are now available
+  *  Several flows erroneously categorized as an 'elementary-type' flow have been corrected to display as technosphere-type' or 'waste-type' flows and categorized in the Flows\Technosphere Flows folder accordingly.
+  *  A new folder with 'technosphere-type' flows only has been established for Ecosystem Services (e.g., land transformation flows)
+  *  Several display errors from the PET resin supply chain have been corrected 
+  *  Several outdated and duplicate flows have been eliminated and flow nomenclature improved
+  
+Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/change-log.md) for details.
+
+Note, shortly there will be a version 2 of this 2019 Winter (Q4) release that will eliminate CORRIM data duplicates that now have updated versions available in the [USFS CORRIM Repository](https://www.lcacommons.gov/lca-collaboration/US_Forest_Service_Forest_Products_Lab/CORRIM) on the Federal LCA Commons.
+
+Also, note that the Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may "Browse Repositories" if you want to explore other data becoming available from Federal LCA Commons member agencies.
+
+Additionally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the March 31, 2020 Spring release date. We look forward to hearing from you soon.
+
+Finally, please note that deleted datasets are always still available in an archive managed by NREL (wherein previous USLCI database versions are available at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md).
+
 ## 2019 Fall Quarter (October 23)
 
 Currently, the Federal LCA Commons Collaboration Server is experiencing a bug so downloading repositories from the server is on hold until the issue is addressed. In the meantime, NREL has updated the [USLCI Release Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md) page to include the current USLCI release version. The JSON-LD and ILCD file sizes are larger than ecoSpold2 so these links will re-direct you to a Dropbox page to download the zip files. If importing the files into openLCA, leave the files zipped and select from the openLCA importer tool.
