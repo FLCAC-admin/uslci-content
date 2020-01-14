@@ -8,6 +8,12 @@
 
 **CPM**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Centre for Environmental Assessment of Product and Material Systems
 
+**CTC**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cradle-to-Cradle
+
+**CTG**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cradle-to-Gate
+
+**CTR**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cradle-to-Resin
+
 **DOE**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Energy
 
 **EPA**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Environmental Protection Agency
@@ -17,6 +23,10 @@
 **FAA**		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal Aviation Administration
 
 **FHWA**	&nbsp;&nbsp;&nbsp;&nbsp;Federal Highway Administration
+
+**FLCAC**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal Life Cycle Assessment Commons
+
+**GTG**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gate-to-Gate
 
 **ILCD**	&nbsp;&nbsp;&nbsp;&nbsp;International Reference Life Cycle Data
 
