@@ -16,7 +16,7 @@ First, create an empty database in your openLCA desktop application into which y
 <br>
 
 
-## Step 2: DOWNLOAD STARTER & DESIRED REPOSITORIES FROM COLLABORATION SERVER
+## Step 2: DOWNLOAD STARTER and/or DESIRED REPOSITORIES FROM COLLABORATION SERVER
 
 Navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration). Select the _**Federal_LCA_Commons**_ group and the _**Fed_Commons_Core_Database**_ repo. Download the repository as JSON-LD files. Next, select from which group and which repository you wish to download.
 
