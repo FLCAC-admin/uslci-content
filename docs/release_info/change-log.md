@@ -616,7 +616,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY19.Q4.02 | Flow | Deletion | Transformation, to traffic area, road network | d0b7ed0e-241a-3c63-8e42-f175c99d1ad6 | Eliminated duplicate; replaced with identically named/categorized flow with same reference units &amp; deleted |
 | FY19.Q4.02 | Flow | Deletion | Transformation, to unknown | 512a5356-8059-4772-a43f-42e3c4f3d299 | Eliminated duplicate; replaced with identically named/categorized flow with same reference units &amp; deleted |
 | FY19.Q4.02 | Flow | Deletion | Transformation, to urban, discontinuously built | 55beee8d-d04e-4307-bb0e-4e113dc07ee7 | Eliminated duplicate; replaced with identically named/categorized flow with same reference units &amp; deleted |
-
 | FY19.Q4.01 | Flows | Deletion | Multiple | Multiple | Deleted 19,004 unlinked flows (18,891 elementary and 113 technosphere); linked to no exchanges - contact USLCI support for list |
 | FY19.Q4.01 | Process | Revision | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Update version to reflect corrected &#39;Methanol, at plant&#39; technosphere input flow name display (was not displaying) |
 | FY19.Q4.01 | Process | Revision | Unsaturated polyester, resin, at plant | 91c096d9-987d-34c6-90c0-3c672b467086 | Update version to reflect corrected &#39;Polyethylene terephthalate (PET) virgin resin, at plant, kg&#39;, &#39;Ethylene glycol, at plant&#39;, and &#39;Ethylene, at plant&#39; technosphere input flows name display (was not displaying) |
