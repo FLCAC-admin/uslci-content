@@ -5,7 +5,87 @@
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
+## 2019 Winter Mid-Quarter (February 19)
+
+This USLCI Database release occurred on February 19, 2020 to the USLCI database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), outside the normal fiscal quarter release schedule to align with several improvements going forward:
+
+- The Federal Elementary Flow List (FEDEFL)
+- Publication of the CORRIM repo on lcacommons.gov
+- Transport processes corrections
+- PET and soy resin processes corrections
+
+Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/change-log.md) for details.
+
+Also, please note that the Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may _"Browse Repositories"_ if you want to explore other data becoming available from Federal LCA Commons (FLCAC) member agencies.
+
+Additionally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the March 31, 2020 Spring release date. We look forward to hearing from you soon.
+
+Finally, please note that deleted datasets are always still available in an archive managed by NREL (wherein previous USLCI database versions are available) at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/release-downloads.md).
+
+
+
+**Federal Elementary Flow List (FEDEFL)**
+
+This release is a rebuild of the USLCI Database using the first version of the Federal Elementary Flow List (FEDEFL). The FEDEFL is a standard list of elementary flows, which are resources taken directly from or releases going back to nature that are used as inputs or outputs in a life cycle inventory (LCI) process. Elementary flows are essential for relating the processes in an LCI database to potential environmental pressures and impacts as they form the bridge between LCI and life cycle impact assessment (LCIA) data.
+
+This change affects all process datasets in the USLCI that contained elementary flows, which is the majority.
+
+This release of the USLCI coincides with a release of the [TRACI 2.1 LCIA Method](https://www.lcacommons.gov/lca-collaboration/US\_Environmental\_Protection\_Agency/TRACI) repo on the FLCAC server using the FEDEFL, enabling the use of the TRACI 2.1 method with the USLCI without data changes.
+
+Previously, the USLCI was not using a single, internally-consistent set of elementary flows but rather using elementary flows as had been submitted by data providers over time. Going forward, NREL will require data providers to submit inventory data with elementary flows aligned with the FEDEFL for publication to USLCI. Emphasis will be placed on the usage of FEDEFL _"preferred flows"_, which provide guidance on the naming convention for emissions and more precise environmental context information, where applicable and possible.
+
+The development of the FEDEFL was initiated by the Federal LCA Commons Technical Working Group (TWG) on Data Interoperability, following recognition that a common list of elementary flows was essential to data interoperability. The FEDEFL was further informed by a study produced by the UNEP-led Global LCA Data Access (GLAD) Initiative and led by TWG members ([Edelen et al. 2018](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NRMRL&dirEntryId=342618)), recommending ways in which elementary flows can be better defined, classified, described and managed. These factors guided the FEDEFL development.  The FEDEFL background, approach, and recommendations for use are described in an [EPA report](https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=347251&amp;Lab=NRMRL). The FEDEFL and associated mapping files to other data sources is generated and maintained using software available on [GitHub](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List/), for which external comments and proposed contributions are welcome.
+
+The US EPA, the lead agency on the FEDEFL, worked with NREL to help map and convert the USLCI data to the FEDEFL. The USLCI is the first large Federal LCA Commons (FLCAC) dataset to use the FEDEFL. The FEDEFL will become a part of the core database structure across FLCAC repositories. The FEDEFL will provide greater standardization and interoperability for Federal LCA data and can also serve as a standard for elementary flows for a broader community.
+
+**Publication of Commons CORRIM Repo:**
+
+The [CORRIM repo](https://www.lcacommons.gov/lca-collaboration/CORRIM)/Forestry\_and\_forest\_products) is now available on the Federal LCA Commons (FLCAC) server and contains updated datasets for > 100 processes from the [CORRIM LCI Database](www.corrim.org) related to forestry and forest products. Some of these datasets are new but to avoid duplicate publication on the FLCAC server and direct users to the most updated (i.e., authoritative) datasets available, NREL has phased duplicates of those processes available on the CORRIM repo out of the USLCI. The update and phase-out applies to:
+
+- A few logging processes
+- All support activities for forestry
+- Several saw mill processes
+- Many engineered wood processes
+
+Processes from the [CORRIM LCI Database](www.corrim.org) remaining in the USLCI will be maintained there until such a time when updated versions are published to the CORRIM repo on the FLCAC server. These include:
+
+- Remaining forestry and logging processes
+- Wood fuel combustion processes
+- Some Saw mill processes
+- Some engineered wood processes
+
+As processes from the CORRIM database are phased out of the USLCI and published on the CORRIM repo, the changes will be noted here on this page.
+
+CORRIM processes remaining in the USLCI have been augmented to reflect better alignment with the emerging FLCAC nomenclature standards and to facilitate linking between the interrelated supply chains of the USLCI and CORRIM repos (e.g., name field commata, updating the geographic scope from RNA to US, decoupling the geographic scope of the product from that of processes).
+
+**Transport &amp; Resin Corrections:**
+
+Over 150 transport processes in the USLCI were corrected to reflect the correct units for fuel inputs (i.e., diesel and gasoline cubic meters adjusted to liters). These processes were compiled based on data available in the EPA MOVES and ANL GREET databases for the USLCI. The fuel units error was causing artificial over-estimation of fuel requirements for the following types of transport processes adapted from these sources for the USLCI:
+
+- Light commercial truck
+- Single unit truck
+- Transit bus
+- Combination truck
+- Intercity
+- Motorhome
+- Motorcycle
+- Passenger car
+- Passenger truck
+- Refuse truck
+- School bus
+
+The PET resin unit process has been corrected to reflect and updated weight factor and description for ethylene glycol and PTA inputs.
+
+The soy polyol and soy resin processes were corrected to have exchange values on the correct basis (i.e., from 1000 kg to 1 kg product output). The system boundary description for these processes has also been augmented.
+
+For more information regarding any of these changes, contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) or the [USLCI Administrator](mailto:lci@nrel.gov).
+
+<br>
+<br>
+<br>
+
 ## 2019 Winter Quarter (December 31)
+
 
 The USLCI quarterly update slated for December 31 occurred on January 1, 2020. Several improvements, reviesions, and deltions were implemented to the database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) including:
 
