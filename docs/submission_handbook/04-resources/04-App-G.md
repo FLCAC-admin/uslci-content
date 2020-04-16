@@ -56,41 +56,41 @@ To add the US EPA Data Quality to your openLCA **_"Indicators & Parameters,"_** 
 <br>
 <br>
 
-### Step 3: DESIGNATE THE MATRIX INSIDE EACH PROCESS
+## DESIGNATING THE MATRIX INSIDE EACH PROCESS
 
 * Next, open your process of interest and on the first **_"General Information"_** tab, you may scroll down to the **_"Data quality"_** section and **_"Process schema"_** field. There is a drop-down menu and the **_"US EPA – Process Pedigree Matrix"_** should now be an option you may select. 
 * You will also want to go to the **_"Flow schema"_** field just below and select **_"US EPA – Flow Pedigree Matrix"_** from its drop-down menu such that you can elect data quality indicators at both the process and flow levels.
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/3a_Select_Process_Matrix.png)
-**_STEP 3a: Designating the US EPA Process Pedigree Matrix_**
+**_Designating the US EPA Process Pedigree Matrix_**
 <br>
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/3a_Select_Process_Matrix.png)
-**_STEP 3b:Designating the US EPA Flow Pedigree Matrix_**
+**_Designating the US EPA Flow Pedigree Matrix_**
 <br>
 <br>
 <br>
 
 
-### Step 4: SELECT PROCESS INDICATORS
+## SELECTING PROCESS INDICATORS
 
 Now, at the **_"Data quality entry"_** field, you may select the **_"not specified"_** hyperlink (still on the first **_"General information"_** tab in the **_"Data quality"_** section). You should now be able click on matrix cells to select entries for **_"Process Review"_** and **_"Process Completeness"_** data quality indicators.
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/4a_Designate_DQ_Entry.png)
-**_STEP 4a: Designating the Data Quality Entry at Process Level_**
+**_Designating the Data Quality Entry at Process Level_**
 <br>
 
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/4b_Select_Process_Indicators.png)
 
-**_STEP 4b: Selecting Process Indicator Matrix Cell Entries_**
+**_Selecting Process Indicator Matrix Cell Entries_**
 
 <br>
 <br>
 <br>
 
 
-### Step 5: SELECT FLOW INDICATORS
+## SELECTING FLOW INDICATORS
 
 You may now go to the **_"Data quality entry"_** column of any input or output flow on the **_"Inputs/Outputs"_** tab to select entries for the following data quality categories:
 
@@ -103,7 +103,7 @@ You may now go to the **_"Data quality entry"_** column of any input or output f
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/5_Select_Flow_Indicators.png)
 
-**_STEP 5: Selecting Flow Indicators_**
+**_Selecting Flow Indicators_**
 
 <br>
 <br>
