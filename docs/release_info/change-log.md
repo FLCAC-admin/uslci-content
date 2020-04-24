@@ -1908,8 +1908,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY20.Q1.01 | Process | Addition | Asphalt binder, 8% ground rubber tire (GRT), consumption mix, at terminal, from crude oil, 8% ground rubber tire | 72d5a381-8cae-4e1d-b0a3-26cc43b69867 | New system process added to 4247: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) |
 | FY20.Q1.01 | Process | Addition | Asphalt binder, no additives, consumption mix, at terminal, from crude oil | f8ce5199-1666-452b-a267-8797c94d0560 | New system process added to 4247: Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) |
 | FY20.Q1.01 | Flow | Edit | Fatty acides | dad61aef-fbf9-3616-a0ec-3f3b5b7844c1 | Flow name spelling error corrected to &#39;Fatty acids&#39; |
-| --- | --- | --- | --- | --- | --- |
-
 | FY19.Q4.02 | Process | Change | Polyethylene terephthalate (PET) virgin resin, at plant, kg | 2b2f738d-2044-462f-ba56-5112ee683cb6 | Updated weight factor and comments for ethylene glycol and PTA input exchanges |
 | FY19.Q4.02 | Process | Deletion | Soybeans, at field, 1998-2001 | 11a07256-81f3-3c25-b46e-f3b9998d7bcf | Deleted to reflect newer process available as default |
 | FY19.Q4.02 | Flows | Deletion | Soybeans, at field | 96a1b941-f5eb-3ac4-b831-9ffda7a8c7cb | Deleted to reflect updated products available as default (e.g., grains, residues) |
