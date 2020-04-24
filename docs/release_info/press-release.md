@@ -7,7 +7,7 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 
 ## 2020 Winter Mid-Quarter (Scheduled March 31, Occurred April 24)
 
-This USLCI Database release occurred on April 22, 2020 to the USLCI database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), intended as the normal fiscal quarter release scheduled for March 31, 2020 to align with several improvements going forward:
+This USLCI Database release occurred on April 24, 2020 to the USLCI database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), intended as the normal fiscal quarter release scheduled for March 31, 2020 to align with several improvements going forward:
 
 - Addition of 4 processes for asphalt binder from the Asphalt Institute
 - Corrections to units for volume and energy units for liquid fuels and electricity exchanges, respectively
