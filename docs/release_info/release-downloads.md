@@ -60,6 +60,7 @@ Select the desired format type:
 
 | Release | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD |   
 |:---:|:---:|:---:|:---:|:---:|:--:|     
+| FY20.Q1.01 | v1.10.1 | [zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy20_q1_olca1_1_0.zolca) | [JSON-LD](https://app.box.com/s/1qjqhc7y2rwyvjmo7wu53a4nodjdn7lj) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy20_q1_olca1_1_0_ecospold2.zip) | [ILCD](https://app.box.com/s/s2gd2733z3dio5b8unsatgkiyg5pb1l0) |
 | FY19.Q4.02 | v1.10.1 | [zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy19_q4_02_olca1_10_0_zolca.zolca) | [JSON-LD](https://app.box.com/s/ugq6r4lp4votmzdrex6xokgxfdfgdyqf) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy19_q4_02_olca1_10_0_ecospold2.zip) | [ILCD](https://app.box.com/s/4f0fcoquczxu9pll2o1gj4brm7377w5z) |
 | FY19.Q4.01 | v1.10.0 | no .zolca files this quarter | [JSON-LD](https://app.box.com/s/ljzo0ns7gnowemteroki11ubjaulh5st) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy19_q4_olca1_10_0_ecospold.zip.zip) |[ILCD](https://app.box.com/s/tlseuabs9130jgjrfoiickp3tu606pzq) |
 | FY19.Q3.01 | v1.9.0 | no .zolca files this quarter | [JSON-LD](https://app.box.com/s/lv8mzuyyr33r11cmxfdt9k887w7h0sat) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy19_q3_01_olca1_9_0_ecospold.zip.zip) | [ILCD](https://app.box.com/s/6pc5cha9wv3zb9lye1y6up5sk06ooxmx) |
