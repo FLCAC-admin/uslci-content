@@ -5,84 +5,143 @@
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
-## 2019 Winter Mid-Quarter (February 19)
+## 2020 Winter Mid-Quarter (Scheduled March 31, Occurred April 24)
 
-This USLCI Database release occurred on February 19, 2020 to the USLCI database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), outside the normal fiscal quarter release schedule to align with several improvements going forward:
+This USLCI Database release occurred on April 22, 2020 to the USLCI database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), intended as the normal fiscal quarter release scheduled for March 31, 2020 to align with several improvements going forward:
 
-- The Federal Elementary Flow List (FEDEFL)
-- Publication of the CORRIM repo on lcacommons.gov
-- Transport processes corrections
-- PET and soy resin processes corrections
+- Addition of 4 processes for asphalt binder from the Asphalt Institute
+- Corrections to units for volume and energy units for liquid fuels and electricity exchanges, respectively
+- Improvements to the USLCI adaptation of the Federal Elementary Flow List (FEDEFL)
 
 Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/change-log.md) for details.
 
-Also, please note that the Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may _"Browse Repositories"_ if you want to explore other data becoming available from Federal LCA Commons (FLCAC) member agencies.
+Please note that the Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may _"Browse Repositories"_ if you want to explore other data becoming available from Federal LCA Commons (FLCAC) member agencies.
 
-Additionally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the March 31, 2020 Spring release date. We look forward to hearing from you soon.
+Additionally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the next June 30, 2020 Summer release date. We look forward to hearing from you soon.
 
 Finally, please note that deleted datasets are always still available in an archive managed by NREL (wherein previous USLCI database versions are available) at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/release-downloads.md).
 
+<br>
 
+**Asphalt Binder Datasets**
 
-**Federal Elementary Flow List (FEDEFL)**
+Life cycle inventory (LCI) data for four (4) new processes were added to the USLCI:
 
-This release is a rebuild of the USLCI Database using the first version of the Federal Elementary Flow List (FEDEFL). The FEDEFL is a standard list of elementary flows, which are resources taken directly from or releases going back to nature that are used as inputs or outputs in a life cycle inventory (LCI) process. Elementary flows are essential for relating the processes in an LCI database to potential environmental pressures and impacts as they form the bridge between LCI and life cycle impact assessment (LCIA) data.
+  1) Asphalt binder, 0.5% polyphosphoric acid (PPA), consumption mix, at terminal, from crude oil, 0.5% polyphosphoric acid
+  2) Asphalt binder, 3.5% styrene-butadiene-styrene (SBS), consumption mix, at terminal, from crude oil, 3.5% styrene-butadiene-styrene
+  3) Asphalt binder, 8% ground rubber tire (GRT), consumption mix, at terminal, from crude oil, 8% ground rubber tire
+  4) Asphalt binder, no additives, consumption mix, at terminal, from crude oil
 
-This change affects all process datasets in the USLCI that contained elementary flows, which is the majority.
+These data were compiled by [Sphera](https://sphera.com/) LCA consultants (who [recently acquired ThinkStep](https://sphera.com/news/sphera-signs-agreement-to-acquire-thinkstep/)) for the [Asphalt Institute](http://asphaltinstitute.org/). The LCA Report is available [here](http://www.asphaltinstitute.org/engineering/lca-study-on-asphalt-binders/). 
 
-This release of the USLCI coincides with a release of the [TRACI 2.1 LCIA Method](https://www.lcacommons.gov/lca-collaboration/US\_Environmental\_Protection\_Agency/TRACI) repo on the FLCAC server using the FEDEFL, enabling the use of the TRACI 2.1 method with the USLCI without data changes.
+The product boundary begins with crude oil input to the refinery and ends at the asphalt terminal. Refining steps relevant to the production of asphalt binder include atmospheric distillation and vacuum distillation. The LCI data are system-level and represent the annual industry average for the US and Canada for 12 consecutive months during the 2015 and 2016 calendar years.
 
-Previously, the USLCI was not using a single, internally-consistent set of elementary flows but rather using elementary flows as had been submitted by data providers over time. Going forward, NREL will require data providers to submit inventory data with elementary flows aligned with the FEDEFL for publication to USLCI. Emphasis will be placed on the usage of FEDEFL _"preferred flows"_, which provide guidance on the naming convention for emissions and more precise environmental context information, where applicable and possible.
-
-The development of the FEDEFL was initiated by the Federal LCA Commons Technical Working Group (TWG) on Data Interoperability, following recognition that a common list of elementary flows was essential to data interoperability. The FEDEFL was further informed by a study produced by the UNEP-led Global LCA Data Access (GLAD) Initiative and led by TWG members ([Edelen et al. 2018](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NRMRL&dirEntryId=342618)), recommending ways in which elementary flows can be better defined, classified, described and managed. These factors guided the FEDEFL development.  The FEDEFL background, approach, and recommendations for use are described in an [EPA report](https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=347251&amp;Lab=NRMRL). The FEDEFL and associated mapping files to other data sources is generated and maintained using software available on [GitHub](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List/), for which external comments and proposed contributions are welcome.
-
-The US EPA, the lead agency on the FEDEFL, worked with NREL to help map and convert the USLCI data to the FEDEFL. The USLCI is the first large Federal LCA Commons (FLCAC) dataset to use the FEDEFL. The FEDEFL will become a part of the core database structure across FLCAC repositories. The FEDEFL will provide greater standardization and interoperability for Federal LCA data and can also serve as a standard for elementary flows for a broader community.
-
-**Publication of Commons CORRIM Repo:**
-
-The [CORRIM repo](https://www.lcacommons.gov/lca-collaboration/CORRIM)/Forestry\_and\_forest\_products) is now available on the Federal LCA Commons (FLCAC) server and contains updated datasets for > 100 processes from the [CORRIM LCI Database](www.corrim.org) related to forestry and forest products. Some of these datasets are new but to avoid duplicate publication on the FLCAC server and direct users to the most updated (i.e., authoritative) datasets available, NREL has phased duplicates of those processes available on the CORRIM repo out of the USLCI. The update and phase-out applies to:
-
-- A few logging processes
-- All support activities for forestry
-- Several saw mill processes
-- Many engineered wood processes
-
-Processes from the [CORRIM LCI Database](www.corrim.org) remaining in the USLCI will be maintained there until such a time when updated versions are published to the CORRIM repo on the FLCAC server. These include:
-
-- Remaining forestry and logging processes
-- Wood fuel combustion processes
-- Some Saw mill processes
-- Some engineered wood processes
-
-As processes from the CORRIM database are phased out of the USLCI and published on the CORRIM repo, the changes will be noted here on this page.
-
-CORRIM processes remaining in the USLCI have been augmented to reflect better alignment with the emerging FLCAC nomenclature standards and to facilitate linking between the interrelated supply chains of the USLCI and CORRIM repos (e.g., name field commata, updating the geographic scope from RNA to US, decoupling the geographic scope of the product from that of processes).
+Please see the process metadata and/or the report for more information.
 
 **Transport &amp; Resin Corrections:**
 
-Over 150 transport processes in the USLCI were corrected to reflect the correct units for fuel inputs (i.e., diesel and gasoline cubic meters adjusted to liters). These processes were compiled based on data available in the EPA MOVES and ANL GREET databases for the USLCI. The fuel units error was causing artificial over-estimation of fuel requirements for the following types of transport processes adapted from these sources for the USLCI:
+Over 1800 exchanges in the USLCI were corrected to reflect the correct units for 22 liquid fuels and chemicals and 54 electricity products due to a non-universal database units error at flow exchanges (i.e., many volume units were in cubic meters needing adjustment to liters and many electricity exchanges were in MJ units needing adjustment to kWh). This database error occurred in Spring quarter 2019 and was detected Winter 2019. Partial corrections were made (to transport modules) for the last Mid-Quarter update and the rest corrected this Spring 2020 quarter. USLCI end-users should use the 2020 USLCI database version to adjust models accordingly.
 
-- Light commercial truck
-- Single unit truck
-- Transit bus
-- Combination truck
-- Intercity
-- Motorhome
-- Motorcycle
-- Passenger car
-- Passenger truck
-- Refuse truck
-- School bus
+The volume units error was causing artificial over-estimation of fuel requirements (by factor of 1000 L-to-m3 conversion) for some but not all of the exchanges for the following liquid chemicals and fuels:
 
-The PET resin unit process has been corrected to reflect and updated weight factor and description for ethylene glycol and PTA inputs.
+-  Acetone, liquid
+-  Butyl acetate, liquid
+-  Disposal, liquid waste, unspecified to waste water treatment
+-  Ethanol, denatured, corn stover, biochemical
+-  Gasoline, used in personal vehicle
+-  Isobutyl acetate, liquid
+-  Naphtha, at regional storage
+-  Treatment, electrocoating wastewater, unspecified treatment
+-  Diesel, at refinery
+-  Diesel, combusted in industrial boiler
+-  Diesel, combusted in industrial equipment
+-  Gasoline, at refinery
+-  Gasoline, combusted in equipment
+-  Gasoline, combusted in equipment, at pulp and paper mill (EXCL.)
+-  Kerosene, at refinery
+-  Liquefied petroleum gas, at refinery
+-  Liquefied petroleum gas, combusted in industrial boiler
+-  LPG, combusted in industrial boiler, at pulp and paper mill (EXCL.)
+-  Natural gas, combusted in industrial equipment
+-  Residual fuel oil, at refinery
+-  Residual fuel oil, combusted in industrial boiler
+-  RFO, combusted in industrial boiler, at pulp and paper mill (EXCL.)
 
-The soy polyol and soy resin processes were corrected to have exchange values on the correct basis (i.e., from 1000 kg to 1 kg product output). The system boundary description for these processes has also been augmented.
+
+The energy units error was causing under-estimation of energy requirements (by a factor of 3.6 MJ-to-kWh conversion) for electricity at many processes:
+
+- Electricity from hydro
+- Electricity, alumina refining regions
+- Electricity, aluminum smelting and ingot casting regions
+- Electricity, anthracite coal, at power plant
+- Electricity, at bauxite mining regions
+- Electricity, at bleached kraft market pulp mill
+- Electricity, at coated freesheet mill
+- Electricity, at coated mechanical paper mill
+- Electricity, at cogen
+- Electricity, at cogen, for natural gas turbine
+- Electricity, at grid
+- Electricity, at grid, BC
+- Electricity, at grid, MB
+- Electricity, at grid, NB
+- Electricity, at grid, ON
+- Electricity, at grid, QC
+- Electricity, at unbleached kraft bag and sack paper mill
+- Electricity, at uncoated freesheet mill
+- Electricity, at uncoated mechanical paper mill
+- Electricity, at wind power plant, unspecified
+- Electricity, biomass, at power plant
+- Electricity, biomass, gas, landfill, at power plant
+- Electricity, biomass, gas, unspecified, at power plant
+- Electricity, biomass, liquid, sludge, at power plant
+- Electricity, biomass, solid, agriculture by-products, at power plant
+- Electricity, biomass, solid, biogenic MSW, at power plant
+- Electricity, biomass,liquid, unspecified, at power plant
+- Electricity, biomass,solid, unspecified, at power plant
+- Electricity, bituminous coal, at power plant
+- Electricity, cogenerated, at plant
+- Electricity, diesel, at power plant
+- Electricity, fossil, unspecified, at power plant
+- Electricity, from renewable source, unspecified
+- Electricity, geothermal, unspecified
+- Electricity, hydropower, at power plant, unspecified
+- Electricity, hydropower, at run-of-river power plant
+- Electricity, lignite coal, at power plant
+- Electricity, low voltage, at grid
+- Electricity, low voltage, at grid/CN U
+- Electricity, MSW, non-biogenic, at power plant
+- Electricity, natural gas, at power plant
+- Electricity, nuclear, at power plant
+- Electricity, other fuels, at power plant, unspecified
+- Electricity, other fuels, unspecified, at power plant
+- Electricity, other gases, unspecified, at power plant
+- Electricity, petroleum coke, at power plant
+- Electricity, petroleum, waste oil, at power plant
+- Electricity, photovoltaic, unspecified
+- Electricity, residual fuel oil, at power plant
+- Electricity, solar, unspecified, at power plant
+- Electricity, tire derived fuel, at power plant
+- Electricity, waste oil, at power plant
+- Electricity; onsite boiler; hardwood mill; average
+- Electricity; onsite boiler; softwood mill; average
+
+**Federal Elementary Flow List (FEDEFL)**
+
+This release corrected some elementary flows according to the Federal Elementary Flow List (FEDEFL). Some water emissions to water flows were being erroneously used as input exchanges so these flows were converted to be 'resource' flows as intended.
+
+Please note that there has been a release of [TRACI 2.1 LCIA Method](https://www.lcacommons.gov/lca-collaboration/US\_Environmental\_Protection\_Agency/TRACI) repo on the FLCAC server using the FEDEFL, enabling the use of the TRACI 2.1 method on USLCI compatible with the implementation of the FEDEFL.
+
+The US EPA, the lead agency on the FEDEFL, worked with NREL to help map and convert the USLCI data to the FEDEFL. The USLCI is the first large Federal LCA Commons (FLCAC) dataset to use the FEDEFL. The FEDEFL will become a part of the core database structure across FLCAC repositories. The FEDEFL will provide greater standardization and interoperability for Federal LCA data and can also serve as a standard for elementary flows for a broader community.
+
+
+
 
 For more information regarding any of these changes, contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) or the [USLCI Administrator](mailto:lci@nrel.gov).
 
 <br>
 <br>
 <br>
+
 
 ## 2019 Winter Quarter (December 31)
 
