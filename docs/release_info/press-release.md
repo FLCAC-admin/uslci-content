@@ -27,10 +27,10 @@ Finally, please note that deleted datasets are always still available in an arch
 
 Life cycle inventory (LCI) data for four (4) new processes were added to the USLCI:
 
-  1) Asphalt binder, 0.5% polyphosphoric acid (PPA), consumption mix, at terminal, from crude oil, 0.5% polyphosphoric acid
-  2) Asphalt binder, 3.5% styrene-butadiene-styrene (SBS), consumption mix, at terminal, from crude oil, 3.5% styrene-butadiene-styrene
-  3) Asphalt binder, 8% ground rubber tire (GRT), consumption mix, at terminal, from crude oil, 8% ground rubber tire
-  4) Asphalt binder, no additives, consumption mix, at terminal, from crude oil
+  1) [Asphalt binder, 0.5% polyphosphoric acid (PPA), consumption mix, at terminal, from crude oil, 0.5% polyphosphoric acid](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI/dataset/PROCESS/28d7d56e-a751-492c-9bb1-08f19ea4ac37)
+  2) [Asphalt binder, 3.5% styrene-butadiene-styrene (SBS), consumption mix, at terminal, from crude oil, 3.5% styrene-butadiene-styrene](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI/dataset/PROCESS/bbf3dc45-a370-405e-8996-7358b7f1841c)
+  3) [Asphalt binder, 8% ground rubber tire (GRT), consumption mix, at terminal, from crude oil, 8% ground rubber tire](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI/dataset/PROCESS/72d5a381-8cae-4e1d-b0a3-26cc43b69867)
+  4) [Asphalt binder, no additives, consumption mix, at terminal, from crude oil](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI/dataset/PROCESS/f8ce5199-1666-452b-a267-8797c94d0560)
 
 These data were compiled by [Sphera](https://sphera.com/) LCA consultants (who [recently acquired ThinkStep](https://sphera.com/news/sphera-signs-agreement-to-acquire-thinkstep/)) for the [Asphalt Institute](http://asphaltinstitute.org/). The LCA Report is available [here](http://www.asphaltinstitute.org/engineering/lca-study-on-asphalt-binders/). 
 
