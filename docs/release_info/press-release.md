@@ -38,7 +38,7 @@ The product boundary begins with crude oil input to the refinery and ends at the
 
 Please see the process metadata and/or the report for more information.
 
-**Transport &amp; Resin Corrections:**
+**Liquid Fuel &amp Electricity Unit Corrections:**
 
 Over 1800 exchanges in the USLCI were corrected to reflect the correct units for 22 liquid fuels and chemicals and 54 electricity products due to a non-universal database units error at flow exchanges (i.e., many volume units were in cubic meters needing adjustment to liters and many electricity exchanges were in MJ units needing adjustment to kWh). This database error occurred in Spring quarter 2019 and was detected Winter 2019. Partial corrections were made (to transport modules) for the last Mid-Quarter update and the rest corrected this Spring 2020 quarter. USLCI end-users should use the 2020 USLCI database version to adjust models accordingly.
 
