@@ -7,7 +7,7 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 
 ## 2020 Spring Quarter Release Erratum
 
-The carbon dioxide emissions for **_Diesel, combusted in industrial boilder_** are on a m3 diesel output basis (2,727 kg / m3 diesel). However, the remainder of the exchanges for this process are on the basis of 1 L diesel output. Please note the carbon dioxide emission factor should be corrected to 2.727 kg / L diesel output to match the quantitative reference and other exchanges for this process. This error will be corrected in the public database for the June 30 release.
+The carbon dioxide emissions for **_Diesel, combusted in industrial boiler_** are on a m3 diesel output basis (2,727 kg / m3 diesel). However, the remainder of the exchanges for this process are on the basis of 1 L diesel output. Please note the carbon dioxide emission factor should be corrected to 2.727 kg / L diesel output to match the quantitative reference and other exchanges for this process. This error will be corrected in the public database for the June 30 release.
 
 ## 2020 Spring Quarter (Scheduled March 31, Occurred April 24)
 
