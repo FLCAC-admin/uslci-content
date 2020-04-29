@@ -5,7 +5,11 @@
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
-## 2020 Winter Mid-Quarter (Scheduled March 31, Occurred April 24)
+## 2020 Spring Quarter Release Erratum
+
+The carbon dioxide emissions for **_Diesel, combusted in industrial boilder_** are on a m3 diesel output basis (2,727 kg / m3 diesel). However, the remainder of the exchanges for this process are on the basis of 1 L diesel output. Please note the carbon dioxide emission factor should be corrected to 2.727 kg / L diesel output to match the quantitative reference and other exchanges for this process. This error will be corrected in the public database for the June 30 release.
+
+## 2020 Spring Quarter (Scheduled March 31, Occurred April 24)
 
 This USLCI Database release occurred on April 24, 2020 to the USLCI database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), intended as the normal fiscal quarter release scheduled for March 31, 2020 to align with several improvements going forward:
 
