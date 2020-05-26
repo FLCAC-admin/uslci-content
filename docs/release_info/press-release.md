@@ -7,7 +7,30 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 
 ## 2020 Spring Quarter Release Erratum
 
-The carbon dioxide emissions for **_Diesel, combusted in industrial boiler_** are on a m3 diesel output basis (2,727 kg / m3 diesel). However, the remainder of the exchanges for this process are on the basis of 1 L diesel output. Please note the carbon dioxide emission factor should be corrected to 2.727 kg / L diesel output to match the quantitative reference and other exchanges for this process. This error will be corrected in the public database for the June 30 release.
+**Please NOTE: the following errors have been identified in the current USLCI Database version and will be corrected for release to the public database for the June 30 quarterly publication update:**
+<br>
+- The carbon dioxide emissions for **_Diesel, combusted in industrial boiler_** are on a m3 diesel output basis (2,727 kg / m3 diesel). However, the remainder of the exchanges for this process are on the basis of 1 L diesel output. Please note the carbon dioxide emission factor should be corrected to 2.727 kg / L diesel output to match the quantitative reference and other exchanges for this process.
+- For **_Transport, combination truck, diesel powered_**, correct units of Diesel, at refinery inputs from m3 to L per output of t*km transport
+- For **_Steam, purchased by containerboard mills_**, correct units of residual fuel oil inputs from m3 to L and value from gal to L; corrected natural gas value converted from ft3 to m3 (British units originally submitted)
+- For **_Transport, ocean freighter, residual fuel oil powered_**, correct units of residual fuel oil inputs from m3 to L
+- For **_Coil, coating, m2, at plant_**, correct units of Disposal, liquid wastes, unspecified to waste water treatment inputs from m3 to L
+- For **_Cotton, whole plant, at field_**, change quantitative reference from cotton straw to cotton; correct diesel fuel combusted in industrial boiler inputs unit from m3 to L
+- For **_Potato, whole plant, at field_**, change quantitative reference from potato leaves to potatos; correct diesel fuel combusted in industrial boiler inputs unit from m3 to L
+<br>
+
+- For the following processes, a bug error caused the quantitative reference output to be eliminated. These outputs will be reinstated at the June 30 update. For now, please note that they are currently without the correct main product:
+  - Corrugated product, average production, at mill
+  - Aluminum, primary ingot, at plant
+  - Acetic acid, at plant
+  - Ethanol, denatured, corn dry mill
+  - Aluminum, secondary ingot, at plant
+  - Steel, stainless 304, scrap
+  - Pulp, kraft market, bleached, average production, at mill
+  - Wood Combusted, at boiler, at cellulosic fiberboard mill
+  
+Until the June 30 update, to determine the correct quantity for the output and/or read comments for these flows, please refer to the previous [USLCI Database version from Fall Interim Release 2019](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md#table-1-uslci-release-downloads), i.e., FY2019.Q4.02 in whichever file format you prefer.
+  <br>
+  
 
 ## 2020 Spring Quarter (Scheduled March 31, Occurred April 24)
 
