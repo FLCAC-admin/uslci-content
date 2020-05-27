@@ -13,11 +13,11 @@ The USLCI is updated every US Federal fiscal quarter (March 31, June 30, Septemb
 
 ## Step 1: CREATE AN EMPTY DATABASE IN DESKTOP OPENLCA APP
 
-First, create an empty database in your openLCA desktop application so you a place into which to import the database(s) or desired repository dataset(s) (e.g., USCLI or a select data from USLCI). Right-click in the left panel and select **_New Database_**, name it using no spaces and change the content.  
+First, create an empty database in your openLCA desktop application into which to import the database(s) or desired repository dataset(s) (e.g., USCLI or a select data from USLCI). Right-click in the left panel and select **_New Database_**, name it using no spaces and change the content.  
 <br>
 **IMPORTANT: CHANGE THE DATABASE CONTENT TO EMPTY!** Do not use **_'Complete reference data'_** or  **_'Unit and flow properties'_** because the FLCAC repos use their own. If you use reference data, you pull in a bunch of elementary flows and category structures not used in the FLCAC. This will render your database bulky and difficult to navigate. 
 
-![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Create_empty_database.png)
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Start%20with%20empty%20database%20-%20olca.png)
 
 **_STEP 1: Create an empty database in your openLCA desktop app_**
 <br>
