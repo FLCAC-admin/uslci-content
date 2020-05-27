@@ -40,7 +40,8 @@ The USLCI Database repository and individual datasets are available on the [Fede
 <br>
 
 
-
+:arrow_double_down:  USLCI Versions - Files Table
+==================
 
 
 [Table 1](release-downloads.md#table-1-uslci-release-downloads) below also contains download links for current and past USLCI quarter release versions in three data formats: 
