@@ -5,7 +5,7 @@
 The following procedure demonstrates how to fetch the latest repository-or data in a repository-from the Federal LCA Commons (FLCAC) website, e.g., the USLCI. 
 <br>
 
-The USLCI is updated every US Federal fiscal quarter (March 31, June 30, September 30, December 31). You can return to the [FLCAC websitel](http://www.lcacommons.gov) periodically to obtain the latest version in JSON-LD or ILCD file formats. These and additional file formats (ecospold2 and openLCA .zolca) for the current and past versions of USLCI are available from [USLCI Release Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md). The [USLCI Press Release page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release.md) summarizes changes and/or additions made each quarter. In this way, you can always keep a clean, updated copy of the repository for use in your projects (i.e., via import). 
+The USLCI is updated every US Federal fiscal quarter (March 31, June 30, September 30, December 31). You can return to the [FLCAC website](http://www.lcacommons.gov) periodically to obtain the latest version in JSON-LD or ILCD file formats. These and additional file formats (ecospold2 and openLCA .zolca) for the current and past versions of USLCI are available from [USLCI Release Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md). The [USLCI Press Release page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release.md) summarizes changes and/or additions made each quarter. In this way, you can always keep a clean, updated copy of the repository for use in your projects (i.e., via import). 
 <br>
 <br>
 
