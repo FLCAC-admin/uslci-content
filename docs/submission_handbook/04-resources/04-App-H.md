@@ -29,11 +29,19 @@ First, create an empty database in your openLCA desktop application into which t
 
 Navigate to the [FLCAC Website](https://www.lcacommons.gov), at _lcacommons.gov_ and select **_Browse Repositories_**. Once you have entered the Commons, you will see the **_Group/Repository_** list on the right and datasets in the left panel. Select the group and repository from which you wish to download. The USLCI is under the **National_Renewable_Energy_Laboratory** Group and **USLCI** Repository.
 <br>
+<br>
+
 Next, select the green **_Download_** button next to the desired dataset(s) or any dataset if the entire database is desired. Currently, the JSON-LD file format is recommended for openLCA because it is subject to little or no metadata loss when imported into [openLCA].  The ILCD format of the USLCI will result in the loss of comments associated with individual exchanges.
 <br>
+<br>
+
 For an entire database, choose to download the **_"Repository as JSON-LD"_** and save the zipped file somewhere. Leave the files zipped (i.e., do not extract the sub-files). You will import the zipped file in its compressed format from the empty openLCA database you created.
 <br>
-(br>
+<br>
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Browse%20repositories.png)
+<br>
+<br>
+
 
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/2.%20Downloading%20from%20FLCAC.png)
