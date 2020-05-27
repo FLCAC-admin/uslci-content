@@ -64,7 +64,7 @@ For an entire database, choose to download the **_"Repository as JSON-LD"_** and
 
 In the openLCA desktop app, select the database you created for this import and right-click to select **_“Import”_** and designate **_“Linked Data (JSON-LD)_**. You may then select the folder to which it was saved.
 <br>
-NOTE: you will NOT see the actual zipped file; you must first select the folder directory.
+**NOTE: you will NOT see the zipped file; you must first select the folder directory.**
 <br>
 <br>
 
@@ -90,9 +90,11 @@ NOTE: you will NOT see the actual zipped file; you must first select the folder 
 
 ## Step 4: USE THE REPOSITORY IN OPENLCA
 
-Now that you have a clean copy of the desired FLCAC dataset(s) or database(s), repository, ou can use the data in any of your projects. To retain un unmodified copy, it is recommended that you work in a separate openLCA database on your project. You may then import either datasets or an entire database into your project in openLCA. 
+Now that you have a clean copy of the desired FLCAC dataset(s) or database(s), repository, you can use the data in any of your projects in openLCA. It is recommended that you retain un unmodified copy of the FLCAC data by working in a separate openLCA database for your project. You may then import FLCAC data into your openLCA project. 
 <br>
-To import an entire FLCAC database into your openLCA project database, right-click on the database name and select **_Import_**, and then, **_“Import entire database”_** of an **_“existing database”_** and select the openLCA FLCAC database into which you imported the FLCAC data. This will import a copy of the FLCAC database into your project leaving the clean copy unmodified.
+<br>
+
+To import an entire FLCAC database into your openLCA project, right-click on the project database and select **_Import_**. Then, **_“Import entire database”_** of an **_“existing database”_**. This will list all the databases you have in openLCA so you can select the FLCAC database. This will import a copy of the FLCAC database into your project leaving the clean copy unmodified.
 <br>
 
 
