@@ -1,40 +1,64 @@
-# Starter Database & Syncing Repo Data to openLCA Desktop
+# Downloading Repositories
 
 [**_Return to TOC_**](../00-sub-handbook-landing.md)
 
-The following procedure demonstrates how to fetch the latest data from a repository on the Federal LCA Commons Collaboration Server using the NREL USLCI Database as an example.
+The following procedure demonstrates how to fetch the latest repository-or data in a repository-from the Federal LCA Commons (FLCAC) website, e.g., the USLCI. 
+<br>
+
+The USLCI is updated every US Federal fiscal quarter (March 31, June 30, September 30, December 31). You can check back to the USLCI repository at these intervals to re-download the latest version. The [USLCI Press Release page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release.md) summarizes changes made each quarter. In this way, you can always keep a clean, updated copy of the repository for use in your projects (i.e., via import). 
+<br>
+<br>
+
+**OPTIONAL**: If you want to be notified when there is a newly published version available or errata published on the Press Release page, send an email with _Add me to the stakeholder list_ in the subject line to the [USLCI Data Curator](mailto:rebe.feraldi@lac-group.com?subject=Add%20me%20to%20the%20stakeholder%20list).
 
 ## Step 1: CREATE AN EMPTY DATABASE IN DESKTOP OPENLCA APP
 
-First, create an empty database in your openLCA desktop application into which you will import the FLCAC Starter Database and desired repository data (e.g., USCLI). In this way, you can always keep a clean, updated copy of the repository for use in other projects (i.e., via import). 
+First, create an empty database in your openLCA desktop application so you a place into which to import the database(s) or desired repository dataset(s) (e.g., USCLI or a select data from USLCI). Right-click in the left panel and select **_New Database_**, name it using no spaces and change the content.  
+<br>
+**IMPORTANT: CHANGE THE DATABASE CONTENT TO EMPTY!** Do not use **_'Complete reference data'_** or  **_'Unit and flow properties'_** because the FLCAC repos use their own. If you use reference data, you pull in a bunch of elementary flows and category structures not used in the FLCAC. This will render your database bulky and difficult to navigate. 
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Create_empty_database.png)
 
-**_STEP 1: Create an empty database in your openLCA desktop app into which you will import the Starter & desired repo datasets_**
+**_STEP 1: Create an empty database in your openLCA desktop app_**
 <br>
 <br>
 <br>
 
 
-## Step 2: DOWNLOAD STARTER and/or DESIRED REPOSITORIES FROM COLLABORATION SERVER
+## Step 2: DOWNLOAD DATASET(S) AND/OR REPO(S)
 
-Navigate to the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration). Select the _**Federal_LCA_Commons**_ group and the _**Fed_Commons_Core_Database**_ repo. Download the repository as JSON-LD files. Next, select from which group and which repository you wish to download.
+Navigate to the [FLCAC Website](https://www.lcacommons.gov), at _lcacommons.gov_ and select **_Browse Repositories_**. Once you have entered the Commons, you will see the **_Group/Repository_** list on the right and datasets in the left panel. Select the group and repository from which you wish to download. The USLCI is under the **National_Renewable_Energy_Laboratory** Group and **USLCI** Repository.
+<br>
+Next, select the green **_Download_** button next to the desired dataset(s) or any dataset if the entire database is desired. Currently, the JSON-LD file format is recommended for openLCA because it is subject to little or no metadata loss when imported into [openLCA].  The ILCD format of the USLCI will result in the loss of comments associated with individual exchanges.
+<br>
+For an entire database, choose to download the **_"Repository as JSON-LD"_** and save the zipped file somewhere. Leave the files zipped (i.e., do not extract the sub-files). You will import the zipped file in its compressed format from the empty openLCA database you created.
+<br>
+(br>
+
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/2.%20Downloading%20from%20FLCAC.png)
 
-**_STEP 2: Federal LCA Commons Collaboration Server Groups & Repositories_**
+<br>
+<br>
+
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Download%20Buttons%20-%20Dataset%20OR%20Repository.png)
+<br>
+
+
+**_STEP 2: Downlaoding FLCAC Repo(s)_**
+
 <br>
 <br>
 <br>
 
-For both the Starter Database and desired repo datasets, choose to download the **_"Repository as JSON-LD"_** and save the files somewhere. Leave the files compressed. You will import them in their compressed format into the empty database you created in your openLCA desktop app.
-<br>
-<br>
-<br>
 
 ## Step 3: IMPORT THE REPOSITORY
 
-In the openLCA desktop app, select the database you created for this import and right-click to select **_“Import”_** and designate **_“Linked Data (JSON-LD)_**. You may then select the zipped file for import from the folder to which it was saved.
+In the openLCA desktop app, select the database you created for this import and right-click to select **_“Import”_** and designate **_“Linked Data (JSON-LD)_**. You may then select the folder to which it was saved.
+<br>
+NOTE: you will NOT see the actual zipped file; you must first select the folder directory.
+<br>
+<br>
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/4.%20Right%20click%20%26%20select%20JSON-LD%20Import.png)
 
@@ -42,8 +66,13 @@ In the openLCA desktop app, select the database you created for this import and 
 <br>
 <br>
 <br>
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Select%20folder%20directory%20for%20import.png)
+<br>
+<br>
 
-![](https://github.com/uslci-admin/uslci-content/blob/dev/images/5.%20Select%20USLCI%20repository%20to%20import.png)
+![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Select%20zipped%20file%20%26%20finish.png)
+<br>
+
 **_STEP 3b: Importing the zipped JSON-LD Repository File from the Designated Folder_**
 <br>
 <br>
@@ -53,7 +82,10 @@ In the openLCA desktop app, select the database you created for this import and 
 
 ## Step 4: USE THE REPOSITORY IN OPENLCA
 
-Now you have a clean copy (as a separate database) of the desired Commons repository.  You can use this data in any of your projects by importing an **_“entire database”_** of an **_“existing database”_** and select the clean copy for import into your project database.
+Now that you have a clean copy of the desired FLCAC dataset(s) or database(s), repository, ou can use the data in any of your projects. To retain un unmodified copy, it is recommended that you work in a separate openLCA database on your project. You may then import either datasets or an entire database into your project in openLCA. 
+<br>
+To import an entire FLCAC database into your openLCA project database, right-click on the database name and select **_Import_**, and then, **_“Import entire database”_** of an **_“existing database”_** and select the openLCA FLCAC database into which you imported the FLCAC data. This will import a copy of the FLCAC database into your project leaving the clean copy unmodified.
+<br>
 
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/6.%20Import%20entire%20database.png)
