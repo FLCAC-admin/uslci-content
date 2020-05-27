@@ -27,8 +27,12 @@ The USLCI Database repository and individual datasets are available on the [Fede
 <br>
 
 **STEP 3:** Selecting the **"Download"** button to the right of any dataset brings up a pull-down menu allowing you to download either the individual dataset or the entire selected repository in the desired format (JSON-LD or ILCD).
+<br>
+
 
 ![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Download%20Buttons%20-%20Dataset%20OR%20Repository.png)
+<br>
+
 
 **_STEP 3: Downloading Datasets & Repositories_**
 <br>
