@@ -222,26 +222,7 @@ As FLCAC interagency coordination increases, the new standard for data formats a
 
 The links below correspond to tables with the conventions for each field of the elements in the openLCA software. The tables are arranged by the field sections as displayed in the tabs of the openLCA process window views. Each field has guidance and examples recommended by NREL for completing the metadata for processes submitted to the USLCI Database. Some of these fields are mandatory (marked **'M'**), a few are automatically populated (marked **'A'**), and some are optional (marked **'O'**).
 
-
-
-The key sources for the guidance are the:
-
-- _Federal LCA Commons (FLCAC) Data Submission Guidelines_
-- _FLCAC Unit Process Template_
-- _GreenDelta: Class Data Set Information_ ( [http://greendelta.github.io/olca-modules/olca-ilcd/apidocs/org/openlca/ilcd/flowproperties/DataSetInformation.html](http://greendelta.github.io/olca-modules/olca-ilcd/apidocs/org/openlca/ilcd/flowproperties/DataSetInformation.html))
-- _ILCD Handbook: Nomenclature and other conventions_ ( [http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf](http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf))
-- _Chalmers University Guide to LCA Data Documentation_ ( [http://cpmdatabase.cpm.chalmers.se/Document/CPM\_Report\_2003\_3\_Introduction\_and\_guide.pdf](http://cpmdatabase.cpm.chalmers.se/Document/CPM_Report_2003_3_Introduction_and_guide.pdf))
-- _UNEP SETAC's Shonan Guidelines – Global Guidance Principles for LCA Databases: A Basis for Greener Processes. United Nations Environment Programme (UNEP) – Society of Environmental Toxicology and Chemistry (SETAC). © United Nations Environment Programme, 2011._ Accessed at: ( [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf))
-
-
-
-
-[Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
-
-[**_Return to TOC_**](./00-sub-handbook-landing.md)
-<br>
-
-
+### Metadata Guidance Tables
 
 
 Click the links below to see guidance for the fields of each of the openLCA tabs (i.e., conventions and examples). Each table has a link to return to this list or to the main guidelines table of contents:
@@ -275,6 +256,19 @@ Click the links below to see guidance for the fields of each of the openLCA tabs
 **NOTE: Social aspects are not addressed in this handbook.**
 
 <br><br>
+The key sources for the guidance are the:
+
+- _Federal LCA Commons (FLCAC) Data Submission Guidelines_
+- _FLCAC Unit Process Template_
+- _GreenDelta: Class Data Set Information_ ( [http://greendelta.github.io/olca-modules/olca-ilcd/apidocs/org/openlca/ilcd/flowproperties/DataSetInformation.html](http://greendelta.github.io/olca-modules/olca-ilcd/apidocs/org/openlca/ilcd/flowproperties/DataSetInformation.html))
+- _ILCD Handbook: Nomenclature and other conventions_ ( [http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf](http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf))
+- _Chalmers University Guide to LCA Data Documentation_ ( [http://cpmdatabase.cpm.chalmers.se/Document/CPM\_Report\_2003\_3\_Introduction\_and\_guide.pdf](http://cpmdatabase.cpm.chalmers.se/Document/CPM_Report_2003_3_Introduction_and_guide.pdf))
+- _UNEP SETAC's Shonan Guidelines – Global Guidance Principles for LCA Databases: A Basis for Greener Processes. United Nations Environment Programme (UNEP) – Society of Environmental Toxicology and Chemistry (SETAC). © United Nations Environment Programme, 2011._ Accessed at: ( [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf))
+
+
+<br><br>
+
+
 
 
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
