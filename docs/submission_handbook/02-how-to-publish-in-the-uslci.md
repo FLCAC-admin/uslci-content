@@ -165,11 +165,13 @@ NREL will preserve the final dataset files according to [ISO 14721](https://www.
 <a id="guidance-data-compilation-openlca"></a>
 ## Gudance on Data Compilation in openLCA
 
+The Formatting phase is concerned with entering your datasets into the openLCA software. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited using this modelling application.
+
 The navigation scheme in openLCA contains the following elements:
 
 1. **Projects:** can be created to compare product system variants
 2. **Product systems:** can be created to link processes into process networks (necessary to calculate inventory results and impact assessment)
-3. **Processes:** production or modification of products and materials; services
+3. **Processes:** production or modification of products, materials, or transformation of land; services
 4. **Flows:** intermediate and elementary flows
 5. **Indicators and parameters:** influence the LCIA and data quality definitions
     * **Impact assessment methods:** method suite and individual LCIA methods area available via openLCA but must be downloaded and imported for each database
@@ -183,23 +185,55 @@ The navigation scheme in openLCA contains the following elements:
     * **Actors:** people who have provided data or modified models
     * **Sources:** literature referenced; can contain URL references
     * **Locations:** provides geographic specificity; particularly, important for regionalized LCA
+    
 
+
+
+### Intermediate Flow Names
+Intermediate flows are are either products or processes from the technosphere (i.e., not elementary flows). Detailed guidance on process and technosphere flow nomenclature is provided in [General Information Field Conventions](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/field-conventions/general-info.md#general-information)  in the Metadata Guidance and [ILCD Nomenclature Rules](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-D.md).
+
+
+#### Product Names
+
+Intermediate product flows are technosphere flows that are a product of one or more processes and have flowable names and flow properties. Technosphere or product flows are the result of a process (or processes) and flow as exchanges between processes (unlike elementary flows that flow as exchanges to and from environmental compartments). All intermediate product flow names should be decoupled from their associated activity flow names (i.e., process name) for transparency and clarity. That is, a product name should not contain metadata that is specific to the activity context such as the location or year. The intermediate product name should be generic to any activity context so as to avoid unnecessary duplication of product flow names. Likewise, product flow properties such as units, formulas, synonyms, infrastructural flow designation, etc. may be defined in the metadata and should also not be included in the flowable name.
+
+#### Process Names
+
+An intermediate process is an activity containing at least one intermediate product flow. Activities are exchanges containing at least one input flow and one output flow (i.e., defining a relationship between flows). The intermediate process flow name should reflect the product or service it represents; the product reference output is often given the same name as the process name; the naming conventions are as follows: Base name; treatment, routes, standards; production type, location type; quantitative flow properties. The base name is a general descriptive name of the process using technical language. The technical name should be given as it is used in the respective industry or toward their customers. 
+
+Name all original data sets that you submit to USLCI according to the ILCD naming convention. The standards include qualitative information about the process in technical terms (see Rules 1-19 in [ILCD Nomenclature Rules](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-D.md) or the full [ILCD Nomenclature Handbook](https://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf) for a list of potential descriptive terms). The quantitative process properties further specify information on process in technical quantitative term(s).
+
+If you have modified or customized a unit process from a commercial database, you should submit the process named exactly as it is in the original process with an indication (i.e., in the comment field) that it is a modified version of the original. For example, the modified ecoinvent® process _“carbon dioxide liquid, at plant/RER U”_ might be renamed _"carbon dixodie liquid, at plant/US"_ and the comment might read: ‘adapted from ecoinvent to reflect US average electricity grid.’
+
+To link processes in your datasets, use the exact nomenclature of the intermediate flow. If the process to be linked only exists in another database or FLCAC repository, the exact nomenclature used and the repository noted in the _‘Input Flow, Description’_ field. Processes from other databases (i.e., already existing outside the FLCAC) should not be submitted as datasets. Therefore, a technosphere flow that is not being submitted as a dataset and is not already in the USLCI or another FLCAC repository should be categorized in the _Technosphere Flows>CUTOFF Flows_ folder or a reasonable proxy from the USLCI or another FLCAC repository should be identified with a note in the ‘Input Flow, Description’ field regarding the flow origin (database and flow name).
+
+
+
+### Elementary Flow Names
+Elementary flows are data components of LCA data that describe common physical items that move from the technosphere into nature or vice versa. They are used in exchanges in life cycle inventory (LCI) data to represent these movements into and out of processes, and they are used in Life Cycle Impact Assessment (LCIA) methods to match inventory data with impact characterization factors. Hence, they serve a critical role in LCA modeling and are essential in achieving LCA data interoperability.
+
+The US EPA has developed a master elementary flow list (the FEDEFL), which is available in CSV and openLCA schema JSON-LD formats, and provides resources to help with mappings. The current release version is available via the [FLCAC portal](https://www.lcacommons.gov/). The [FEDEFL wiki](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List/wiki) provides guidance on converting an established flow list in a standard openLCA format to FEDEFL flows. Please see the US EPA report, The [Federal LCA Commons Elementary Flow List: Background, Approach, Description and Recommendations for Use](https://cfpub.epa.gov/si/si_public_record_Report.cfm?Lab=NRMRL&dirEntryId=347251) report for more information regarding the FEDEFL requirements and nomenclature.
+
+Elementary flow names in LCI must correspond directly to the elementary flow names used in the LCIA method. Usage of the FEDEFL protocol for both LCI and LCIA datasets on the FLCAC ensures interoperability between these different types of datasets.
+
+<br>
+
+
+<a id="metadata-guidance-tables"></a>
+## Metadata Guidance Tables
 The tables below details the conventions for each field of the elements in the openLCA software. Each field has guidance and examples recommended by NREL for completing the metadata for processes submitted to the USLCI Database. Some of these fields are mandatory (marked **'M'**), a few are automatically populated (marked **'A'**), and some are optional (marked **'O'**).
 
 
 
 The key sources for the guidance are the:
 
-- _LCA Commons (LCAC) Submission Guidelines_
-- _LCAC Unit Process Template_
+- _Federal LCA Commons (FLCAC) Data Submission Guidelines_
+- _FLCAC Unit Process Template_
 - _GreenDelta: Class Data Set Information_ ( [http://greendelta.github.io/olca-modules/olca-ilcd/apidocs/org/openlca/ilcd/flowproperties/DataSetInformation.html](http://greendelta.github.io/olca-modules/olca-ilcd/apidocs/org/openlca/ilcd/flowproperties/DataSetInformation.html))
 - _ILCD Handbook: Nomenclature and other conventions_ ( [http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf](http://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf))
 - _Chalmers University Guide to LCA Data Documentation_ ( [http://cpmdatabase.cpm.chalmers.se/Document/CPM\_Report\_2003\_3\_Introduction\_and\_guide.pdf](http://cpmdatabase.cpm.chalmers.se/Document/CPM_Report_2003_3_Introduction_and_guide.pdf))
 - _UNEP SETAC's Shonan Guidelines – Global Guidance Principles for LCA Databases: A Basis for Greener Processes. United Nations Environment Programme (UNEP) – Society of Environmental Toxicology and Chemistry (SETAC). © United Nations Environment Programme, 2011._ Accessed at: ( [https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf](https://www.lifecycleinitiative.org/wp-content/uploads/2012/12/2011%20-%20Global%20Guidance%20Principles.pdf))
 
-
-<a id="metadata-guidance-tables"></a>
-## Metadata Guidance Tables
 
 
 
