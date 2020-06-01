@@ -72,7 +72,22 @@ Flow data within the unit process(es) must be based on measurements using a spec
 <a id="nomenclature"></a>
 ### Nomenclature
 
-Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). A technosphere flow that is not being submitted as a dataset and is not already in the USLCI should be labeled a ‘CUTOFF’ or a reasonable proxy from the USLCI identified with a note in the ‘Input Flow, Description’ field regarding the flow origin (database and flow name). Processes from other databases should not be submitted as datasets.
+Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). 
+
+Flows are categorized as either elementary or technosphere flows. Datasets from different databases with disparate categorization schemes can prevent connectivity, cause duplications and/or confusion among users, and result in a bulky database.
+
+Therefore, FLCAC has adopted the EPA Federal LCA Commons Elementary Flow List (FEDEFL) for elementary flow classification. Elementary flows are further classified into eight classes as described in the [FLCAC Guidelines Appendix D: Highlight 4](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/05-FEDEFL%20Guidelines%20-%20Appendix%20Fork.md). The classification of elementary flows employed by the FEDEFL allows for a systematic approach for managing elementary flows on the Federal LCA Commons.
+
+Technosphere flows and intermediate processes are further classified using the North American Industry Classification System (NAICS) 2 digit/4 digit classification scheme for categorizing intermediate processes and technosphere flows (see: https://www.census.gov/eos/www/naics/). Please ensure that your datasets are submitted using this format and reflect the latest NAICS updates, which occur roughly every three to four years.
+
+Additional guidance for using the EPA Elementary Flow list can be found on the [FEDEFL github repository wiki page](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List/wiki) or the [FEDEFL guidance document](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NRMRL&dirEntryId=341199). Additional guidance on the ILCD nomenclature for technosphere and process nomenclature can be located in the [ILCD Nomenclature Rules Appendix](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-D.md) of this Handbook or the [ILCD Handbook](https://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf).
+
+A technosphere flow that is not being submitted as a dataset and is not already in the USLCI or another repo of the FLCAC should be categorized in the _Technosphere Flows>CUTOFF Flows_ folder with the description 'CUTOFF' in the product flow description metadata. Otherwise, a reasonable proxy from the USLCI may be identified with a note in the _‘Input Flow, Description’_ field regarding the flow provenance (database origin and original flow name). Processes from other databases should not be submitted as datasets.
+
+### Data Quality Scheme
+
+Within openLCA, the only data quality scheme available by default is that of ecoinvent®. Publishing agencies may have developed their own scheme and still, some may not use a scheme at all. The FLCAC does not require a specific scheme be utilized; however, there is guidance in this document on how to utilize the EPA Data Quality Pedigree Matrix if it is elected. The USLCI uses the EPA Data Quality Pedigree Matrix (downloaded and imported into openLCA from the GreenDelta downloads page).
+
 <br><br>
 
 
