@@ -8,130 +8,13 @@ All rules paraphrased from the International Reference Life Cycle Data (ILCD) Sy
 
 All deliverables shall meet all the &#39;mandatory&#39; rules; &#39;recommended&#39; rules are optional
 
-## Rule 2: Elementary flow categories
+## Elementary flow categories
 
 _(Mandatory for both technical and non-technical target audience)_
 
-Categories are listed by receiving/providing environmental compartment
+See the [**_Nomenclature_**](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/01-should-i-publish-in-the-uslci.md#nomenclature) section of the USLCI Submission Handbook for guidance on the Federal Elementary Flow List (FEDEFL).
 
-- Resources - Resources from ground
-- Resources - Resources from water
-- Resources - Resources from air
-- Resources – Resources from biosphere
-- Land use – Land transformation
-- Land use – Land occupation
-- Emissions – Emissions to air - Emissions to air, unspecified
-- Emissions – Emissions to air - Emissions to air, unspecified (long-term)
-- Emissions – Emissions to air - Emissions to urban air close to ground
-- Emissions – Emissions to air - Emissions to non-urban air or from high stacks
-- Emissions – Emissions to air - Emissions to lower stratosphere and upper troposphere
-- Emissions – Emissions to water - Emissions to water, unspecified
-- Emissions – Emissions to water - Emissions to water, unspecified (long-term)
-- Emissions – Emissions to water - Emissions to fresh water
-- Emissions – Emissions to water - Emissions to sea water
-- Emissions – Emissions to soil - Emissions to soil, unspecified
-- Emissions – Emissions to soil - Emissions to agricultural soil
-- Emissions – Emissions to soil - Emissions to non-agricultural soil
-- Emissions – Emissions to soil - Emissions to soil, unspecified (long-term)
-- Other elementary flows
 
-Note: &#39;Long-term&#39; refers to emissions occurring &gt; 100 years into the future (e.g., from waste deposits).
-
-## Rule 3: Splitting emissions to brackish water
-
-_(Recommended for both technical and non-technical target audience)_
-
-Designates that emissions into brackish water be split 50/50 for share to seawater and freshwater
-
-## Rule 4: Further differentiation of providing/receiving environmental compartment
-
-_(Mandatory for technical target audience, recommended for non-technical target audience)_
-
-Specifies three approaches further differentiation of compartments:
-
-1. None (most commonly used)
-2. Receiving environment subcompartments (e.g., &#39;emissions to groundwater&#39;) or emission-situation/site-type (e.g., emissions to indoor air&#39;) used by few database developers
-3. Differentiation per country or region resource enters technosphere (e.g., &#39;Crude oil from Libya&#39;), elementary flows occur as emissions (e.g., &#39;emissions to air, Spain&#39;) or categorically, into subcompartments (e.g., &#39;emissions to deep groundwater&#39;)
-
-## Rule 5: Additional, non-identifying classification for &quot;Resources from ground&quot; elementary flows:
-
-_(Mandatory for technical target audience, recommended for non-technical target audience)_
-
-#### Example flows shown in brackets; a flow with no example is probably not used actively
-
-- Non-renewable material resources from ground&quot; (e.g. &quot;Sand,&quot; &quot;Anhydrite; 100%,&quot; etc.)
-- Non-renewable element resources from ground &quot; (e.g. &quot;Gold,&quot; &quot;Copper,&quot; etc.)
-- Non-renewable energy resources from ground &quot; (e.g. &quot;Hard coal; 32.7 MJ/kg net calorific value&quot;, &quot;Uranium; natural isotope mix; 451,000 MJ/kg,&quot; etc.)
-- Renewable element resources from ground &quot; (e.g. &quot;Radon,&quot; etc.)
-- Renewable energy resources from ground&quot; (e.g. &quot;Wind energy,&quot; &quot;Water energy; running,&quot; etc.)
-- Renewable material resources from ground&quot;
-- Renewable resources from ground, unspecified&quot; (flows not fitting into any other categories)
-- Non-renewable resources from ground, unspecified&quot; (flows not fitting into any other categories)
-
-## Rule 6: Additional, non-identifying classification of &quot;Resources from water&quot; elementary flows
-
-_(Mandatory for technical target audience, recommended for non-technical target audience)_
-
-#### Example flows shown in brackets; a flow with no example is probably not used actively
-
-- &quot;Non-renewable element resources from water&quot; (e.g. Magnesium, Bromium, Hydrogen etc.)
-- &quot;Non-renewable material resources from water&quot;
-- &quot;Non-renewable energy resources from water&quot;
-- &quot;Renewable element resources from water&quot;
-- &quot;Renewable material resources from water&quot; (e.g. &quot;Groundwater, etc.)
-- &quot;Renewable energy resources from water&quot; (e.g. &quot;Hydro energy; running,&quot; &quot;Tidal energy,&quot; etc.)
-- &quot;Renewable resources from water, unspecified&quot; (flows not fitting into any other categories)
-- &quot;Non-renewable resources from water, unspecified&quot; (flows not fitting into any other categories)
-
-## Rule 7: Non-identifying classification of &quot;Resources from air&quot; elementary flows
-
-_(Mandatory for technical target audience, recommended for non-technical target audience: additional)_
-
-#### Example flows shown in brackets; a flow with no example is probably not used actively
-
-&quot;Non-renewable material resources from air&quot;
-
-&quot;Non-renewable element resources from air&quot;
-
-&quot;Non-renewable energy resources from air&quot;
-
-&quot;Renewable element resources from air&quot; (e.g. &quot;Oxygen,&quot; &quot;Argon,&quot; etc.)
-
-&quot;Renewable energy resources from air&quot; (e.g. Wind energy, solar energy, etc.)
-
-&quot;Renewable material resources from air&quot;
-
-&quot;Renewable resources from air, unspecified&quot; (flows not fitting into any other categories)
-
-&quot;Non-renewable resources from air, unspecified&quot; (flows not fitting into any other categories)
-
-## Rule 8: Additional, non-identifying classification of resource elementary flows for &quot;Resources from biosphere&quot; class
-
-_(Mandatory for technical target audience, recommended for non-technical target audience)_
-
-#### Example flows for use as sub-classification for the &quot;Resources from biosphere&quot; top class shown in brackets; a flow class with no example is probably not used actively
-
-- &quot;Renewable genetic resources from biosphere&quot; (for extraction/hunting of wild species e.g. &quot;Mahagony wood (Tectona grandis), without bark; standing; primary forest&quot;)
-- &quot;Renewable material resources from biosphere&quot; (e.g. &quot;Round soft wood; 50% H2O&quot;)
-- &quot;Renewable energy resources from biosphere&quot; (e.g. &quot;Wood biomass; 50% H2O, 7.2 MJ/kg&quot;)
-- &quot;Renewable element resources from biosphere&quot;
-- &quot;Renewable resources from biosphere, unspecified&quot; (flows not fitting into any other categories)
-
-## Rule 9: Additional, non-identifying classification for emissions
-
-_(Recommended for both technical and non-technical target audience)_
-
-#### Examples in brackets showing the application of the nomenclature
-
-- &quot;Metal and semimetal elements and ions&quot; (e.g., &quot;Arsenic,&quot; &quot;Cadmium,&quot; &quot;Chromium, III,&quot; etc.)
-- &quot;Nonmetallic or -semimetallic ions&quot; (e.g. &quot;Ammonium,&quot; &quot;Phosphate,&quot; etc.)
-- &quot;Inorganic covalent compounds&quot; (e.g. &quot;Carbon dioxide, fossil,&quot; &quot;Carbon monoxide,&quot; &quot;Sulfur dioxide,&quot; &quot;Ammonia,&quot; etc.)
-- &quot;Cyclic organics&quot; (e.g. &quot;Hexachloro-benzene,&quot; &quot;Cyclopentane,&quot; &quot;Naphthalene,&quot; etc.)
-- &quot;Acyclic organics&quot; (e.g. &quot;Ethene,&quot; &quot;3-methyl-1-butene,&quot; &quot;1,2-chloro-pentane&quot; etc.)
-- &quot;Pesticides&quot; (e.g. &quot;Chlorfenvinphos,&quot; &quot;Tributyl-tin&quot; etc.)
-- &quot;Radioactives&quot; (e.g. &quot;Cesium-137,&quot; &quot;Radon-220,&quot; etc.)
-- &quot;Particles&quot; (e.g. &quot;PM &lt;2.5μm,&quot; &quot;PM 2.5-10μm,&quot; etc.)
-- &quot;Other substance type&quot;
 
 ## Rule 10: Top-level classification for Product flows, Waste flows, and Processes
 
