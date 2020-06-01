@@ -85,10 +85,7 @@ The Appraisal phase begins by submitting your data to the USLCI Database Admin f
 
 Following this review, a 30-60 minute Appraisal Meeting may be scheduled. This meeting is an opportunity to evaluate the data at a deeper level and, if appropriate, develop a plan Ingest & Onboarding and Review phases of the Digital Curation Process. The Appraisal Meeting results in one of three outcomes:
 
-1.	Data Approved
-2.	Revise and Resubmit
 
-A *Data Approved* outcome means that your data is advanced to the [Ingest & Onboarding](#ingest-and-onboarding) phase with no modifications.  This outcome is rare for an initial submission.  A *Revise and Resubmit* outcome means that the Data Curator will ask you to make specific changes to the data and metadata in your LCI model within openLCA.  After those changes are made, you will contact the Data Curator via email and/or using the GitHub repository features for a follow-up Appraisal Meeting.  Most data appraisals result in this outcome.
 
 <a id="ingest-and-onboarding"></a>
 ### Ingest & Onboarding
@@ -112,7 +109,7 @@ Prior to the Kick-off Meeting, you will receive an invitation to the [NREL GitHu
 
 During the Kick-off Meeting, NREL’s Data Curator will guide you through using these resources, provide you with an overview of the curation process, and discuss your data in the context of the USLCI. Whether you have existing data formats you import into openLCA, or you compile them from scratch in openLCA, NREL’s Data Curator will guide you through the compilation of your data and supporting metadata in the openLCA software.
 
-As mentioned in the [Expectations](./01-should-i-publish-in-the-uslci.md#expectations) section and the [Overview of the Digital Curation Process](#overview-digital-curation), the LCA Commons is structured upon the [openLCA](http://www.openlca.org/download/) database schema to facilitate compliance with [ISO 14048:2002](https://www.iso.org/standard/29872.html) – LCA Data Documentation Format standards. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA. If you are already using openLCA, discuss which version with the Data Curator during the Appraisal Meeting to ensure compatability. It may or may not be necessary for you to update to a newer software version. Once you edit your Unit Processes or product systems in openLCA, you may share them through your institutional GitHub repository hosted by NREL as exported [JSON-LD files](https://json-ld.org/).
+As mentioned in the [Expectations](./01-should-i-publish-in-the-uslci.md#expectations) section and the [Overview of the Digital Curation Process](#overview-digital-curation), the LCA Commons is structured upon the [openLCA](http://www.openlca.org/download/) database schema to facilitate compliance with [ISO 14048:2002](https://www.iso.org/standard/29872.html) – LCA Data Documentation Format standards. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA (see below the **_Guidance on Data Compilation in openLCA_**(https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md#gudance-on-data-compilation-in-openlca) section of this Chapter). If you are already using openLCA, discuss which version with the Data Curator during the Appraisal Meeting to ensure compatability. It may or may not be necessary for you to update to a newer software version. Once you edit your Unit Processes or product systems in openLCA, you may share them through your institutional GitHub repository hosted by NREL as exported [JSON-LD files](https://json-ld.org/).
 
 
 <a id="review"></a>
