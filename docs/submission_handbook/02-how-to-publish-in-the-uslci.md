@@ -217,8 +217,10 @@ Elementary flow names in LCI must correspond directly to the elementary flow nam
 
 
 <a id="metadata-guidance-tables"></a>
-## Metadata Guidance Tables
-The tables below details the conventions for each field of the elements in the openLCA software. Each field has guidance and examples recommended by NREL for completing the metadata for processes submitted to the USLCI Database. Some of these fields are mandatory (marked **'M'**), a few are automatically populated (marked **'A'**), and some are optional (marked **'O'**).
+## Metadata Guidance
+As FLCAC interagency coordination increases, the new standard for data formats and documentation is being advanced. In order to move toward interoperability and transparency, FLCAC harmonization of digital data access and preservation will increase collaboration potential and the reviewability of the LCA data exchange process. These efforts will significantly reduce not only data acquisition costs but also computer- and human-based misinterpretation errors, and thus, data misuse. As such, and to be more aligned with international protocols for all newly developed data, the current FLCAC repository standardization is to strive for 100 percent metadata completion. 
+
+The links below correspond to tables with the conventions for each field of the elements in the openLCA software. The tables are arranged by the field sections as displayed in the tabs of the openLCA process window views. Each field has guidance and examples recommended by NREL for completing the metadata for processes submitted to the USLCI Database. Some of these fields are mandatory (marked **'M'**), a few are automatically populated (marked **'A'**), and some are optional (marked **'O'**).
 
 
 
