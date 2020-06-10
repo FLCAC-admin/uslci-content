@@ -49,7 +49,7 @@ The International Organization for Standardization (ISO) specifies data document
 <br>
 <br>
 
-To facilitate compliance with this standard, as of May 2018, the LCA Commons is structured upon the [openLCA v1.7](http://www.openlca.org/download/) database schema<sup>[**[1]**](#fn1)</sup>, which includes the elements designated in the above figure. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the LCA Commons should be edited in openLCA v1.7. If you already work in a different version of openLCA, discuss this with the NREL Data Curator at the beginning of the data submission process.
+To facilitate compliance with this standard, the LCA Commons is structured upon the [openLCA](http://www.openlca.org/download/) database schema<sup>[**[1]**](#fn1)</sup>, which includes the elements designated in the above figure. To minimize data formatting efforts and ensure all metadata elements persist throughout submission, unit process and product system datasets submitted to the USLCI Databaes/LCA Commons should be edited in openLCA. If you already work in a version of openLCA, discuss this with the NREL Data Curator at the beginning of the data submission process to ensure compatibility.
 
 Editing guidance is provided in the Ingest & Onboarding and Guidance on Data Compilation in openLCA sections of this handbook. Once you edit your Unit Processes or product systems in openLCA, you may share them through your institutional repository hosted by NREL as exported JSON-LD files. NREL will then publish the data to its internal repository. The openLCA software can be downloaded free of charge at openLCA.org.
 
