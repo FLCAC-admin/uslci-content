@@ -69,20 +69,28 @@ Multi¬functional unit processes should include all co-products and may also inc
 
 Flow data within the unit process(es) must be based on measurements using a specified and standardized measurement method OR estimated using methods and data described in specified archival or other publicly available sources. Furthermore, data should represent a novel contribution (i.e., unique process, unique market, update, and dataset does not duplicate existing data) to the LCA community and be non-proprietary. If the data are an update to a previously published dataset, a note will be added to the metadata of the unit process dataset (i.e., see: the [Administrative Information Field Conventions Table](./field-conventions/admin-info.md) _‘Intended Application’_ field of the [‘Administrative Information’ tab)](./field-conventions/admin-info.md#admininstrative-information)). Unit processes that represent proxy upstream processes from external databases should not be submitted (e.g., ecoinvent process datasets).
 
+<a id="categorization"></a>
+<br>
+
+### Categorization
+Flows are categorized as either elementary or technosphere flows. Datasets from different databases with disparate categorization schemes can prevent connectivity, cause duplications and/or confusion among users, and result in a bulky database.
+
+Technosphere flows and intermediate processes are classified using the North American Industry Classification System (NAICS) 2 digit/4 digit classification scheme for categorizing intermediate processes and technosphere flows (see: https://www.census.gov/eos/www/naics/). Please ensure that your datasets are submitted using this format and reflect the latest NAICS updates, which occur roughly every three to four years.
+
+A technosphere flow that is not being submitted as a dataset and is not already in the USLCI or another repo of the FLCAC should be categorized in the _Technosphere Flows>CUTOFF Flows_ folder with the description 'CUTOFF' in the product flow description metadata. Otherwise, a reasonable proxy from the USLCI may be identified with a note in the _‘Input Flow, Description’_ field regarding the flow provenance (database origin and original flow name). Processes from other databases should not be submitted as datasets.
+
+
 <a id="nomenclature"></a>
 ### Nomenclature
 
-Detailed guidance on process and flow nomenclature are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). 
+Detailed guidance on process and flow nomenclature for USLCI are provided in [Table 1. General Information Field Conventions](./field-conventions/general-info.md#general-information) of the [Metadata Guidance Tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables) and [Appendix D: ILCD Nomenclature Rules](./04-resources/04-App-D.md). 
 
-Flows are categorized as either elementary or technosphere flows. Datasets from different databases with disparate categorization schemes can prevent connectivity, cause duplications and/or confusion among users, and result in a bulky database.
-
-Therefore, FLCAC has adopted the EPA Federal LCA Commons Elementary Flow List (FEDEFL) for elementary flow classification. Elementary flows are further classified into eight classes as described in the [FLCAC Guidelines Appendix D: Highlight 4](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/05-FEDEFL%20Guidelines%20-%20Appendix%20Fork.md). The classification of elementary flows employed by the FEDEFL allows for a systematic approach for managing elementary flows on the Federal LCA Commons.
+The USLCI has adopted the EPA Federal LCA Commons Elementary Flow List (FEDEFL) for elementary flow classification. Elementary flows are further classified into eight classes as described in the [FLCAC Guidelines Appendix D: Highlight 4](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/05-FEDEFL%20Guidelines%20-%20Appendix%20Fork.md). The classification of elementary flows employed by the FEDEFL allows for a systematic approach for managing elementary flows on the Federal LCA Commons.
 
 Technosphere flows and intermediate processes are further classified using the North American Industry Classification System (NAICS) 2 digit/4 digit classification scheme for categorizing intermediate processes and technosphere flows (see: https://www.census.gov/eos/www/naics/). Please ensure that your datasets are submitted using this format and reflect the latest NAICS updates, which occur roughly every three to four years.
 
 Additional guidance for using the EPA Elementary Flow list can be found on the [FEDEFL github repository wiki page](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List/wiki) or the [FEDEFL guidance document](https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=NRMRL&dirEntryId=341199). Additional guidance on the ILCD nomenclature for technosphere and process nomenclature can be located in the [ILCD Nomenclature Rules Appendix](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-D.md) of this Handbook or the [ILCD Handbook](https://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf).
 
-A technosphere flow that is not being submitted as a dataset and is not already in the USLCI or another repo of the FLCAC should be categorized in the _Technosphere Flows>CUTOFF Flows_ folder with the description 'CUTOFF' in the product flow description metadata. Otherwise, a reasonable proxy from the USLCI may be identified with a note in the _‘Input Flow, Description’_ field regarding the flow provenance (database origin and original flow name). Processes from other databases should not be submitted as datasets.
 
 ### Data Quality Scheme
 
