@@ -33,6 +33,7 @@ Here is a detailed [TABLE OF CONTENTS](#toc).
     * [_Data formatting_](./01-should-i-publish-in-the-uslci.md#data-formatting)
   * [Data requirements](./01-should-i-publish-in-the-uslci.md#data-requirements)
     * [_Data reliability and reproducibility_](./01-should-i-publish-in-the-uslci.md#data-reliability-and-reproducibility)
+    * [_Categorization_](./01-should-i-publish-in-the-uslci.md#categorization)
     * [_Nomenclature_](./01-should-i-publish-in-the-uslci.md#nomenclature)
 ### [Section 2: How do I publish my data in the US LCI?](./02-how-to-publish-in-the-uslci.md)
   * [Working with NREL](./02-how-to-publish-in-the-uslci.md#working-with-nrel)
