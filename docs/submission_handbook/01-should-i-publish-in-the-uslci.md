@@ -13,6 +13,7 @@ This page is divided into the following subsections.
     * [_Data formatting_](./01-should-i-publish-in-the-uslci.md#data-formatting)
 3. [**Data requirements**](./01-should-i-publish-in-the-uslci.md#data-requirements)
     * [_Data reliability and reproducibility_](./01-should-i-publish-in-the-uslci.md#data-reliability-and-reproducibility)
+    * [_Categorization_](./01-should-i-publish-in-the-uslci.md#categorization)
     * [_Nomenclature_](./01-should-i-publish-in-the-uslci.md#nomenclature)
 
 
