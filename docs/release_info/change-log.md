@@ -15,7 +15,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
-
 | FY20.Q2.01 | Process | Edit | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Reinstated missing quantitative reference (acetic acid product output) |
 | FY20.Q2.01 | Process | Edit | Corrugated product, 100% recycled, at mill | 9c10be0f-e38e-4551-b8b5-eef65fa27dcc | Added EPA Pedigree Matrix indicators for process schema; augment Data Treatment &amp; Source metadata |
 | FY20.Q2.01 | Process | Edit | Printer, AltaLink B8045/55 multi-functional device (MFD) | 50356d14-b626-4a38-babf-bf5657d08358 | Added EPA Pedigree Matrix indicators for process schema |
@@ -144,7 +143,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY20.Q2.01 | Flow | Deletion | Potassium fertilizer, production mix, at plant | f9ed22cd-6dbf-333c-9cc2-981a3574ac1a | Delete orphaned flow |
 | FY20.Q2.01 | Flow | Deletion | Hogfuel-Biomass (50% MC), combusted in industrial boiler | 2b918fe0-af98-30d5-a74b-bdf5479c3d17 | Delete orphaned flow |
 | FY20.Q2.01 | Flow | Deletion | Kerosene, combusted in industrial boiler | 9113d1ad-b7e9-3083-b2a1-69906320d86e | Delete orphaned flow |
-
 | FY20.Q1.01 | Flow | Recategorization | Water/emission/water | e2eb491c-78ff-3123-9e42-494c7d199b44 | Flowable reclassified to corresponding resource/water context where an input to process |
 | FY20.Q1.01 | Flow | Recategorization | Water/emission/water/subterranean | 01ec7937-eea7-3830-aaf6-3be74f4d952b | Flowable reclassified to corresponding resource/water context where an input to process |
 | FY20.Q1.01 | Flow | Recategorization | Water/emission/water/fresh water body/river | 9f9ec4e9-fd80-319a-bc10-d38773af3c43 | Flowable reclassified to corresponding resource/water context where an input to process |
