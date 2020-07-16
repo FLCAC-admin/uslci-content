@@ -15,8 +15,8 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
-| FY20.Q2.01 | Process | Edit | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Reinstated missing quantitative reference (acetic acid product output) |
 
+| FY20.Q2.01 | Process | Edit | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Reinstated missing quantitative reference (acetic acid product output) |
 | FY20.Q2.01 | Process | Edit | Corrugated product, 100% recycled, at mill | 9c10be0f-e38e-4551-b8b5-eef65fa27dcc | Added EPA Pedigree Matrix indicators for process schema; augment Data Treatment &amp; Source metadata |
 | FY20.Q2.01 | Process | Edit | Printer, AltaLink B8045/55 multi-functional device (MFD) | 50356d14-b626-4a38-babf-bf5657d08358 | Added EPA Pedigree Matrix indicators for process schema |
 | FY20.Q2.01 | Flow | Edit | Diesel, at refinery | d939590b-a0d7-310c-8952-9921ed64a078 | Added mass flow properties and conversion factor from volume reference unit per exchange comment in producer process &quot;Petroleum refining, at refinery&quot; |
