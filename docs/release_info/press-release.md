@@ -5,6 +5,62 @@
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
+## 2020 Summer Quarter (Scheduled June 30, Occurred July 14)
+
+This USLCI Database release occurred on July 14, 2020 to the USLCI database available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search), intended as the normal fiscal quarter release scheduled for June 30, 2020 to align with several improvements going forward:
+
+- Correction to &quot;Petroleum refining, at refinery&quot; allocation factors &amp; product linking
+
+- Update to ACC LDPE plastic resin data
+
+- Update of USLCI forestry products nomenclature to match CORRIM repo for linking
+
+- Augmented user rights &amp; and process-level data quality metadata for some processes
+
+- Corrections to the following as noted in the [Spring Quarter Release Errata](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release.md#2020-spring-quarter-release-errata):
+
+  - Carbon dioxide emissions for **_Diesel, combusted in industrial boiler_** was on a _m3_ diesel output basis (2,727 _kg / m3_ diesel). However, the remainder of the exchanges for this process are on the basis of 1 _L_ diesel output. Please note the carbon dioxide emission factor was corrected to 2.727 _kg / L_ diesel output to match the units of the quantitative reference and other exchanges for this process.
+
+  - For **_Transport, combination truck, diesel powered_**, corrected units of **_Diesel, at refinery_** inputs from _m3_ to _L_ per output of _t*km_ transport
+
+  - For **_Steam, purchased by containerboard mills_**, corrected units of residual fuel oil inputs from _m3_ to _L_ and value from _gal_ to _L_; corrected natural gas value converted from _ft3_ to _m3_ (British units originally submitted)
+
+  - For **_Transport, ocean freighter, residual fuel oil powered_**, corrected units of residual fuel oil inputs from _m3_ to _L_
+
+  - For the following processes, a bug error caused the quantitative reference output to be eliminated from the process (not the database). These output products with their respective values, units, and exchange comments were reinstated to their respecitive processes:
+
+    - Corrugated product, average production, at mill
+
+    - Aluminum, primary ingot, at plant
+
+    - Acetic acid, at plant
+
+    - Ethanol, denatured, corn dry mill
+
+    - Aluminum, secondary ingot, at plant
+
+    - Steel, stainless 304, scrap
+
+    - Pulp, kraft market, bleached, average production, at mill
+
+    - Wood Combusted, at boiler, at cellulosic fiberboard mill
+
+Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/change-log.md) for details.
+
+Please note that the Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may \_&quot;Browse Repositories&quot;\_ if you want to explore other data becoming available from Federal LCA Commons (FLCAC) member agencies.
+
+Additionally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the USLCI Data Curator (rebe.feraldi@lac-group.com) if you have any data/metadata publishing goals for the next September 30, 2020 Fall release date. We look forward to hearing from you soon.
+
+Finally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/release-downloads.md).
+
+
+### A Note on Allocation Default Methods in oLCA
+
+Using &#39;NONE&#39; or &#39;CAUSAL&#39; as the default allocation method, as designated by data providers in many USLCI multi-output processes, can produce unexpected LCI &amp; LCIA results in oLCA. The &#39;PHYSICAL&#39; and &#39;ECONOMIC&#39; default methods produce expected results. Further, selecting &#39;AS DEFINED IN PROCESS&#39; during calculations also produces expected results. See [this double counting thread on allocation](https://ask.openlca.org/2281/allocation-in-multifunctional-processes) and this [unit properties in allocation thread](https://github.com/GreenDelta/olca-app/issues/83) in the oLCA issues/Q&amp;A and GitHub Issues lists, respectively.
+
+Until default allocation methods for multi-output processes in USLCI are adjusted and additional guidance is provided, NREL recommends using the &#39;AS DEFINED IN PROCESS&#39; default allocation when running calculations on USLCI data in oLCA.
+
+<br>
 ## 2020 Spring Quarter Release Errata
 
 **Please NOTE: the following errors have been identified in the current USLCI Database version and will be corrected for release to the public database for the June 30 quarterly publication update:**
