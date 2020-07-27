@@ -2,7 +2,7 @@
 
 [Return to the USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
-This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=National_Renewable_Energy_Laboratory) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
+This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 
 ## 2020 Summer Quarter (Scheduled June 30, Occurred July 14)
@@ -61,6 +61,7 @@ Using &#39;NONE&#39; or &#39;CAUSAL&#39; as the default allocation method, as de
 Until default allocation methods for multi-output processes in USLCI are adjusted and additional guidance is provided, NREL recommends using the &#39;AS DEFINED IN PROCESS&#39; default allocation when running calculations on USLCI data in oLCA.
 
 <br>
+
 ## 2020 Spring Quarter Release Errata
 
 **Please NOTE: the following errors have been identified in the current USLCI Database version and will be corrected for release to the public database for the June 30 quarterly publication update:**
