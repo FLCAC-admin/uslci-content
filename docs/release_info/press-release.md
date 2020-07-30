@@ -2,11 +2,16 @@
 
 [Return to the USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
-[USLCI Database Citation Format](../#USLCI-Database-Citation)
+[USLCI Database Citation Format](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release.md#uslci-database-citation)
+
 <br>
+<br>
+
 
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the USLCI Data Curator on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
+<br>
+
 
 ## 2020 Summer Quarter (Scheduled June 30, Occurred July 14)
 
@@ -65,7 +70,7 @@ Until default allocation methods for multi-output processes in USLCI are adjuste
 <br>
 ### Reminder of Federal Elementary Flow List (FEDEFL)**
 
-Since Spring quarter 2020, the USLCI is now the first repo on the Federal LCA Commons (FLCAC) to be compatible with the Federal Elementary Flow List (FEDEFL). The US EPA, the lead agency on the FEDEFL, worked with NREL to help map and convert the USLCI data to the FEDEFL. The FEDEFL will become a part of the core database structure across FLCAC repositories. The CORRIM Forestry & Forestry Products is in the process of converting to the FEDEFL and others will follow. The FEDEFL will provide greater standardization and interoperability for Federal LCA data and can also serve as a standard for elementary flows for a broader community. 
+Since Spring quarter 2020, the USLCI is now the first repo on the [Federal LCA Commons (FLCAC)](https://www.lcacommons.gov/) to be compatible with the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List). The US EPA, the lead agency on the FEDEFL, worked with NREL to help map and convert the USLCI data to the FEDEFL. Per the emerging FLCAC standards & conventions, the FEDEFL will become a part of the core database structure across FLCAC repositories. The [CORRIM Forestry & Forestry Products](https://www.lcacommons.gov/lca-collaboration/search/CORRIM) database is in the process of being converting to the FEDEFL and other repos will follow. The FEDEFL will provide greater standardization and interoperability for Federal LCA data and can also serve as a standard for elementary flows for a broader community. 
 
 Please note that there has also been a release of [TRACI 2.1 LCIA Method](https://www.lcacommons.gov/lca-collaboration/US\_Environmental\_Protection\_Agency/TRACI) repo on the FLCAC server that is compatible to the FEDEFL. **This version of TRACI must be used in order to obtain results for life cycle impact assessment (LCIA) calculations on FLCAC data adapted to the FEDEFL (e.g., USLCI Database).**
 <br>
@@ -345,7 +350,7 @@ The most recent udate of the [USLCI Database](https://www.lcacommons.gov/lca-col
 _"U.S. Life Cycle Inventory Database." (RELEASE YEAR). National Renewable Energy Laboratory, RELEASE YEAR. Accessed _[Month Day, YEAR]_: [https://www.lcacommons.gov/nrel/search](https://www.lcacommons.gov/nrel/search)_
 
 ---
-[Return to Top of Page](../press-release)
+[Return to Top of Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release.md#earth_americas-uslci-press-releases-newspaper)
 
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
