@@ -12,6 +12,19 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 <br>
 <br>
 
+## ACLCA 2020 Workshops Announcement
+
+The American Center for Life Cycle Assessment (ACLCA) is offering Pre-Conference Workshops on September 21st at the [American Center for Life Cycle Assessment (ACLCA) 2020 Virtual Conference](https://aclca.org/aclca-2020/) event.
+
+Two of these workshops focus on using [Federal LCA Commons (FLCAC)](https://www.lcacommons.gov/) resources:
+
+1. 10:00 - 1:00 PM (ET): [**Using the Federal LCA Commons Elementary Flow List Toolkit**](https://www.eventbrite.com/e/using-the-federal-lca-commons-elementary-flow-list-toolkit-tickets-115650027345?aff=WebsiteLink): This course will provide step-by-step instruction for the use and application of Federal LCA Commons Elementary Flow List (FEDEFL) and associated tools.
+2. 4:00 - 5:30 PM (ET): [**Using Federal LCA Commons Resources to Submit Data to the USLCI**](https://www.eventbrite.com/e/using-federal-lca-commons-resources-to-submit-data-to-the-uslci-tickets-115661457533?aff=WebsiteLink):  The course will show you how to obtain public data for your use and how to submit data for publication in the USLCI database.
+
+LCACP CEU&#39;s are available. All registrants will receive the video recording of the workshop and materials. Find more details on timing and registration [here](https://aclca.org/aclca-2020/pre-conference-events/).
+<br>
+<br>
+
 
 ## 2020 Summer Quarter (Scheduled June 30, Occurred July 14)
 
@@ -72,7 +85,7 @@ Until default allocation methods for multi-output processes in USLCI are adjuste
 
 Since Spring quarter 2020, the USLCI is now the first repo on the [Federal LCA Commons (FLCAC)](https://www.lcacommons.gov/) to be compatible with the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List). The US EPA, the lead agency on the FEDEFL, worked with NREL to help map and convert the USLCI database to the FEDEFL. Per the emerging FLCAC standards & conventions, the FEDEFL will become a part of the core database structure across FLCAC repositories. The [CORRIM Forestry & Forestry Products](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=CORRIM) database is in the process of being converted to the FEDEFL and other repos will follow. The FEDEFL will provide greater standardization and interoperability for Federal LCA data and can also serve as a standard for elementary flows for a broader community. 
 
-Please note that there has also been a release of [TRACI 2.1 LCIA Method](https://www.lcacommons.gov/lca-collaboration/US\_Environmental\_Protection\_Agency/TRACI) repo on the FLCAC server that is compatible to the FEDEFL. **This version of TRACI must be used in order to obtain results for life cycle impact assessment (LCIA) calculations on FLCAC data adapted to the FEDEFL (e.g., USLCI Database).**
+Please note that there has also been a release of [TRACI 2.1 LCIA Method](https://www.lcacommons.gov/lca-collaboration/US\_Environmental\_Protection\_Agency/TRACI) repo on the FLCAC server that is compatible to the FEDEFL. **This version of TRACI must be used in order to obtain results for life cycle impact assessment (LCIA) calculations on FLCAC data adapted to the FEDEFL (e.g., USLCI Database).** A repo with [ReCiPe 2016 Midpoint and Endpoint ](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;group=Federal_LCA_Commons)methods that are FEDEFL-compatible has also been published to the FLCAC.
 <br>
 
 For more information regarding any of these changes, contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) or the [USLCI Administrator](mailto:lci@nrel.gov).
