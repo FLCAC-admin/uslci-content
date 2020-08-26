@@ -2,15 +2,25 @@
 
 [Return to the USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
-[USLCI Database Citation Format](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/press-release.md#uslci-database-citation)
-
 <br>
-<br>
-
 
 This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
 <br>
 <br>
+
+
+---
+### USLCI Database Citation
+
+**NOTE: If you need to cite the USLCI Database, use the following format:**
+
+_"U.S. Life Cycle Inventory Database." (RELEASE YEAR). National Renewable Energy Laboratory, RELEASE YEAR. Accessed _[Month Day, YEAR]_: [https://www.lcacommons.gov/nrel/search](https://www.lcacommons.gov/nrel/search)_
+
+---
+<br>
+<br>
+
+
 
 ## ACLCA 2020 Workshops Announcement
 
