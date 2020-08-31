@@ -80,6 +80,16 @@ Select the desired format type:
 
 <br><br><br>
 
+---
+### USLCI Database Citation
+
+**NOTE: If you need to cite the USLCI Database, use the following format:**
+
+_"U.S. Life Cycle Inventory Database." (RELEASE YEAR). National Renewable Energy Laboratory, RELEASE YEAR. Accessed _[Month Day, YEAR]_: [https://www.lcacommons.gov/nrel/search](https://www.lcacommons.gov/nrel/search)_
+
+---
+<br>
+<br>
 
 
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
