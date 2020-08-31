@@ -8,20 +8,6 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 <br>
 <br>
 
-
----
-### USLCI Database Citation
-
-**NOTE: If you need to cite the USLCI Database, use the following format:**
-
-_"U.S. Life Cycle Inventory Database." (RELEASE YEAR). National Renewable Energy Laboratory, RELEASE YEAR. Accessed _[Month Day, YEAR]_: [https://www.lcacommons.gov/nrel/search](https://www.lcacommons.gov/nrel/search)_
-
----
-<br>
-<br>
-
-
-
 ## ACLCA 2020 Workshops Announcement
 
 The American Center for Life Cycle Assessment (ACLCA) is offering Pre-Conference Workshops on September 21st at the [American Center for Life Cycle Assessment (ACLCA) 2020 Virtual Conference](https://aclca.org/aclca-2020/) event.
