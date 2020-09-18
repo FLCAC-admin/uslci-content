@@ -8,10 +8,6 @@ This table includes conventions for the following set of fields in this tab of o
 
 - [Inputs](#inputs)
 
-
-<br>
-<br>
-
 ### Inputs may include:
 
 
