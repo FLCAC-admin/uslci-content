@@ -10,6 +10,22 @@ This table includes conventions for the following set of fields in this tab of o
 
 
 <br>
+<br>
+
+### Inputs may include:
+
+
+- **Resource**: resources from nature, including water, energy, geological flows, land use, and carbon sequestrated from air
+- **Ecosystem Services**: provisioning, regulation and maineannce, or cultural services from nature or human modification of ecosystems via technosphere activities; includes land transformation
+- **Raw material**: primary or secondary material used to produce a product or reference flow, including intermediary products, semi-finished goods; etc., for example, a refined fuel, chemical, resin, substance, metal alloy, lumber, paper, scrap
+- **Energy**: energy inputs from technosphere, e.g., heat, electricity
+- **Ancillary**: input Including ancillary materials, transport flows and other services used by an activity but not constituting part of the final product or reference flow; includes materials, transport flows and other services, e.g., lubricant, printing inks, labels, packaging
+- **Emission**: emission to nature via air, ground, and water; includes water returned to nature with chemical or physical quality, including temperature, modified from the original source and/or returned to a watershed other than the source
+- **Residues**: solid, liquid or gaseous flow, e.g. to a treatment process
+- **Co-product**: by-product or co-product of a multi-output process; includes service, transport, etc.
+- **Product**: reference product of a system; includes service, transport, etc.
+<br>
+<br>
 
 
 <a id="inputs"></a> 
