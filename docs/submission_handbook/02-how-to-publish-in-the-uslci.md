@@ -211,7 +211,7 @@ Elementary flows are data components of LCA data that describe common physical i
 
 The US EPA has developed a master elementary flow list (the FEDEFL), which is available in CSV and openLCA schema JSON-LD formats, and provides resources to help with mappings. The current release version is available via the [FLCAC portal](https://www.lcacommons.gov/). The [FEDEFL wiki](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List/wiki) provides guidance on converting an established flow list in a standard openLCA format to FEDEFL flows. Please see the US EPA report, The [Federal LCA Commons Elementary Flow List: Background, Approach, Description and Recommendations for Use](https://cfpub.epa.gov/si/si_public_record_Report.cfm?Lab=NRMRL&dirEntryId=347251) report for more information regarding the FEDEFL requirements and nomenclature.
 
-Elementary flow names in LCI must correspond directly to the elementary flow names used in the LCIA method. Usage of the FEDEFL protocol for both LCI and LCIA datasets on the FLCAC ensures interoperability between these different types of datasets.
+Elementary flow names in LCI must correspond directly to the elementary flow names used in the LCIA method. Usage of the FEDEFL protocol for both LCI and LCIA datasets on the FLCAC ensures interoperability between these different types of datasets. NOTE: the USLCI Database is phasing out specific ambiguous elementary flows that should be avoided in data submission. Please see [Guidance on Avoiding Ambiguous Elementary Flows](https://github.com/uslci-admin/uslci-content/wiki/unmappable_flows) for a list of these flows and the issues with their presence in public LCI databases.
 
 <br>
 
