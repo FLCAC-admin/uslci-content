@@ -8,7 +8,7 @@
 
 [**Return to Metadata Guidance Tables List**](../02-how-to-publish-in-the-uslci.md#metadata-guidance-tables)
 
-
+NOTE: the USLCI Database is phasing out specific ambiguous elementary flows that should be avoided in data submission. Please see [Guidance on Avoiding Ambiguous Elementary Flows](https://github.com/uslci-admin/uslci-content/wiki/unmappable_flows) for a list of these flows and the issues with their presence in public LCI databases.
 
 This set of tables includes conventions for the following fields in this tab of openLCA:
 
