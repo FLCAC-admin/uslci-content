@@ -4,10 +4,12 @@
 
 <br>
 
-This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages.
-<br>
-<br>
+This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages. To see announcements regarding the Federal LCA Commons (FLCAC) as a whole, please see the landing page: [lcacommons.gov](https://www.lcacommons.gov/).
+***
+#### USLCI Conversion to the Federal Elementary FEDEFL-Adapted CED & LCIA Methods
 
+Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://github.com/uslci-admin/uslci-content/tree/dev/docs/methods) are provided for running LCI and LCIA calculations in openLCA.**
+***
 ## ACLCA 2020 Workshops Announcement
 
 The American Center for Life Cycle Assessment (ACLCA) is offering Pre-Conference Workshops on September 21st at the [American Center for Life Cycle Assessment (ACLCA) 2020 Virtual Conference](https://aclca.org/aclca-2020/) event.
