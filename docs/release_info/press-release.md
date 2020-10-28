@@ -11,6 +11,8 @@ This page provides quarterly updates and news regarding the [USLCI Database](htt
 
 For video guidance on accessing, navigating, versioning, using, and submitting data to the USLCI Database (and more), please see the [USLCI Quick Help Video Series](https://www.youtube.com/playlist?list=PLmIn8Hncs7bFUOyXZNGXwG4LtdoTfLz6Q) on NREL's Learning YouTube channel.
 <br> 
+
+
 :tv: :sound:
 
 
