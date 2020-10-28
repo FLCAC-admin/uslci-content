@@ -4,7 +4,15 @@
 
 <br>
 
-This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages. For guidance on accessing, navigating, versioning, and using the USLCI Database (and more), please see the [USLCI Quick Help Video Series](https://www.youtube.com/playlist?list=PLmIn8Hncs7bFUOyXZNGXwG4LtdoTfLz6Q) on NREL's Learning YouTube channel. To see announcements regarding the Federal LCA Commons (FLCAC) as a whole, please see the landing page: [lcacommons.gov](https://www.lcacommons.gov/).
+This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages. To see announcements regarding the Federal LCA Commons (FLCAC) as a whole, please see the landing page: [lcacommons.gov](https://www.lcacommons.gov/).
+
+
+:tv: :sound: <br>
+
+For video guidance on accessing, navigating, versioning, using, and submitting data to the USLCI Database (and more), please see the [USLCI Quick Help Video Series](https://www.youtube.com/playlist?list=PLmIn8Hncs7bFUOyXZNGXwG4LtdoTfLz6Q) on NREL's Learning YouTube channel.
+<br> 
+:tv: :sound:
+
 
 ***
 #### USLCI Conversion to the Federal Elementary FEDEFL-Adapted CED & LCIA Methods
