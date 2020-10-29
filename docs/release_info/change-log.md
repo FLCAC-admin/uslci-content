@@ -14,6 +14,875 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 ###### Table 1. USLCI Change Log
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| FY20.Q3.02 | Source | Addition | Franklin Associates (2020) ACC Olefins | 29b43be7-5d62-4ed9-9633-465754b5e0aa | Added source for 2020 Olefins report |
+ |
+| FY20.Q3.02 | Process | Addition | High-density polyethylene (HDPE) virgin resin, at plant | 2712f03a-80fe-4a2b-9005-ca9ba99f7eb3 | Added unit process to resins data in USLCI (cradle-to-gate already available) |
+ |
+| FY20.Q3.02 | Process | Edit | Polyethylene, high density, resin, at plant | ce38752e-c414-3175-9482-ce663a909a0c | Specified Systems, Cradle-to-gate process to differentiate from new unit process data for same resin |
+ |
+| FY20.Q3.02 | Process | Addition | Linear Low-density polyethylene (LLDPE) virgin resin, at plant | 1dbafde2-2bc3-405c-9726-4d92fe7d29f9 | Added unit process to resins data in USLCI (cradle-to-gate already available) |
+ |
+| FY20.Q3.02 | Process | Edit | Polyethylene, linear low density, resin, at plant | 9bdfa7ed-cc24-3b65-9fdf-7d7e62b3c007 | Specified Systems, Cradle-to-gate process to differentiate from new unit process data for same resin |
+ |
+| FY20.Q3.02 | Process | Edit | Ethylene, materials production, organic compound, at plant, kg | 520ecb54-7b55-42ca-97c3-4b8192189356 | Added source for 2020 Olefins report |
+ |
+| FY20.Q3.02 | Process | Edit | Propylene, at plant | ced3ee5d-f820-3c02-bb17-c2f49f2997bf | Added source for 2020 Olefins report |
+ |
+| FY20.Q3.02 | Process | Edit | Pyrolysis gasoline, at plant | 19b638bc-033c-3812-a020-18eb2ff8e8eb | Added source for 2020 Olefins report |
+ |
+| FY20.Q3.02 | Process | Edit | Acrylonitrile, at plant | a2e7aa17-9318-3bb8-91d6-22a32a9e8019 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Carbon monoxide, at plant | e0368d96-44a3-3628-8220-e6ae975b0931 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Hydrochloric acid, at plant | 9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Acrylonitrile-butadiene-styrene copolymer resin, at plant | 0e42a306-ee2d-362e-8bc3-580000096459 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Melamine urea formaldehyde hardener, at plant | 3a287ab1-de41-3e89-bf5a-be7f3b97281b | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Melamine urea formaldehyde resin, at plant | c11f6f12-269d-3c4c-9ab0-6995cd5d8af2 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Methylene diphenyl diisocyanate resin, at plant | d1bf60a0-272b-3ef0-951c-7febc0546d58 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Phenol resorcinol formaldehyde hardener, at plant | 09f2356f-629a-3305-8411-99967cf4a9b3 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Phenol resorcinol formaldehyde resin, at plant | 401862df-2017-386b-807e-5892047e02be | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Polyol ether, for flexible foam polyurethane production, at plant | 44a82a4a-95fd-3c31-9829-cf0763dd3a93 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Polypropylene, resin, at plant | 8e32a674-5963-374d-92d1-466e2c78c91b | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Polystyrene, general purpose, at plant | 13821cca-f344-37b9-a367-0467be778061 | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Polystyrene, high impact, resin, at plant | d1c572b0-c244-3193-81fb-3a64bfb13e4d | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Polyvinyl chloride, resin, at plant | cfcb6755-e408-30e7-9ab6-165de9b7d11d | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Toluene diisocyanate, at plant | 6f2532e9-d9c0-368e-89a2-0bd48adb4dab | Specified Systems, Cradle-to-gate process |
+ |
+| FY20.Q3.02 | Process | Edit | Wood fuel, unspecified | 5dd973e3-0fc2-38d8-a25b-51b82ee2c2de | Carbon dioxide inputs from air deleted due to elimination of outdated carbon accounting approach |
+ |
+| FY20.Q3.02 | Process | Edit | Palm kernels, at plant | a9f691e0-2be5-376a-ba35-294bb7849840 | Odorous sulfur ambiguous air emission converted to FEDEFL flow &#39;Hydrogen sulfide&#39; |
+ |
+| FY20.Q3.02 | Process | Edit | Multiple chemicals and resins | Multiple | Nomenclature harmonization; see [USLCI Handbook App D: Nomenclature Rules](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/04-resources/04-App-D.md) |
+ |
+| FY20.Q3.02 | Flow | Edit | Multiple chemicals and resins | Multiple | Nomenclature harmonization; see [USLCI Handbook App D: Nomenclature Rules](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/04-resources/04-App-D.md) |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, freesheet, uncoated, average production, at mill, 2006 | 732a5578-1750-3738-b0f2-607106574358 | Corrected quantitative reference from tall oil to paper and allocation factors for economic, physical, and causal from 1.0 for paper and 0 for by-products |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Polyol ether, for rigid foam polyurethane production, at plant | 7095d0dc-7ae2-3d72-845e-9158ad075fc1 | Corrected quantitative reference from recoverd energy to resin and allocation factors for economic, physical, and causal from 1.0 for resin and 0 for by-product |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Polypropylene, resin, at plant | 8e32a674-5963-374d-92d1-466e2c78c91b | Corrected quantitative reference from recoverd energy to resin and allocation factors for economic, physical, and causal from 1.0 for resin and 0 for by-product |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Pulp, kraft market, bleached, average production, at mill | cbf4023b-71f7-36b7-8c45-ea43bc2f108c | Corrected causal allocation factor for methanol input from 0 to 1 for paper reference product output; co-product factors remain 0 |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soy biodiesel, production, at plant | 1fe9b61c-f684-3584-a5e9-98677caee0f3 | Corrected causal allocation factor for methanol input from 0 to 1 for soy biodiesel reference product output; co-product factors remain 0 |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Steel, stainless 304, quarto plate | 8560388b-7ea1-38b7-befc-fd25d5deb450 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Flow | Delete | 4-Methyl-2-pentanone | f7c53d5a-983d-3c20-a73b-31a6d326539c | Deleted non-FEDEFL flow after replacing with Methyl isobutyl ketone |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, alumina refining regions | a6260670-e98e-3917-98bd-c14acb79fdf7 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Switchgrass, ground and stored, 2022 | 25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, denatured, corn stover, biochemical | 0879167f-989b-3e3b-b9c5-3c07ea0a3f8e | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Corn stover, ground and stored | 4be84642-28cb-3508-9189-d8afcec42d92 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, at Grid, ASCC, 2008 | a322a7e9-e44c-3024-9651-f9e62bb8d737 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Winter wheat straw, ground and stored | 4e38a874-76e2-3c20-bc6a-eea62883ebaa | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Harvesting, fresh fruit bunch, at farm, 2003 | 0375c701-8d66-3b47-af2e-26b0c43c722f | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, at Grid, ASCC, 2010 | c86aa658-f2c7-315c-bd83-36d707c5be1a | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, aluminum smelting and ingot casting regions | 4d21df14-9a73-31ce-9a5f-dee0cd2a2aed | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Transport, single unit truck, short-haul, gasoline powered, West North Central | 1b8aeea1-53ae-3834-8162-4dd62dd2eefc | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, Eastern US, 2014 | e5856077-a966-4692-9d10-e747237d4fa6 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, at grid, Eastern US, 2000 | 9b3ead68-7cf7-35cd-921b-e25af4f4e333 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, denatured, wheat straw, biochemical | 7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, at Grid, FRCC, 2008 | 3c044349-dcb5-310b-94df-d01e28b33a45 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Glycerine, at plant | a9114429-6fce-3296-b5d3-f0163e3fd76f | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Forest residue, processed and loaded, at landing system | 515c5359-a186-3394-b849-8676652228db | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, at grid, US, 2000 | b65eb774-e80d-3ba6-a63c-5e1a5e33e54b | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Transport, combination truck, short-haul, diesel powered, Alaska | d0bcd6e8-2dff-3800-8ea6-6d7eddb5e630 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, denatured, switchgrass, biochemical | 0898854c-e38f-3d23-880f-f8da7d65ca0c | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Melamine urea formaldehyde resin, neat, 60% solids | 6ce2af92-11dd-3e96-8f77-4d215ac13b96 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Urea formaldehyde resin, neat, 65% solids | 4b835425-fd68-337c-8e35-a4ddfb5b628a | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethylbenzene styrene, at plant | e2884390-2613-3d46-81d2-6051ecadc9c2 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Transport, single unit truck, short-haul, gasoline powered | ba328bfe-68dd-3d33-a95e-bdcd28252c39 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Transport, combination truck, short-haul, diesel powered, Central | 60157c4b-2824-34d2-9c23-291728d3b01e | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | E-glass, at plant | 2d50471f-ae3a-337b-9e53-6ff319e39b55 | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, secondary, extruded | eb50f56e-3104-3eb1-8d18-7add74f841e7 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, secondary, ingot, at plant, 1998 | f525f32d-e3e4-3434-883d-e4b224a47524 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, secondary, ingot, from automotive scrap, at plant | 3d53c055-f03b-381f-966e-6d61abbe88a0 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, secondary, ingot, from beverage cans, at plant | 9cc8fafa-e232-3d86-a473-6b5d04431999 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, secondary, rolled | 3f888c9f-35e2-3162-bc14-49700cff888c | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, secondary, shape casted | a9fd0eec-60dd-3506-8a22-6f8715f80f4e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ammonia, steam reforming, liquid, at plant | 33f08f48-349e-31f1-b600-aa7e9713ca50 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aniline, at plant | 363e9105-a6ea-356e-a537-06c9facf5b14 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Anode, at plant | caefe875-8560-3e7f-a8b7-a002485f75d6 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Anthracite coal, at mine | de182d9f-35b5-333a-8012-445b93549447 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Automotive painting, electrocoating, per m2 | 65d88b9a-d73a-354d-b9ff-c8503ec42c78 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Automotive painting, electrocoating, per vehicle | d7ac2a60-06a2-347b-a761-562e1442844a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Automotive painting, pretreatment | b096119c-d496-3c65-b3fe-9a65a09187a8 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Automotive painting, top coat, per m2 | ac1515a9-6ed3-347e-8e33-cd870a2de574 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Automotive painting, top coat, per vehicle | 065d2f03-1ed0-3789-aa2d-651a29287d08 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Benzene, at plant | e07beee7-4b4c-350a-bcaf-ec71882bbb69 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Biodegradable loose fill | c139b46e-e0c1-3be5-ad3d-451d6392bad6 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Bituminous coal, at mine | 317adcbc-b3e3-3ec3-80c3-82b18d0f3207 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Bucked and debarked log, hardwood, green, at veneer mill, E | bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Butadiene, at plant | 5d274fc8-65f3-3f3a-a583-f12cace7c494 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Calcium carbonate, ground, 20 micron, at plant | cdd860f4-48a6-3436-b86d-04424f8ee9d2 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Calcium carbonate, ground, 30 micron, at plant | d48fa04d-9401-3158-9ad1-8f37b902e397 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Calcium carbonate, ground, fine slurry, 3 micron, at plant | 48be22f1-e30c-3e4a-8832-a9c5ed32350b | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Calcium carbonate, ground, fine treated, 3 micron, at plant | 34487c89-62dd-3d4e-98dd-06f0c382cc17 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Calcium carbonate, ground, screened grade, at plant | 247aa74a-8368-37b1-a090-96a1428ef30f | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Cellulosic fiberboard, uncoated, at plant | cced9535-72f6-3b3a-b3c0-ce21b98eea2b | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Chlor-alkali electrolysis, chlorine for PVC, at plant | fa755970-7ce9-3226-b268-2e1880bfc42e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Chlorine, production mix, at plant | faa85914-ec68-377e-aee5-0e0af4e27fc8 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Cladding, roll formed, at plant | 7fa00b86-ca0f-321a-94a6-c8f68338a7cb | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Coil, coating, m2, at plant | c493f95f-0143-3c66-b62a-3494133eb337 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Compression molding, rigid composites part, at plant | ab334aaf-bfe1-3785-91c5-3de1dc34c01b | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Conditioned log, hardwood, green, at veneer mill, E | eef00fd7-dbc0-3f3e-b012-56731b6b2e91 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Containerboard, 100% recycled, at mill | 12ba204b-7438-49df-abbb-b8cbe817927e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Containerboard, average production, at mill | c245a252-0860-41d2-9789-802bab7984ab | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Containerboard, average production, at mill | c245a252-0860-41d2-9789-802bab7984ab | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Containerboard, average production, at mill | c245a252-0860-41d2-9789-802bab7984ab | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Corn stover, ground and stored | 4be84642-28cb-3508-9189-d8afcec42d92 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Corn, whole plant, at field | 11256034-2355-3add-ade9-59983025dded | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Cotton, whole plant, at field | 3ffdd525-d623-363f-8876-1999b0f5130f | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Crude oil, at production | 60e51fc8-f71e-329e-9e27-4313105cc465 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Crude oil, extracted | e53e0de4-6c90-3519-850b-eb670f2c641b | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Crude palm kernel oil, at plant | c77a668e-733b-3e86-9a1d-bcec8b0064dc | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Deposit containers, at collection | cd7fcea7-4b13-36ad-be07-e6fa09cb680b | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Deposit containers, at collection, CRV | fadc1941-94ca-3a5d-aea9-429cd0d76a08 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | E-glass, at plant | 2d50471f-ae3a-337b-9e53-6ff319e39b55 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Engineered flooring, hardwood, unfinished, E | 3b1cd62b-7788-3096-8b6e-9cb6cdc359f2 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | EPS insulation board, at plant | 66691548-5be9-3c87-bf87-2f38136bc7bf | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | EPS virgin resin manufacture; batch suspension polymerization; industry average, at plant | cf1241fd-8c01-3412-9030-8650b8e75669 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, 85%, at blending terminal, 2022 | 64c379de-b24a-36d0-9170-d61d9d9d7278 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, 85%, blended, at service station, 2022 | 323a15f8-5c89-3deb-aad5-78133e487bef | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, denatured, corn dry mill | 8e3e47ea-ed49-329e-8931-29115917bc81 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, denatured, corn stover, biochemical | 0879167f-989b-3e3b-b9c5-3c07ea0a3f8e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, denatured, switchgrass, biochemical | 0898854c-e38f-3d23-880f-f8da7d65ca0c | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethanol, denatured, wheat straw, biochemical | 7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethylbenzene styrene, at plant | e2884390-2613-3d46-81d2-6051ecadc9c2 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethylene dichloride-vinyl chloride monomer, at plant | 0a075756-e4af-3da7-a521-c6f460e8470e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethylene glycol, materials production, organic compound, at plant, kg | 2a78de43-fdf2-4c5f-b527-89db6568ace8 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethylene oxide, at plant | 136cbdd8-ef76-3834-904d-6fce42b2b660 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Ethylene, materials production, organic compound, at plant, kg | 520ecb54-7b55-42ca-97c3-4b8192189356 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Fuel grade uranium, at regional storage | a626a6b9-3877-36f5-ac98-f5844b6348dd | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Glycerine, at plant | a9114429-6fce-3296-b5d3-f0163e3fd76f | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Grinding | ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Hardboard, at hardboard plant | ca1d1dfa-fd3c-35f1-bea7-a037251deb04 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Hydrogen, liquid, synthesis gas, at plant | 4eaec911-05e8-304e-b7a6-98ce06fc9820 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Injection molding, rigid LLDPE part, at plant | 9fe670f2-0846-377e-8b15-db170d54ac32 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Injection molding, rigid polypropylene part, at plant | 89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Iron, sand casted | 076898a5-e1ce-3c50-9df4-6445fc0bb6aa | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Lignite coal, at surface mine | ae8c5758-4473-3791-9339-22ff52cacb23 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Limestone, at mine | 49e563d8-0cea-3f97-96b8-15787be48b91 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Lost foam casting, aluminum | a8c3ad24-992e-31e0-9e18-fdf0280875df | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Low-density polyethylene (LDPE) virgin resin, at plant | 6a12cba1-889d-4515-90f8-89feb8d662f2 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Lumber, softwood, ACQ treated, SE | 0cffeb9f-9246-3b8c-a541-92525ab98313 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Lumber, softwood, ACQ treated, SE | 0cffeb9f-9246-3b8c-a541-92525ab98313 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Lumber, softwood, borate treated, PNW | f72ae896-25f0-35f9-affe-8d2a7ef34f92 | Defined default electricity provider as &#39;Electricity, Western US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Lumber, softwood, borate treated, PNW | f72ae896-25f0-35f9-affe-8d2a7ef34f92 | Defined default electricity provider as &#39;Electricity, Western US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Marine piling, softwood, CCA treated, SE | 270aeae0-14c8-35fa-9d15-0f0c42fb47ca | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Marine piling, softwood, CCA treated, SE | 270aeae0-14c8-35fa-9d15-0f0c42fb47ca | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Medium density fiberboard (MDF), at MDF mill | 4e01da4a-71e5-3d9d-93c3-0f0a230f2735 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Melamine urea formaldehyde resin, neat, 60% solids | 6ce2af92-11dd-3e96-8f77-4d215ac13b96 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Melamine urea formaldehyde resin, neat, 60% solids | 6ce2af92-11dd-3e96-8f77-4d215ac13b96 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Metal composite material (MCM) panel, at plant | ddf82e82-36e7-3c34-b6b6-6b96fd592a82 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Metal composite material (MCM) sheet, at plant | 08e766d4-ec5f-3426-a0d4-9533e55f9081 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Metal panel, insulated, at plant | e9c2710d-9752-324a-bb0b-52b683e295b5 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Metallurgical coke, at plant | fb97ca58-8d24-3147-b08f-7788b67ab151 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Methanol, at plant, kg | 6b0d74c7-e880-4b93-aa2f-b777ac183f84 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Methylene diphenyl diisocyanate resin, at plant, US PNW | 0991445e-ac72-30ac-9bef-aefcbd6be3cd | Defined default electricity provider as &#39;Electricity, Western US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Methylene diphenyl diisocyanate resin, at plant, US SE | 4b01543f-29f1-3797-a8d7-5957d97a7fd3 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Mixed recyclables, sorted at MRF | b5c35450-2b29-3f72-b6bf-1836a9d55100 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, at extraction site | f7dc0ccd-5b6d-30d8-9009-885bae3ac819 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, at extraction, Barnett Shale, kg | e7425edd-537c-497f-aa4b-7a8a79b1ab4a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, at extraction, Marcellus Shale, kg | 5b7c9f9b-8460-4afd-a560-b441f0fcf408 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, at processing, conventional, kg | 8dcef86f-cf2c-4207-91aa-1398401fe8b7 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, at processing, shale, kg | 7bfdfa88-b857-4a4a-bbb9-3f51ddc15d30 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, extracted | c11e9a47-4f90-3b07-8ea7-ffd845c572ab | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, processed, at plant | 018446d9-d9dd-3755-89ee-7e7603e7b14a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural gas, processed, for olefins production, at plant | 9a2fa4bc-32f7-31a1-99d4-7b8c6e0c9aa9 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Natural soda ash (Sodium carbonate), at plant | 0d95cc8b-a9a0-3630-a760-1ab4d88257d8 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Nitrogen fertilizer, production mix, at plant | dacaeae9-aeed-3366-912d-6a31de09eef9 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Office scanner | 84d335bb-f2ce-38dc-b81f-55d4eb7408c7 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Open mold casting, rigid composites part, at plant | 73b0cd92-2167-3036-b1bc-df05a09828fc | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Open molding, rigid composites part, at plant | ddb25171-80c6-3e14-879b-4371febbc0ad | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Oxygen, liquid, at plant | 7a2565f8-4a48-3263-9bc9-bcb28dbd58ad | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Palm kernel oil, processed, at plant | 21ed2ebb-54bf-324d-9865-af8265d2d49c | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, bag and sack, unbleached kraft, average production, at mill | f9cf891e-fd8c-304c-9707-4a7e390b9e75 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, bag and sack, unbleached kraft, average production, at mill | f9cf891e-fd8c-304c-9707-4a7e390b9e75 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, freesheet, coated, average production, at mill | 51cb18c8-eb65-36b7-a20a-bc1ed819ff88 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, freesheet, coated, average production, at mill | 51cb18c8-eb65-36b7-a20a-bc1ed819ff88 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, freesheet, uncoated, average production, at mill, 2006 | 732a5578-1750-3738-b0f2-607106574358 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, freesheet, uncoated, average production, at mill, 2006 | 732a5578-1750-3738-b0f2-607106574358 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, mechanical, coated, average production, at mill | 3fa61250-2a76-30f5-aa5e-267f99ca3ee5 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, mechanical, coated, average production, at mill | 3fa61250-2a76-30f5-aa5e-267f99ca3ee5 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paper, mechanical, uncoated, average production, at mill | 285cfc08-fc23-3bfc-b304-1bb4a60d2f8a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Paraxylene, at plant, kg | d32a7e23-c6c0-400a-8134-656a3e13c11f | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Particleboard, average, softwood, particleboard mill | 57686507-ed6b-3e06-906e-c28a7c6fb8bc | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Petroleum refining, at refinery | 0aaf1e13-5d80-37f9-b7bb-81a6b8965c71 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Petroleum refining, for olefins production, at plant | b04c9662-b353-3d13-a485-296acbd68840 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Phenol formaldehyde resin, neat, 47% solids | cd04cced-a75c-30c6-b05f-1fe6fbefb934 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Phenol formaldehyde resin, neat, 47% solids | cd04cced-a75c-30c6-b05f-1fe6fbefb934 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Phenol formaldehyde, at plant | 0bb53c29-31b1-3e8c-87ac-a2ef6793f8f2 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Phenol Resorcinol Formaldehyde resin, neat, 60% solids | 353b477b-8319-3538-b2a4-c771e17424de | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Phenol Resorcinol Formaldehyde resin, neat, 60% solids | 353b477b-8319-3538-b2a4-c771e17424de | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Phosphorous fertilizer, production mix, at plant | 1654c887-0b9c-3434-b9c1-371e3adb3dde | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Poles, softwood, PCP treated | 43dc823c-09c5-34c3-ae26-a4bc4bcbc751 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Poles, softwood, PCP treated | 43dc823c-09c5-34c3-ae26-a4bc4bcbc751 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Poles, softwood, PCP treated | 43dc823c-09c5-34c3-ae26-a4bc4bcbc751 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Poles, softwood, PCP treated | 43dc823c-09c5-34c3-ae26-a4bc4bcbc751 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Polyethylene terephthalate (PET) virgin resin, at plant, kg | 2b2f738d-2044-462f-ba56-5112ee683cb6 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Polylactide Biopolymer Resin, at plant | e281027f-cf37-32f2-af55-234cb0cb4fa4 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Portland cement, at plant | 62993671-574c-3fc5-b66a-6be3bb21ad3d | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Post, softwood, CCA treated, SE | 76c3919e-b238-3345-810b-c1734513a6a9 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Post, softwood, CCA treated, SE | 76c3919e-b238-3345-810b-c1734513a6a9 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Potassium sulphate\_alum, as K2O, Hardboard | d42c11eb-98d2-3cf5-add5-d7c65431bfa3 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Precision sand casting, aluminum | f61ecd3b-fdba-3739-8051-1d4bb0c2d98e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Prefinished engineered wood flooring, at engineered wood flooring plant, E | b5e2775b-9779-3a61-ab7b-a44bbc5e0f4e | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Prefinished engineered wood flooring, at engineered wood flooring plant, E | b5e2775b-9779-3a61-ab7b-a44bbc5e0f4e | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Prefinished engineered wood flooring, at engineered wood flooring plant, E | b5e2775b-9779-3a61-ab7b-a44bbc5e0f4e | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Pressed raw panels, hardwood, at engineered wood flooring plant, E | 4b4bf45b-2bfd-3e0f-bdde-bae1bd5d7c41 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Pressed raw panels, purchased, hardwood, at eng wood flooring plant, E | 89268f85-c58a-3224-8a61-28e8848a2797 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Propylene oxide, at plant | fa3871c0-d563-3300-9ec7-f26aafdabfa5 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Propylene, at plant | ced3ee5d-f820-3c02-bb17-c2f49f2997bf | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Pulp, kraft market, bleached, average production, at mill | cbf4023b-71f7-36b7-8c45-ea43bc2f108c | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Pulp, kraft market, bleached, average production, at mill | cbf4023b-71f7-36b7-8c45-ea43bc2f108c | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Purified terephthalic acid (PTA), at plant, kg | e893cef4-aab1-4b77-944d-1dc4f669419a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Pyrolysis gasoline, at plant | 19b638bc-033c-3812-a020-18eb2ff8e8eb | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Quicklime, at plant | 9c0c2415-126f-3162-8479-f002f315a8c7 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Railroad tie, hardwood, rough, green, at sawmill, SE | bbb16d92-dd0c-33c5-92c7-feca45646d83 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Railroad ties, hardwood, creosote treated, SE | a24e59f5-c156-398d-9a15-7d853ef2bf37 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Railroad ties, hardwood, creosote treated, SE | a24e59f5-c156-398d-9a15-7d853ef2bf37 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Recycled postconsumer HDPE pellet | b15aa6b2-a8be-3afc-a149-0a1a13facb12 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Recycled postconsumer PET flake | f7b7280d-f372-3a4b-86cf-caa588ca67ea | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Recycled postconsumer PET pellet | 22ebc7fb-f03f-37dc-be57-b73d2c577414 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Rice, at field | 4c6eed4c-5f5e-30c7-8948-956c79c4806d | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Roundwood, hardwood, green, at logyard, NE-NC | baaac50f-23d5-3bd1-8970-1cae058f4234 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Roundwood, hardwood, green, at logyard, SE | 4a42fda8-640a-3152-9741-f64c558be34d | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sawn lumber, hardwood, planed, kiln dried, at planer mill, SE | 35bd31d8-b0b1-3da8-a553-df33ccd9e452 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sawn lumber, hardwood, rough, green, at sawmill, NE-NC | 2468b04f-b9b1-364d-bfbf-8ba12178096e | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sawn lumber, hardwood, rough, green, at sawmill, SE | ce587724-1be4-3da0-b7a2-988592c28b9a | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sawn lumber, hardwood, rough, kiln dried, at kiln, NE-NC | 8fd8357b-5ce1-3ef9-9b14-8d38a8495c79 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sawn lumber, hardwood, rough, kiln dried, at kiln, SE | 7423f694-8370-3bac-8937-f07e9edf8b68 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sawn lumber, softwood, planed, kiln dried, at planer, NE-NC | 1cd0e864-1ec2-377a-a0dd-7b9872eba81a | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Scanner, packaging and information sheets | 726dea3f-ddee-3b80-89d9-a86dc464308d | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Secondary bonding application, rigid composites part, at plant | 21ca86bd-890c-3ede-a79c-09e42f9b9ca2 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Semi-permanent mold (SPM) casting, aluminum | ab2436bc-97db-3154-898e-2c49ca4b698e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Slack wax, at plant, US SE | 2c79b9d3-e5f9-34a8-990e-b7d6f9e4dd08 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soda powder, at plant | 4cb0c558-b0ac-3656-bc1f-95b477c14921 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sodium chloride, at plant | 5dacfb93-571f-3502-bf9e-1ce678de151d | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Solid strip and plank flooring, hardwood, E | 027d304f-00e4-380e-9bba-4e6bde2d685a | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soy biodiesel, production, at plant | 1fe9b61c-f684-3584-a5e9-98677caee0f3 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soy oil, refined, at plant | bc119cdf-7143-35e8-9adb-c3a92dc376b6 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soy-based polyol, at plant | 0d1d9f2b-1295-328a-82a0-1f43b135007b | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soy-based resin, at plant | d65a4cea-4732-3b43-b305-a876438bfe51 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soybean grains, at field | 956b53b9-dd05-35ae-a072-69f1f6906290 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Soybean oil, crude, degummed, at plant | 88aee762-4aa0-301f-b579-cca5d636aa0d | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Spring wheat straw, ground and stored, 2022 | 3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Spring wheat straw, ground and stored, 2022 | 3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Spring wheat straw, ground and stored, 2022 | 3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Steel, cold-formed studs and track, at plant | 2250f2f2-7faa-3307-9534-ca78b371b4dd | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sulfur, at plant | dfa7acbc-4a41-3329-951d-b6cde899c91e | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Sulfuric acid, at plant | 1b6afe73-a064-33a3-87b0-265ae10851e9 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Switchgrass, ground and stored, 2022 | 25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Thermoforming, rigid polypropylene part, at plant | 18c37a18-0ddd-3944-b9b1-458410215233 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Toluene, at plant | 2d57ab6d-6b06-32e6-a44b-8ffcd5d94176 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Transport, pipeline, unspecified petroleum products | 0855376f-1ec5-3f3e-bead-959c932539b7 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Unsaturated polyester, resin, at plant | 91c096d9-987d-34c6-90c0-3c672b467086 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Urea formaldehyde resin, neat, 65% solids | 4b835425-fd68-337c-8e35-a4ddfb5b628a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Urea formaldehyde resin, neat, 65% solids | 4b835425-fd68-337c-8e35-a4ddfb5b628a | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Vacuum infusion, rigid composites part, at plant | 01152bc2-5e31-3b8c-a40f-42289905c771 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Veneer, hardwood, dry, at veneer mill, E | 277ef057-4ad9-3780-a1c0-6d78321131f6 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Veneer, hardwood, dry, at veneer mill, E | 277ef057-4ad9-3780-a1c0-6d78321131f6 | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Veneer, hardwood, green, at veneer mill, E | cdc143eb-fff8-3618-85cd-bce83d96390f | Defined default electricity provider as &#39;Electricity, Eastern US, 2014&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | White mineral oil, at plant | 874dc726-50f1-300b-958f-9335fd1c53cd | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Winter wheat straw, ground and stored | 4e38a874-76e2-3c20-bc6a-eea62883ebaa | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Wood Combusted, at boiler, at hardboard mill | f3b8fc97-f519-3da0-80de-72a7d5551fda | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Xylenes, mixed, produced from naphtha, at plant, kg | 9fcf5696-e172-42da-a010-e8d577e2bbd7 | Defined default electricity provider as &#39;Electricity, at Grid, US, 2010&#39; for &#39;Electricity, at grid&#39; input |
+ |
+ |
+| FY20.Q3.01 | Flow | Addition | Steel scrap; zinc-coated, from cold-forming; at plant | a5794f56-9fa1-4228-ad02-6d3c983bbe4f | Created to replace old &#39;Galvanized steel scrap&#39; output flow in process &#39;Steel, cold-forming studs and track&#39;; causing loop errors in database |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Steel, cold-formed studs and track, at plant | 2250f2f2-7faa-3307-9534-ca78b371b4dd | Replace &#39;Galvanized steel scrap&#39; output flow causing loop errors in database with newly created flow &#39;Steel scrap, zinc-coated, from cold-forming; at plant&#39; |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Wood Combusted, at boiler, at hardboard mill | f3b8fc97-f519-3da0-80de-72a7d5551fda | Reinstated missing quantitative reference |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Bucked and debarked log, hardwood, green, at veneer mill, E | bf3d3ce7-aac2-3a3c-b3e8-5c0a29bfb678 | Corrected designation of primary product from bark outputs to log output |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Polyol ether, for flexible foam polyurethane production, at plant | 44a82a4a-95fd-3c31-9829-cf0763dd3a93 | Corrected designation of primary product from boimass inputs to ether |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Polyol ether, for rigid foam polyurethane production, at plant | 7095d0dc-7ae2-3d72-845e-9158ad075fc1 | Corrected designation of primary product from recovered energy output to ether output |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Polypropylene, resin, at plant | 8e32a674-5963-374d-92d1-466e2c78c91b | Corrected designation of primary product from recovered energy output to resin output |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Unsaturated polyester, resin, at plant | 91c096d9-987d-34c6-90c0-3c672b467086 | Corrected designation of primary product from PET input to resin output |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Naphtha, at regional storage | 47363d63-b141-33ec-b91b-da0e4f8f96c0 | Replaced this CUTOFF flow with &#39;Petroleum refining coproduct, at refinery&#39;, i.e., naphtha product flow from process &#39;Petroleum refining, at refinery&#39; with comment &#39;Flow from USLCI used as proxy for &#39;Naphtha, at regional storage&#39;; note transport to regional storage not included.&#39; Affects only calcium carbonate production processes. |
+ |
+ |
+| FY20.Q3.01 | Flow | Edit | Petroleum refining coproduct, at refinery | 5f96ad43-abab-3b62-bcf8-c71f9d6c7881 | Added volume conversion to flow properties (740 kg/m3 per USCG 1999); added description, CAS no. &amp; synonyms to flow metadata |
+ |
+ |
+| FY20.Q3.01 | Flow | Edit | Uranium | 94f485ec-4c91-3a41-9164-7af3d249d316 | Added net calorific value (500,000 MJ/kg) flow property to FEDEFL flow |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, secondary ingot, at plant | bcc68f88-debb-3fc3-93ee-5ceadcef0b14 | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, primary ingot, at plant | 99963138-ddf9-3b32-9e93-69593d76cb08 | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, extrusion, at plant | 77fe2197-8861-3569-8d85-07151789b1e7 | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Steel, stainless 304, quarto plate | 8560388b-7ea1-38b7-befc-fd25d5deb450 | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Steel, stainless 304, scrap | 34897ebd-aa3d-347c-91ee-876c3f835fdb | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, hot rolling, at plant | 381d3e3d-29ae-3101-a95b-56a4cec08486 | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Aluminum, cold rolling, at plant | 2b196386-eb1a-352a-aeda-4d003144f6df | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Steel, stainless 304, flat rolled coil | 49f5324b-fc33-36e9-b5af-3c80d73492bd | Corrected exchange units from kg to MJ to align with exchange amount; FEDEFL conversion error |
+ |
+ |
+| FY20.Q3.01 | Process | Edit | Electricity, at cogen, for natural gas turbine | e6586e69-95a4-3396-a934-f379fbdd28f4 | Replaced &#39;Electricity, at cogen&#39; product flow with &#39;Electricity, at cogen, for natural gas turbine&#39; product flow |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Electricity, at cogen | fc76d79e-b0fb-376f-807b-02fe2098aa88 | Bulk replaced this flow w/ &#39;Electricity, at cogen, for natural gas turbine&#39; and deleted |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Acrylate, ion | 75f85826-8fc9-3a77-ba48-ddd6d2d8af7b | Bulk replaced this flow w/ FEDEFL flow &#39;Methyl acrylate&#39; emission to water |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Acrylate, ion | eabb67d6-08cc-4c6e-ad95-6509e778730a | Bulk replaced this flow w/ FEDEFL flow &#39;Methyl acrylate&#39; emission to water/freshwater body/river |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Acrylate, ion | eabb67d6-08cc-4c6e-ad95-6509e778730a | Bulk replaced this flow w/ FEDEFL flow &#39;Methyl acrylate&#39; emission to water/freshwater body/river |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Adipate, bis(1-ethylhexyl)- | a496a9f4-808e-3319-b27e-3fc77123a108 | Bulk replaced this flow w/ FEDEFL flow &#39;Di(2-ethylhexyl) adipate&#39; emission to air |
+ |
+ |
+| FY20.Q3.01 | Flow | Edit | Baghouse lime | 2d20cafa-b435-3f58-b3ee-cbd81e814818 | Changed flow type from elementary to waste flow; baghouse lime from aluminum industry needs treatment and/or management so is technosphere flow; categorized to 5622: Waste Treatment &amp; Disposal NAICS category |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Copper, ions | bf8e55db-2f28-3ed4-bec6-855a3435ace3 | Bulk replaced this flow w/ FEDEFL flow &#39;Copper(II)&#39; emission to water |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Cyanide, amenable | 0612a869-ff5f-32a9-972b-0b332eed2e6c | Bulk replaced this flow w/ FEDEFL flow &#39;Hydrogen cyanide&#39; emission to water |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Dissolved substances, organic | c10030fc-9101-3977-a8d3-ebd6afe4050a | Bulk replaced this flow w/ non-FEDEFL flow &#39;Dissolved organic matter&#39; to avoid redundant flows |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Dissolved substances, unspecified | 419f15c6-3dc3-3df7-b462-2908a7dc639e | Bulk replaced this flow w/ FEDEFL flow &#39;Total dissolved solids&#39; emission to water |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Ethylene oxide | a3ad5ea6-5d13-3263-8cf4-5b94fb1f88b0 | Bulk replaced this flow w/ FEDEFL flow &#39;Ethylene oxide&#39; emission to air |
+ |
+ |
+| FY20.Q3.01 | Flow | Edit | Ferromanganese, in ground | 090df302-0f79-3b9d-ba80-f65ff27fd97a | Converted to technsosphere flow, recategorized to CUTOFF folder, and re-named &#39;Ferromanganese, at furnace&#39; |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Pit gas | 3905ce61-57da-3488-9221-d19be92ef752 | Bulk replaced this flow w/ FEDEFL flow &#39;Methane&#39; resource, air, subterranean |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Solved solids | c00bf6fe-f9e0-3c9a-8fbe-e5e0d18bdbc8 | Bulk replaced this flow w/ FEDEFL flow &#39;Total dissolved solids&#39; emission to water |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Solved solids | f9b66e35-ce4c-34bb-9fe4-241931e3ab63 | Bulk replaced this flow w/ FEDEFL flow &#39;Total dissolved solids&#39; emission to water, freshwater body |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Solved solids | 3da334ed-f956-3865-b8ed-e1cb628d7a39 | Bulk replaced this flow w/ FEDEFL flow &#39;Total dissolved solids&#39; emission to water |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Energy, non renewable materials | 6966a6a7-feaf-4430-9342-fb316f5b1837 | Removed non-FEDEFL, non-elementary, shadow flow |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Materials for Recycling, MFR | 4c0c735c-4c62-4bb3-98fa-484c7fa3c4ac | Removed non-FEDEFL, non-elementary, shadow flow |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Hazardous waste disposed, HWD | 4056549b-e927-4420-809f-97c62dfbdddd | Removed non-FEDEFL, non-elementary, shadow flow |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Non-hazardous waste disposed, NHWD | 779b1d1b-deee-4750-a6c7-6887143f4154 | Removed non-FEDEFL, non-elementary, shadow flow |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Secondary fuel renewable | 7c04e69c-b998-3356-b6a3-80e0d9628f9b | Removed non-FEDEFL, non-elementary, shadow flow |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Secondary materials | 9e18c95c-43c7-47cd-b8b5-8c15bfaf438a | Removed non-FEDEFL, non-elementary, shadow flow |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Steel scrap (st) | bbe76c7d-e890-37cb-9318-132ae88cd26c | Bulk replaced this flow w/ existing USLCI CUTOFF flow &#39;Steel scrap, at plant&#39; to avoid redundant flows |
+ |
+ |
+| FY20.Q3.01 | Flow | Deletion | Steel scrap | 49d391f6-f348-32b3-90cb-973619017a0b | Bulk replaced this flow w/ existing USLCI CUTOFF flow &#39;Steel scrap, at plant&#39; to avoid redundant flows |
+ |
+ 
 | --- | --- | --- | --- | --- | --- |
 | FY20.Q2.01 | Process | Edit | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Reinstated missing quantitative reference (acetic acid product output) |
 | FY20.Q2.01 | Process | Edit | Corrugated product, 100% recycled, at mill | 9c10be0f-e38e-4551-b8b5-eef65fa27dcc | Added EPA Pedigree Matrix indicators for process schema; augment Data Treatment &amp; Source metadata |
