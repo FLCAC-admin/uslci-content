@@ -21,7 +21,38 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 
 Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://github.com/uslci-admin/uslci-content/tree/dev/docs/methods) are provided for running LCI and LCIA calculations in openLCA.**
 ***
-## ACLCA 2020 Workshops Announcement
+## 2020 Fall Quarter (Scheduled September 30, Occurred September 21 &amp; October 29)
+
+This USLCI Database release is **Version 2** of the USLCI_2020_Q3 or Fall 2020 release. **USLCI_2020_Q3 Version 1** occurred September 21 to preceed _USLCI Resources Pre-Conference Workshop_ on September 21st at the [American Center for Life Cycle Assessment (ACLCA) 2020 Virtual Conference]([https://aclca.org/aclca-2020/](https://aclca.org/aclca-2020/)). This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;amp;amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md) page of this GitHub site. This release is intended as an augmentation to the normal fiscal quarter release scheduled for September 30, 2020 to align with several improvements going forward:
+
+- Addition of ACC HDPE &amp; LLDPE virgin resin unit process updates
+
+- Differentiation between unit &amp; system processes for chemicals &amp; resins
+
+- Correction to some ambiguous and outdated elementary flows
+
+- Improvements to process and product flow nomenclature standardization
+
+From **USLCI_2020_Q3 Version 1** of the Fall release focused on energy &amp; electricity improvements:
+
+- Default providers for **_Electricity, at grid_** were defined for all instances where this product flow is a process input in the USLCI Database. The US 2010 average grid mix process was used as the default provider in most instances as it is the latest available US average in the USLCI Database. Exceptions were to elect a Western or Eastern grid mix from 2014 as the default provider for some regional processes such as regional log yards and sawmills. You can still define any electricity provider you want for each process input instance of electricity but this ensures that a logical default is being used when running analyses in only the USLCI with no other linked database(s). You can bulk replace the default providers for this flow with one from the recently publish [US Electricity Baseline](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=Federal_LCA_Commons) by following the procedure described in [this video](https://www.youtube.com/watch?v=SFGk85HmtL4&amp;list=PLmIn8Hncs7bFUOyXZNGXwG4LtdoTfLz6Q&amp;index=7).
+- Several energy conversion errors from **USLCI_2020_Q2 (Summer 2020)** release version were corrected, which mostly affects metals inventories. For instance, 8 exchanges of uranium inputs retained values intended to be in MJ but displayed in kilograms during a prior update. This was significantly affecting the non-renewable, nuclear LCI results of metals such as steel and aluminum in the USLCI and so has been corrected. There was also a steel scrap looping error that was corrected.
+
+Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/change-log.md) for details of all Fall 2020 (Version 1 and 2) updates.
+
+Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/release-downloads.md).
+
+Finally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) if you have any data/metadata publishing goals for the next December 31, 2020 Fall release date. We look forward to hearing from you soon.
+
+### A Note Regarding the US Electricity Baseline
+
+Please note that the Federal LCA Commons has a new [landing page](https://www.lcacommons.gov/) from which you may _Browse Repositories_ if you want to explore other data becoming available from Federal LCA Commons (FLCAC) member agencies such as the [US Electricity Baseline](https://www.lcacommons.gov/lca-collaboration/search/page=1&group=Federal_LCA_Commons). There is a [USLCI Database Quick Help Video Series](https://www.youtube.com/playlist?list=PLmIn8Hncs7bFUOyXZNGXwG4LtdoTfLz6Q) in which many topics are covered including how to link USLCI data to this baseline data and how to reflect USLCI Database updates without breaking these links.
+
+### A Note Regarding Nomenclature
+
+Depending on the version of the USLCI Database and the method you use to calculate results in the past, there had always been nomenclature linking gaps. Now, however, these gaps have been largely addressed by aligning the Federal Elementary Flow List (FEDEFL) with FEDEFL-adapted methods. Being adapted to this more standardized and consistent elementary flow nomenclature system enables obtaining consistent life cycle impact assessment (LCIA) results for USLCI datasets. Please see the [**FEDEFL-adapted methods**](https://github.com/uslci-admin/uslci-content/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) page on this GitHub site to download and import methods that properly link the USLCI flows to method nomenclature, associated factors, and thus, accurately capture of inventory totals and impacts. Using the FEDEFL in the inventory and making these FEDEFL-adapted methods available to the public eliminates the need for the nomenclature alignment work previously required for users not having a proprietary software license(s).
+
+## ACLCA 2020 Workshops Announcement - September 2020
 
 The American Center for Life Cycle Assessment (ACLCA) is offering Pre-Conference Workshops on September 21st at the [American Center for Life Cycle Assessment (ACLCA) 2020 Virtual Conference](https://aclca.org/aclca-2020/) event.
 
