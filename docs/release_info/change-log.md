@@ -42,9 +42,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY20.Q3.02 | Process | Edit | Palm kernels, at plant | a9f691e0-2be5-376a-ba35-294bb7849840 | Odorous sulfur ambiguous air emission converted to FEDEFL flow &#39;Hydrogen sulfide&#39; |
 | FY20.Q3.02 | Process | Edit | Multiple chemicals and resins | Multiple | Nomenclature harmonization; see [USLCI Handbook App D: Nomenclature Rules](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/04-resources/04-App-D.md) |
 | FY20.Q3.02 | Flow | Edit | Multiple chemicals and resins | Multiple | Nomenclature harmonization; see [USLCI Handbook App D: Nomenclature Rules](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/04-resources/04-App-D.md) |
-|
-| --- | --- | --- | --- | --- | --- |
-
 
 | FY20.Q3.01 | Process | Edit | Paper, freesheet, uncoated, average production, at mill, 2006 | 732a5578-1750-3738-b0f2-607106574358 | Corrected quantitative reference from tall oil to paper and allocation factors for economic, physical, and causal from 1.0 for paper and 0 for by-products |
 | FY20.Q3.01 | Process | Edit | Polyol ether, for rigid foam polyurethane production, at plant | 7095d0dc-7ae2-3d72-845e-9158ad075fc1 | Corrected quantitative reference from recoverd energy to resin and allocation factors for economic, physical, and causal from 1.0 for resin and 0 for by-product |
@@ -317,8 +314,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY20.Q3.01 | Flow | Deletion | Secondary materials | 9e18c95c-43c7-47cd-b8b5-8c15bfaf438a | Removed non-FEDEFL, non-elementary, shadow flow |
 | FY20.Q3.01 | Flow | Deletion | Steel scrap (st) | bbe76c7d-e890-37cb-9318-132ae88cd26c | Bulk replaced this flow w/ existing USLCI CUTOFF flow &#39;Steel scrap, at plant&#39; to avoid redundant flows |
 | FY20.Q3.01 | Flow | Deletion | Steel scrap | 49d391f6-f348-32b3-90cb-973619017a0b | Bulk replaced this flow w/ existing USLCI CUTOFF flow &#39;Steel scrap, at plant&#39; to avoid redundant flows |
-
-| --- | --- | --- | --- | --- | --- |
 | FY20.Q2.01 | Process | Edit | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Reinstated missing quantitative reference (acetic acid product output) |
 | FY20.Q2.01 | Process | Edit | Corrugated product, 100% recycled, at mill | 9c10be0f-e38e-4551-b8b5-eef65fa27dcc | Added EPA Pedigree Matrix indicators for process schema; augment Data Treatment &amp; Source metadata |
 | FY20.Q2.01 | Process | Edit | Printer, AltaLink B8045/55 multi-functional device (MFD) | 50356d14-b626-4a38-babf-bf5657d08358 | Added EPA Pedigree Matrix indicators for process schema |
