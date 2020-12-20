@@ -39,7 +39,7 @@ The International Organization for Standardization (ISO) specifies a framework f
 
 To facilitate compliance with these standards, we use [GitHub](https://github.com/) as our principal project management and communication tool. This platform assists in the storage, handling, and migration of LCI data during the curation and publication process. GitHub contains robust features for version control, issues management, and team communication. Moreover, it makes it easy for the Data Provider to keep a local version of the data curation process and end product once the project is complete. Early in the publication process, the Data Curator will work with you to get you set up with one or more private data repositories on GitHub.
 
-As mentioned in the [Data Formatting](./01-should-i-publish-in-the-uslci.md#data-formatting) section of this handbook, NREL uses [openLCA v1.7](http://www.openlca.org/download/) as its platform for receiving, reviewing, and publishing LCI data. [openLCA](https://www.openlca.org/) is a free, open source LCA software platform that can import data from many commercial LCA software applications including GaBi and SimaPro.
+As mentioned in the [Data Formatting](./01-should-i-publish-in-the-uslci.md#data-formatting) section of this handbook, NREL uses [openLCA](http://www.openlca.org/download/) as its platform for receiving, reviewing, and publishing LCI data. [openLCA](https://www.openlca.org/) is a free, open source LCA software platform that can import data from many commercial LCA software applications including GaBi and SimaPro.
 
 
 <a id="overview-digital-curation"></a>
