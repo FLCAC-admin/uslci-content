@@ -36,6 +36,7 @@ UNEP SETAC (2011). Global Guidance Principles for Life Cycle Assessment Database
   * [2017 NAICS United States Structure](./04-App-E.md)
   * [Example openLCA Element Addition](./04-App-F.md)
   * [Using the EPA Data Quality Pedigree Matrix in openLCA](./04-App-G.md)
+  * [FEDEFL Nomenclature Highlights](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/05-FEDEFL%20Guidelines%20-%20Appendix%20Fork.md)
 
 <br>
 
