@@ -1,6 +1,6 @@
 # FEDEFL Nomenclature Highlights
 
-[**_Return to TOC_**](../00-sub-handbook-landing.md)
+[**_Return to TOC_**](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/00-sub-handbook-landing.md)
 
 > This section includes highlights from the FEDEFL guidance. The full guidance document can be found at
 > <span class="underline"><https://cfpub.epa.gov/si/si_public_record_Report.cfm?dirEntryId=347251&Lab=NRMRL>.</span>
@@ -405,4 +405,4 @@ However, in some instances this is not possible as users may not know this infor
 
 >While end-of-life waste flows are technically flows back to the biosphere, they are classified differently than elementary flows and not included in the FEDEFL. Waste sent for further processing or management (e.g., to landfill, incineration) should be considered technosphere flows. Whenever possible, it is recommended that final waste released to the biosphere be characterized by the 'Element or Compound' or 'Groups of Chemicals' so that flows can be characterized in LCIA methods. When specifics are not possible, it is recommended that users use the ILCD format for waste flows in naming End of life waste. 
 
-[**_Return to TOC_**](../00-sub-handbook-landing.md)
+[**_Return to TOC_**](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/00-sub-handbook-landing.md)
