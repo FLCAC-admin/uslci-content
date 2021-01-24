@@ -62,20 +62,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY20.Q4.01 | Flow | New | Priority pollutants | d6303ae0-9260-3327-8795-28bdc5265b4a | Added elementary flow: emisisons to ground/human-dominated/industrial from FEDEFL to replace &#39;Different pollutants&#39; |
 | FY20.Q4.01 | Flow | New | Paraffin, C7 | bb507e83-fc92-36b4-998b-617306b45b33 | Added elementary flow: emisisons to air from FEDEFL to replace &#39;Paraffins&#39; |
 | FY20.Q4.01 | Flow | Delete | Sulfuric acid, at plant | bf0372ff-661f-3663-85fd-ab8de6f2ef14 | Deleted CUTOFF flow with updated flow linked to unit process data |
-|
- |
- |
- |
- |
- |
- |
-|
- |
- |
- |
- |
- |
- |
 | FY20.Q4.01 | Process | Edit | Poles, softwood, PCP treated | 43dc823c-09c5-34c3-ae26-a4bc4bcbc751 | Replaced chlorine CUTOFF input w/ chlorine production unit process in USLCI |
 | FY20.Q4.01 | Flow | Delete | Chlorine, at plant | 6e75fe5b-a158-37c3-85a7-5a7a4e3c7847 | Deleted unused CUTOFF flow |
 | FY20.Q4.01 | Flow | Bulk/Replace | Polyethylene, linear low-density, LLDPE, virgin resin, at plant | 1ca3b8d5-a002-41c1-bdce-8db63ea6291e | Replaced outdated systems-level product with updated unit process-level for all database linkages (paper &amp; board, metal composite sheet, scanners) |
@@ -259,9 +245,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY20.Q4.01 | Flow | Delete | Recovered energy, for Polypropylene, resin, at plant | a1d2e797-42e7-320e-a983-33a2c9a8f130 | Deleted unused, i.e., orphaned flow product from replaced/deleted process |
 | FY20.Q4.01 | Flow | Delete | Recovered energy, for Polyethylene, high density, resin, at plant | f5a4155f-114c-3801-8d37-23c987ad4276 | Deleted unused, i.e., orphaned flow product from replaced/deleted process |
 | FY20.Q4.01 | Flow | Delete | Recovered energy, for Polyethylene, linear low density, resin, at plant | 0e83b215-99fa-3f94-ab49-bb24a80646f1 | Deleted unused, i.e., orphaned flow product from replaced/deleted process |
-
-
-
 | FY20.Q3.02 | Source | Addition | Franklin Associates (2020) ACC Olefins | 29b43be7-5d62-4ed9-9633-465754b5e0aa | Added source for 2020 Olefins report |
 | FY20.Q3.02 | Process | Addition | High-density polyethylene (HDPE) virgin resin, at plant | 2712f03a-80fe-4a2b-9005-ca9ba99f7eb3 | Added unit process to resins data in USLCI (cradle-to-gate already available) |
 | FY20.Q3.02 | Process | Edit | Polyethylene, high density, resin, at plant | ce38752e-c414-3175-9482-ce663a909a0c | Specified Systems, Cradle-to-gate process to differentiate from new unit process data for same resin |
