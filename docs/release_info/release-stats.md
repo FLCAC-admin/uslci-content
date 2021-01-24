@@ -11,7 +11,9 @@ This file contains a count of life cycle inventory data types for each release o
 
 | Release | Flow Types | Process Categories | Processes | Product Flows | Waste Flows | CUTOFF Flows | Elementary Flows | Units | Locations | Actors | Sources | Product Systems | Projects |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FY20.Q3.01 | 3 | 334 | 631 | 1267 | 39 | 2225 | 2546 | 190 | 474 | 93 | 734 | 0 | 0 |
+| FY20.Q4.01 | 3 | 334 | 631 | 1203 | 40 | 508 | 2552 | 190 | 474 | 93 | 724 | 0 | 0 |
+| FY20.Q3.02 | 3 | 334 | 633 | 1263 | 40 | 562 | 2549 | 190 | 474 | 90 | 730 | 0 | 0 |
+| FY20.Q3.01 | 3 | 334 | 631 | 1267 | 39 | 559 | 2546 | 190 | 474 | 93 | 734 | 0 | 0 |
 | FY20.Q2.01 | 3 | 334 | 631 | 1266 | 39 | 2231 | 2563 | 190 | 474 | 93 | 733 | 0 | 0 |
 | FY20.Q1.01 | 3 | 334 | 631 | 1281 | 38 | 2240 | 2565 | 190 | 474 | 93 | 733 | 0 | 0 |
 | FY19.Q4.02 | 3 | 334 | 627 | 1258 | 37 | 2265 | 2318 | 190 | 474 | 91 | 721 | 0 | 0 |
@@ -25,6 +27,9 @@ This file contains a count of life cycle inventory data types for each release o
 | FY18.Q1.01 | 3 | 122 | 767 | 1657 | 29 | 2453 | 23133 | 190 | 474 | 84 | 693 | 0 | 0 |
 | FY17.Q4.02 | 3 | 106 | 766 | 1658 | 23 | 2443 | 2918 | 193 | 11 | 80 | 691 | 0 | 0 |
 | FY16.Q4.01 | 3 | 105 | 707 | 1562 | 22 | 2269 | 62434 | 192 | 474 | 75 | 508 | 0 | 0 |
+
+
+
 
 
 
