@@ -44,7 +44,7 @@ Please see the complete [Change Log](https://github.com/uslci-admin/uslci-conten
 
 Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/release-downloads.md).
 
-Finally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) if you have any data/metadata publishing goals for the next March 31, 2021 Spring release date. We look forward to hearing from you soon.
+Finally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) if you have any data/metadata publishing goals for the next March 31, 2021 Spring release date. We look forward to hearing from you soon.
 
 ### A Note Regarding the US Electricity Baseline
 
@@ -52,7 +52,7 @@ Please note that the Federal LCA Commons has a new [landing page](https://www.lc
 
 ### A Note Regarding Nomenclature
 
-Depending on the version of the USLCI Database and the method you use to calculate results in the past, there had always been nomenclature linking gaps. Now, however, these gaps have been largely addressed by aligning the Federal Elementary Flow List (FEDEFL) with FEDEFL-adapted methods. Being adapted to this more standardized and consistent elementary flow nomenclature system enables obtaining consistent life cycle impact assessment (LCIA) results for USLCI datasets. Please see the [**FEDEFL-adapted methods**](https://github.com/uslci-admin/uslci-content/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) page on this GitHub site to download and import methods that properly link the USLCI flows to method nomenclature, associated factors, and thus, accurately capture of inventory totals and impacts. Using the FEDEFL in the inventory and making these FEDEFL-adapted methods available to the public eliminates the need for the nomenclature alignment work previously required for users not having a proprietary software license(s).
+Depending on the version of the USLCI Database and the method you use to calculate results in the past, there have always been elementary flow nomenclature linking gaps. Now, however, these gaps have been largely addressed by aligning the Federal Elementary Flow List (FEDEFL) with FEDEFL-adapted methods (including TRACI). Being adapted to this more standardized and consistent elementary flow nomenclature system enables obtaining consistent life cycle impact assessment (LCIA) results for USLCI datasets. Please see the [**FEDEFL-adapted methods**](https://github.com/uslci-admin/uslci-content/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) page on this GitHub site to download and import methods that properly link the USLCI flows to method nomenclature, associated factors, and thus, accurate capture of inventory totals and impacts. Using the FEDEFL in the inventory and making these FEDEFL-adapted methods available to the public eliminates the need for the nomenclature alignment work previously required for users not having a proprietary software license(s).
 
 <br>
 
