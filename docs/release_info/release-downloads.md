@@ -12,7 +12,7 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 
 <br><br>
 
-The USLCI Database repository and individual datasets are available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** button to the right of any element, and selecting the desired format (JSON-LD or ILCD).
+The USLCI Database repository and individual datasets are available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** button to the right of any element, and selecting the desired format (JSON-LD recommended).
 
 **STEP 1:** Navigate to the Federal LCA Commons [Landing Page](https://wwww.lcacommons.gov) and select "Browse Repositories" to enter the Commons.
 
@@ -33,7 +33,7 @@ The USLCI Database repository and individual datasets are available on the [Fede
 <br>
 <br>
 
-**STEP 3:** Selecting the **"Download"** button to the right of any dataset brings up a pull-down menu allowing you to download either the individual dataset or the entire selected repository in the desired format (JSON-LD or ILCD).
+**STEP 3:** Selecting the **"Download"** button to the right of any dataset brings up a pull-down menu allowing you to download either the individual dataset or the entire selected repository in the desired format (options are JSON-LD or ILCD).
 <br>
 
 
@@ -51,8 +51,9 @@ The USLCI Database repository and individual datasets are available on the [Fede
 ==================
 
 
-[Table 1](release-downloads.md#table-1-uslci-release-downloads) below also contains download links for current and past USLCI quarter release versions in three data formats: 
-* openLCA JSON-LD (.zolca files are discontinued as of 10/2018)
+[Table 1](release-downloads.md#table-1-uslci-release-downloads) below also contains download links for current and past USLCI quarter release versions in four data formats: 
+* JSON-LD
+* openLCA .zolca
 * ecoSpold2
 * ILCD
 
