@@ -21,6 +21,32 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 
 Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://github.com/uslci-admin/uslci-content/tree/dev/docs/methods) are provided for running LCI and LCIA calculations in openLCA.**
 ***
+## 2021 Spring Quarter (Scheduled March 31, Occurred April 8)
+
+This USLCI Database release is the USLCI_2021_Q1 or Spring 2021 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;amp;amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md) page of this GitHub site. This release is intended as an augmentation to the normal fiscal quarter release scheduled for March 31, 2021 to align with several improvements going forward:
+
+- Addition of ACC updated PCV virgin resin unit process & updates to the PVC resin supply chain (e.g., EDC-VCM, chlorine, sodium hydroxide, hydrogen)
+
+- Addition of two updated Kodak-Alaris Office Scanner products and related China electricity grid mix average
+
+- Update and corrections to coal and natural gas extraction processes (inputs from nature values and/or heating values)
+
+- Correction to and/or establishment of default providers for all process exchanges with USLCI providers
+
+- Correction to some input and output magnitudes to account for 2017-2018 database migration unit conversion errors
+
+- Improvements to process, product, and elementary flow nomenclature standardization
+
+- Augmented some process and sources metadata (including hyperlinks, where available)
+
+Please see the complete [Change Log](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/change-log.md) for details of all Spring 2021 updates.
+
+Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release\_info/release-downloads.md).
+
+Finally, please see the [How to Publish in the USLCI](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) if you have any data/metadata publishing goals for the next June 30, 2021 Spring release date. We look forward to hearing from you soon.
+
+<br>
+
 ## 2020 Winter Quarter (Scheduled December 31, 2020; Occurred January 23, 2021)
 
 This USLCI Database release is the USLCI_2020_Q4 or Winter 2020 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md) page of this GitHub site. This release is intended as an augmentation to the normal fiscal quarter release scheduled for December 31, 2020 to align with several improvements going forward:
