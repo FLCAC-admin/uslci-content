@@ -20,8 +20,7 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY21.Q1.01 | Flow | New | Scanner, department, S2085f, S3100f | b11e9798-f45f-430b-9bc9-7e6613603439 | Add new scanner flow |
 | FY21.Q1.01 | Flow | New | Scanner, department, S3060, S3100, S3120 | 926274ff-8d7d-4700-90f7-de5387013911 | Add new scanner flow |
 | FY21.Q1.01 | Process | New | Scanner, department, S2085f, S3100f | 4ebf7eb3-53dc-48a7-863a-1ced3c0d2a4e | Add new scanner production process |
-| FY21.Q1.01 | Process | New | Scanner, department, S3060, S3100, S3120 |
- | Add new scanner production process |
+| FY21.Q1.01 | Process | New | Scanner, department, S3060, S3100, S3120 |bffb85b7-b962-4237-bfb9-c399415858ee | Add new scanner production process |
 | FY21.Q1.01 | Process | Edit | Polystyrene, expanded, EPS, virgin resin; batch suspension polymerization; industry average, at plant | cf1241fd-8c01-3412-9030-8650b8e75669 | Add data quality and augment metadata |
 | FY21.Q1.01 | Flow | Delete | Gasoline, used in personal vehicle | 69035586-d234-3161-9c0e-5f19e20c37a4 | Deleted CUTOFF and replaced with input of gasoline, at refinery |
 | FY21.Q1.01 | Actor | New | ACC, APR, NAPCOR, &amp; PETRA | 00fbb5c5-5d70-487e-83c3-7c386353cea9 | Added actor to indicate datasets ownership from joint sponsorship by the American Chemistry Council (ACC), the Association of Postconsumer Plastic Recyclers (APR), the National Association for PET Container Resources (NAPCOR), and the PET Resin Association (PETRA) |
@@ -50,8 +49,7 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY21.Q1.01 | Process | Edit | Aluminum, secondary, ingot, from automotive scrap, at plant | 3d53c055-f03b-381f-966e-6d61abbe88a0 | Restored scrap input CUTOFF to repair feedback loop error |
 | FY21.Q1.01 | Source | Edit | Leinonen, A. | d738b603-f781-3410-8b22-061d1cfdbae6 | Added URL and Description |
 | FY21.Q1.01 | Source | Edit | Franklin Associates. (2016). EPS-IA Cradle-to-Gate Life Cycle Analysis of Expanded Polystyrene Resin | 22bb3d4e-62b7-45e6-9ebd-8f4b52d30df3 | Added URL, Year, and Augmented Description |
-| FY21.Q1.01 | Source | Edit | Institute for Environment and Sustainability. (2011). General guide for Life Cycle Assessment - Detailed guidance. |
- | Added URL, Year, and Augmented Description |
+| FY21.Q1.01 | Source | Edit | Institute for Environment and Sustainability. (2011). General guide for Life Cycle Assessment - Detailed guidance. |75259d44-77d1-4725-94d3-1b29436d9389 | Added URL, Year, and Augmented Description |
 | FY21.Q1.01 | Process | Edit | Electricity, Eastern US, 2014 | e5856077-a966-4692-9d10-e747237d4fa6 | Corrected output amounts of quantitative reference from MJ to kWh units; from previous database version |
 | FY21.Q1.01 | Process | Edit | Anthracite coal, at mine | de182d9f-35b5-333a-8012-445b93549447 | Corrected coal input from nature to reflect higher heating value of 1 kg of coal output; formerly reflected kg input per kg output and material loss; augmented metadata |
 | FY21.Q1.01 | Process | Edit | Bituminous coal, at mine | 317adcbc-b3e3-3ec3-80c3-82b18d0f3207 | Corrected coal input from nature to reflect higher heating value of 1 kg of coal output; formerly reflected kg input per kg output and material loss; augmented metadata |
