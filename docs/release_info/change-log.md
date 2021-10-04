@@ -63,28 +63,20 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 | FY21.Q3.01 | Flow | Delete | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils (1.219 mm) | 9f52cfee-a8ac-31e2-8d2d-7d91b1c62750 | Deleted replaced flow |
 | FY21.Q3.01 | Process | Delete | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils (1.219 mm) | 7ecb3bc9-7d57-34b5-845f-bd71e3f723cc | Deleted replaced process |
 | FY21.Q3.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 40 mils - 1.016 mm | 3614b7fc-8ce3-396c-a092-cce24460b44f | New process |
- |
 | FY21.Q3.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 40 mils - 1.016 mm | f8a03d5d-5254-3cb7-a305-58af0685b432 | New flow |
- |
 | FY21.Q3.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils - 1.219 mm | 662f589e-3363-3b4d-92a4-c98f68bc3339 | Update to replace existing process |
 | FY21.Q3.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils - 1.219 mm | 494e45ff-c752-37c6-9bba-3a72399b35ec | Update to replace existing flow |
 | FY21.Q3.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 60 mils - 1.524 mm | d91ee594-22ae-390a-93ed-1f6b7be34714 | New process |
- |
 | FY21.Q3.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 60 mils - 1.524 mm | d52d2a98-35ce-30a6-9013-fd2587a1967d | New flow |
- |
 | FY21.Q3.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 80 mils - 2.032 mm | d5b7de33-7b2e-3807-9790-76a0254cc6bf | New process |
- |
 | FY21.Q3.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 80 mils - 2.032 mm | be74a03d-4243-3926-abc7-a1f03a076f66 | New flow |
- |
 | FY21.Q3.01 | Actor | Edit | Jay Mathewson | ac041148-a469-348c-8411-e2551193cb60 | Update contact information |
 | FY21.Q3.01 | Actor | Edit | Kodak Alaris | 507cf59c-c436-477d-a55d-86d4a5f74248 | Update contact information |
 | FY21.Q3.01 | Actor | Edit | Roy Wood | 97a3dd96-c17d-364a-8199-701171fe46a4 | Update contact information |
 | FY21.Q3.01 | Source | New | Kodak Alaris 2021 LCA GHG Summary Report | 66084568-890f-44ff-a593-84c0530c5461 | Add source |
- |
 | FY21.Q3.01 | Process | Edit | Scanner, department, S2085f, S3100f | 4ebf7eb3-53dc-48a7-863a-1ced3c0d2a4e | Update admin source information |
 | FY21.Q3.01 | Process | Edit | Scanner, department, S3060, S3100, S3120 | bffb85b7-b962-4237-bfb9-c399415858ee | Update admin source information |
 | FY21.Q3.01 | Source | New | Wood R (2019) LC GHG Summary Report Kodak i1025, E1035, S2040, S2050, S2060w, S2070, S2080w Scanners | 6f64b501-0419-4240-aa70-dff930a6439a | Add new source |
- |
 | FY21.Q3.01 | Process | Edit | Scanner, desktop, E1025, E1035, S2040, S2050, S2060w, S2070, S2080w | 42975a63-8c39-4d46-8b6b-34d9a7174295 | Update source metadata |
 | FY21.Q3.01 | Process | Edit | Hydrochloric acid, without water, in 30% solution state, at plant | 9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3 | Update process name &amp; metadata |
 | FY21.Q3.01 | Flow | Edit | Hydrochloric acid, without water, in 30% solution state, at plant | 1a0678a7-09b1-339d-8f05-259a14f0ab84 | Update flow name &amp; metadata |
