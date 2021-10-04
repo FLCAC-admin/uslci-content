@@ -19,12 +19,12 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 ***
 #### USLCI Conversion to the Federal Elementary FEDEFL-Adapted CED & LCIA Methods
 
-Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) are provided for running LCI and LCIA calculations in openLCA.**
+Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=347251&Lab=NRMRL&subject=Land%20and%20Waste%20Management%20Research&showCriteria=0&searchAll=Waste%20Management%20or%20Nitrogen%20Management%20or%20Contaminated%20Sites%20or%20Ground%20Water%20or%20Materials%20Management%20or%20Sediment%20Toxicity&sortBy=revisionDate&startIndex=51&displayIt=Yes), which is available on GitHub [here](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://github.com/uslci-admin/uslci-content/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) are provided for running LCI and LCIA calculations in openLCA.**
 ***
 
 ## 2021 Fall Quarter (Scheduled September 30, Occurred October 1)
 
-This USLCI Database release is the USLCI_2021_Q3 or fall 2021 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/search/page=1&amp;amp;amp;group=National\_Renewable\_Energy\_Laboratory) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site. This release is intended as an augmentation to the normal fiscal quarter release scheduled for September 30, 2021 to align with several improvements going forward:
+This USLCI Database release is the USLCI_2021_Q3 or fall 2021 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI/datasets) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site. This release is intended as an augmentation to the normal fiscal quarter release scheduled for September 30, 2021 to align with several improvements going forward:
 
 - Update to emissions for ACC PCV virgin resin & upstream EDC-VCM unit process datasets
 
@@ -38,18 +38,15 @@ This USLCI Database release is the USLCI_2021_Q3 or fall 2021 release. This USLC
 
 ### Updated Method CED_FEDEFL_Adapted_v2
 
-The FEDEFL-adapted Cumulative Energy Demand (CED) Method has been updated to version 2 to include a _’Non-renewable, biomass’_ category that accounts for _”Primary forest”_ elementary flow resource energy demand. The updated method is still accessible via [FEDEFL Adapted LCI & LCIA Methods](/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) and the Collaboration Server [CED_Method](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/CED_Method) repository.
+The FEDEFL-adapted Cumulative Energy Demand (CED) Method has been updated to version 2 to include a _’Non-renewable, biomass’_ category that accounts for _”Primary forest”_ elementary flow resource energy demand. The updated method is still accessible via [FEDEFL Adapted LCI & LCIA Methods](https://github.com/uslci-admin/uslci-content/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) and the Collaboration Server [CED_Method](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/CED_Method/datasets) repository.
 
 ### Errata’s Notification & Temporary Solution
 
 Due to a bug in the publication process, some elementary flows are displaying with default providers, which are only intended for intermediate flows. 
 
-To correct this error, you may use [this script](/development/curation%20issues.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown below:
+To correct this error, you may use [this script](/development/curation%20issues.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown in the script link.
 
-![View of SQL Code to Use](/images/2021_Q3_v1_errata_soln_sql.png)
-
-
-
+<br>
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all fall 2021 updates.
 
@@ -58,6 +55,8 @@ Additionally, please note that current and deleted datasets are always also avai
 Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) if you have any data/metadata publishing goals for the next December 31, 2021 Winter release date. We look forward to hearing from you soon.
 
 <br>
+<br>
+
 
 
 
