@@ -19,7 +19,7 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 ***
 #### USLCI Conversion to the Federal Elementary FEDEFL-Adapted CED & LCIA Methods
 
-Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](/docs/methods) are provided for running LCI and LCIA calculations in openLCA.**
+Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) are provided for running LCI and LCIA calculations in openLCA.**
 ***
 
 ## 2021 Fall Quarter (Scheduled September 30, Occurred October 1)
