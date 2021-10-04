@@ -15,6 +15,74 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY21.Q2.01 | Process | Edit | Iron and steel, production mix | 88b44b36-2322-39a8-9c54-6b89b1b43cd4 | Corrected temporal scope from &#39;9998&#39; to &#39;1998&#39; |
+| FY21.Q2.01 | Flow | New | Transformation, from annual crop | 385ccf15-5752-4628-973c-d108f4e5c4ef | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from forest, unspecified | 7b47e21e-6db7-4b85-bb77-943593686072 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from unspecified, natural (non-use) | 853813fc-663f-4ae7-bc9a-c64bb45d4452 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from seabed, unspecified | b271b07a-dc25-48c3-9988-07c9a8607ac5 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to forest, unspecified | a2e146e6-631d-4df5-9eee-a178e47a5960 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to permanent crop, extensive | 1765de01-22f0-4711-a69f-ea2e59e212db | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from permanent crop, irrigated | d3b35bb8-a869-478d-9610-ca9860b8f98a | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to inland waterbody, unspecified | 7656bddd-0521-4aae-b3a5-3592dfe56a9d | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to permanent crop, irrigated | 13650b99-d5f2-4d2d-a5a2-9e7a8634f0df | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to seabed, unspecified | 1dd8f794-659e-4404-a847-32b2b233b74f | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from seabed, infrastructure | aefec3ac-c58a-4e75-b1b1-58dd09c6b2bc | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from annual crop, non-irrigated | 08096a3c-8ed6-426a-b45b-a376c52c3945 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from grassland, natural, for livestock grazing | 3cbfd73e-ec15-4bda-80f5-f0d588b70f5e | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to pasture, man made, intensive | 5c914896-e701-45d2-9b30-e9fc9b1114f5 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to forest, secondary (non-use) | 2fb367b7-fba1-4360-817a-b7619a67c466 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to annual crop, non-irrigated, extensive | 8f5ffc56-6b42-420e-8b9f-bb727fe5eeda | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to annual crop | 844e28f4-1785-4fc5-b395-46e3a23e0271 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to annual crop, non-irrigated | f4d80fe2-75ef-497c-b17c-a8a2222e66f8 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from forest, intensive | 960936d1-d361-4f47-84bb-3234ac20c095 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to pasture, man made | 74ceb705-b776-4c15-8a0d-82956f3e61c6 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from permanent crop, irrigated, intensive | 788e14d5-769c-44ed-83fb-5da8e92cef78 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from annual crop, non-irrigated, extensive | fce712ac-72d5-471e-96ff-114ebe34cef6 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to annual crop, fallow | 954c47ed-17cf-4eec-893d-d8f545629b58 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to seabed, drilling and mining | ed972d17-8f12-4857-bf21-099ece2fa7e5 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from annual crop, non-irrigated, intensive | 83656a15-079f-4bad-9c13-476a5d248d54 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, from cropland fallow (non-use) | 57538a6d-9cf9-4e54-94cb-e300f7de3b75 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Transformation, to traffic area, rail/road embankment | cdb461f0-d603-44b5-9104-57b5b85c25a9 | Added ecosystem service flows |
+| FY21.Q2.01 | Flow | New | Insecticides, unspecified | 28e967f1-c12f-45a0-a2bf-333ba6137d65 | Added unmappable elementary flow |
+| FY21.Q2.01 | Flow | New | Oils, unspecified (emission\&gt;ground\&gt;terrestrial\&gt;forest) | c69aaf77-7aac-43ab-9d5b-9b58fbca4529 | Added unmappable elementary flow |
+| FY21.Q2.01 | Flow | New | Oils, biogenic | 14b6cd91-2f4a-4685-ae62-2a4a612770e3 | Added unmappable elementary flow |
+| FY21.Q2.01 | Flow | Delete | Aldehydes, C3, unspecified | 68dc39be-61b8-30dc-8dea-5fa4e483cd48 | Deleted replaced flow |
+| FY21.Q2.01 | Flow | Delete | Hazardous Air Pollutants (HAPs), unspecified | c2187751-24c1-377d-9a5c-77d3de2fadb2 | Deleted replaced flow |
+| FY21.Q2.01 | Flow | New | Hazardous waste, to incineration | abf2ce9c-d2bf-487c-9388-f45a6ea05ca2 | Added waste flow |
+| FY21.Q2.01 | Flow | New | Polyvinyl chloride, PVC, pre-consumer waste, for primary recycling | 5c8219bc-9ed4-4a8a-94f9-df3e3cbf857b | Added waste flow |
+| FY21.Q2.01 | Flow | New | Metal waste, unspecified | 978edced-2a22-4e85-bb6b-b578e7df113e | Added waste flow |
+| FY21.Q2.01 | Flow | New | Non-hazardous waste, to incineration | 1c84835d-be72-40b8-bdd9-c50cc5f7ee87 | Added waste flow |
+| FY21.Q2.01 | Flow | New | Non-hazardous waste, to landfill | 42ae5c68-7cb4-4874-9cdf-aecf1d1560f4 | Added waste flow |
+| FY21.Q2.01 | Flow | New | Polyethylene terephthalate, PET, waste | 3ec4836a-a918-4e31-865b-78a67f1be3f9 | Added waste flow |
+| FY21.Q2.01 | Flow | New | Packaging waste, paper and board | 567b812b-5e2f-4feb-85a0-81c7d3e78985 | Added waste flow |
+| FY21.Q2.01 | Flow | New | Plastic waste, unspecified | e0a5dc88-1d7a-4cb7-abb4-510efcb6f5be | Added waste flow |
+| FY21.Q2.01 | Flow | New | Polyvinyl chloride, PVC, waste | 7d057e23-dc42-4195-83cb-00a77b8af6e2 | Added waste flow |
+| FY21.Q2.01 | Flow | New | Polyvinyl chloride, PVC, pre-consumer, for secondary recycling | 95467735-9b95-4ff1-b9bb-23128ec72a46 | Added waste flow |
+| FY21.Q2.01 | Flow | New | Polyvinyl chloride, PVC, post-consumer, for secondary recycling | 03e3fb1f-9d18-45c9-8684-dffb404bdaee | Added waste flow |
+| FY21.Q2.01 | Flow | New | Wood, waste, unspecified | b6ba121d-14d1-44e1-8ac1-0184f7438df4 | Added waste flow |
+| FY21.Q2.01 | Flow | Delete | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils (1.219 mm) | 9f52cfee-a8ac-31e2-8d2d-7d91b1c62750 | Deleted replaced flow |
+| FY21.Q2.01 | Process | Delete | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils (1.219 mm) | 7ecb3bc9-7d57-34b5-845f-bd71e3f723cc | Deleted replaced process |
+| FY21.Q2.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 40 mils - 1.016 mm | 3614b7fc-8ce3-396c-a092-cce24460b44f | New process |
+| FY21.Q2.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 40 mils - 1.016 mm | f8a03d5d-5254-3cb7-a305-58af0685b432 | New flow |
+| FY21.Q2.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils - 1.219 mm | 662f589e-3363-3b4d-92a4-c98f68bc3339 | Update to replace existing process |
+| FY21.Q2.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 48 mils - 1.219 mm | 494e45ff-c752-37c6-9bba-3a72399b35ec | Update to replace existing flow |
+| FY21.Q2.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 60 mils - 1.524 mm | d91ee594-22ae-390a-93ed-1f6b7be34714 | New process |
+| FY21.Q2.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 60 mils - 1.524 mm | d52d2a98-35ce-30a6-9013-fd2587a1967d | New flow |
+| FY21.Q2.01 | Process | New | Single-ply, white, polyester reinforced PVC roofing membrane, 80 mils - 2.032 mm | d5b7de33-7b2e-3807-9790-76a0254cc6bf | New process |
+| FY21.Q2.01 | Flow | New | Single-ply, white, polyester reinforced PVC roofing membrane, 80 mils - 2.032 mm | be74a03d-4243-3926-abc7-a1f03a076f66 | New flow |
+| FY21.Q2.01 | Actor | Edit | Jay Mathewson | ac041148-a469-348c-8411-e2551193cb60 | Update contact information |
+| FY21.Q2.01 | Actor | Edit | Kodak Alaris | 507cf59c-c436-477d-a55d-86d4a5f74248 | Update contact information |
+| FY21.Q2.01 | Actor | Edit | Roy Wood | 97a3dd96-c17d-364a-8199-701171fe46a4 | Update contact information |
+| FY21.Q2.01 | Source | New | Kodak Alaris 2021 LCA GHG Summary Report | 66084568-890f-44ff-a593-84c0530c5461 | Add source |
+| FY21.Q2.01 | Process | Edit | Scanner, department, S2085f, S3100f | 4ebf7eb3-53dc-48a7-863a-1ced3c0d2a4e | Update admin source information |
+| FY21.Q2.01 | Process | Edit | Scanner, department, S3060, S3100, S3120 | bffb85b7-b962-4237-bfb9-c399415858ee | Update admin source information |
+| FY21.Q2.01 | Source | New | Wood R (2019) LC GHG Summary Report Kodak i1025, E1035, S2040, S2050, S2060w, S2070, S2080w Scanners | 6f64b501-0419-4240-aa70-dff930a6439a | Add new source |
+| FY21.Q2.01 | Process | Edit | Scanner, desktop, E1025, E1035, S2040, S2050, S2060w, S2070, S2080w | 42975a63-8c39-4d46-8b6b-34d9a7174295 | Update source metadata |
+| FY21.Q2.01 | Process | Edit | Hydrochloric acid, without water, in 30% solution state, at plant | 9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3 | Update process name &amp; metadata |
+| FY21.Q2.01 | Flow | Edit | Hydrochloric acid, without water, in 30% solution state, at plant | 1a0678a7-09b1-339d-8f05-259a14f0ab84 | Update flow name &amp; metadata |
+| FY21.Q3.01 | Actor | Edit | Maureen Puetmann | ae081e38-d629-3c22-86de-dbc3bb038016 | Update actor information |
+| FY21.Q3.01 | Process | Edit | Ethylene dichloride-vinyl chloride monomer, EDC-VCM; at plant | 53bb995e-2b64-4464-87f4-a3b79dcd1c32 | Update input and emission exchange factors and metadata per TRI |
+| FY21.Q3.01 | Process | Edit | Polyvinyl chloride, PVC, virgin resin; at plant | 3dbccdda-2014-4239-ad1f-4e15c034942b | Update input and emission exchange factors and metadata per TRI |
 | FY21.Q1.01 | Flow | New | Electricity, at grid | 5f9e4330-20e4-4f3f-94c6-f8fedf7b5ff5 | Add electricity grid mix product with China location property |
 | FY21.Q1.01 | Process | New | Electricity, at grid, CN, 2018 | ab7f18b8-9e1b-4efc-a690-5d9ffe6e0cc1 | Add electricity grid mix process average for 2018 China scope |
 | FY21.Q1.01 | Flow | New | Scanner, department, S2085f, S3100f | b11e9798-f45f-430b-9bc9-7e6613603439 | Add new scanner flow |
