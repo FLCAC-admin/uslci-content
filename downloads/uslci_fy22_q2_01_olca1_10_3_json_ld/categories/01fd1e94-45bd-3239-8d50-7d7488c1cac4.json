@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"01fd1e94-45bd-3239-8d50-7d7488c1cac4","name":"3241: Petroleum and Coal Products Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"00388557-8210-3c1a-b8d8-08fe34203c28","name":"31-33: Manufacturing","categoryType":"Process"},"modelType":"PROCESS"}

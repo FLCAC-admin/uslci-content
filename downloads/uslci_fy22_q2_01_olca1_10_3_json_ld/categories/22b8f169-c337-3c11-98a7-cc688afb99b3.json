@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"22b8f169-c337-3c11-98a7-cc688afb99b3","name":"2211: Electric Power Generation, Transmission and Distribution","version":"00.00.000","category":{"@type":"Category","@id":"b68bc311-dac6-3892-9112-4199641c1026","name":"22: Utilities","categoryType":"Process"},"modelType":"PROCESS"}

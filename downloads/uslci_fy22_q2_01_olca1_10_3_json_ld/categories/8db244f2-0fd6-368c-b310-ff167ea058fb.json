@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"8db244f2-0fd6-368c-b310-ff167ea058fb","name":"1111: Oilseed and Grain Farming","version":"00.00.000","category":{"@type":"Category","@id":"558c2e3b-5de8-3389-b418-a00d6a3da410","name":"11: Agriculture, Forestry, Fishing and Hunting","categoryType":"Process"},"modelType":"PROCESS"}

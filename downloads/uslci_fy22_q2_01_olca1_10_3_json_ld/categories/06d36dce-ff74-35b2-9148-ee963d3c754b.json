@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"06d36dce-ff74-35b2-9148-ee963d3c754b","name":"4842: Specialized Freight Trucking","version":"00.00.000","category":{"@type":"Category","@id":"c40f76c2-6188-38a5-ad31-7489a3cf6700","name":"48-49: Transportation and Warehousing","categoryType":"Process"},"modelType":"PROCESS"}

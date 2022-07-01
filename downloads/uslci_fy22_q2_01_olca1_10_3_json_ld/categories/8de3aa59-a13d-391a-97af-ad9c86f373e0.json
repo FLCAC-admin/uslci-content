@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"8de3aa59-a13d-391a-97af-ad9c86f373e0","name":"troposphere","version":"00.00.000","category":{"@type":"Category","@id":"21745189-21da-3e27-ab8b-6f4e86721649","name":"air","categoryPath":["Elementary Flows","resource"],"categoryType":"Flow"},"modelType":"FLOW"}

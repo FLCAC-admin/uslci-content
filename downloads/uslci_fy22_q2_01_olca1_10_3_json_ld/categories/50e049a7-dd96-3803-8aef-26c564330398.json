@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"50e049a7-dd96-3803-8aef-26c564330398","name":"3274: Lime and Gypsum Product Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"00388557-8210-3c1a-b8d8-08fe34203c28","name":"31-33: Manufacturing","categoryType":"Process"},"modelType":"PROCESS"}

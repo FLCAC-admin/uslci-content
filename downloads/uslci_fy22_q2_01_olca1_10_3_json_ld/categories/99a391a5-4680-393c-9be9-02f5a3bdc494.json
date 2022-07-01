@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"99a391a5-4680-393c-9be9-02f5a3bdc494","name":"4247: Petroleum and Petroleum Products Merchant Wholesalers","version":"00.00.000","category":{"@type":"Category","@id":"2a5dbdeb-14dd-3193-a15e-a77fae8c173d","name":"42: Wholesale Trade","categoryType":"Process"},"modelType":"PROCESS"}

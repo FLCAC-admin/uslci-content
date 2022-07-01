@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"2d032ac7-9cd8-36b5-98ab-017565ab4e1d","name":"grassland","version":"00.00.000","category":{"@type":"Category","@id":"a3de5751-c5ac-3c3b-ae60-016df4074419","name":"terrestrial","categoryPath":["Elementary Flows","resource","ground"],"categoryType":"Flow"},"modelType":"FLOW"}

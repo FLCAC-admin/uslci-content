@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"4da1e9cd-0458-3a61-a8f9-b04fa15e8699","name":"2213: Water, Sewage and Other Systems","version":"00.00.000","category":{"@type":"Category","@id":"b68bc311-dac6-3892-9112-4199641c1026","name":"22: Utilities","categoryType":"Process"},"modelType":"PROCESS"}

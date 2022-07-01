@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"9f3f9693-5e95-35ad-9664-5d9b5b12625b","name":"saline water body","version":"00.00.000","category":{"@type":"Category","@id":"4d599e48-40f7-33ea-8c13-b39bc7fc2fd6","name":"water","categoryPath":["Elementary Flows","emission"],"categoryType":"Flow"},"modelType":"FLOW"}

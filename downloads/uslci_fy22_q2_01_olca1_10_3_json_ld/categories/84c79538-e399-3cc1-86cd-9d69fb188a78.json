@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"84c79538-e399-3cc1-86cd-9d69fb188a78","name":"subterranean","version":"00.00.000","category":{"@type":"Category","@id":"21745189-21da-3e27-ab8b-6f4e86721649","name":"air","categoryPath":["Elementary Flows","resource"],"categoryType":"Flow"},"modelType":"FLOW"}
