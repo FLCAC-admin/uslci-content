@@ -15,8 +15,6 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
-
-
 | FY22.Q2.01 | Process | New | Scanner, department, S3120 Max, S3140 Max | c8c0b1ab-1547-4c65-b5bc-6c0d57f95a6f | Added new scanner process |
 | FY22.Q2.01 | Flow | Edit | Petroleum refined, to material use, at refinery | 3671e08b-0f5d-423e-9805-3cbd3f7b909a | Corrected flow properties unit conversion factors from 1.357 m3/kg to 0.001351351 m3/kg (erroneous unit conversion in flow properties) |
 | FY22.Q2.01 | Process | Edit | Calcium carbonate, ground, fine slurry, 3 micron, at plant | 48be22f1-e30c-3e4a-8832-a9c5ed32350b | Corrected weight factor input naphtha (petroleum refinery co-product material use) amount from 0.01658 L to 0.0148961 L based on conversion factor from data provider comment and density conversion default for USLCI from kg to m3 |
