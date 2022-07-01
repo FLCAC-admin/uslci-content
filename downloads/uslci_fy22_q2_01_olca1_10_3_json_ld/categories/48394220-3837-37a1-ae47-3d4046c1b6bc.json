@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"48394220-3837-37a1-ae47-3d4046c1b6bc","name":"saline water body","version":"00.00.000","category":{"@type":"Category","@id":"ba518acf-67c1-38c4-9f6a-ec4876dc9aa5","name":"water","categoryPath":["Elementary Flows","resource"],"categoryType":"Flow"},"modelType":"FLOW"}

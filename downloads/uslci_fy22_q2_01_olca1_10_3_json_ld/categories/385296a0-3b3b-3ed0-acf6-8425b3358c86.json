@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"385296a0-3b3b-3ed0-acf6-8425b3358c86","name":"agricultural","version":"00.00.000","category":{"@type":"Category","@id":"2d41f09d-f88a-3230-b123-57b6f290a8b4","name":"human-dominated","categoryPath":["Elementary Flows","emission","ground"],"categoryType":"Flow"},"modelType":"FLOW"}

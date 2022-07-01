@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"8375ea8d-e1ac-35d9-8d8f-632a9ab8884b","name":"2121: Coal Mining","version":"00.00.000","category":{"@type":"Category","@id":"d374ae23-7148-3bd0-9630-022020e9fcb9","name":"21: Mining, Quarrying, and Oil and Gas Extraction","categoryType":"Process"},"modelType":"PROCESS"}

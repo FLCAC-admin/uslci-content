@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"806e57df-45f0-37c5-995e-68f7b7ad3b02","name":"ecoinvent 3.2","version":"00.00.000","category":{"@type":"Category","@id":"1a656790-0bd7-3fbc-b193-50dfbba1e8a0","name":"CUTOFF Flows","categoryPath":["Technosphere Flows"],"categoryType":"Flow"},"modelType":"FLOW"}

@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"377c08bc-8c6e-3536-89ab-ae479326c8d4","name":"air","version":"00.00.000","category":{"@type":"Category","@id":"062a9cac-da90-3e66-ba22-259cf24baeb1","name":"emission","categoryPath":["Elementary Flows"],"categoryType":"Flow"},"modelType":"FLOW"}

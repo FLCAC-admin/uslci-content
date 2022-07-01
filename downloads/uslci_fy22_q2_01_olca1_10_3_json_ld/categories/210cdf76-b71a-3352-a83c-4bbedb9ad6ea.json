@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"210cdf76-b71a-3352-a83c-4bbedb9ad6ea","name":"terrestrial","version":"00.00.000","category":{"@type":"Category","@id":"d9b6d2ca-9f04-3660-9f79-2665d8e683fe","name":"ground","categoryPath":["Elementary Flows","emission"],"categoryType":"Flow"},"modelType":"FLOW"}

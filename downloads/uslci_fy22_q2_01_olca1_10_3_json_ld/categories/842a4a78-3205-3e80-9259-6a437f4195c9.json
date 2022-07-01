@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"842a4a78-3205-3e80-9259-6a437f4195c9","name":"NETL Sources","version":"00.00.000","category":{"@type":"Category","@id":"f5ce9145-c96d-3413-89c8-cd4da4b95790","name":"NETL Coal Sources","categoryType":"Source"},"modelType":"SOURCE"}

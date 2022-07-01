@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"2948d59e-1991-3c19-91e1-731572f2119a","name":"barren land","version":"00.00.000","category":{"@type":"Category","@id":"a3de5751-c5ac-3c3b-ae60-016df4074419","name":"terrestrial","categoryPath":["Elementary Flows","resource","ground"],"categoryType":"Flow"},"modelType":"FLOW"}
