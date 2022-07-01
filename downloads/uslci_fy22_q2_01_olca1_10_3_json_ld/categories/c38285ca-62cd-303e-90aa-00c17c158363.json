@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"c38285ca-62cd-303e-90aa-00c17c158363","name":"42: Wholesale Trade","version":"00.00.000","category":{"@type":"Category","@id":"98785629-4f4b-3e4a-8165-0be90de690da","name":"Technosphere Flows","categoryType":"Flow"},"modelType":"FLOW"}

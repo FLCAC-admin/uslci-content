@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"bd6ab480-8c27-34fd-967f-fc203023b99c","name":"commercial","version":"00.00.000","category":{"@type":"Category","@id":"733a2053-e3f4-3a25-888f-8aba6283a1bb","name":"human-dominated","categoryPath":["Elementary Flows","resource","ground"],"categoryType":"Flow"},"modelType":"FLOW"}

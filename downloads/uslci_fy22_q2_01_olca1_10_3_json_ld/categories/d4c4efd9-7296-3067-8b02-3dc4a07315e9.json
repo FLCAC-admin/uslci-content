@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"d4c4efd9-7296-3067-8b02-3dc4a07315e9","name":"4862: Pipeline Transportation of Natural Gas","version":"00.00.000","category":{"@type":"Category","@id":"c40f76c2-6188-38a5-ad31-7489a3cf6700","name":"48-49: Transportation and Warehousing","categoryType":"Process"},"modelType":"PROCESS"}

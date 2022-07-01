@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"e7d325f8-fd8b-3759-8952-e3c853df2bc4","name":"ground-level","version":"00.00.000","category":{"@type":"Category","@id":"99f21676-a52f-345f-a1c1-35f96c1ea845","name":"urban","categoryPath":["Elementary Flows","emission","air","troposphere"],"categoryType":"Flow"},"modelType":"FLOW"}

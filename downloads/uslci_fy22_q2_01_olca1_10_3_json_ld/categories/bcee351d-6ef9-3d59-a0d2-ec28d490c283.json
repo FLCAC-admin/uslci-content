@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"bcee351d-6ef9-3d59-a0d2-ec28d490c283","name":"river","version":"00.00.000","category":{"@type":"Category","@id":"6b23b029-0c3d-3c4c-ade1-498bb21aebfe","name":"fresh water body","categoryPath":["Elementary Flows","resource","water"],"categoryType":"Flow"},"modelType":"FLOW"}

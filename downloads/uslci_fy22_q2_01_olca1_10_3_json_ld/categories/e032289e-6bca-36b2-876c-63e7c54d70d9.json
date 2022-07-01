@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"e032289e-6bca-36b2-876c-63e7c54d70d9","name":"3261: Plastics Product Manufacturing","version":"00.00.000","category":{"@type":"Category","@id":"00388557-8210-3c1a-b8d8-08fe34203c28","name":"31-33: Manufacturing","categoryType":"Process"},"modelType":"PROCESS"}

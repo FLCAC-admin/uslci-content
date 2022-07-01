@@ -1,0 +1,1 @@
+{"@context":"http://greendelta.github.io/olca-schema/context.jsonld","@type":"Category","@id":"e7217b19-5415-33a2-906c-8d6f488c5ba1","name":"3321: Forging and Stamping","version":"00.00.000","category":{"@type":"Category","@id":"196f44d8-40ec-37ed-8e73-a0c0825569eb","name":"31-33: Manufacturing","categoryPath":["Technosphere Flows"],"categoryType":"Flow"},"modelType":"FLOW"}
