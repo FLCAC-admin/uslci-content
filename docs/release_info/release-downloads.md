@@ -62,8 +62,8 @@ For many users, the JSON-LD (zipped) formats will be the most useful since they 
 Downloads are available starting with USLCI release FY17.Q4.02 and include the current quarter release available on the Federal LCA Commons Collaboration Server. 
 
 Select the desired format type: 
-* After 2019.Q3, the JSON-LD and ILCD files are larger in size and you will be re-directed to a dropbox link to download
-* For all others, select _"View Raw"_ to download the file on the subsequent GitHubscreen
+* Since 2019.Q3, the JSON-LD and ILCD files are larger in size and you will be re-directed to a Box link to download
+* For all others, select _"View Raw"_ to download the file on the subsequent GitHub screen
 * For ecoSpold2, only "Processes" export from openLCA so the file size is smaller
 
 
@@ -72,7 +72,8 @@ Select the desired format type:
 #### Table 1. USLCI release downloads   
 
 | Release | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD |   
-|:---:|:---:|:---:|:---:|:---:|:--:|     
+|:---:|:---:|:---:|:---:|:---:|:--:|    
+| FY22.Q2.01 | v1.10.3 |[zolca] | [JSON-LD] | [ecoSpold2] | [ILCD] |
 | FY21.Q3.01 | v1.10.3 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy21_q3_01_olca_10_3_.zolca) | [JSON-LD](https://app.box.com/s/8rv697xd6gqehat1o8mv4t09xce34dzw) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy21_q3_01_olca_10_3_ecospold2.zip) | [ILCD](https://app.box.com/s/iisvem9o9l8k8198h311z8whpf0uu8cl) |
 | FY21.Q1.01 | v1.10.3 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy21_q1_01_olca1_10_3.zolca) | [JSON-LD](https://app.box.com/s/9afxvz4jvqsz0kcq7c5gc7nvsoh4nzqd) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy21_q1_01_olca1_10_3_ecospold2.zip) | [ILCD](https://app.box.com/s/cvsotaydea52xpavtt40aykf7b9zl13q) |
 | FY20.Q4.01 | v1.10.3 |[zolca](https://app.box.com/s/o6aw25fvzlxcpmfkh7ec8fllvzvzj8sz) | [JSON-LD](https://app.box.com/s/eq0mivu40bqzioilszw9q30htzrnufuy) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy20_q4_01_olca1_10_3_ecospold.zip) | [ILCD](https://app.box.com/s/n8ermjf92g7i0vi52y3dnkt6celrhy5l) |
