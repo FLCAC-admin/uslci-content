@@ -15,6 +15,29 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+
+
+| FY22.Q2.01 | Process | New | Scanner, department, S3120 Max, S3140 Max | c8c0b1ab-1547-4c65-b5bc-6c0d57f95a6f | Added new scanner process |
+| FY22.Q2.01 | Flow | Edit | Petroleum refined, to material use, at refinery | 3671e08b-0f5d-423e-9805-3cbd3f7b909a | Corrected flow properties unit conversion factors from 1.357 m3/kg to 0.001351351 m3/kg (erroneous unit conversion in flow properties) |
+| FY22.Q2.01 | Process | Edit | Calcium carbonate, ground, fine slurry, 3 micron, at plant | 48be22f1-e30c-3e4a-8832-a9c5ed32350b | Corrected weight factor input naphtha (petroleum refinery co-product material use) amount from 0.01658 L to 0.0148961 L based on conversion factor from data provider comment and density conversion default for USLCI from kg to m3 |
+| FY22.Q2.01 | Process | Edit | Calcium carbonate, ground, fine treated, 3 micron, at plant | 34487c89-62dd-3d4e-98dd-06f0c382cc17 | Corrected weight factor input naphtha (petroleum refinery co-product material use) amount from 0.01674187 L to 0.01504505 L based on conversion factor from data provider comment and density conversion default for USLCI from kg to m3 |
+| FY22.Q2.01 | Process | Edit | Calcium carbonate, ground, 20 micron, at plant | cdd860f4-48a6-3436-b86d-04424f8ee9d2 | Corrected weight factor input naphtha (petroleum refinery co-product material use) amount from 0.013488722 L to 0.0121216186456756 L based on conversion factor from data provider comment and density conversion default for USLCI from kg to m3 |
+| FY22.Q2.01 | Process | Edit | Calcium carbonate, ground, 30 micron, at plant | d48fa04d-9401-3158-9ad1-8f37b902e397 | Corrected weight factor input naphtha (petroleum refinery co-product material use) amount from 0.01160328 L to 0.01042727 L based on conversion factor from data provider comment and density conversion default for USLCI from kg to m3 |
+| FY22.Q2.01 | Process | Edit | Calcium carbonate, ground, screened grade, at plant | 247aa74a-8368-37b1-a090-96a1428ef30f | Corrected weight factor input naphtha (petroleum refinery co-product material use) amount from 0.015200293 L to 0.013659719 L based on conversion factor from data provider comment and density conversion default for USLCI from kg to m3 |
+| FY22.Q2.01 | Process | Edit | Roundwood, hardwood, green, at logyard, NE-NC | baaac50f-23d5-3bd1-8970-1cae058f4234 | Corrected allocation factors to sum to 1 per verbal with data provider |
+| FY22.Q2.01 | Process | Edit | Roundwood, hardwood, green, at mill, E | 640186a9-d4e0-39cd-9c23-95c215738edd | Corrected allocation factors to sum to 1 per verbal with data provider |
+| FY22.Q2.01 | Process | Edit | Roundwood, hardwood, green, at mill, NE-NC | 655c14ed-5b78-3e50-96e5-e21f710143fe | Corrected allocation factors to sum to 1 per verbal with data provider |
+| FY22.Q2.01 | Process | Edit | Roundwood, hardwood, green, at mill, SE | 6baa9816-6151-3af1-b230-d28bebfb5227 | Corrected allocation factors to sum to 1 per verbal with data provider |
+| FY22.Q2.01 | Process | Delete | Sawn lumber, softwood, planed, kiln dried, at planer, NE-NC | 1cd0e864-1ec2-377a-a0dd-7b9872eba81a | Phased out of USLCI; authoritative/updated process in CORRIM repo on Fed LCA Commons |
+| FY22.Q2.01 | Flow | Delete | Sawn lumber; softwood; planed; kiln dried; at planer | 1591081d-cf47-3e25-856f-ef64f056fd4a | Phased out of USLCI; no provider since authoritative/updated process in CORRIM repo on Fed LCA Commons |
+| FY22.Q2.01 | Process | Edit | Polyvinyl chloride, PVC, virgin resin; at plant | 3dbccdda-2014-4239-ad1f-4e15c034942b | Duplicate chloromethane emission to air eliminated |
+| FY22.Q2.01 | Process | Edit | Ethylene dichloride-vinyl chloride monomer, EDC-VCM; at plant | 53bb995e-2b64-4464-87f4-a3b79dcd1c32 | Solid waste to incineration corrected from 0.0095 kg to 1.9E-5 kg; VOCs corrected from 3.8E-10 to 1.0E-5 kg; vinyl chloride to water emission corrected from 1.E-9 to 3.8E-10 kg |
+| FY22.Q2.01 | Flow | Delete | Copper, primary, at refinery | 543a0f56-0265-33b1-8773-8bebca291cd6 | Eliminate duplicate CUTOFF flow; already &#39;ecoinvent&#39; flow in CUTOFFs with same name |
+| FY22.Q2.01 | Flow | Delete | Electricity, low voltage, at grid | d83af5a6-8226-3fbc-a1dd-216703383ec5 | Eliminate duplicate CUTOFF flow; already &#39;ecoinvent&#39; flow in CUTOFFs with same name |
+| FY22.Q2.01 | Flow | Delete | Injection moulding | a802fc57-b155-31b6-b718-fd7131a75ff5 | Eliminate duplicate CUTOFF flow; already &#39;ecoinvent&#39; flow in CUTOFFs with same name |
+| FY22.Q2.01 | Flow | Delete | Transformation, to water bodies, artificial | 05a06439-00b4-32ec-8dfe-a399582604be | Eliminate duplicate ecosystem service flow |
+| FY22.Q2.01 | Process | Edit | Aluminum, sheet, coated, at plant | 0f02f4bf-055b-35ff-ac40-1a21be06165f | Replaced quantitative reference as input with ingot to eliminate feedback loop |
+| FY22.Q2.01 | Process | Edit | Cellulosic fiberboard, uncoated, at plant | cced9535-72f6-3b3a-b3c0-ce21b98eea2b | Input of Final packaging material; \&lt;1% of quantitative reference output used as input (0.0118 kg/245 kg output or 1 m3 output ~ 0.0048% of output mass) eliminated to avoid feedback loop errors in database |
 | FY21.Q3.01 | Process | Edit | Iron and steel, production mix | 88b44b36-2322-39a8-9c54-6b89b1b43cd4 | Corrected temporal scope from &#39;9998&#39; to &#39;1998&#39; |
 | FY21.Q3.01 | Flow | New | Transformation, from annual crop | 385ccf15-5752-4628-973c-d108f4e5c4ef | Added ecosystem service flows |
 | FY21.Q3.01 | Flow | New | Transformation, from forest, unspecified | 7b47e21e-6db7-4b85-bb77-943593686072 | Added ecosystem service flows |
