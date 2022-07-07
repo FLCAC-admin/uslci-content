@@ -28,7 +28,7 @@ This USLCI Database release is the USLCI_2022_Q2 or summer 2022 release. This US
 
 ### USLCI Database Quarterly Release Resumes
 
-The USLCI Database quarterly release has resumed with NREL remaining the host and manager of the database on the Federal LCA Commons. Quarterly data curation and updates will resume as of this release, under the leadership of Sarah Cashman of Eastern Research Group. Please contact lci@nrel.gov and/or uslci@erg.com with any questions or concerns you may have about submitting data to the USLCI Database. Thank you for your continued support!
+The USLCI Database quarterly release has resumed with NREL remaining the host and manager of the database on the Federal LCA Commons. Quarterly data curation and updates will resume as of this release, under the leadership of Eastern Research Group (ERG). Please contact lci@nrel.gov and/or uslci@erg.com with any questions or concerns you may have about submitting data to the USLCI Database. Thank you for your continued support!
 
 ### Overview of 2022\_Q2\_v1 Changes:
 
