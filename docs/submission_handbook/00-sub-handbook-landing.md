@@ -54,7 +54,7 @@ Here is a detailed [TABLE OF CONTENTS](#toc).
     * [_Publication_](./02-how-to-publish-in-the-uslci.md#publication)
     * [_Preservation_](./02-how-to-publish-in-the-uslci.md#preservation)
   * [Guidance on data compilation in OpenLCA](./02-how-to-publish-in-the-uslci.md#guidance-data-compilation-openlca)
-  * [Metadata guidance tables](./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables)
+  * [Metadata guidance tables]([./02-how-to-publish-in-the-uslci.md#metadata-guidance-tables](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/02-how-to-publish-in-the-uslci.md#metadata-guidance))
 ### [Section 3: Frequently asked questions](./03-frequently-asked-questions.md)
   * [What is the USLCI Database?](./03-frequently-asked-questions.md#what-is-uslci)
   * [Why should I publish my data in the USLCI Database?](./03-frequently-asked-questions.md#why-publish-in-uslci)
