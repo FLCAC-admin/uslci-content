@@ -28,6 +28,14 @@ This USLCI Database release is the USLCI_2022_Q3 or fall 2022 release.
 
 ### Overview of 2022\_Q3\_v1 Changes:
 
+- Methylene diphenyl diisocyanate (MDI) new datasets with two versions based on different allocation approaches
+- Aniline new dataset
+- Styrene new dataset
+- Polystyrene, general purpose (GPPS) new dataset
+- Polybutadiene, butadiene rubber new dataset
+- Polystyrene, hugh impact (HIPS) new dataset
+- Hydrocholoric acid (HCl) 100% new dataset 
+
 ### Change Log, Versioniong, &amp; Data Submission
 
 ## 2022 Summer Quarter (Scheduled June 30, Occurred July 1)
