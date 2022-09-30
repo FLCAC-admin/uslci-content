@@ -35,6 +35,10 @@ This USLCI Database release is the USLCI_2022_Q3 or fall 2022 release.
 - Polybutadiene, butadiene rubber new dataset
 - Polystyrene, hugh impact (HIPS) new dataset
 - Hydrocholoric acid (HCl) 100% new dataset 
+- Condensed sources and actors
+- Added metadata for PLA
+- Updated select NAICS classifications
+- Updated transport for mixed recyclables collection
 
 ### Change Log, Versioniong, &amp; Data Submission
 
