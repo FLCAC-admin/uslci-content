@@ -10,7 +10,7 @@ A bug has caused some elementary flows to display with 'default providers', that
 UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 73280;
 UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 38714;
 UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 38933;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 45224;-
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 45224;
 UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 73930;
 UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 107689;
 UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 106055;
