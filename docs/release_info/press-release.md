@@ -28,13 +28,13 @@ This USLCI Database release is the USLCI_2022_Q3 or fall 2022 release.
 
 ### Overview of 2022\_Q3\_v1 Changes:
 
-- Methylene diphenyl diisocyanate (MDI) new datasets with two versions based on different allocation approaches
-- Aniline new dataset
-- Styrene new dataset
-- Polystyrene, general purpose (GPPS) new dataset
-- Polybutadiene, butadiene rubber new dataset
-- Polystyrene, hugh impact (HIPS) new dataset
-- Hydrocholoric acid (HCl) 100% new dataset 
+- Methylene diphenyl diisocyanate (MDI) new/updated datasets with two versions based on different allocation approaches
+- Aniline updated dataset
+- Styrene updated dataset
+- Polystyrene, general purpose (GPPS) updated dataset
+- Polybutadiene, butadiene rubber updated dataset
+- Polystyrene, hugh impact (HIPS) updated dataset
+- Hydrocholoric acid (HCl) from MDI production new dataset 
 - Condensed sources and actors
 - Added metadata for PLA
 - Updated select NAICS classifications
