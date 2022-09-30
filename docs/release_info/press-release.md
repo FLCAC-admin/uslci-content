@@ -73,6 +73,7 @@ _**The United States Life Cycle Inventory (USLCI) Database is a publicly availab
 
 <br>
 <br>
+
 ## 2021 Fall Quarter (Scheduled September 30, Occurred October 1)
 
 This USLCI Database release is the USLCI_2021_Q3 or fall 2021 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI/datasets) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site. This release is intended as an augmentation to the normal fiscal quarter release scheduled for September 30, 2021 to align with several improvements going forward:
