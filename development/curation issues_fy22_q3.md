@@ -7,23 +7,23 @@ This file folder is used to store files related to the continuing development of
 A bug has caused some elementary flows to display with 'default providers', that is, processes designated as the provider of the elementary flow input or output. The default providers field is intended for technospheric, i.e., intermediate flows only. To correct this error, you may use the SQL script below in your openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown below.
 
 ```sql
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 73280;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 73424;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74501;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74470;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74473;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74452;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74547;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74454;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74424;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74375;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74530;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74550;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74442;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74430;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74408;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74533;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 116595;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 197519;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 197663;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198709;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198691;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198712;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198693;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198647;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198614;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198786;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198669;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198663;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198740;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198789;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198769;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198681;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 198772;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 240834;
 ```
 
 
