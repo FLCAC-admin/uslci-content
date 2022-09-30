@@ -15,6 +15,527 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY22.Q3.01 | Process | Delete | Chlorine, production mix, at plant | faa85914-ec68-377e-aee5-0e0af4e27fc8 | Deleted outdated chlorine dataset |
+| FY22.Q3.01 | Process | Edit | Mixed recyclables, at collection, dropoff center | d04ff0ad-5535-353e-aabc-27b89137bc92 | Replaced "Gasoline, at refinery" with "Transport, passenger car, gasoline powered" and updated value with new units (liters to pkm) |
+| FY22.Q3.01 | Process | Edit | Benzene, at plant | e07beee7-4b4c-350a-bcaf-ec71882bbb69 | Changed category from 3241 (petroleum and coal manufacturing) to 3251 (basic chemical manufacturing) |
+| FY22.Q3.01 | Process | Edit | Ethylene, materials production, organic compound, at plant, kg | 520ecb54-7b55-42ca-97c3-4b8192189356 | Changed category from 3241 (petroleum and coal manufacturing) to 3251 (basic chemical manufacturing) |
+| FY22.Q3.01 | Process | Edit | Paraxylene, at plant, kg | d32a7e23-c6c0-400a-8134-656a3e13c11f | Changed category from 3241 (petroleum and coal manufacturing) to 3251 (basic chemical manufacturing) |
+| FY22.Q3.01 | Process | Edit | Pyrolysis gasoline, at plant | 19b638bc-033c-3812-a020-18eb2ff8e8eb | Changed category from 3241 (petroleum and coal manufacturing) to 3251 (basic chemical manufacturing) |
+| FY22.Q3.01 | Process | Edit | Toluene, at plant | 2d57ab6d-6b06-32e6-a44b-8ffcd5d94176 | Changed category from 3241 (petroleum and coal manufacturing) to 3251 (basic chemical manufacturing) |
+| FY22.Q3.01 | Process | Edit | Xylenes, mixed, produced from naphtha, at plant, kg | 9fcf5696-e172-42da-a010-e8d577e2bbd7 | Changed category from 3241 (petroleum and coal manufacturing) to 3251 (basic chemical manufacturing) |
+| FY22.Q3.01 | Process | Edit | Lime, agricultural, corn production | 55d8bf4f-025a-3927-bb96-235d37ba79fc | Consolidated actor Daniel Inman |
+| FY22.Q3.01 | Process | Delete | Methylene diphenyl diisocyanate, MDI, at plant, US SE | 4b01543f-29f1-3797-a8d7-5957d97a7fd3 | Deleted outdated MDI datasets |
+| FY22.Q3.01 | Process | Delete | Methylene diphenyl diisocyanate, MDI, at plant, US PNW | 0991445e-ac72-30ac-9bef-aefcbd6be3cd | Deleted outdated MDI datasets |
+| FY22.Q3.01 | Process | Edit | Polylactide, PLA, biopolymer resin, at plant | e281027f-cf37-32f2-af55-234cb0cb4fa4 | Added metadata from module report |
+| FY22.Q3.01 | Process | Edit | Aniline; at plant | 363e9105-a6ea-356e-a537-06c9facf5b14 | Updated inventory data and metadata |
+| FY22.Q3.01 | Process | New | Hydrochloric acid, HCl; MDI coproduct; at plant, 100% HCl | 0d4adbb3-81bb-45c5-bf26-734c76ff3108 | Added new HCl from MDI mass and elemental allocation process |
+| FY22.Q3.01 | Process | Edit | Styrene; at plant | e2884390-2613-3d46-81d2-6051ecadc9c2 | Updated inventory data and metadata |
+| FY22.Q3.01 | Process | New | Methylene diphenyl diisocyanate, MDI; at plant, mass and elemental alloc | 0f0458b0-7af8-4194-b2b9-35fe606b1526 | Added new MDI mass and elemental allocation process |
+| FY22.Q3.01 | Process | Edit | Methylene diphenyl diisocyanate, MDI; at plant, mass alloc | d1bf60a0-272b-3ef0-951c-7febc0546d58 | Updated inventory data and metadata |
+| FY22.Q3.01 | Process | Edit | Polybutadiene, butadiene rubber; at plant | fa60e60f-73f0-3e20-bb3a-073e4a9469cc | Updated inventory data and metadata |
+| FY22.Q3.01 | Process | Edit | Polystyrene, high impact, HIPS, resin; at plant | d1c572b0-c244-3193-81fb-3a64bfb13e4d | Updated inventory data and metadata |
+| FY22.Q3.01 | Process | Edit | Polystyrene, general purpose, GPPS, resin; at plant | 13821cca-f344-37b9-a367-0467be778061 | Updated inventory data and metadata |
+| nan | nan | nan | nan | nan | nan |
+| FY22.Q3.01 | Flow | New | 4,4'-Methylenedianiline | c7dfc410-23e2-352a-a172-e57112388ecf | Added flow from FEDEFL (emission to air) |
+| FY22.Q3.01 | Flow | New | 4,4'-Methylenedianiline | 7831e9e9-36fc-3f72-afbe-3212cc75b975 | Added flow from FEDEFL (emission to water) |
+| nan | nan | nan | nan | nan | nan |
+| FY22.Q3.01 | Actors | Delete | Daniel Inman | 74666230-a4ca-3c84-8c63-dcda853feb38 | Deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | National Energy Technology Laboratory | 639d0c69-dddc-4092-a120-6b8dd5369391 | Deleted, unused actor |
+| FY22.Q3.01 | Actors | Delete | Robert James | 66c3f44f-4975-4ac5-bb22-ef8cce6992e6 | Deleted, unused actor |
+| FY22.Q3.01 | Actors | Delete | Timothy Skone | 27b30ff8-9b81-432f-a25c-fa0db3c59ef4 | Deleted, unused actor |
+| FY22.Q3.01 | Actors | Delete | Caroline Gaudreault | fa82808e-234a-3897-accd-133a96e1a4ed | Deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | 2b6d62da-50ea-31f4-9085-049cfd4f5023 | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | 721bcfe4-ee92-33bc-a9bd-bbf5ba3cb52d | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | b122816a-b081-373c-8564-44df6ffec96c | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | fa9a073d-3ea7-3ed9-a63f-d4fe9d0083f6 | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | 226558a9-73e4-36d4-b383-98230cc5247d | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | c5006977-fdaf-3b1c-8000-cd7ebc9d2b62 | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | 560dc1e7-88e7-3ce3-850a-7a09eb3a46b3 | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | f238e394-b16d-3194-9c3d-cfd600a1cc95 | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | c7fc4474-e3a3-34cc-94a0-ea8047189f8c | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | c4c3ffcf-9ee5-3bc4-994f-87ae13f997a7 | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | Franklin Associates | 527239d5-96d8-30a3-8dc6-682d306a2669 | Replaced and then deleted duplicate, unused actor |
+| FY22.Q3.01 | Actors | Delete | James Littlefield | 8e886d2c-3f13-31b8-a843-c76660831d9f | Replaced and then deleted unused actor |
+| FY22.Q3.01 | Actors | Delete | James Littlefield, Franklin Associates | 17b4af7e-0ad9-3200-89f6-579664f43fa5 | Replaced and then deleted unused actor |
+| FY22.Q3.01 | Actors | Delete | James Littlefield, Franklin Associates | fb33a31c-73ee-3e3f-aa92-fae93a1d5d5f | Replaced and then deleted unused actor |
+| FY22.Q3.01 | Actors | Delete | James Littlefield, Franklin Associates | f5f86dd3-346a-3d6f-ae0a-ba1a61c8ad0b | Replaced and then deleted unused actor |
+| FY22.Q3.01 | Actors | Delete | James Littlefield, Franklin Associates | 9c272ff8-f115-3f07-bfbf-3d9ff14318b4 | Replaced and then deleted unused actor |
+| FY22.Q3.01 | Actors | Delete | James Littlefield, Franklin Associates | ca1c19e0-ed23-361f-9cba-743bd82fb005 | Replaced and then deleted unused actor |
+| FY22.Q3.01 | Actors | Delete | James Littlefield, Franklin Associates | b030057b-8b5d-390d-8e23-9584e09953b1 | Replaced and then deleted unused actor |
+| FY22.Q3.01 | Actors | Delete | Jamie Meil | 3a0d3067-125d-3f3d-89c5-b4ea610818f2 | Deleted, unused actor |
+| FY22.Q3.01 | Actors | Delete | Pascal Lesage | e74f6c6d-4013-3e95-9a5b-42ce76aca955 | Deleted, unused actor |
+| FY22.Q3.01 | Actors | Edit | Franklin Associates, A Division of ERG | 38e67478-a915-43d9-ad67-e25db79a4acc | Edited address |
+| nan | nan | nan | nan | nan | nan |
+| FY22.Q3.01 | Folder | Delete | NETL Coal Actors | nan | Deleted, unused folder |
+| FY22.Q3.01 | Folder | Delete | > Other Sources | nan | Deleted, unused folder |
+| nan | nan | nan | nan | nan | nan |
+| FY22.Q3.01 | Process | Edit | Diesel, combusted in industrial boiler | 53804132-4bd6-3b18-bfbd-14ac762431ef | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Lignite coal, combusted in industrial boiler | 1b0f75b8-e749-3eb2-8727-de6a22f60646 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Gasoline, combusted in equipment | d3e13675-1455-375f-a557-bb8234de75ff | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Bituminous coal, combusted in industrial boiler | 26465530-69ff-3c68-834f-c67ccb6ee1b2 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, bituminous coal, at power plant | 66280f03-b26f-35c4-bda2-3d4a8652943a | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Diesel, combusted in industrial equipment | d6ad7035-5498-3237-8abd-50e93b1eef89 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, residual fuel oil, at power plant | e391a117-69ae-3550-987a-8f28a1444eb9 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, natural gas, at power plant | 879845c3-84fa-3f85-9f3d-a8510f950732 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, lignite coal, at power plant | 5b26dd62-5ab0-3822-b39c-6aa187efc9e5 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Lignite coal, at surface mine | ae8c5758-4473-3791-9339-22ff52cacb23 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Residual fuel oil, combusted in industrial boiler | 9d9b6815-9349-30af-869b-57362428c42e | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Liquefied petroleum gas, combusted in industrial boiler | 4eec7a31-b920-3f91-b7c3-924f2aa92ecc | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Natural gas, combusted in industrial boiler | 5b81b61c-4d10-3bed-9926-8a5f868f5174 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Palm kernels, at plant | a9f691e0-2be5-376a-ba35-294bb7849840 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, at cogen, for natural gas turbine | e6586e69-95a4-3396-a934-f379fbdd28f4 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, pipeline, natural gas | 57cdac3b-a289-330e-8e55-6b7e2c6885fb | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Polystyrene, high impact, HIPS, resin, at plant | d1c572b0-c244-3193-81fb-3a64bfb13e4d | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Toluene diisocyanate, TDI, at plant | 6f2532e9-d9c0-368e-89a2-0bd48adb4dab | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Crude palm kernel oil, at plant | c77a668e-733b-3e86-9a1d-bcec8b0064dc | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Polystyrene, general purpose, GPPS, at plant | 13821cca-f344-37b9-a367-0467be778061 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | White mineral oil, at plant | 874dc726-50f1-300b-958f-9335fd1c53cd | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Oxygen, liquid, at plant | 7a2565f8-4a48-3263-9bc9-bcb28dbd58ad | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Ethylene oxide, at plant | 136cbdd8-ef76-3834-904d-6fce42b2b660 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Vacuum infusion, rigid composites part, at plant | 01152bc2-5e31-3b8c-a40f-42289905c771 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Propylene oxide, at plant | fa3871c0-d563-3300-9ec7-f26aafdabfa5 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Polybutadiene, butadiene rubber, BR, at plant | fa60e60f-73f0-3e20-bb3a-073e4a9469cc | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Palm kernel oil, processed, at plant | 21ed2ebb-54bf-324d-9865-af8265d2d49c | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Aniline, at plant | 363e9105-a6ea-356e-a537-06c9facf5b14 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Acrylonitrile-butadiene-styrene, ABS, copolymer resin, at plant | 0e42a306-ee2d-362e-8bc3-580000096459 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Injection molding, rigid LLDPE part, at plant | 9fe670f2-0846-377e-8b15-db170d54ac32 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Natural gas, combusted in industrial boiler, at hydrocracker, for pyrolysis gas | 8a0090ee-4054-322f-a65d-15c8ee6ca915 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Sulfur, at plant | dfa7acbc-4a41-3329-951d-b6cde899c91e | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Carbon monoxide, at plant | e0368d96-44a3-3628-8220-e6ae975b0931 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Pyrolysis gasoline, at plant | 19b638bc-033c-3812-a020-18eb2ff8e8eb | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Injection molding, rigid polypropylene part, at plant | 89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Glycerine, at plant | a9114429-6fce-3296-b5d3-f0163e3fd76f | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Compression molding, rigid composites part, at plant | ab334aaf-bfe1-3785-91c5-3de1dc34c01b | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Ethylbenzene styrene, EB, at plant | e2884390-2613-3d46-81d2-6051ecadc9c2 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Sulfuric acid, at plant | 1b6afe73-a064-33a3-87b0-265ae10851e9 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Unsaturated polyester, UPR, resin, at plant | 91c096d9-987d-34c6-90c0-3c672b467086 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Polyol ether, for flexible foam polyurethane production, at plant | 44a82a4a-95fd-3c31-9829-cf0763dd3a93 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Hydrochloric acid, without water, in 30% solution state, at plant | 9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Chlorine, production mix, at plant | faa85914-ec68-377e-aee5-0e0af4e27fc8 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Soda powder, at plant | 4cb0c558-b0ac-3656-bc1f-95b477c14921 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Polyol ether, for rigid foam polyurethane production, at plant | 7095d0dc-7ae2-3d72-845e-9158ad075fc1 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Acrylonitrile, at plant | a2e7aa17-9318-3bb8-91d6-22a32a9e8019 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Petroleum refining, at refinery | 0aaf1e13-5d80-37f9-b7bb-81a6b8965c71 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Natural gas, combusted in industrial boiler, at hydrocracker, for butadiene | 39abf743-0b9e-33e3-8752-b418609504f1 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Polyol ether, for flexible foam polyurethane production, at plant | 44a82a4a-95fd-3c31-9829-cf0763dd3a93 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Methylene diphenyl diisocyanate, MDI, at plant | d1bf60a0-272b-3ef0-951c-7febc0546d58 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Toluene, at plant | 2d57ab6d-6b06-32e6-a44b-8ffcd5d94176 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Sodium chloride, at plant | 5dacfb93-571f-3502-bf9e-1ce678de151d | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene | 29d771d7-71ec-3a22-bbd0-8709d5a328e2 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, secondary, ingot, at plant, 1998 | f525f32d-e3e4-3434-883d-e4b224a47524 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Crude oil, extracted | e53e0de4-6c90-3519-850b-eb670f2c641b | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Propylene oxide, at plant | fa3871c0-d563-3300-9ec7-f26aafdabfa5 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Hydrogen, liquid, synthesis gas, at plant | 4eaec911-05e8-304e-b7a6-98ce06fc9820 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Ammonia, steam reforming, liquid, at plant | 33f08f48-349e-31f1-b600-aa7e9713ca50 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Open mold casting, rigid composites part, at plant | 73b0cd92-2167-3036-b1bc-df05a09828fc | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Secondary bonding application, rigid composites part, at plant | 21ca86bd-890c-3ede-a79c-09e42f9b9ca2 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, pipeline, unspecified petroleum products | 0855376f-1ec5-3f3e-bead-959c932539b7 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Polybutadiene, butadiene rubber, BR, at plant | fa60e60f-73f0-3e20-bb3a-073e4a9469cc | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Compression molding, rigid composites part, at plant | ab334aaf-bfe1-3785-91c5-3de1dc34c01b | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Natural gas, combusted in industrial boiler, at hydrocracker, for propylene | 0f528ea6-57a9-365a-a4af-4132ebe27cae | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Thermoforming, rigid polypropylene part, at plant | 18c37a18-0ddd-3944-b9b1-458410215233 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Open molding, rigid composites part, at plant | ddb25171-80c6-3e14-879b-4371febbc0ad | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | E-glass, at plant | 2d50471f-ae3a-337b-9e53-6ff319e39b55 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Benzene, at plant | e07beee7-4b4c-350a-bcaf-ec71882bbb69 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Butadiene, at plant | 5d274fc8-65f3-3f3a-a583-f12cace7c494 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, combination truck, gasoline powered | 463d05c9-8c19-3030-8b9f-380c098f5116 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, combination truck, diesel powered | 34156f3c-28ef-33db-9ad0-6293a2aa0d52 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, single unit truck, diesel powered | 45b70b50-20a0-341b-8e2f-c196974d1541 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, ocean freighter, diesel powered | da0f5501-f4ab-32d1-80b7-b70d143608f6 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, barge, diesel powered | c2300fc3-5496-3d12-9135-67dc0ef740c9 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, ocean freighter, residual fuel oil powered | f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, barge, residual fuel oil powered | eaff3c91-b8ce-38a1-a3ba-1fe0c9d4041c | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, single unit truck, gasoline powered | d397dd56-dc53-37a1-956b-5da3aaa81a6f | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Limestone, at mine | 49e563d8-0cea-3f97-96b8-15787be48b91 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Fuel grade uranium, at regional storage | a626a6b9-3877-36f5-ac98-f5844b6348dd | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, nuclear, at power plant | 2b091e0d-d0de-31a1-89db-3f51a9c5cf12 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Crude oil, at production | 60e51fc8-f71e-329e-9e27-4313105cc465 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, at grid, US, 2000 | b65eb774-e80d-3ba6-a63c-5e1a5e33e54b | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Mixed recyclables, at collection, curbside, volume basis | 5eff00a9-58ca-322a-b951-07c86d7fd9fa | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Harvesting, fresh fruit bunch, at farm, 2003 | 0375c701-8d66-3b47-af2e-26b0c43c722f | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Mixed recyclables, at collection, commercial | d4647fd6-57bf-3557-b3fe-be8dbc0eb6da | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Deposit containers, at collection | cd7fcea7-4b13-36ad-be07-e6fa09cb680b | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Recycled postconsumer polyethylene teraphthalate, PET, pellet | 22ebc7fb-f03f-37dc-be57-b73d2c577414 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | EPS insulation board, at plant | 66691548-5be9-3c87-bf87-2f38136bc7bf | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Mixed recyclables, sorted, at material recycling facility (MRF) | b5c35450-2b29-3f72-b6bf-1836a9d55100 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Acetic acid, at plant | e4a61018-9f98-3049-95c1-33b1acaa904e | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Mixed recyclables, at collection, dropoff center | d04ff0ad-5535-353e-aabc-27b89137bc92 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Mixed recyclables, at collection, curbside, weight basis | 97779324-2f80-3950-a8e0-4b2bd32f951f | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Deposit containers, at collection, California Refund Value, CRV | fadc1941-94ca-3a5d-aea9-429cd0d76a08 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Mixed recyclables, recovered for material recycling facility (MRF) | e93ae1c1-8454-328d-aef7-3698311ae06a | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Recycled postconsumer high-density polyethylene, HDPE, pellet | b15aa6b2-a8be-3afc-a149-0a1a13facb12 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Recycled postconsumer polyethylene teraphthalate, PET, flake | f7b7280d-f372-3a4b-86cf-caa588ca67ea | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Transport, train, diesel powered | 7de9c230-fd0f-3478-be87-f80181132faa | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, biomass, at power plant | dfdb7eba-dfc4-3d24-9683-58b8b0ee1346 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Bituminous coal, at mine | 317adcbc-b3e3-3ec3-80c3-82b18d0f3207 | Changed actor to Franklin Associates, A Division of ERG from Franklin and Associates |
+| FY22.Q3.01 | Process | Edit | Precision sand casting, aluminum | f61ecd3b-fdba-3739-8051-1d4bb0c2d98e | Changed actor to Franklin Associates, A Division of ERG from James Littlefield |
+| FY22.Q3.01 | Process | Edit | Semi-permanent mold (SPM) casting, aluminum | ab2436bc-97db-3154-898e-2c49ca4b698e | Changed actor to Franklin Associates, A Division of ERG from James Littlefield |
+| FY22.Q3.01 | Process | Edit | Lost foam casting, aluminum | a8c3ad24-992e-31e0-9e18-fdf0280875df | Changed actor to Franklin Associates, A Division of ERG from James Littlefield |
+| FY22.Q3.01 | Process | Edit | Iron, sand casted | 076898a5-e1ce-3c50-9df4-6445fc0bb6aa | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Automotive painting, pretreatment | b096119c-d496-3c65-b3fe-9a65a09187a8 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, primary, ingot, at plant, 1998 | 21aeedbf-933a-3570-8b9e-a44dc6fa6637 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, bauxite mining regions | 6023a2bf-2d42-348b-bee7-caae15319edb | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, alumina refining regions | a6260670-e98e-3917-98bd-c14acb79fdf7 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Anode, at plant | caefe875-8560-3e7f-a8b7-a002485f75d6 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Metallurgical coke, at plant | fb97ca58-8d24-3147-b08f-7788b67ab151 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, primary, smelt, at plant | 4b0fe164-84c7-31e2-a3fc-ff570cd264e1 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Bauxite, at mine | 76a47261-8a9c-30a2-93a6-f5a029aded6f | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, aluminum smelting and ingot casting regions | 4d21df14-9a73-31ce-9a5f-dee0cd2a2aed | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Alumina, at plant | 91beb684-4d04-38b9-8800-a274762a9d44 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, at grid, Western US, 2000 | 7c487753-f198-3362-8848-fcec7767c14c | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, at grid, Texas US, 2000 | ed10d036-dc00-3fc3-b136-1f25211bd2e3 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Electricity, at grid, Eastern US, 2000 | 9b3ead68-7cf7-35cd-921b-e25af4f4e333 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum recovery, transport, to plant | d20197e1-967f-35cb-95c1-0dbde806c367 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, secondary, ingot, from beverage cans, at plant | 9cc8fafa-e232-3d86-a473-6b5d04431999 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, secondary, extruded | eb50f56e-3104-3eb1-8d18-7add74f841e7 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, secondary, rolled | 3f888c9f-35e2-3162-bc14-49700cff888c | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, secondary, ingot, from automotive scrap, at plant | 3d53c055-f03b-381f-966e-6d61abbe88a0 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Aluminum, secondary, shape casted | a9fd0eec-60dd-3506-8a22-6f8715f80f4e | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Quicklime, at plant | 9c0c2415-126f-3162-8479-f002f315a8c7 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Wood waste, unspecified, combusted in industrial boiler | 3455f918-4a43-3b09-b06e-7402c12b8d45 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Automotive painting, top coat, per vehicle | 065d2f03-1ed0-3789-aa2d-651a29287d08 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Automotive painting, electrocoating, per vehicle | d7ac2a60-06a2-347b-a761-562e1442844a | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Automotive painting, top coat, per m2 | ac1515a9-6ed3-347e-8e33-cd870a2de574 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| FY22.Q3.01 | Process | Edit | Automotive painting, electrocoating, per m2 | 65d88b9a-d73a-354d-b9ff-c8503ec42c78 | Changed actor to Franklin Associates, A Division of ERG from James Littlefield, Franklin Associates |
+| nan | nan | nan | nan | nan | nan |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2009. Affordable, Low-Cost Diesel Fuel from Domestic Coal and Biomass. DOE/NETL-2009/1349 | 7bd04137-5142-4310-aac4-067fa96fa85c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Blasthole drill; Manufacture; For surface coal mine, at plant | 873a28f1-05a8-4666-8ca3-f7a1bb1976bf | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal conveyor system; Manufacture; For surface mine, at point-of-sale; 1.83 m belt width | a450831d-a59f-4a3d-bb31-4ba831ca34fe | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal conveyor system; Manufacture; For underground mine, at point-of-sale; 1.22 m belt width | 1e742c6a-b459-4d94-bb01-11fe553fe687 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal loading silo; Manufacture; For railcar loading of coal, surface mine | 3298404d-b42f-4b78-8cd6-0a6a548aa538 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal loading silo; Manufacture; For railcar loading of coal, underground mine; 295 metric tonnes | 7e5db8cf-835b-4487-8790-7160d8302c9b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal mine commissioning and decommissioning; Production mix, surface mine | b91ee086-b792-4eba-8c66-f6b69cb0e710 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal mine commissioning and decommissioning; Production mix, underground mine | 8f9b2983-6886-4885-a881-8bd9c6dc96d4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal mine equipment assembly; Production mix, surface mine | f9b877be-d48b-4383-975c-fe47c45e0600 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal mine equipment assembly; Production mix, surface mine | f9b877be-d48b-4383-975c-fe47c45e0600 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal mine equipment assembly; Production mix, underground mine | b31ed6ee-93c8-4674-929a-123eab7d70dc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal mine site construction; Concrete structures and asphalt paving; Underground mine | 9e1ed590-9f2a-4594-ad87-a50a660e6dbd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal preparation facility; Multiple processes; Underground mine | 284f65b8-34be-41c6-916e-838a4ed62267 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Coal stockpile stacker; Manufacture; At point-of-sale | 72b2a30a-f496-499a-bdb5-e53163fabec9 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Continuous coal miner; Manufacture; At underground mine; 563 kW | 1e092469-65fa-4a60-8224-195df9c95bd6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Diesel consumption; Diesel fired construction equipment; Variable power rating | d43f8678-d208-4dd2-984a-052365e80ded | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Dragline; Manufacture; For surface coal mine, at plant; 7,439 metric tonne working weight | 3a7f0d60-5b8f-4561-bb07-f5ad2c048a12 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Electric head drive; Manufacture; For underground coal mine, at plant | 6ebae938-d5cf-459f-9d34-bbba511f2a59 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Electric shearer; Manufacture; For underground coal mine, at plant | 10533c9b-cd90-4a45-b33a-7b2cc6b36816 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Electric shovel; Manufacture; For surface coal mine, at plant; 109 metric tonne payload | d37c3032-aae7-4d3f-b185-789d49151106 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Electric stage loader; Manufacture; For underground coal mine, at plant | 1a8553b1-7011-4f91-9877-298b1940abfe | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Electric tail drive; Manufacture; For underground coal mine, at plant | 27329841-0c05-4701-a843-f760af4406f4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Extraction of natural gas (NG) from a conventional onshore oil well w associated NG | 6efb81c2-fffb-437e-b18b-3cceeed85685 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Hydraulic shield; Manufacture; For underground coal mine, at plant; 2 m width | b6ca57da-753d-46b1-9b11-5ec4fc8e2b14 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Life Cycle Analysis: Supercritical Pulverized Coal (SCPC) Power Plant | 219f0f87-6838-4204-9362-ff0478bd497d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Line pan; Manufacture; For underground coal mine, at plant | f3918197-5666-4858-9544-19cf7f69b545 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Longwall mining system; Equipment assembly; Production mix, at underground coal mine | 14d5b8db-b63a-4bb5-9310-dbb7ff3652ff | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Mining truck; Manufacture; For surface mine, at plant; Gross machine operating weight 623,690 kg | 70748cbe-84c1-4838-aa8b-b609b5629053 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Track loader; Manufacture; At point-of-sale; 178 kW | 3746d178-f556-43b5-b0ce-0a558eef8db3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Tractor-propelled coal crusher; Manufacture; For surface mine, at plant | 1d6bc1f5-ec74-40fe-a940-5f5ad4aa566a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2010. Wastewater treatment plant; Construction; For underground coal mine | bcefe8a6-c98c-4c5d-84a8-7b1255a0a196 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal cleaning; Underground mine | 894c8e8e-ab1f-4416-a3bf-26774443d9c5 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal crusher facility; Construction; At underground mine | 3ab0b396-9c1b-4327-b4ec-b34a6d5499d5 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal extraction; Underground mine | 8052407c-1e26-413b-9fa5-d0164f10b4a6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal handling; Underground mine | 9b3f9ef0-5f65-47f4-8c8a-b5ff3548485a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal mine methane emissions; Production mix | 3227395c-031b-4ab3-a5ae-141ca1673208 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal mine ventilation energy; Electric fan; Underground mine | a2f7fe93-e04d-4251-9142-a02778045357 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal mine water use and quality; Surface mine | 86c30864-7e31-44a9-8679-bc74a6b96129 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal mine water use and quality; Underground mine | 5eb71576-c30f-4f66-8545-dc00d185a859 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Coal shuttle car; Manufacture; For underground mine, at plant; 28.6 metric tonnes | d3cce361-9caa-4667-995a-ae072dfc2624 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Stainless steel; Manufacture; Production mix, at plant; 316 2B, 80% recycled | 2e93e807-f746-4921-a4fc-919e06229683 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Steel plate; Blast furnace route; Production mix; 85% recovery rate | 24a7d447-c06c-46ef-8bff-45db72a397f1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Steel reinforcement bar; Blast furnace route; Production mix | f449786f-d756-4998-bc3e-a525bc7d8499 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2013. Surface Coal Mining – Overburden Removal, Extraction, and Reclamation | 0f6f75b5-1096-40ab-a4c9-9a6f53e802e1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2014. Coal cleaning facility; Construction; At mine | a16bf5fc-82e3-4ed5-b891-dbe21fd81a3c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2014. Coal mine tailings storage and disposal; Production mix, underground mine | 9090eb5d-eb10-4fcd-adf4-bcdb9bd96306 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Argonne National Laboratory (2013). Life Cycle Analysis of Conventional and Alternative Marine Fuels in GREET. | b5e1a775-203b-3df5-b249-a5c463922a35 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Australian Tax Office. 2008. Taxation Ruling: TR 2008/4 | fb74bcbb-9170-488c-b13d-56fa8cccadb1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | BNSF Railway. 2009. Guide to Coal Mines: Mines Served by BNSF Railway | 57a7f4a2-7b76-4246-963b-209d858d3e16 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bay Area Rapid Transit. 2004. BART Facilities Standards | 0e44810b-14c9-43c3-a1a8-a870dc379a54 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bhagwat, S.B. 2009. Estimation of coal-cleaning costs | c209e156-4547-4b86-9023-94e2893df82d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bruniany, C. 2008. E-mail Interview | b80bca10-9794-4baf-9653-732ba0501e77 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bryja et al. 2004. Two Meter Shields: From Vision to Reality. | 485d240f-4ba5-4d75-877a-903076b9ee3a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bucyrus International. 2008a. Continuous Miners: The Range. | f380a622-b6cc-42af-ae61-ec25308a214f | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bucyrus International. 2008b. Continuous Miner Specifications. | dc8c6e48-6044-48ea-b493-d47541561d7b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bucyrus International. 2008c. Electric Mining Shovels: The range | 4dc67332-bb0e-4e65-b2a0-e6585972b735 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Bucyrus International. 2008d. Walking Draglines: The range | db0fd2a6-9127-43bd-87bd-3e39b3ec720d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Buildings Direct. 2009. Paneling System | 18673e95-b75e-417b-b8e8-f1f05456471b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Caterpillar. 2003. 797B Mining Truck | 738b0b50-77a0-41ee-8527-92f2fc359f07 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Caterpillar. 2008. 973C Track Loader | 9a650f16-201e-4d90-9bed-040198dacf9a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Caterpillar. n.d. 623G Wheel Tractor Scraper | eec75c9d-a487-41ce-8b91-066002efd5b6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Colstrip Energy Limited Partnership. 2008. Administrative Amendment to Montana Air Quality Permit | 25109fed-f3f0-427d-ad3e-1fa4f22ad05d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Conaway, et al. 2005. Estimate of mercury emission from gasoline and diesel consumption, San Francisco Bay area, California. | 5eb8b538-5a5c-47f9-9bba-e020710e7f5c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Concrete Reinforcing Steel Institute (CRSI). 2008. ASTM Standard Inch-Pound Reinforcing Bars | 4e04c868-c397-41ec-90e0-6de101bbc798 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Davis, L. 2008. Reference & Information: AWG Cable Description | 272404e5-854d-455b-bb06-0b86de0c3fcc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Eastern Research Group, Inc. 2001. Uncontrolled Emission Factor Listing for Criteria Air Pollutants. | 0b1d2811-486b-36ba-8dab-a7b8ba07dfd0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Elgin National Industries. 2009. Thunder Basin | 12c19ab9-7ec7-41f1-a151-fac160197368 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Engineers Edge. 2009. Sheet Metal Gauge Sizes | e2babd13-4b5f-44bd-a80b-011c30613ffc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Evans, R., P. Roe, and J. Joy. 2003. Water Use and Sustainable Development in Coal Mining - A Case Study from Central Queensland | d695f8d0-381f-4ff2-bf6a-83af34132a11 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Gabor Doka. 2009. Life Cycle Inventory of the disposal of lignite spoil, coal spoil, and coal tailings. | 02b04635-d6bd-3073-95b3-5d7ff80fbc82 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Gay Construction. 2006. Xstrata Rolleston Coal Stacker - Award Winning Design | 373be152-d73f-431a-a500-0a6b2501c0d0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | George Third & Son. 2006. Advertisement in "First Class Health Care" | ed1f48ab-34db-43ae-af94-30e1f4c32e68 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Goodyear Engineered Products. 2008a. Conveyor Belt - Heavyweight: Flexsteel | afa1d1d6-20e6-4ab7-bd58-88bb3a2937b3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Goodyear Engineered Products. 2008b. Flexsteel Conveyor Belt | e5737ee8-6729-47a7-a94c-97ecd99b7af1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Goodyear Engineered Products. 2009a. Conveyor Belt - Heavyweight: Flexsteel Belt Construction | c2f67e06-0a66-463e-9a0f-e5bc4f30046d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Goodyear Engineered Products. 2009b. Flexsteel Conveyor Belt | c8b432d1-4883-4a79-acca-cb2b39bce4b4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Google Earth. 2006. 43°33'30.49" N, 105°16'56.98" W | 4244d683-7f3c-4577-9deb-9048adb2334e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Gundlach Equipment Corporation. 2009. Gundlach Breakers | 4846570f-32d2-4e64-ad47-a91bdd32a65b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | HKM Engineering Inc. 2002. Northeast Wyoming River Basins Water Plant Technical Memoranda, Appendix G, Industrial Water Use. | 36c44cca-885f-4a91-80b8-fe805dc9901f | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Heggies Pty Ltd. 2009. Majura Parkway Greenhouse Gas Assessment | fb2afece-a603-41d2-b8c1-1e71ea7d8a07 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Hillsboro Energy LLC. 2007. Applications for Underground Mine Permits, #399 | 1cb851a3-425c-4075-bb6c-ef6c89f7e031 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Illinois Department of Commerce and Economic Opportunity. 2008. The Illinois Coal Industry | 6c1fcf90-04f3-4ea6-bf3b-a48030c3a8ff | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Integrated Environmental Management. 2009. Densities | 966d8036-0d7b-4adf-bfde-5e36db277b1c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Joy Mining Machinery. 2008. New Mountain Laurel Complex Successfully Installs State-of-the-Art JOY Longwall System | b7311e48-5919-40b2-8c4e-9cf3a9694d62 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Leed Engineering & Construction. 2006. Onesteel SMR Crushing Plant Upgrade Concrete Works and Reinforced Earth Wall Construction, Iron Duke, SA | ed0bfc85-465a-4bf3-aac1-851d297b79e1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Lemmon et al. n.d. Thermophysical Properties of Fluid Systems | fa3eefbf-6812-4b8d-aff2-2455e06f2bfe | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Lexco Cable. 2006. Custom Cable Assemblies: 7x7 GAC (Galvanized Aircraft Cable) | e12747d6-071a-42c1-bc57-4d1bb06ebaa3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Loos & Co., Inc. 2009. Item # GC 18877, 7x7 Preformed Galvanized Aircraft Cable | abbc2a42-d9c7-4b95-a751-cc157da50a5e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Maxam North America, Inc. 2010. Material Safety Data Sheet, ANFO | 422ab315-702e-4b73-9375-bdfee8b6996f | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Mayer, Larry. 2009. Construction of mine facilities, rail line on schedule | 84c487e8-6e1c-4a33-ada3-561ef91c2cd2 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | McCarthney, R.H. and Williams Jr., R.L. 2010. Fuel Blending with PRB Coal | 6ca36fae-825a-4819-873d-1829d8c21bed | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | McVehil, G.E.; Addison, E.L.; Baugues, K.A. 2001. Air Quality and Visibility Impacts of Powder River Basin Coal Mining at Badlands National Park | e088b7e6-7175-4451-89cf-10fd4bd4beec | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Metal Suppliers Online. 2009. Carbon Steels Cold Rolled Steel | 5879852f-02b1-4bc9-b428-4e820b107811 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Miners Midweek. 2006. Dragline is a step closer | e114a616-cc8d-4e49-b164-3d092acad8fb | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | MiningTechnology.com. 2009. Cordero Rojo Coal Mine, WY, USA | 3fa0cbc4-bf97-487b-9a64-a7b49fc91350 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Commission on Energy Policy. 2009. Meeting Projected Coal Production Demands in the U.S.A., Chapter 4 Coal Preparation | d666c277-b40f-492b-8d41-374b118748bb | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2012. Quality Guidelines for Energy System Studies: Specifications for Selected Feedstocks | fa335e64-1ade-41f6-8fce-083dc522efc3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Energy Technology Laboratory (NETL). 2008. Development of baseline data and analysis of life cycle greenhouse gas emissions of petroleum-based fuels | 55a202e6-1365-3aa7-83c1-e1cea4e10927 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Institute of Standards and Technology (NIST). 2009. Product List: Generic 100% Portland Cement | 59cd2dcb-be9a-41e3-a667-ce04bfeb229c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Mining Association (NMA). 2009. 2008 Coal Producer Survey | ad860fe9-2dc9-4615-89f8-9557bc434638 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Mining Association (NMA). 2012. U.S. Coal Production and Number of Mines by State and Coal Type | dd738f14-6087-4f2c-824c-61a2b32f1e0c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Ready Mixed Concrete Association. 2015. Ready Mixed Concrete: What is it? | 0ae7258a-82c1-470b-b77a-ff7f43e21e74 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Renewable Energy Laboratory (NREL). 2011. Transport, passenger car, diesel powered. | e3a31082-6e25-3abc-b4f9-083c883a3c65 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Renewable Energy Laboratory (NREL). 2011. Transport, passenger truck, gasoline powered. | 8ba86ccc-0647-31ef-8fd0-7d8f82c09c4e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | P&H Mining Equipment. 2009. P&H 250XP-DL Dragline Application Drill, Rotary Blasthole Drill: Operating Specifications. | 8f12b23a-529c-41e0-8383-016c71dde7cd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Papagiannakis, A.T., et al. 2006. Pavement: Appendix C. Structural and Climatic Input, Structure Asphalt Concrete Pavement | 7488d5a9-8b2c-4186-80dc-be5838bd0c05 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Pennsylvania Crusher. 2001. Reversible Impactor | a43733c7-0323-43c0-b782-766e142bbab7 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Pennsylvania Crusher. 2004. Bradford Breaker | e31e36fc-1617-421e-ae83-2371e22e2391 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Phillips Machine Service. 2007a. The Freedom Car Family: FC12 Shuttle Coal Hauler | 8d97e2be-a9cc-4bdc-bcba-4e82ab13a157 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Phillips Machine Service. 2007b. The Freedom Car Family: FC16 Shuttle Coal Hauler | 4d06518e-ca52-45a9-a449-b0f73962bab3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Phillips Machine Service. 2007c. The Freedom Car Family: FC20 Shuttle Coal Hauler | 7245d2c5-46a7-4855-837b-ad15b9daa105 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Phillips Machine Service. 2007c. The Freedom Car Family: FC20 Shuttle Coal Hauler | 7245d2c5-46a7-4855-837b-ad15b9daa105 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Portland Cement Association. 2009. Concrete Technology: Frequently Asked Questions | 8ccf61a9-448c-4157-816e-b6b978523ced | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Powder River Coal Company. 2009. Powder River Coal Company, Gilette, Wyoming | c2f728d1-f2b1-4eeb-80bf-b4d520ef0218 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Power Prime Pumps. 2005. Diesel Pump Specifications | 4972ee20-c494-4200-9987-f04a35e35558 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Power Prime Pumps. 2008a. DV-300E | f220f55e-b0cf-4f26-bf6d-ce41021db1d6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Power Prime Pumps. 2008b. Pump Details | 1a93304e-5b75-4fab-839e-eb819025ab9d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Reade Advanced Materials. 2006. Weight Per Cubic Foot And Specific Gravity | 386922de-0949-4e86-a31a-23a076fba0e3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Roberts & Schaefer Company. 2007. Slope Conveyor: Kerr McGee Coal Corporation Slope Conveyor for the Galatia Mine | e1228993-bac4-4097-99dc-990eaca756db | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Roe et al. 2004. Estimating Ammonia Emissions from Anthropogenic Nonagricultural Sources - Draft Final Repor | 67b58db5-c52e-49d5-b788-9b8970136ff8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Saginaw. 2009. Steel Reference Handbook | 18b6850f-e54a-4490-a0d2-4c7322f37182 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Sandvik. 2003. Sandvik Conveyor Components: Conveyor Pulley | 7172cc6f-f126-4dfe-95c3-a1b35210d673 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Sandvik. 2004. Pulleys, Idlers and Materials Handling Systems: Catalogue Medium to Heavy Duty Idler | 4a3a412a-9a81-49ee-a089-0165f752aeb4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Society for Mining, Metallurgy, and Exploration, Inc. (SMME). 1992. SME Mining Engineering Handbook | abc8a6b4-80cb-423f-82b5-fd43bc0f3f92 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | State of New Jersey Department of Environmental Protection Division of Air Quality 2003 | fa295e87-abf5-3dfb-af3e-04d10356e8be | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Steel Building. 2009. General Specification for Steel Buildings | 3e1e18bf-208f-4fbe-8b8a-798726d59ee8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Stump, B. 1995. Practical Observations of US Mining Practices and Implications for CTBT Monitoring | ddc7bfe8-3ce2-4ef5-9b85-d8174a606c2a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Sugar Camp Energy, LLC. 2007. Applications for Underground Mine Permits, #382 | 25043304-8eb0-4222-bb2a-74bc42f87d04 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | The Engineering Toolbox. 2005. PVC and CPVC Pipes - Schedule 40 & 80 | a79690d1-b7e4-451f-9f38-f0d8a4693118 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Thunder Basin Coal Company. 2009. Black Thunder Mine…Delivering Energy to America | 1b121dc3-fadf-4fa5-a39d-b723848d4c4d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Tribal Energy and Environmental Information. 2010. Coal Mining: Decommissioning and Site Reclamation Impacts | 8449a241-5b5b-4a42-9a41-32dc881be291 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Bureau of Land Management (BLM). 2008. Draft Environmental Impact Study, West Antelope II Coal Lease Application, Chapter 4: Cumulative Environmental Consequences. | de4d6424-a2db-4ac3-8678-20a6bc5f19ac | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Bureau of Land Management (BLM). 2009a. Red Cliff Mine Draft Environmental Impact Statement, Appendix H: Air Quality Analysis Modeling Report | 7fa90fcd-d619-4f08-a8f2-5cc027b93c0e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Bureau of Land Management (BLM). 2009b. Red Cliff Mine Draft Environmental Impact Statement, Maps, Figure 1-2 - Coal Lease Area | 4110096b-0d85-496a-9e50-13a78ab20854 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Department of Energy (DOE) and National Mining Association (NMA). 2002. Energy and Environmental Profile of the U.S. Mining Industry: Chapter 2 Coal | 541e5720-2bcd-43e4-920f-4541d4e0625a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration (EIA) and U.S. Mine Safety and Health Administration. n.d. | a10a5a9c-d9e2-4908-9fbf-02bbaa5044d8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration (EIA). 2011. Appendix A British Thermal Unit Conversion Factors | 9c47f9a8-54d5-45a3-b215-3cbb91b66746 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration (EIA). 2007. Annual Coal Report | 1f0183ff-6458-411a-9a90-592bb8c6ae1d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration (EIA). 2013. Historical Detailed Coal Production Data (1983-2011) | 582cca73-dcdb-4b9b-b903-4597d61ea59a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration (EIA). 2014. Definitions of EIA Distillate Categories and Fuels Contained in the Distillate Grouping | e32dc89f-09f0-3fb5-adb8-b206916db21a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration (EIA). n.d. Coal. | 3e58d53f-5ade-4259-b0e1-d509376c822d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 1994. Development and Selection of Ammonia Emission Factors | 4166c2c8-6e1c-3204-8bc2-2b2598600e8d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 1998. AP 42, Fifth Edition, Volume I, Chapter 11: Mineral Products Industry, Section 11.9: Western Surface Coal Mining | 237884a2-6461-45de-9daf-0f89ce7b318a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 1999. AP-42, Compilation of Air Pollutant Emission Factors, Version 5, Chapter 1 Section 3 | 5ea9ee84-5180-3250-b97c-048398d60988 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 1999. Nitrogen Oxides (NOx), Why and How They Are Controlled | 461e7d9f-93d0-3b50-ac64-987cc78f6a4c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2000. Abandoned Mine Site Characterization and Cleanup Handbook, Chapter 2: Overview of Mining and Mineral Processing Operations | d0f8e198-4984-36e5-abfb-edf75ab5f1ea | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2000. Analysis of Commercial Marine Vessels Emissions and Fuel Consumption Data | 57296599-697c-3eeb-8c38-38e150db8624 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2003. Regulatory Announcement: Emission Standards Adopted for New Marine Diesel Engines. | edccc1f5-0f6d-3a4a-8b81-3f4cb88a1367 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2004. Evaluation of Impacts to Underground Sources of Drinking Water by Hydraulic Fracturing of Coalbed Methane Reservoirs, Attachment 5: The Powder River Basin | 58bab480-55a5-4317-8ee8-506fab42b474 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2007. Diesel Exhaust, Speciate 4.2 | e1275ce4-0087-3dab-a0e6-6f5cb706d078 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2007. Diesel Generator Exhaust, Speciate 4.2 | f80d6f0f-90d3-3770-81e9-054423d80441 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2007. Lists of Potential Control Measures for PM 2.5 and Precursors | 550089af-db82-3811-93fa-60c1e5ed590d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2008. Direct Emissions from Stationary Combustion Sources | 144155fc-afab-3bb1-8e71-fe3ee72eed65 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2008a. Identifying Opportunities for Methane Recovery at U.S. Coal Mines: Profiles of Selected Gassy Underground Coal Mines 2002-2006 | 94d8b0ed-2278-4500-8409-d9e6bbc962e6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2008b. Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2006 | fe3388e4-9929-47fc-a31a-cbcdb7f1b0ab | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2009. Regulatory Impact Analysis: Control of Emissions of Air Pollution from Category 3 Marine Diesel Engines | 6c12f58d-0bb6-3304-88b3-be151844c78a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2009a. AP 42, Fifth Edition, Volume I, Chapter 11: Mineral Products Industry, 11.9 Western Surface Coal Mining | b208b9a3-2b88-4c88-a44b-b281a13612e6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2009b. National Pollutant Discharge Elimination System Permit, Water Quality Reporting Documentation | 72e2fd55-9bba-44d9-b62c-188166c8cab0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2010. Coal Mine Methane Recovery at Active U.S. Coal Mines: Current Projects and Potential Opportunities | a6acc211-b0d3-4202-9381-55f528e0665b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2011. Emission factors for greenhouse gas inventories. | 56a90479-dc71-337d-8f61-0ca12bae15b0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2012. MOVES 2010b model | 86f33436-28a5-3d0b-a18c-11a9bc6901a9 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2012. Report to Congress on Black Carbon | bb2c3485-c12c-3da8-8bbf-0fda9d40dd75 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2012. WebFIRE. | 9f1ba9ea-8440-3173-96e0-3e1b3814317e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2013. CWA Effluent Report: Permit ID IL0061727 | 5ed7d0a5-5a92-4ab3-a4eb-c75b01be4b0f | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). 2014. A-400 DRAFT Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990–2012 | f0cca8ec-beae-3f57-b265-4125064f370b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Environmental Protection Agency (EPA). n.d. The National Emissions Inventory | 64ed0f9b-59f6-43c2-b209-33338442a81c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Geological Survey (USGS). 2005. Estimated Use of Water in the United States: Montana County-Level Data for 2005 | 9db3dbaf-40c9-3e2c-897c-f0fc9b9b686e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Geological Survey (USGS). 2005. Estimated Use of Water in the United States: Wyoming County-Level Data for 2005 | 32861bc3-6ffe-3c50-a6b3-2259d3c042da | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Geological Survey (USGS). 2009. Estimated Use of Water in the United States: Illinois County-Level Data for 2005 | c11568f1-1256-4536-9b1f-7da8815bfbb5 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Geological Survey (USGS). 2009. Methods for Estimating Water Withdrawals for Mining in the United States, 2005 | 0ba2484d-702d-35a0-82e9-83f1901df8fa | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | URS Corporation. 2004. Compendium of Greenhouse Gas Emission Methodologies for the Oil and Gas Industry. | cd3e0aaa-8cc4-4ffd-a70c-11dc01e4dc1e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | WWC Engineering. 2003. FINAL: South Powder River Basin Coal, Environmental Impact Statement | b76724e2-90fb-4bef-af6b-7a3e341c1afd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Walker, Roger. 2007. Density of Materials - Bulk Materials | dca82c3c-d441-432d-a257-b052a96d1fa2 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Weather Bureau. 2008. Frostline Map | 2d219d83-b709-4153-b949-48b1560b5900 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | West Virginia Department of Environmental Protection. 2009. An Evaluation of the Underground Injection of Coal Slurry in West Virginia -Phase I: Environmental Investigation. | 8b0243e5-cb0c-364d-a206-2eddbf00b1cd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Western Coal. 2010. Operations: Wolverine Group | d5fd60d0-1978-43f4-93bf-8ac5aeb16e64 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | World Stainless Steel. 2005. World Stainless Steel LCI | 92819f3c-1d79-4b29-b5c8-94e2f76452ed | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | World Steel Association. 2005. Applications of the IISI LCI Data to Recycling Scenarios | 3c52c94a-6a11-40f1-b1e9-fc987b2b28a7 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | ANL (2017) GREET 2017 | c011f41f-2586-45aa-96f8-4d61150136ad | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Association of American Railroads | 4b8c96a9-2ef8-387a-8f47-363b7db903c4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Association of Oil Pipelines | a42c7d63-08d0-3775-b03c-1fef0c4a8801 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Athena 2011 A Cradle-to-Gate Life Cycle Inventory of PVC Roofing Membrane Product | 91be1a24-d49b-30e7-997f-2c7d4fbc66cd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Aviation Industry Press | fd2968d7-4cc1-3072-baf4-9d45f616d3bd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | BioBased Technologies | 7633d3ec-5463-3ac7-a2dc-9d79e71633fc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | CORRIM Reports on Enviornmental Performa | bd26c0ed-c7a1-350e-8bef-33f7a2c2d71c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Center for Transportation Research, Argo | e59d6a41-5e24-302a-8ebb-de2f82167c54 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Chris Bolin | 91686af1-cc2d-3270-a690-10fc32f8d44a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Chris Bolin | 8e2c0b70-a73f-3a99-9fcd-f95d3e875e4e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Chris Bolin | fb579668-97b1-3626-ae72-bab2648caecc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Conservation Tech Info Ctr, Univ Purdue | e2b6478b-e53d-3382-9c28-78e2ad2943ca | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Corrugated Packaging Alliance (CPA) | adfb26c0-e1a1-39bf-8189-2621998678d2 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | D.A. Kirchgessner | e6a55661-8d1a-3a5f-a408-52c6f9be1d33 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Denicoff, M.R. | 8ead363a-c386-37d8-9518-079c77e4ec34 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Downs, H. W. | fe59e084-b801-3475-bb7a-4cb991aed69d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Dr. Jim Wilson | 697c13f0-0178-31de-96c4-4cd6922f1ffe | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Dr. Jim Wilson | 698530cc-b15c-3290-a448-e067edc77bd5 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Duffy, M. D | 95891690-e22b-37a3-a947-9814d228fee7 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | ECN, Phyllis | 82bf077d-bf9e-3367-8810-88cf2576b9e3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EIA | 8649a311-034d-32b1-ad2f-341fd80d55b6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EIA | bd4fcd84-f394-3085-a471-4e221794bdd0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EIA | 1425179d-102a-3ea9-bde5-e472b0873348 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EPA | 515b3369-a658-3ba4-9f45-60e093b19681 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EPA | 29f36163-c5cf-32bf-8ef3-d9989ea4dd95 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EPA | 34f8b2b9-a3f4-395e-9dab-2e32f46f5900 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EPA | 5e3e2764-4c8c-3c76-a336-50f266cb4ff0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EPA | a563d305-0620-3ec9-811e-4846a2b1c418 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | EPA | f15b983c-6f1a-3d45-9d68-16c255a295dc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Ecobalance | 00569d69-f0ac-3e95-9205-9cf2327a1360 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 87d24665-74f3-36f9-9042-4d68756b35c9 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 00bd0392-f873-3b73-bb9a-c0560118d9cf | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 62b6e0b1-2247-37e8-ae9d-fe542593dc0b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | d62efb76-c056-3294-b32f-2fb332c95c40 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 4e03fc0e-fe14-3164-a862-0d43989b9c87 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | ea6266b7-5ee0-3855-acf5-532dfd8b1a62 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 88ca590b-ba12-3cc7-a603-1b5cbff81af9 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | d1c7df1c-cb41-3843-a79b-08ceebdc6908 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 4c640d55-6a29-3566-8cc5-93e8d3fd146b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 8e430cc7-7892-3631-842d-4a13eb3f600d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | a4e001c5-2634-3b56-b469-005f6a1677e1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration | 3c45cb6d-ff05-3a41-88a4-d746c0f17ec8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Energy Information Administration: Natur | 6883fe66-98ea-37b5-b353-79a7d9614515 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Farrell, A.E. | c252991f-adba-3da5-96e7-8d8a234c7580 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Finch, W.I. | 3cfcf6f5-b7c4-3c3d-86a5-7478e165ec22 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Forest Products Laboratory | 8749415a-1cd8-30c7-afff-758b5261624c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Francis G. Wagner | 3da6dc29-008b-33d7-b825-0dd5115960e4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Franklin Associates (2011) Cradle-to-Gate LCI 9 Plastic Resins & 4 Polyurethane Precursors - APPENDICES | 55944849-ad20-4444-b67c-df0c3b8b1018 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Franklin Associates (2020) Cradle-to-Gate LCA of PP | 836767ba-4563-48ed-9872-2c78ab47ba20 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Graham, R. L. | 9c74d249-f97f-3a0c-9662-f9dd77c16080 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Hong, B.D | 47dddf2e-e123-39e9-a812-3af9081792cc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Hydrocarbon Processing | 7110ec6a-2c7a-3d7d-8739-f7c5d7a5ec88 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | ICAO | b1af4fba-4e94-3c60-915c-ab40197591ad | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | IEA (2020). Electricity Information | d6d3c572-cc00-4bfc-9794-68fa374788b5 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | IEA Statistics (2018). Electric Power T&D Losses | 5c23da89-d512-46f5-bf77-475aa45ee359 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | J. Davies | de80b1f0-3097-325b-a7fc-5e61ad7f6f6c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | J. Johnson | b43c2761-d03e-3164-9293-c5dac4d6ea79 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | J.E. Sawyer | 61e52be1-1358-3849-b932-d13f9357ad81 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | J.G. Speight | 72399fd9-6c6a-3b5b-9be5-ad5086ad0bf6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Jacobson, J.J. | 07cdc4aa-9ed3-3289-b843-4b8c34cae0d2 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | James B. Wilson | 73fcffd5-b95c-39f0-b304-afefe358478e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | James B. Wilson | d2eff4ad-aa2d-390d-b9b1-5a143cfd2ea4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | James B. Wilson | d2eff4ad-aa2d-390d-b9b1-5a143cfd2ea4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Klein, C. D | 779bdbe5-4bdf-39b0-a43e-0e45d78ce21b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | M. A. Fosenca | 6e70ee70-1159-3f6b-bf70-d42bfa5bb7e4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | M. Tollenaar | ddeba8d8-b353-3824-b9b9-532b4518b9cc | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | M. Tollenaar | ab35fb2e-2537-31e0-b428-17f352c7a5f6 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | M.A. DeLuchi | 6fc5eac3-7d33-3bc5-96d0-b8720d052c1b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Maureen Puettmann | 6ef2837e-d8fa-3431-9f60-e268ec058116 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Maureen Puettmann | f587caee-1783-388e-af55-dd8a6967df3c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Maureen Puettmann | fbd28ef2-4618-33b7-91f6-900167da79cb | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Maureen Puettmann | af79a299-846b-37de-908f-9f071247b053 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Michael Milota | 69d693b3-f84e-3227-afb2-e946a40e225a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Michael Wang | 59f2bd7a-a276-35bf-8a4c-b4a5742d7714 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | NASS | 48992310-7c97-3a5f-99ec-159872ddf92c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | NASS | 65af33e6-5a26-3487-9abd-e54ec4618d0e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | NASS | 6b9bee0e-f0ef-3943-8e70-65495bc1f056 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | NERC | 13fecc91-5826-3ccb-9590-816f85bafbf1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | NERC | 1fa8ed2a-ef93-3380-8b92-d88e81f072eb | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | NREL (2000). Determining the Cost of Producing Ethanol from Corn Starch and Lignocellulosic Feedstocks | a4f0cce1-37b8-3abc-800d-d494a2c33caa | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | NREL (National Renewable Energy Laborato | 9ae365e7-81c3-3354-8d21-44940b736bd9 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | National Center for Food and Agricultura | b13399a1-b5b9-3d1a-b94e-ad862280fa44 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Oak Ridge National Laboratory | 32c2379a-5ef8-357d-8266-c628c7200bea | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Oak Ridge National Laboratory | 2b913735-44c9-380a-857e-3e0de13fe697 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Oak Ridge National Laboratory | a2ba6c1c-6982-3e93-9d36-9aeeb03f7003 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Oak Ridge National Laboratory | 05112004-5e70-3d9b-88a6-b110b0d05ac1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | PE Americas | 0dcb2cfc-f0da-3459-8752-24772453eb73 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | PE International | e6552a6a-6bc4-32f9-b059-5fa3edcad2bd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | PHMSA (2018) | 27c9f186-2deb-4b3e-8054-3c8653f564a8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Phillips, S. | 24067796-8453-37e3-a4e1-a833b728bee7 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Puettmann, et. al. | d025eb68-d09b-3772-97f6-58fe98c789ba | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Richard D. Bergman | cb5c81f0-d9d6-350e-83ec-f762958619c8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Richard D. Bergman | 646376b1-fc83-388b-bbeb-d305cf8a33b7 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Sawyer, J. E. | c69106ab-5227-3550-b927-eb9db3150e98 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Shapouri, H. | c99e6834-c14a-3eb9-94a4-073ee0f58149 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Sheehan, J. | d338ad3f-caa9-3568-85cc-7c77202a0881 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | SimaPro | c43eacf7-5b8c-330e-af6b-23d7ccf8d094 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Statistics Canada | 7435f8b6-18c8-3966-9ea9-51a0b50e690d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Statistics Canada | ba3af0c6-1a44-397c-a48b-fbd10b1aa6c5 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Stelco Technical Services Limited | 09d2ef24-04a6-3e47-a1f4-d5c2a9e62666 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Stelco Technical Services Limited | 5acf6bf7-55c7-3c76-9cb4-891edbc7257f | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Steve St. Martin, Dept. of Horticulture | 7e1c994a-b9b8-361d-9e8c-28d0365905ee | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | T.H. Yu | fd902222-94e9-31bf-987e-abf705c834c0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Census bureau | 184f5694-1059-3d11-bf3b-cabb043d3ad3 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Department of Energy | 885a528c-8db1-3ae4-9b29-066418f6a742 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | fde5c0fc-00fc-3d1f-8893-cb04c5c34674 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | d0003578-4718-31de-8bb7-f7b267535d09 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | 78667125-013e-33af-b21a-45106a120197 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | 5c6178ea-2fb5-3de0-93ba-542c87e3c109 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | 47d8a6dd-63c0-3faf-80e4-5b96707f29e0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | 51351489-ac92-3d1f-9ad1-29f43727e930 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | db571a6f-5b78-3700-b34e-fefe08dc68f0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | 767c377a-49b6-31e8-abc9-951ae9d7b04c | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA | 3411c92b-e5b9-30c3-8570-c4eb1e85f43a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA Office of Solid Waste | cca6193a-6791-35b8-9654-a8c7746292ab | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. EPA Office of Solid Waste and Emerg | c1c4d702-d9b1-390d-8982-657c445b4693 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration | 1008f602-87a4-31c7-94cf-9f381191d8ed | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | U.S. Energy Information Administration | ae1bba3e-d591-36f3-95e2-a088ec7a6e5e | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | US EIA (2017a) Natural Gas Annual 2017 | f34c916a-6a17-47d6-9a08-9bdb1aaef0ab | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | USDA NASS | ce5bb31d-8ef9-3d4b-af0f-18b8201d3683 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | USDA/ERS | c532b375-ecea-3019-9895-6e8112d302f1 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | USDA/ERS | 45c52231-29e8-38ab-a3e4-b28a6f1803be | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | USDA/NCRS | 6067b37d-1fdd-3881-83f2-79da18e95462 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | USDC | 16ba12d0-3a2b-3f0a-9318-88dfcb8e5733 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | USEPA | 5d3e5b16-a6c3-37a4-b9f3-be80a90751d8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Vehicle Recycling Partnership (VRP) | 4f2b2d88-5e1e-3f29-a468-c2d5ef104421 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | W.T. Simpson | 90b69e34-96ba-33aa-8920-9400c319e789 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | WISE Uranium Project | WISE Uranium Project | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | WORLD BANK GROUP | fbb2273c-b9b1-3fbe-94ee-5645b4d85d33 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | WRI (2011). Greenhouse Gas (GHG Protocol: Product Life Cycle Accounting and Reporting Standard. | eca97334-4d6c-43b1-bc71-671863803048 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Wood. (2012). Life Cycle Assessment Summary Report - Kodak i2800, i2600, i2400 Scanners - ISO 14044 Protocol | 405352c9-5618-3640-8afa-5fa08d0daea0 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | Wu, M. | b5157271-adc9-3c26-a4b3-78e0d69fe681 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 92919a36-01c4-34eb-8beb-0f8c3a50fefa | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | ffc12048-1448-370e-b679-9677d05c9e4a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 42223072-2505-3ca8-881c-7d47e1586894 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 96e5b9ad-a433-39b7-a304-2c17ac1e49f5 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | f4db29eb-6b39-39b2-81b2-40b1097d16ad | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | a62f358e-660c-38d9-b660-cf1da43fa3c4 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 9d73058f-73f2-3b2e-987d-4fbc873b95d2 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | a79131b6-5f20-3b99-8607-f47dc231305f | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 332e882c-2787-3516-9fb6-a18054036349 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 15a82413-c464-3148-b30d-c9d4068057fd | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | fc2ea95d-a255-3e34-a1bb-11e362a90005 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | b0a73693-e85e-3540-b297-83103b72a23d | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 4a92c1b2-a8d1-3326-92fd-5204b019b936 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 17b6665e-2f9e-3017-b428-3b3dfbb68594 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 9e29e241-8083-3ab9-99da-e7347a8232c8 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 70920a97-32f6-3a3c-abe2-576819c0d92f | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | d6c7115e-752c-3d99-a4ce-1ddce8e4573a | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | deae43a6-2a7b-39c8-8705-b771e355992b | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | cb1c7d31-badf-3258-b92e-01a54b59e571 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 65db7ae5-ee76-3d21-8e5c-d80222fee8f2 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | b958bba2-126d-371a-a492-188fda0c8316 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 23d53bb3-c850-3e18-ba48-73287687e471 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 1647cffd-b17a-3be6-96af-bae4d7275496 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 15db056e-ad13-30ab-99a5-0bd33e5452a9 | Deleted unused source |
+| FY22.Q3.01 | Source | Delete | unspecified | 2e279023-62e5-32ff-9f23-5dd47c8af864 | Deleted unused source |
+| FY22.Q3.01 | Source | New | American Chemistry Council, 2022, GPPS | 8d699156-e2ea-4bd9-9189-5d6ffa8cf489 | Added new source |
+| FY22.Q3.01 | Source | New | American Chemistry Council, 2022, HIPS | 580acf2e-3548-4d6e-aee9-32289fa9de46 | Added new source |
+| FY22.Q3.01 | Source | New | American Chemistry Council, 2022, MDI | 603de97d-d877-45eb-97a8-3fac2064d1c0 | Added new source |
 | FY22.Q2.01 | Process | New | Scanner, department, S3120 Max, S3140 Max | c8c0b1ab-1547-4c65-b5bc-6c0d57f95a6f | Added new scanner process |
 | FY22.Q2.01 | Flow | Edit | Petroleum refined, to material use, at refinery | 3671e08b-0f5d-423e-9805-3cbd3f7b909a | Corrected flow properties unit conversion factors from 1.357 m3/kg to 0.001351351 m3/kg (erroneous unit conversion in flow properties) |
 | FY22.Q2.01 | Process | Edit | Calcium carbonate, ground, fine slurry, 3 micron, at plant | 48be22f1-e30c-3e4a-8832-a9c5ed32350b | Corrected weight factor input naphtha (petroleum refinery co-product material use) amount from 0.01658 L to 0.0148961 L based on conversion factor from data provider comment and density conversion default for USLCI from kg to m3 |
