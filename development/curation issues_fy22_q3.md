@@ -8,22 +8,22 @@ A bug has caused some elementary flows to display with 'default providers', that
 
 ```sql
 UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 73280;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 38714;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 38933;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 45224;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 73930;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 107689;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 106055;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 138307;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 107625;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 106055;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 13918;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 77619;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 107625;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 123093;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 116371;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 15654;
-UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 45224;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 73424;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74501;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74470;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74473;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74452;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74547;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74454;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74424;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74375;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74530;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74550;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74442;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74430;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74408;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 74533;
+UPDATE tbl_exchanges set F_DEFAULT_PROVIDER = 0 where ID = 116595;
 ```
 
 
