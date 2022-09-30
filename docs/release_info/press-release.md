@@ -33,8 +33,8 @@ This USLCI Database release is the USLCI_2022_Q3 or fall 2022 release. This USLC
 - Styrene updated dataset
 - Polystyrene, general purpose (GPPS) updated dataset
 - Polybutadiene, butadiene rubber updated dataset
-- Polystyrene, hugh impact (HIPS) updated dataset
-- Hydrocholoric acid (HCl) from MDI production new dataset 
+- Polystyrene, high impact (HIPS) updated dataset
+- Hydrochloric acid (HCl) from MDI production new dataset 
 - Condensed sources and actors
 - Added metadata for PLA
 - Updated select NAICS classifications
