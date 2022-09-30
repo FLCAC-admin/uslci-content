@@ -72,7 +72,6 @@ Please see the complete [Change Log](/docs/release\_info/change-log.md) for deta
 _**The United States Life Cycle Inventory (USLCI) Database is a publicly available repository of life cycle inventory (LCI) data that supports research, analysis, and decision-making.**_
 
 <br>
-<br>
 
 ## 2021 Fall Quarter (Scheduled September 30, Occurred October 1)
 
