@@ -42,7 +42,7 @@ This USLCI Database release is the USLCI_2022_Q3 or fall 2022 release.
 
 ### Errata's Notification & Temporary Solution
 
-Due to a bug in the publication process, some elementary flows are displaying with default providers, which are only intended for intermediate flows. To correct this error, you may use [this script](development/curation issues_fy22_q3.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown in the script link.
+Due to a bug in the publication process, some elementary flows are displaying with default providers, which are only intended for intermediate flows. To correct this error, you may use [this script](/development/curation issues_fy22_q3.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown in the script link.
 
 ### Change Log, Versioniong, &amp; Data Submission
 
