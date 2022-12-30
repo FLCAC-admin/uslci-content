@@ -43,6 +43,8 @@ This USLCI Database release is the USLCI_2022_Q4 or winter 2022 release. This US
 - Updated Polypol ether, for flexible foam polyurethane production dataset
 - Removed dated steel hot rolled sheet, steel cold rolled sheet datasets, and galvanized steel sheet
 
+### IPCC Method Now Available [IPCC Method](https://github.com/uslci-admin/uslci-content/blob/dev/docs/methods/IPCC_json_v1.0.3.zip)
+
 ### Errata's Notification & Temporary Solution
 
 Due to a bug in the publication process, some elementary flows are displaying with default providers, which are only intended for intermediate flows. To correct this error, you may use [this script](/development/curation%20issues_fy22_q4.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown in the script link.
