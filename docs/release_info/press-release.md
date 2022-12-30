@@ -23,9 +23,9 @@ Since Spring quarter 2020, the USLCI has converted to using the [Federal Element
 ***
 
 
-## 2022 Winter Quarter (Scheduled December 30, Occurred September 30)
+## 2022 Winter Quarter (Scheduled December 30, Occurred December 30)
 
-This USLCI Database release is the USLCI_2022_Q4 or winter 2022 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_2022_Q3_v1/datasets) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
+This USLCI Database release is the USLCI_2022_Q4 or winter 2022 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_2022_Q4_v1/datasets) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
 
 ### Overview of 2022\_Q4\_v1 Changes:
 
