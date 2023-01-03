@@ -4,7 +4,7 @@
 
 <br>
 
-This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages. To see announcements regarding the Federal LCA Commons (FLCAC) as a whole, please see the landing page: [lcacommons.gov](https://www.lcacommons.gov/).
+This page provides quarterly updates and news regarding the [USLCI Database](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI) publishing updates. The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm). These updates are compiled by the [USLCI Data Curator](mailto:uslci@erg.com) on the behalf of the [National Renewable Energy Laboratory (NREL)](https://www.nrel.gov/). For more information and publications regarding the creation and evolution of the USLCI, please see NREL's [U.S. Life Cycle Inventory Database](https://www.nrel.gov/lci/2019_Coordination_Report.md) project pages. To see announcements regarding the Federal LCA Commons (FLCAC) as a whole, please see the landing page: [lcacommons.gov](https://www.lcacommons.gov/).
 
 
 :tv: :sound: <br>
@@ -25,7 +25,7 @@ Since Spring quarter 2020, the USLCI has converted to using the [Federal Element
 
 ## 2022 Winter Quarter (Scheduled December 30, Occurred December 30)
 
-This USLCI Database release is the USLCI_2022_Q4 or winter 2022 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_2022_Q4_v1/datasets) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
+This USLCI Database release is the USLCI_2022_Q4 or winter 2022 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_2022_Q4_v1) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
 
 ### Overview of 2022\_Q4\_v1 Changes:
 
