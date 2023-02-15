@@ -15,6 +15,26 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY22.Q4.02 | Folder | Delete | ecoinvent 3.2 | folder | Moved ecoinvent cutoff flows into regular cutoff flows' folder. Renamed some of these flows and added "from ecoinvent 3.2" in the description. |
+| FY22.Q4.02 | Process | Edit | Ethylene oxide, at plant | 136cbdd8-ef76-3834-904d-6fce42b2b660 | Changed disposal cut-off flows |
+| FY22.Q4.02 | Process | Edit | Propylene oxide, at plant | fa3871c0-d563-3300-9ec7-f26aafdabfa5 | Changed disposal cut-off flows |
+| FY22.Q4.02 | Process | Edit | Acrylonitrile-butadiene-styrene, ABS, copolymer resin, at plant | 0e42a306-ee2d-362e-8bc3-580000096459 | Changed disposal cut-off flows |
+| FY22.Q4.02 | Process | Edit | Polyethylene, high density, HDPE, virgin resin, at plant | 2712f03a-80fe-4a2b-9005-ca9ba99f7eb3 | Changed disposal cut-off flows |
+| FY22.Q4.02 | Flow | New | Tailings, stockpiled, steelmaking, on-site, for unspecified beneficial use | 61bb54c5-63bd-48dc-8625-4660cde8aee9 | Added new cutoff flows |
+| FY22.Q4.02 | Flow | New | Disposal, slag, steelmaking, to unspecified treatment | 4ed646e0-92f1-4e30-b9be-407d6e6faca2 | Added new cutoff flows      |
+| FY22.Q4.02 | Flow | New | Overburden, stockpiled, steelmaking, on-site, for unspecified beneficial use | 671bebd9-4998-4b85-9913-605f89effc5d | Added new cutoff flows |
+| FY22.Q4.02 | Flow | Delete | Disposal, chemical waste, unspecified, to residual materials landfill | 5497c185-e120-33d9-8c4b-27505d3d4dee | Merged this cutoff flow with "Disposal, chemical waste, unspecified, to residual material landfill" |
+| FY22.Q4.02 | Flow | Delete | Hydrogen peroxide | 8efb2703-6211-3fdf-a367-7856b06052bb | Merged this cutoff flow with "Hydrogen peroxide, at plant" |
+| FY22.Q4.02 | Flow | Delete | Sodium chlorate | a5955bee-11bb-343d-8d3f-d0d1ff5f1ce8 | Merged this cutoff flow with "Sodium chlorate, at plant" |
+| FY22.Q4.02 | Flow | Delete | Sodium hydrosulfite | aad49c7f-ef2a-3754-8555-c0c58fd91f57 | Merged this cutoff flow with "Sodium hydrosulfite, at plant" |
+| FY22.Q4.02 | Flow | Delete | Starch | ec9858a4-ed60-3c2b-944f-efb6454aac71 | Merged this cutoff flow with "Starch, at plant" |
+| FY22.Q4.02 | Flow | Delete | Titanium dioxide | 07c41822-46a4-3355-80ea-655e86323ac9 | Merged this cutoff flow with "Titanium dioxide, at plant"|
+| FY22.Q4.02 | Flow | Delete | Urea, at regional store house | 063d85ed-2583-3a3a-9273-d6c16eb6d995 | Merged this cutoff flow with "Urea, at regional storehouse"      |
+| FY22.Q4.02 | Flow| Delete | Urea, as n, at regional storehouse | 94482ca8-2794-367c-912e-e650cf4671c4 | Merged this cutoff flow with "Urea, at regional storehouse" |
+| FY22.Q4.02 | Flow | Delete | Monoethanolamine, at plant | d4870483-9b62-3edf-9421-9d8ea0bea36b | Merged this cutoff flow with "Monoethanolamine, MEA, at plant"                                                                                 |
+| FY22.Q4.02 | Flow | Delete | Light emitting diode - GLO | 42a82f46-edef-32ff-8e60-65a3e9791269 | Merged this cutoff flow with "Light emitting diode, LED, at plant" |
+| FY22.Q4.02 | Flow | Delete | Glass fibre, at plant | b6209f90-8cf2-353e-96d1-2d35a72450dd | Merged this cutoff flow with "Glass fiber, at plant" |
+| FY22.Q4.02 | Flow | Delete | Galvanized steel scrap, at plant | 7defe4d2-ac83-3d7b-a764-ce00ee2d5f51 | Deleted unused cutoff flow |
 | FY22.Q4.01 | Process     | Edit          | E-glass, at plant                                                                  | 2d50471f-ae3a-337b-9e53-6ff319e39b55 | Removed organic substance emissions as this was double counted in VOCs                      |
 | FY22.Q4.01 | Process     | Edit          | Recycled postconsumer polyethylene teraphthalate, PET, flake                       | f7b7280d-f372-3a4b-86cf-caa588ca67ea | Changed water input from 4801 kg to 0.395 liters. Error was due to a unit conversion issue. |
 | FY22.Q4.01 | Process     | Delete        | Hot rolled sheet, steel, at plant                                                  | bc251c04-d2b2-366f-af0c-99d8fc2ed467 | Removed as it has been replaced by a new steel process                                      |
