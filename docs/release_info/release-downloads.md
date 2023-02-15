@@ -73,6 +73,7 @@ Select the desired format type:
 
 | Release | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD |   
 |:---:|:---:|:---:|:---:|:---:|:--:|   
+| FY22.Q4.02 | v1.10.3 |[zolca]([https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy22_q4_02_olca1_10_3.zolca)| [JSON-LD](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy22_q4_02_olca1_10_3_json_ld.zip)| [ecoSpold2] | [ILCD] 
 | FY22.Q4.01 | v1.10.3 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy22_q4_01_olca1_10_3.zolca)| [JSON-LD](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy22_q4_01_olca1_10_3_json_ld.zip)| [ecoSpold2] | [ILCD] 
 | FY22.Q3.01 | v1.10.3 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy22_q3_01_olca1_10_0.zolca)| [JSON-LD]| [ecoSpold2] | [ILCD] 
 | FY22.Q2.01 | v1.10.3 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy22_q2_01_olca_10_3_.zolca) | [JSON-LD] | [ecoSpold2] | [ILCD] |
