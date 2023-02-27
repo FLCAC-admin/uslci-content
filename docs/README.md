@@ -27,3 +27,6 @@ i.e. the file you are currently reading
 [nrel]: https://www.nrel.gov/
 [uslci-home]: https://www.nrel.gov/lci/
 [uslci-online]: https://uslci.lcacommons.gov  
+
+##Contact Information
+*Please contact us with USLCI related questions at USLCI@erg.com
