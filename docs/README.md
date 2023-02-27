@@ -30,3 +30,4 @@ i.e. the file you are currently reading
 
 ## Contact Information
 * Please contact us with USLCI related questions at USLCI@erg.com
+* If you'd like to join the release mailing list please email us with your name and desired email address at USLCI@erg.com
