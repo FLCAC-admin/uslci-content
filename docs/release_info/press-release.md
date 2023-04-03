@@ -23,7 +23,7 @@ Since Spring quarter 2020, the USLCI has converted to using the [Federal Element
 ***
 
 ## 2023 Spring Quarter (Scheduled March 31, Occurred April 3)
-This USLCI Database release is Version 1 of the USLCI_2023_Q1 or spring 2023 release. This USLCI database version is available on the [NREL USLCI repo]([https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Public/datasets] of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
+This USLCI Database release is Version 1 of the USLCI_2023_Q1 or spring 2023 release. This USLCI database version is available on the [NREL USLCI repo]([https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_2022_Q4_v1](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI_Database_2022_Q4_v1)) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
 
 ### Overview of 2023\_Q1\_v1 Changes:
 
