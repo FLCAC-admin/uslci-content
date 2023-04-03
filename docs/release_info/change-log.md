@@ -15,6 +15,15 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY23.Q1.01 | Database | Edit |   |  | Fixed duplicate internal ID error in database |
+| FY23.Q1.01 | Process | New | Polyol ether, for rigid foam polyurethane production, at plant | 1d7ac207-310f-3366-8f9c-e951b61d31ce | Updated rigid polyol with new process data and metadata |
+| FY23.Q1.01 | Process | New | Toluene diisocyanate, TDI; at plant; mass alloc | 6f2532e9-d9c0-368e-89a2-0bd48adb4dab | Updated TDI mass allocation with new process data and metadata |
+| FY23.Q1.01 | Process | New | Toluene diisocyanate, TDI; at plant; mass and elemental alloc | 37a4ae86-eca4-4264-92d6-549534fb2262 | Updated TDI mass and elemental allocation with new process data and metadata |
+| FY23.Q1.01 | Process | Edit | Anthracite coal, at mine | de182d9f-35b5-333a-8012-445b93549447 | Updated metadata |
+| FY23.Q1.01 | Process | Edit | Anthracite coal, combusted in industrial boiler | 27e8fce4-a5c1-37af-84b9-763582a5ca3e | Updated metadata  |
+| FY23.Q1.01 | Process | Edit | Bituminous coal, at mine | 317adcbc-b3e3-3ec3-80c3-82b18d0f3207 | Updated metadata |
+| FY23.Q1.01 | Process | Edit | Bituminous coal, combusted in industrial boiler | 26465530-69ff-3c68-834f-c67ccb6ee1b2 | Updated metadata |
+| FY23.Q1.01 | Flow | New |  |  | Added several new elementary flows in multiple contexts |
 | FY22.Q4.02 | Folder | Delete | ecoinvent 3.2 | folder | Moved ecoinvent cutoff flows into regular cutoff flows' folder. Renamed some of these flows and added "from ecoinvent 3.2" in the description. |
 | FY22.Q4.02 | Process | Edit | Ethylene oxide, at plant | 136cbdd8-ef76-3834-904d-6fce42b2b660 | Changed disposal cut-off flows |
 | FY22.Q4.02 | Process | Edit | Propylene oxide, at plant | fa3871c0-d563-3300-9ec7-f26aafdabfa5 | Changed disposal cut-off flows |
