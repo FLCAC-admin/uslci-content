@@ -1,6 +1,6 @@
 README
 ==========
-Welcome to the Content Repository for the [U.S. Life Cycle Inventory Database (USLCI)][uslci-home].  This repository contains supplemental resources for the [**USLCI online database**][uslci-online].  The most important resources are shown in Table 1.  A complete list of USLCI resources is given in the Table of Resources section below.
+Welcome to the Content Repository for the [U.S. Life Cycle Inventory Database (USLCI)][uslci-home].  This repository contains supplemental resources for the [**USLCI online database**](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Public/datasets).  The most important resources are shown in Table 1.  A complete list of USLCI resources is given in the Table of Resources section below.
 
 ###### Table 1. Key USLCI Supplementary Resources
 | [USLCI Data Submission Handbook](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/00-sub-handbook-landing.md) | [USLCI Database Downloads](https://github.com/uslci-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md) |
