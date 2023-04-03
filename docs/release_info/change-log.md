@@ -6,7 +6,7 @@
 
 
 
-This change log contains a summary of changes to the [U.S. Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/).  The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm).
+This change log contains a summary of changes to the [U.S. Life Cycle Inventory Database (USLCI)](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Public/datasets).  The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm).
 <br><br>
 
 
