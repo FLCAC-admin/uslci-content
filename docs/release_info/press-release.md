@@ -33,6 +33,18 @@ This USLCI Database release is Version 1 of the USLCI_2023_Q1 or spring 2023 rel
   - Added the toluene diisocyanate, TDI, with a mass and elemental allocation dataset
   - Updated metadata for coal extraction and combustion processes
 
+### Errata's Notification & Temporary Solution
+
+Due to a bug in the publication process, some elementary flows are displaying with default providers, which are only intended for intermediate flows. To correct this error, you may use [this script](/development/curation%20issues_fy22_q4.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown in the script link.
+
+***This issue has been resolved in the .zolca version of this release download, but persists in the JSON-LD and Federal LCA Commons Collaboration Server versions.***
+
+### Change Log, Versioniong, &amp; Data Submission
+
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2022 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 30, 2023 Spring release date. We look forward to hearing from you soon.
+
+***The United States Life Cycle Inventory (USLCI) Database is a publicly available repository of life cycle inventory (LCI) data that supports research, analysis, and decision-making.***
+
 ## 2022 Winter Quarter (Scheduled December 30, Occurred December 30; February 15)
 This USLCI Database release is **Version 2** of the USLCI_2022_Q4 or winter 2022 release. This USLCI database version is available on the [NREL USLCI repo]([https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_2022_Q4_v2](https://www.lcacommons.gov/lca-collaboration/search/page=1&repositoryId=National_Renewable_Energy_Laboratory%2FUSLCI_Database_2022_Q4_v2)) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration/search) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
 
