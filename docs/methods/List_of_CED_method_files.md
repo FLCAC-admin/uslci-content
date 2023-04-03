@@ -1,8 +1,5 @@
-# The **FEDEFL-adapted CED Method** is available in several file formats:
+# **FEDEFL-adapted CED Method**
 
-* [JSON-LD](https://app.box.com/s/kqwsqefw8pm8bttvwal1agubgrqo2ak5)
-* [ILCD](https://app.box.com/s/j9wl8cptmgp3i22wan101idpckespayh)
-* [.zolca](https://app.box.com/s/1purck1sftagylnnxukj2gs3b7te5wri)
-
+* [JSON-LD](https://pasteur.epa.gov/uploads/10.23719/1522414/FEDEFL_Inventory_json_v1.0.0.zip)
 
 See the page: [FEDEFL-Adapted LCI & LCIA Methods](https://github.com/uslci-admin/uslci-content/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) for details on these files.
