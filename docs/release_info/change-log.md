@@ -15,6 +15,7 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY23.Q1.02 | Process | Edit | Polyvinyl chloride, PVC, virgin resin; at plant | 3dbccdda-2014-4239-ad1f-4e15c034942b | Fixed error in dioxin air emission value (9.8E^15 --> 9.8E^-15|
 | FY23.Q1.01 | Database | Edit |   |  | Fixed duplicate internal ID error in database |
 | FY23.Q1.01 | Process | New | Polyol ether, for rigid foam polyurethane production, at plant | 1d7ac207-310f-3366-8f9c-e951b61d31ce | Updated rigid polyol with new process data and metadata |
 | FY23.Q1.01 | Process | New | Toluene diisocyanate, TDI; at plant; mass alloc | 6f2532e9-d9c0-368e-89a2-0bd48adb4dab | Updated TDI mass allocation with new process data and metadata |
