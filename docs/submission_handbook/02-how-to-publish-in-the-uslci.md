@@ -4,7 +4,7 @@
 [**_Return to TOC_**](./00-sub-handbook-landing.md)
 
 
-This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/uslci/search).  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see [Section 1: Should I publish my data in the US LCI?](./01-should-i-publish-in-the-uslci.md).  You can also find a list of frequently asked questions [here](03-frequently-asked-questions.md).
+This page is part of the [USLCI Submission Handbook](00-sub-handbook-landing.md).  The purpose of this page is to help you, the Data Provider, understand the process for publishing life cycle inventory (LCI) data in the [U.S. Life Cycle Inventory Database (USLCI)](https://uslci.lcacommons.gov/uslci/search).  If you are looking for information to help you decide if publishing your data in the USLCI fits your publication goals, please see [Section 1: Should I publish my data in the US LCI?](./01-should-i-publish-in-the-uslci.md).  You can also find a list of frequently asked questions [here](03-frequently-asked-questions.md) and you can find a YouTube tutorial covering the submission process [here] (https://www.youtube.com/watch?v=IlPlYet8llY&list=PLmIn8Hncs7bFUOyXZNGXwG4LtdoTfLz6Q&index=9).
 
 This page is divided into the following subsections.
 1. [**Working with NREL**](#working-with-nrel)
