@@ -15,6 +15,44 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY23.Q2.02 | Database | Edit | Fixed allocation error in PVC, wood combustion, paper | nan                                  | nan                                                                                        |
+| FY23.Q2.02 | Flow | Delete | Materials for basecoat painting, at plant | 9b288fb4-5601-30f3-b1e6-ea0f6b96c522 | combined materials for basecoat painting flows - used two flow properties within same flow |
+| FY23.Q2.02 | Flow | Delete | Pigment, at plant | 64a4b24f-8d7d-3789-9958-6c5384338925 | combined pigment at plant flows - used two flow properties within same flow |
+| FY23.Q2.02 | Flow | Delete | Mixed recyclables, at source | 3f7f0210-04d7-30fe-98ac-61cbbf3423bb |  |
+| FY23.Q2.02 | Flow | Delete | Recovered energy, for Polyol ether, for rigid foam polyurethane production, at plant | e13ff3f2-a570-31c8-8355-a6e31eb92ed8 |  |
+| FY23.Q2.02 | Flow | Delete | Sugar beets, in ground | 2bb99756-fc40-3aeb-bf1f-63cff79e9136 |  |
+| FY23.Q2.02 | Flow | Delete | Polyvinyl chloride, PVC, waste | 7d057e23-dc42-4195-83cb-00a77b8af6e2 |  |
+| FY23.Q2.02 | Flow  | Delete | Polyvinyl chloride, PVC, pre-consumer waste, for primary recycling | 5c8219bc-9ed4-4a8a-94f9-df3e3cbf857b |  |
+| FY23.Q2.02 | Flow | Delete | Polyvinyl chloride, PVC, pre-consumer, for secondary recycling | 95467735-9b95-4ff1-b9bb-23128ec72a46 |  |
+| FY23.Q2.02 | Flow | Delete | Polyvinyl chloride, PVC, post-consumer, for secondary recycling | 03e3fb1f-9d18-45c9-8684-dffb404bdaee |  |
+| FY23.Q2.02 | Flow | Delete | Materials for basecoat painting, at plant | 9b288fb4-5601-30f3-b1e6-ea0f6b96c522 |  |
+| FY23.Q2.02 | Flow | Delete | Recovered energy, for acrylonitrile | 18258762-eafd-3eeb-9c92-ab63171b4daf |  |
+| FY23.Q2.02 | Flow | New | Several cutoff flows | multiple |  |
+| FY23.Q2.02 | Flows | New | Added cutoff flows for wind turbine recycling and hydrogen production | | |
+| FY23.Q2.02 | Process | Edit | Aniline, at plant | 363e9105-a6ea-356e-a537-06c9facf5b14 | Deleted oxygen input flow |
+| FY23.Q2.02 | Process | New | Glass cermet; at plant | 435c3df8-57d0-467c-8896-37212b19e2b1 |  |
+| FY23.Q2.02 | Process | New | Hydrogen; proton exchange membrane water electrolysis; at plant | f00a298a-295f-4fbc-b463-45f8e96f018b |  |
+| FY23.Q2.02 | Process | New | Hydrogen; small scale-steam methane reforming; at plant | 697947c1-fc38-4406-bee1-d1e5baaa71d8 |  |
+| FY23.Q2.02 | Process | New | Hydrogen; solid oxide electrolysis, at plant | 9f8a4892-e27e-4cc5-af91-7bdfd600dee7 |  |
+| FY23.Q2.02 | Process | New | Proton exchange water electrolysis plant; construction | ba3da3db-344c-422a-905b-40a079322b19 | |
+| FY23.Q2.02 | Process | New | Proton exchange water electrolysis stack; 1 MW, at plant | ba7b5d07-402b-4f76-8f55-2c7d4ce3e6c7 |  |
+| FY23.Q2.02 | Process | New | Solid oxide electrolysis cell; at plant | bc848aa4-1a9f-4848-87f1-d30c9e1deaff |  |
+| FY23.Q2.02 | Process | New | Solid oxide electrolysis plant; construction | 982230dc-87c0-4ea0-8511-8e36064f66be |  |
+| FY23.Q2.02 | Process | New | Solid oxide electrolysis stack; 150 kW, at plant | fea93709-0327-4eb4-b705-aa4db0f55cdf |  |
+| FY23.Q2.02 | Process | New | Steam methane reforming plant; small-scale; construction | 0381ede3-9567-44c0-9200-cbbef872097e | |
+| FY23.Q2.02 | Process | New | Acrylonitrile; at plant | 13abc978-777f-4929-9990-4f53976d032f |  |
+| FY23.Q2.02 | Process | New | Carbon fiber; at plant | b2c2eba7-28d2-43cf-b2ef-6bb9ba114bea |  |
+| FY23.Q2.02 | Process | New | Carbon fiber, reinforced polymer; at plant | 5b069a14-422d-4fcc-9516-3cece8a8dddd |  |
+| FY23.Q2.02 | Process | New | Epoxy; at plant | 2daa9b57-fd08-4bdf-9e15-2ec7a432aa70 |  |
+| FY23.Q2.02 | Process | New | Methyl methacrylate, MMA; at plant | 9730bd3a-e5fa-4804-842a-8ff625b39a4d |  |
+| FY23.Q2.02 | Process | New | Polyacrylonitrile, PAN: at plant | 9837ad08-84b1-4c5b-a2f2-c1b8eb07e754 |  |
+| FY23.Q2.02 | Process | New | Glass fiber, reinforced polymer; at plant | ddfd007a-ce49-451a-8bff-d7f268ed177c |  |
+| FY23.Q2.02 | Process | New | Glass fiber; at plant | 60970f46-7a3f-47d7-ab17-e102327bed27 |  |
+| FY23.Q2.02 | Process | New | Glass fiber, reinforced polymer; fine ground; from wind turbine; at site | 6986d506-b365-456c-8111-276972f6b5a4 |  |
+| FY23.Q2.02 | Process | New | Landfilling, glass fiber, reinforced polymer | 0cba346a-49b7-4012-bc20-a88c7a7a0664 |  |
+| FY23.Q2.02 | Flow | New | Kaolin, CUTOFF | 1a3daaa9-c42f-445f-b233-1d00d2d0cf23 |  |
+| FY23.Q2.02 | Flow | New | Sand and gravel, CUTOFF | 66296114-546d-4507-bde5-fda8791fafc3 |  |
+| FY23.Q2.02 | Process | Delete | Acrylonitrile, at plant | a2e7aa17-9318-3bb8-91d6-22a32a9e8019 |  |
 | FY23.Q1.02 | Process | Edit | Polyvinyl chloride, PVC, virgin resin; at plant | 3dbccdda-2014-4239-ad1f-4e15c034942b | Fixed error in dioxin air emission value (9.8E^15 --> 9.8E^-15) |
 | FY23.Q1.01 | Database | Edit |   |  | Fixed duplicate internal ID error in database |
 | FY23.Q1.01 | Process | New | Polyol ether, for rigid foam polyurethane production, at plant | 1d7ac207-310f-3366-8f9c-e951b61d31ce | Updated rigid polyol with new process data and metadata |
