@@ -15,6 +15,15 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY23.Q3.01 |Database	| Edit |	Fixed database validation errors across multiple datasets | nan | Missing flows were replaced with correct flows |
+| FY23.Q3.01 | Database |	Edit |	Fixed quantitative references that have providers set	| nan | nan |
+| FY23.Q3.01 | Flow	Delete | Tar | 28db1c39-faf7-3fe2-90d8-73aaf53e08c3 | Mapped tar to hydrocarbon to eliminate allocation errors associated with the tar product flow |
+| FY23.Q3.01 | Process | New | Vinyl ester resin, at plant | 5fea6b91-f71b-4a8f-864f-b64af87e8b75 | nan |
+| FY23.Q3.01 | Process | New | Pultruded product, at plant | ccd72499-f6f6-45d1-856a-e8833f80dec8	| nan |
+| FY23.Q3.01 | Flow	| Delete | Disposal, solid waste, process, to waste-to-energy |	947546b3-a722-3383-a58a-957c952b264c |	Deleted unused flows |
+| FY23.Q3.01 | Flow | Delete | Glass fiber, reinforced polymer, ground | 01586de5-ceba-4693-b024-765a51d43884 | Deleted unused flows |
+| FY23.Q3.01 | Flow | Delete | Acetic acid, at plant | 2c696e73-bd01-3f7b-a6c5-a56dee44d66e |	Deleted unused flows |
+
 | FY23.Q2.02 | Database | Edit | Fixed allocation error in PVC, wood combustion, paper | nan                                  | nan                                                                                        |
 | FY23.Q2.01 | Flow | Delete | Materials for basecoat painting, at plant | 9b288fb4-5601-30f3-b1e6-ea0f6b96c522 | combined materials for basecoat painting flows - used two flow properties within same flow |
 | FY23.Q2.01 | Flow | Delete | Pigment, at plant | 64a4b24f-8d7d-3789-9958-6c5384338925 | combined pigment at plant flows - used two flow properties within same flow |
