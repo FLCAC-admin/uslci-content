@@ -15,6 +15,24 @@ This change log contains a summary of changes to the [U.S. Life Cycle Inventory 
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY23.Q4.01 | Database | Edit | Fixed 3 missing natural gas flows in several processes | | Missing flows were replaced with correct flows and providers |
+| FY23.Q4.01 | Process | Edit | Natural gas, at extraction, Barnett Shale, kg | e7425edd-537c-497f-aa4b-7a8a79b1ab4a | Changed natural gas flow from elementary to technosphere |
+| FY23.Q4.01 | Process | Edit | Natural gas, at extraction, coal bed methane, kg | 0945cc82-1126-45c3-b525-6d4fc913aa09 | Changed natural gas flow from elementary to technosphere |
+| FY23.Q4.01 | Process | Edit | Natural gas, at extraction, conventional offshore, kg | bc4c2bad-4bdb-4402-8aed-74efc5781057 | Changed natural gas flow from elementary to technosphere |
+| FY23.Q4.01 | Process | Edit | Natural gas, at extraction, conventional onshore associated, kg | 7ae49a74-3d24-4b32-ae19-ddbf6e0ae94a | Changed natural gas flow from elementary to technosphere |
+| FY23.Q4.01 | Process | Edit | Natural gas, at extraction, conventional onshore, kg | f2996639-3901-4d02-8046-4e647947b7cb | Changed natural gas flow from elementary to technosphere |
+| FY23.Q4.01 | Process | Edit | Natural gas, at extraction, Marcellus Shale, kg | 5b7c9f9b-8460-4afd-a560-b441f0fcf408 | Changed natural gas flow from elementary to technosphere |
+| FY23.Q4.01 | Process | Edit | Natural gas; production mixture; at plant | 058ef703-9452-44a8-84e6-d14551e61713 | Updated natural gas extraction mixture dataset |
+| FY23.Q4.01 | Flow | Delete | Electricity; onsite boiler; softwood mill; average | 9b3398f7-5e90-3072-8fa9-a1ba21193813 | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Recovered energy, for Acrylonitrile-butadiene-styrene copolymer | 3fd51bef-11d1-3d1e-9d4e-a87a90c84ad4 | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Recovered energy, for Polystyrene, high impact, resin, at plant | bee22be9-1957-3ddb-ab6c-410f02d1151c | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Heat; onsite boiler; softwood mill; average | be0bd4fa-5b46-30cd-afc0-f0422ad638a5 | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Recovered energy, for Toluene diisocyanate | ad741625-2a7e-3bda-86b3-607fb3314d76 | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Recovered energy, for Methylene diphenyl diisocyanate | 587505fb-842d-36c8-8db9-7bfad6604d7d | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Recovered energy, for Polystyrene, general purpose, at plant | a3681e5b-b93b-3ef9-8b89-c5d43aa633d4 | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Electricity, cogenerated, at plant | 6cd372a3-6439-3b00-a896-7db2b8ae2698 | Deleted orphan flow |
+| FY23.Q4.01 | Flow | Delete | Sawn lumber; softwood; rough; kiln dried; at kiln | c10b4325-6710-3114-8bb4-4e66c5c3e2c0 | Deleted orphan flow |
+| FY23.Q4.02 | Flow | Delete | Tar | 28db1c39-faf7-3fe2-90d8-73aaf53e08c3 | Replaced tar technosphere flows with hydrocarbon elementary flow and deleted tar |
 | FY23.Q3.01 | Database	| Edit |	Fixed database validation errors across multiple datasets |  | Missing flows were replaced with correct flows |
 | FY23.Q3.01 | Database |	Edit |	Fixed quantitative references that have providers set	|  |  |
 | FY23.Q3.01 | Flow |	Delete | Tar | 28db1c39-faf7-3fe2-90d8-73aaf53e08c3 | Mapped tar to hydrocarbon to eliminate allocation errors associated with the tar product flow |
