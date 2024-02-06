@@ -61,9 +61,9 @@ Each of the five phases is discussed in detail below but a quick overview of the
 - [ ] Watch the first 1 minute and 15 seconds of [this video](https://www.youtube.com/watch?v=w3jLJU7DT5E) about GitHub
 - [ ] Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min)
 - [ ] Download the openLCA software and install it on your computer
-- [ ] Download the current [FLCAC Starter database](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md) and [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import into openLCA
+- [ ] Download the current [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import into openLCA
 - [ ] Kick-off Meeting with NREL
-- [ ] Edit your unit processes/product system in openLCA
+- [ ] Edit your unit processes in openLCA (inventory and metadata)
 - [ ] Export ONLY your edited datasets as a zipped JSON-LD file and submit to NREL on GitHub
 - [ ] Reconcile issues identified by NREL during the [Review](#review) Process
 - [ ] Approve final version
@@ -103,7 +103,7 @@ The following is a list of pre-meeting activities to facilitate the data curatio
 - [ ]	Watch the first 1 minute and 15 seconds of [this video](https://www.youtube.com/watch?v=w3jLJU7DT5E) about GitHub.
 - [ ]	Watch [this video](https://www.youtube.com/watch?v=TJlYiMp8FuY) about using GitHub’s ‘Issues’ feature (3 min).
 - [ ]	Download the openLCA software and install it on your computer.
-- [ ]	Download the current [FLCAC Starter database](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-H.md) and [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import both into openLCA.
+- [ ]	Download the current [US LCI database version](https://github.com/uslci-admin/private-uslci-content/blob/dev/docs/release_info/release-downloads.md) and import into openLCA.
 - [ ]	Review the use of the [US EPA’s data quality system](https://github.com/uslci-admin/uslci-content/blob/dev/docs/submission_handbook/04-resources/04-App-G.md) in openLCA.
 
 Prior to the Kick-off Meeting, you will receive an invitation to the [NREL GitHub repository(ies)](https://github.com/uslci-admin) created expressly for the curation of your data.
