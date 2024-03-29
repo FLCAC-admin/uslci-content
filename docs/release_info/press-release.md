@@ -19,12 +19,12 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 ***
 #### USLCI Conversion to the Federal Elementary FEDEFL-Adapted CED & LCIA Methods
 
-Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=347251&Lab=NRMRL&subject=Land%20and%20Waste%20Management%20Research&showCriteria=0&searchAll=Waste%20Management%20or%20Nitrogen%20Management%20or%20Contaminated%20Sites%20or%20Ground%20Water%20or%20Materials%20Management%20or%20Sediment%20Toxicity&sortBy=revisionDate&startIndex=51&displayIt=Yes), which is available on GitHub [here](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://github.com/uslci-admin/uslci-content/wiki/FEDEFL-Adapted-LCI-&-LCIA-Methods) are provided for running LCI and LCIA calculations in openLCA.**
+Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=347251&Lab=NRMRL&subject=Land%20and%20Waste%20Management%20Research&showCriteria=0&searchAll=Waste%20Management%20or%20Nitrogen%20Management%20or%20Contaminated%20Sites%20or%20Ground%20Water%20or%20Materials%20Management%20or%20Sediment%20Toxicity&sortBy=revisionDate&startIndex=51&displayIt=Yes), which is available on GitHub [here](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://www.lcacommons.gov/lcia-methods-without-flows) are provided for running LCI and LCIA calculations in openLCA.**
 ***
-## 2023 Winter Quarter (Scheduled December 31, Occurred December 28)
-This USLCI Database release is Version 1 of the USLCI_2023_Q4 or winter 2023 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
+## 2024 Spring Quarter (Scheduled March 31, Occurred March 29)
+This USLCI Database release is Version 1 of the USLCI_2024_Q1 or spring 2024 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
 
-### Overview of 2023\_Q4\_v1 Changes:
+### Overview of 2024\_Q1\_v1 Changes:
 
 - Updated natural gas extraction processes
 - Updated natural gas extraction mixture process
@@ -33,7 +33,23 @@ This USLCI Database release is Version 1 of the USLCI_2023_Q4 or winter 2023 rel
 
 ### Change Log, Versioniong, &amp; Data Submission
 
-Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all fall 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 31, 2023 spring release date. We look forward to hearing from you soon.
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all spring 2024 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next June 30, 2024 summer release date. We look forward to hearing from you soon.
+
+## 2023 Winter Quarter (Scheduled December 31, Occurred December 28)
+This USLCI Database release is Version 1 of the USLCI_2023_Q4 or winter 2023 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
+
+### Overview of 2023\_Q4\_v1 Changes:
+
+-	Added crude oil extraction processes (off-shore domestic, off-short import, on-shore domestic, on-shore import)
+-	Updated crude oil extraction mixture process
+-	Updated petroleum refining process
+-	Updated natural gas extraction mixture process
+-	Updated multiple flow and process names to improve consistency across categories
+
+
+### Change Log, Versioniong, &amp; Data Submission
+
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 31, 2024 spring release date. We look forward to hearing from you soon.
 
 ***The United States Life Cycle Inventory (USLCI) Database is a publicly available repository of life cycle inventory (LCI) data that supports research, analysis, and decision-making.***
 
@@ -54,7 +70,7 @@ Due to a bug in the publication process, some elementary flows are displaying wi
 
 ### Change Log, Versioniong, &amp; Data Submission
 
-Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all fall 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next December 31, 2023 winter release date. We look forward to hearing from you soon.
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 31, 2023 winter release date. We look forward to hearing from you soon.
 
 ***The United States Life Cycle Inventory (USLCI) Database is a publicly available repository of life cycle inventory (LCI) data that supports research, analysis, and decision-making.***
 
