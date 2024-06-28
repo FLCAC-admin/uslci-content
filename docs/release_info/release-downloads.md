@@ -74,7 +74,7 @@ Select the desired format type:
 
 | Release | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD | Library |  
 |:---:|:---:|:---:|:---:|:---:|:--:|:--:|   
-| FY24.Q2.01 | v2.1.1 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib.zolca)| [JSON-LD](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib_json_ld.zip)| [ecoSpold2] | [ILCD] | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib_json_ld.zip)
+| FY24.Q2.01 | v2.2.0 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib.zolca)| [JSON-LD](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib_json_ld.zip)| [ecoSpold2] | [ILCD] | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib_json_ld.zip)
 | FY24.Q1.01 | v2.1.1 |[zolca](https://github.com/FDC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q1_01_olca2_1_1.zolca)| [JSON-LD](https://github.com/FDC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q1_01_olca2_1_1_json_ld.zip)| [ecoSpold2] | [ILCD] 
 | FY23.Q2.01 | v2.0.0 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy23_q4_01_olca2_0_3.zolca)| [JSON-LD](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy23_q4_01_olca2_0_3_json_ld.zip)| [ecoSpold2] | [ILCD] 
 | FY23.Q2.01 | v2.0.0 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy23_q2_01_olca2_0_0.zolca)| [JSON-LD](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy23_q2_01_olca2_0_0_json_ld.zip)| [ecoSpold2] | [ILCD] 
