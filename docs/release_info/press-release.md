@@ -31,7 +31,7 @@ This USLCI Database release is Version 1 of the USLCI_2024_Q2 or summer 2024 rel
     - Replaced the “Electricity, at grid” USLCI flow with the Electricity Baseline “Electricity, AC, 120 V” flow. 
 -	Transitioned datasets using the opposite direct waste end-of-life methodology to the material flow logic allocation to enhance the consistency of end-of-life modeling.
   -	Consolidated disposal flows, standardized waste and recycled material flow names, and reorganized flows into correct folders
--	Updated existing non-road transport datasets (train, barges, and aircraft) with newer emissions data from GREET, 2023
+-	Updated existing non-road transport datasets (train, ocean freighters, barges, and aircraft) with newer emissions data from GREET, 2023
 -	Removed extraneous flow properties, sources, and actors to simplify the database.
 
 
