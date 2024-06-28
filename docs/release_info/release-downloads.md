@@ -51,11 +51,12 @@ The USLCI Database repository and individual datasets are available on the [Fede
 ==================
 
 
-[Table 1](release-downloads.md#table-1-uslci-release-downloads) below also contains download links for current and past USLCI quarter release versions in four data formats: 
+[Table 1](release-downloads.md#table-1-uslci-release-downloads) below also contains download links for current and past USLCI quarter release versions in four data formats and associated libraries: 
 * JSON-LD
 * openLCA .zolca
 * ecoSpold2
 * ILCD
+* Library
 
 For many users, the JSON-LD (zipped) formats will be the most useful since they are subject to little or no metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges. EcoSpold file formats only contain processes so flows, indicators, & background data are excluded. Details on the file formats supported in openLCA are in the [openLCA Version 1.10 User Manual](http://www.openlca.org/wp-content/uploads/2020/02/openLCA_1.10_User-Manual.pdf).
 
