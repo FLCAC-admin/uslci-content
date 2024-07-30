@@ -5,7 +5,8 @@ Libraries are beneficial for the current set-up of the Federal LCA Commons (FLCA
 
 ## Library Features
 -	When a library is included in a database, a new “Libraries” folder appears in the database navigation pane (screenshot below). Libraries are also stored in your openLCA navigation pane, outside of individual databases.
- ![image](https://github.com/user-attachments/assets/dd3a327b-bc76-4583-bd0f-99993eac768f)
+
+![image](https://github.com/user-attachments/assets/dd3a327b-bc76-4583-bd0f-99993eac768f)
 -	Library elements are incorporated into your database, but these elements are differentiated from main database elements by appearing in grey italics. Example below: 
 -	No elements in the library database can be altered.
 -	Library flows and processes can be used in processes in the main database.
