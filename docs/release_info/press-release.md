@@ -35,7 +35,7 @@ This USLCI Database release is Version 1 of the USLCI_2024_Q2 or summer 2024 rel
 -	Removed extraneous flow properties, sources, and actors to simplify the database.
 
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all summer 2024 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next September 30, 2024 fall release date. We look forward to hearing from you soon.
 
@@ -49,7 +49,7 @@ This USLCI Database release is Version 1 of the USLCI_2024_Q1 or spring 2024 rel
 - Fixed database validation errors caused due missing natural gas flows
 - Deleted various orphan flows and tar flow
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all spring 2024 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next June 30, 2024 summer release date. We look forward to hearing from you soon.
 
@@ -65,7 +65,7 @@ This USLCI Database release is Version 1 of the USLCI_2023_Q4 or winter 2023 rel
 -	Updated multiple flow and process names to improve consistency across categories
 
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 31, 2024 spring release date. We look forward to hearing from you soon.
 
@@ -86,7 +86,7 @@ Due to a bug in the publication process, some elementary flows are displaying wi
 
 ***This issue has been resolved in the .zolca version of this release download, but persists in the JSON-LD and Federal LCA Commons Collaboration Server versions.***
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 31, 2023 winter release date. We look forward to hearing from you soon.
 
@@ -128,7 +128,7 @@ Due to a bug in the publication process, some elementary flows are displaying wi
 
 ***This issue has been resolved in the .zolca version of this release download, but persists in the JSON-LD and Federal LCA Commons Collaboration Server versions.***
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all summer 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next September 30, 2023 fall release date. We look forward to hearing from you soon.
 
@@ -159,7 +159,7 @@ Due to a bug in the publication process, some elementary flows are displaying wi
 
 ***This issue has been resolved in the .zolca version of this release download, but persists in the JSON-LD and Federal LCA Commons Collaboration Server versions.***
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all spring 2023 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next June 30, 2023 summer release date. We look forward to hearing from you soon.
 
@@ -207,7 +207,7 @@ Due to a bug in the publication process, some elementary flows are displaying wi
 
 ***This issue has been resolved in the .zolca version of this release download, but persists in the JSON-LD and Federal LCA Commons Collaboration Server versions.***
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2022 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 30, 2023 Spring release date. We look forward to hearing from you soon.
 
@@ -238,7 +238,7 @@ Due to a bug in the publication process, some elementary flows are displaying wi
 
 ***This issue has been resolved in the .zolca version of this release download, but persists in the JSON-LD and Federal LCA Commons Collaboration Server versions.***
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all fall 2022 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next December 30, 2022 Winter release date. We look forward to hearing from you soon.
 
@@ -267,7 +267,7 @@ The USLCI Database quarterly release has resumed with NREL remaining the host an
 
 Due to a bug in the publication process, some elementary flows are displaying with default providers, which are only intended for intermediate flows. To correct this error, you may use [this script](/development/curation%20issues_fy22_q2.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown in the script link.
 
-### Change Log, Versioniong, &amp; Data Submission
+### Change Log, Versioning, &amp; Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all summer 2022 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next September 30, 2022 Fall release date. We look forward to hearing from you soon.
 
@@ -297,7 +297,7 @@ The FEDEFL-adapted Cumulative Energy Demand (CED) Method has been updated to ver
 
 Due to a bug in the publication process, some elementary flows are displaying with default providers, which are only intended for intermediate flows. To correct this error, you may use [this script](/development/curation%20issues_fy21_q3.md) in a local openLCA SQL interface. Simply copy and paste the code with your current USLCI database open in openLCA using **_Tools>Developer>SQL>SQL Statement_** and press the _‘Play’_ button as shown in the script link.
 
-### Change Log, Versioniong, & Data Submission
+### Change Log, Versioning, & Data Submission
 
 Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all fall 2021 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](/docs/submission\_handbook/02-how-to-publish-in-the-uslci.md) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:Rebe.Feraldi@lac-group.com) if you have any data/metadata publishing goals for the next December 31, 2021 Winter release date. We look forward to hearing from you soon.
 
