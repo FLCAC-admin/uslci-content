@@ -7,6 +7,8 @@
 
 
 This change log contains a summary of changes to the [U.S. Life Cycle Inventory Database (USLCI)](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Public/datasets).  The USLCI is updated quarterly based on the [U.S. Federal Government Fiscal Calendar](https://www.senate.gov/reference/glossary_term/fiscal_year.htm).
+
+In the Summer Quarter of 2024, the Electricity Baseline repository from the National Energy and Technology Laboratory was added as a library into USLCI. The change log for the library use of the Electricity Baseline [can be found here](https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/supporting_docs/eLCI%20Library%20Change%20Log.md).
 <br><br>
 
 
