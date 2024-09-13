@@ -29,7 +29,7 @@ This USLCI Database release is Version 1 of the USLCI_2024_Q2 or summer 2024 rel
 -	Added the Federal LCA Commons U.S. Electricity Baseline repository into USLCI as a library. Documentation on using Libraries is provided [here](https://github.com/FLCAC-admin/FLCAC-Curation/blob/main/docs/FLCAC_openLCA%20Library%20User%20Guidance.md) and will continue to be updated.
     - Mapped flows between the library and main database to connect Electricity Baseline flows and providers to existing USLCI exchanges.
     - Replaced the “Electricity, at grid” USLCI flow with the Electricity Baseline “Electricity, AC, 120 V” flow. 
--	Transitioned datasets using the opposite direct waste end-of-life methodology to the material flow logic allocation to enhance the consistency of end-of-life modeling.
+-	Transitioned datasets using the opposite direction waste end-of-life methodology to the material flow logic allocation to enhance the consistency of end-of-life modeling.
   -	Consolidated disposal flows, standardized waste and recycled material flow names, and reorganized flows into correct folders
 -	Updated existing non-road transport datasets (train, ocean freighters, barges, and aircraft) with newer emissions data from GREET, 2023
 -	Removed extraneous flow properties, sources, and actors to simplify the database.
