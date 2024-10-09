@@ -17,6 +17,35 @@ In the Summer Quarter of 2024, the Electricity Baseline repository from the Nati
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+| FY24.Q3.01 | Process | Edit | Electricity, natural gas, at power plant | fa379f16-c09a-4e70-8595-45c69162215c | Removed provider that was assigned to the quantitative reference flow |
+| FY24.Q3.01 | Process | Edit | Natural gas, combusted in industrial equipment - Northern America | b355f122-dc4e-4224-aafa-d43c3b57db7b | Removed provider that was assigned to the quantitative reference flow |
+| FY24.Q3.01 | Process | Edit | Natural gas, combusted in industrial boiler | f347daea-82be-4e62-8872-a0dc0ca24ca3 | Removed provider that was assigned to the quantitative reference flow |
+| FY24.Q3.01 | Flow | Delete | Disposal, ash and flue gas desulfurization sludge, to unspecified reuse | a097bf04-8dd1-34dc-b5ef-3e7e18dd07e0 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, chemical waste, unspecified, to sanitary landfill | 14efa61d-49e5-3c13-a0f2-90d8febe3caa | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, inert material, 0% water, to sanitary landfill | b0516b6d-bb24-3546-8549-b2c035c68461 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, inert solid waste, to inert material landfill | 88f2f98d-4af4-36f4-a9ba-21e88be74c0f | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, inert waste, 5% water, to inert material landfill | 54fb7648-dbd1-316c-a959-2112b70e3f30 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, lignite coal combustion byproducts, to unspecified reuse | 51b388e1-32b9-33e7-857d-6543bc69f12c | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste, fuel, to municipal incineration | 63879c83-7f9b-3aa5-a79d-53dc50fa5729 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste, process, to sanitary landfill | b35ecc2a-e40e-32bb-b5a0-5510499d96e2 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste, unspecified, to municipal incineration | ee9ac558-402f-3594-a3e3-0ee7dec4440d | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste, unspecified, to sanitary landfill | 838cef47-a3a6-3dce-bcb2-560991c5e95c | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste, unspecified, to underground deposit | 627f237d-8d6e-3257-b539-0637dacdf768 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste, unspecified, to unspecified landfill | 838cef47-a3a6-3dce-bcb2-560991c5e95c | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste, unspecified, to unspecified treatment | c3c58b7e-6561-36c7-a537-b10b1f2a5e39 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, solid waste,process, to municipal incineration | 6edd015a-523c-348b-b133-98ac73e73371 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Flow | Delete | Disposal, wood ash mixture, pure, 0% water, to sanitary landfill | afd4c345-5431-305a-b95b-6c33e7843c11 | Deleted misassigned product flows and mapped to waste flows |
+| FY24.Q3.01 | Process | Edit | Calcium carbonate, ground, 30 micron, at plant | d48fa04d-9401-3158-9ad1-8f37b902e397 | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Calcium carbonate, ground, fine slurry, 3 micron, at plant | 48be22f1-e30c-3e4a-8832-a9c5ed32350b | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Calcium carbonate, ground, fine treated, 3 micron, at plant | 34487c89-62dd-3d4e-98dd-06f0c382cc17 | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Cladding, roll formed, at plant | 7fa00b86-ca0f-321a-94a6-c8f68338a7cb | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Containerboard, average production, at mill | c245a252-0860-41d2-9789-802bab7984ab | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Metal composite material (MCM) sheet, at plant | 08e766d4-ec5f-3426-a0d4-9533e55f9081 | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Metal panel, insulated, at plant | e9c2710d-9752-324a-bb0b-52b683e295b5 | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Propylene oxide, at plant | fa3871c0-d563-3300-9ec7-f26aafdabfa5 | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Steel, cold-formed studs and track, at plant | 2250f2f2-7faa-3307-9534-ca78b371b4dd | Fixed misassigned provider in the inputs |
+| FY24.Q3.01 | Process | Edit | Transport, ocean freighter, diesel powered | da0f5501-f4ab-32d1-80b7-b70d143608f6 | Fixed misassigned provider in the inputs  |
+| FY24.Q3.01 | Process | Edit | Soy biodiesel, production, at plant | 1fe9b61c-f684-3584-a5e9-98677caee0f3 | Fixed allocation error |
 | FY24.Q2.01 | Flows and folders   | Database | Realigned waste flows | - | Transitioned datasets using the opposite direct waste end-of-life methodology to the material flow logic allocation to enhance the consistency of end-of-life modeling. (openLCA has updated waste modeling since the initial development of many USLCI processes. Waste treatment processes represent the impacts of processing a waste product, so these processes have impacts associated with them but they also represent a waste flow. The original modeling method was to include waste flows as product flows on the input side of the inventory (opposite direction approach), now waste flows are available to be used on the output side of the (material flow logic approach). This approach is much more intuitive and reduces modeling and database problems that have been associated with the opposite direction approach previously.) |
 | FY24.Q2.01 | Flows | Consolidation | 5622: Waste Treatment and Disposal | -| Many of the waste flows in this folder were cutoff flows. These flows were renamed and consolidated into the CUTOFF Waste Flows folder |
 | FY24.Q2.01 | Folders | Add | CUTOFF Waste Flows Folder | - | Added a cutoff waste flows folder as a subfolder to the CUTOFF Flows folder|
