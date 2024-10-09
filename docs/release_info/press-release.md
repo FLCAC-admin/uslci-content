@@ -24,7 +24,7 @@ Since Spring quarter 2020, the USLCI has converted to using the [Federal Element
 ## 2024 Summer Quarter (Scheduled June 30, Occurred June 28)
 This USLCI Database release is Version 1 of the USLCI_2024_Q2 or summer 2024 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
 
-### Overview of 2024\_Q1\_v1 Changes:
+### Overview of 2024\_Q2\_v1 Changes:
 
 -	Added the Federal LCA Commons U.S. Electricity Baseline repository into USLCI as a library. Documentation on using Libraries is provided [here](https://flcac-admin.github.io/FLCAC-docs/flcac-openlca-library-user-guidance) and will continue to be updated.
     - Mapped flows between the library and main database to connect Electricity Baseline flows and providers to existing USLCI exchanges.
