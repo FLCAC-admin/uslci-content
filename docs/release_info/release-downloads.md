@@ -12,41 +12,6 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 
 <br><br>
 
-The USLCI Database repository and individual datasets are available on the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov/lca-collaboration) by selecting the **National_Renewable_Energy_Laboratory/USLCI** Group, clicking the **"Download"** button to the right of any element, and selecting the desired format (JSON-LD recommended).
-
-**STEP 1:** Navigate to the Federal LCA Commons [Landing Page](https://wwww.lcacommons.gov) and select "Browse Repositories" to enter the Commons.
-
-![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Browse%20repositories.png)
-
-**_STEP 1: Federal LCA Commons Landing Page_**
-<br>
-<br>
-<br>
-
-
-**STEP 2:** Once you have entered the Commons, you will see groups on the right and datasets in the left panel. Select from which group and which repository you wish to download. The USLCI is under the **National_Renewable_Energy_Laboratory/USLCI** Group.
-
-![](https://github.com/uslci-admin/uslci-content/blob/dev/images/2.%20Downloading%20from%20FLCAC.png)
-
-**_STEP 2: Federal LCA Commons Collaboration Server -- Groups & Repositories_**
-<br>
-<br>
-<br>
-
-**STEP 3:** Selecting the **"Download"** button to the right of any dataset brings up a pull-down menu allowing you to download either the individual dataset or the entire selected repository in the desired format (options are JSON-LD or ILCD).
-<br>
-
-
-![](https://github.com/uslci-admin/uslci-content/blob/dev/images/Download%20Buttons%20-%20Dataset%20OR%20Repository.png)
-<br>
-
-
-**_STEP 3: Downloading Datasets & Repositories_**
-<br>
-<br>
-<br>
-
-
 :arrow_double_down:  USLCI Versions - Files Table
 ==================
 
@@ -60,7 +25,7 @@ The USLCI Database repository and individual datasets are available on the [Fede
 
 For many users, the JSON-LD (zipped) formats will be the most useful since they are subject to little or no metadata loss when imported into [openLCA].  The other formats are subject to data loss in certain use cases. For example, using ILCD format of the USLCI will result in the loss of comments associated with individual exchanges. EcoSpold file formats only contain processes so flows, indicators, & background data are excluded. Details on the file formats supported in openLCA are in the [openLCA Version 1.10 User Manual](http://www.openlca.org/wp-content/uploads/2020/02/openLCA_1.10_User-Manual.pdf).
 
-Downloads are available starting with USLCI release FY17.Q4.02 and include the current quarter release available on the Federal LCA Commons Collaboration Server. 
+Downloads are available starting with USLCI release FY17.Q4.02 and include the current quarter release available on the Federal LCA Commons Collaboration Server. The [FLCAC wide versioning system](https://flcac-admin.github.io/FLCAC-docs/versioning) was implemented October, 2024. Each USLCI quarterly release will be reflected as a MINOR change.
 
 Select the desired format type: 
 * Since 2019.Q3, the JSON-LD and ILCD files are larger in size and you will be re-directed to a Box link to download
@@ -72,9 +37,9 @@ Select the desired format type:
 
 #### Table 1. USLCI release downloads   
 
-| Release | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD | Library |  
+| Release Version | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD | Library |  
 |:---:|:---:|:---:|:---:|:---:|:--:|:--:|   
-| FY24.Q3.01 | v2.3.0 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q3_01_olca2_3_0_elci_lib.zolca)| [JSON-LD](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q3_01_olca2_3_0_elci_lib_json_ld.zip)| [ecoSpold2] | [ILCD] | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/elci_6_2024%20for%20uslci_q2_2024_final.zip)
+| 1.2024-10.0* | v2.3.0 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q3_01_olca2_3_0_elci_lib.zolca)| [JSON-LD](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q3_01_olca2_3_0_elci_lib_json_ld.zip)| [ecoSpold2] | [ILCD] | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/elci_6_2024%20for%20uslci_q2_2024_final.zip)
 | FY24.Q2.01 | v2.2.0 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib.zolca)| [JSON-LD](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q2_01_olca2_2_0_elci_lib_json_ld.zip)| [ecoSpold2] | [ILCD] | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/elci_6_2024%20for%20uslci_q2_2024_final.zip)
 | FY24.Q1.01 | v2.1.1 |[zolca](https://github.com/FDC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q1_01_olca2_1_1.zolca)| [JSON-LD](https://github.com/FDC-admin/uslci-content/blob/dev/downloads/uslci_fy24_q1_01_olca2_1_1_json_ld.zip)| [ecoSpold2] | [ILCD] 
 | FY23.Q2.01 | v2.0.0 |[zolca](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy23_q4_01_olca2_0_3.zolca)| [JSON-LD](https://github.com/uslci-admin/uslci-content/blob/dev/downloads/uslci_fy23_q4_01_olca2_0_3_json_ld.zip)| [ecoSpold2] | [ILCD] 
@@ -102,7 +67,7 @@ Select the desired format type:
 | FY17.Q4.02 | v1.5.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0.zolca) | -- | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ilcd.zip) |  
 
 <br>
-
+* The [FLCAC wide versioning system](https://flcac-admin.github.io/FLCAC-docs/versioning) was implemented October, 2024. Each USLCI quarterly release will be reflected as a MINOR change.
 <br><br><br>
 
 ---
