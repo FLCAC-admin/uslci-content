@@ -26,9 +26,10 @@ This USLCI Database release is Version 1 of the USLCI_2024_Q2 or summer 2024 rel
 
 ### Overview of 2024\_Q1\_v1 Changes:
 
--	Added the Federal LCA Commons U.S. Electricity Baseline repository into USLCI as a library. Documentation on using Libraries is provided [here](https://github.com/FLCAC-admin/FLCAC-Curation/blob/main/docs/FLCAC_openLCA%20Library%20User%20Guidance.md) and will continue to be updated.
+-	Added the Federal LCA Commons U.S. Electricity Baseline repository into USLCI as a library. Documentation on using Libraries is provided [here](https://flcac-admin.github.io/FLCAC-docs/flcac-openlca-library-user-guidance) and will continue to be updated.
     - Mapped flows between the library and main database to connect Electricity Baseline flows and providers to existing USLCI exchanges.
-    - Replaced the “Electricity, at grid” USLCI flow with the Electricity Baseline “Electricity, AC, 120 V” flow. 
+    - Replaced the “Electricity, at grid” USLCI flow with the Electricity Baseline “Electricity, AC, 120 V” flow.
+    - The version of the Electricity Baseline that is currently a library in USLCI has been adapted from the [public version of the repository](https://www.lcacommons.gov/lca-collaboration/Federal_LCA_Commons/US_electricity_baseline/datasets). Documentation on this adaptation is provided [here](https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/supporting_docs/eLCI%20Library%20Change%20Log.md). The database from which the library has been generated from can be downloaded [here](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/elci_6_2024%20for%20uslci_database%20format.zip).
 -	Transitioned datasets using the opposite direction waste end-of-life methodology to the material flow logic allocation to enhance the consistency of end-of-life modeling.
   -	Consolidated disposal flows, standardized waste and recycled material flow names, and reorganized flows into correct folders
 -	Updated existing non-road transport datasets (train, ocean freighters, barges, and aircraft) with newer emissions data from GREET, 2023
