@@ -68,8 +68,8 @@ Select the desired format type:
 | FY18.Q1.01 | v1.5.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0.zolca) |  [JSON-LD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0_json_ld.zip) | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy18_q1_01_olca1_5_0_ilcd.zip) | -
 | FY17.Q4.02 | v1.5.0 | [openLCA](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0.zolca) |- | [ecoSpold2](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ecospold2.zip) | [ILCD](https://github.com/uslci-admin/uslci-content/tree/dev/downloads/uslci_fy17_q4_02_olca1_5_0_ilcd.zip) | -
 
-<br>
-* The [FLCAC wide versioning system](https://flcac-admin.github.io/FLCAC-docs/versioning) was implemented October, 2024. Each USLCI quarterly release will be reflected as a MINOR change.
+
+\* The [FLCAC wide versioning system](https://flcac-admin.github.io/FLCAC-docs/versioning) was implemented October, 2024. Each USLCI quarterly release will be reflected as a MINOR change.
 <br><br><br>
 
 ---
