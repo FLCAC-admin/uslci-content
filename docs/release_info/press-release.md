@@ -21,6 +21,42 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 
 Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=347251&Lab=NRMRL&subject=Land%20and%20Waste%20Management%20Research&showCriteria=0&searchAll=Waste%20Management%20or%20Nitrogen%20Management%20or%20Contaminated%20Sites%20or%20Ground%20Water%20or%20Materials%20Management%20or%20Sediment%20Toxicity&sortBy=revisionDate&startIndex=51&displayIt=Yes), which is available on GitHub [here](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://www.lcacommons.gov/lcia-methods-without-flows) are provided for running LCI and LCIA calculations in openLCA.**
 ***
+## 2025 Spring Quarter (Scheduled March 31, Occurred March 31)
+This USLCI Database release is Version 1 of the USLCI_2025_Q1 or spring 2025 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) (FLCAC) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
+
+### Overview of 1.2025-3.0 Changes:
+
+- Updated/added 324 on-road trucking datasets from EPA MOVES. These datasets were prepared by ERG on behalf of NREL. This update replaced all existing on-road truck transportation processes and created new processes for use of CNG, E85, and battery-electric as the fuel. The data and modeling approach are available in a public GitHub repository: uslci-moves.
+- Added nine new wastewater treatment pathways which include wastewater treatment, effluent release, sludge hauling and landfill processes, and biogas flaring (28 processes total). These datasets were prepared for the FLCAC by ERG, based on prior published research conducted for EPA’s Office of Water.
+    - Conventional plug flow activated sludge, Level 1
+    - Anaerobic/anoxic/oxic, Level 2-1
+    - Activated sludge, 3-sludge system, Level 2-2
+    - 5-Stage bardenpho, Level 3-1
+    - Modified University of Cape Town, Level 3-2
+    - 5-Stage bardenpho system with denitrification filter, Level 4-1
+    - 4-Stage bardenpho membrane bioreactor, Level 4-2
+    - 5-Stage bardenpho with sidestream reverse osmosis, Level 5-1
+    - 5-Stage bardenpho membrane bioreactor with sidestream reverse osmosis, Level 5-2
+- Updated PVC, EDC-VCM, chlorine, sodium hydroxide, and hydrogen processes based on new data from the Vinyl Institute and Sustainable Solutions Corporation. Removed the sodium hydroxide and hydrogen electrolysis processes and combined them with the chlorine electrolysis process using mass allocation.
+- Added lithium hydroxide monohydrate production from pre-treated lithium brine and lithium hydroxide monohydrate production from spodumene concentrate (six processes total) from Natural Resources Canada and Argonne National Laboratory.
+    - Lithium hydroxide monohydrate; production from pre-treated lithium brine
+    - Pre-treated lithium brine
+    - Lithium brine; extraction and reinjection
+    - Lithium hydroxide monohydrate; production from spodumene concentrate
+    - Spodumene mineral concentrate; beneficiation process
+    - Spodumene ore; open pit mining
+- To fill in gaps in the wastewater and other inventories, 13 bridge processes to connect USLCI to USEEIO v2.0 were developed. To generate complete product systems that leverage these bridge processes, import USEEIO v2.0 into the same database as USLCI. Read more about bridge process implementation here.
+- Wastewater and other cutoff flows were mapped to the new wastewater flows or bridge processes where applicable.
+
+As a reminder, in Q2 2024 the USLCI curation team introduced the FLCAC Electricity Baseline repository as a library to the USLCI database to enhance the quality of electricity processes for background data use. The Data Curators have also developed a [standardized, repository-level version format](https://flcac-admin.github.io/FLCAC-docs/versioning) for FLCAC repositories. Starting in June 2024, previous versions of USLCI are now stored on the FLCAC under the ‘Version’ dropdown. As of December 2024, a change log between versions is now available on the FLCAC.
+
+- The version of the Electricity Baseline that is currently a library in USLCI has been adapted from the [public version of the repository](https://www.lcacommons.gov/lca-collaboration/Federal_LCA_Commons/US_electricity_baseline/datasets). Documentation on this adaptation is provided [here](https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/supporting_docs/eLCI%20Library%20Change%20Log.md). The database from which the library has been generated from can be downloaded [here](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/elci_6_2024%20for%20uslci_2024_final_database_format.zip).
+
+### Change Log, Versioning, &amp; Data Submission
+
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all spring 2025 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](https://flcac-admin.github.io/FLCAC-docs/datasubmissionhandbook) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next June 30, 2025 summer release date. We look forward to hearing from you soon.
+
+
 ## 2024 Winter Quarter (Scheduled December 31, Occurred December 31)
 This USLCI Database release is Version 1 of the USLCI_2024_Q4 or winter 2024 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) (FLCAC) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
 
@@ -37,7 +73,7 @@ As a reminder, in Q2 2024 the USLCI curation team introduced the FLCAC Electrici
 
 ### Change Log, Versioning, &amp; Data Submission
 
-Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2024 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](https://flcac-admin.github.io/FLCAC-docs/datasubmissionhandbook) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 31, 2025 winter release date. We look forward to hearing from you soon.
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all winter 2024 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](https://flcac-admin.github.io/FLCAC-docs/datasubmissionhandbook) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next March 31, 2025 spring release date. We look forward to hearing from you soon.
 
 ## 2024 Fall Quarter (Scheduled September 30, Occurred October 9)
 This USLCI Database release is Version 1 of the USLCI_2024_Q3 or fall 2024 release. This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
