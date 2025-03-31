@@ -54,7 +54,7 @@ As a reminder, in Q2 2024 the USLCI curation team introduced the FLCAC Electrici
 
 ### Change Log, Versioning, &amp; Data Submission
 
-Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all spring 2025 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [How to Publish in the USLCI](https://flcac-admin.github.io/FLCAC-docs/datasubmissionhandbook) section in the USLCI Data Submission Guidelines and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next June 30, 2025 summer release date. We look forward to hearing from you soon.
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all spring 2025 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [FLCAC Submission Handbook](https://flcac-admin.github.io/FLCAC-docs/datasubmissionhandbook) and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next June 30, 2025 summer release date. We look forward to hearing from you soon.
 
 
 ## 2024 Winter Quarter (Scheduled December 31, Occurred December 31)
