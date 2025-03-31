@@ -11,6 +11,7 @@ This file contains a count of life cycle inventory data types for each release o
 
 | Release | Flow Types | Process Categories | Processes | Product Flows | Waste Flows | CUTOFF Flows | Elementary Flows | Units | Locations | Actors | Sources | Product Systems | Projects |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| _1.2025-3.0_^¹ | 3 | 85 | 861 | 1139 | 173 | 601 | 2577 | 191 | 553 | 64 | 473 | 0 | 0 |
 | _FY24.Q4.01_^ | 3 | 81 | 587 | 1098 | 159 | 598 | 2483 | 190 | 553 | 57 | 449 | 0 | 0 |
 | _FY24.Q3.01_^ | 3 | 81 | 587 | 1139 | 156 | 579 | 2509 | 190 | 553 | 64 | 446 | 0 | 0 |
 | _FY24.Q2.01_^ | 3 | 65* | 1192 | 1154 | 243 | 662 | 4533 | 190 | 553 | 68 |294 | 0 | 0 |
@@ -42,8 +43,10 @@ This file contains a count of life cycle inventory data types for each release o
 | FY16.Q4.01 | 3 | 105 | 707 | 1562 | 22 | 2269 | 62434 | 192 | 474 | 75 | 508 | 0 | 0 |
 
 *Change due to update in openLCA
+
 ^ Starting with the 2024 Q2 v1 release, FLCAC curators began implementing libraries (e.g. the U.S. Electricity Baseline) in the USLCI. With each subsequent library added to the database, substantial increases in the numbers of data objects will occur.
 
+¹ The [FLCAC wide versioning system](https://flcac-admin.github.io/FLCAC-docs/versioning) was implemented October, 2024. Each USLCI quarterly release will be reflected as a MINOR change.
 
 
 <br><br>
