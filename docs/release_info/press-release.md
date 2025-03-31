@@ -26,8 +26,8 @@ This USLCI Database release is Version 1 of the USLCI_2025_Q1 or spring 2025 rel
 
 ### Overview of 1.2025-3.0 Changes:
 
-- Updated/added 324 on-road trucking datasets from EPA MOVES. These datasets were prepared by ERG on behalf of NREL. This update replaced all existing on-road truck transportation processes and created new processes for use of CNG, E85, and battery-electric as the fuel. The data and modeling approach are available in a public GitHub repository: uslci-moves.
-- Added nine new wastewater treatment pathways which include wastewater treatment, effluent release, sludge hauling and landfill processes, and biogas flaring (28 processes total). These datasets were prepared for the FLCAC by ERG, based on prior published research conducted for EPA’s Office of Water.
+- Updated/added 324 on-road trucking datasets from EPA MOVES. These datasets were prepared by ERG on behalf of NREL. This update replaced all existing on-road truck transportation processes and created new processes for use of CNG, E85, and battery-electric as the fuel. The data and modeling approach are available in a public GitHub repository: [uslci-moves](https://github.com/FLCAC-admin/uslci-moves/releases/tag/v1.0.0).
+- Added nine new wastewater treatment pathways which include wastewater treatment, effluent release, sludge hauling and landfill processes, and biogas flaring (28 processes total). These datasets were prepared for the FLCAC by ERG, based on [prior published research](https://www.epa.gov/system/files/documents/2023-06/life-cycle-nutrient-removal-2023-update.pdf) conducted for EPA’s Office of Water.
     - Conventional plug flow activated sludge, Level 1
     - Anaerobic/anoxic/oxic, Level 2-1
     - Activated sludge, 3-sludge system, Level 2-2
@@ -45,7 +45,7 @@ This USLCI Database release is Version 1 of the USLCI_2025_Q1 or spring 2025 rel
     - Lithium hydroxide monohydrate; production from spodumene concentrate
     - Spodumene mineral concentrate; beneficiation process
     - Spodumene ore; open pit mining
-- To fill in gaps in the wastewater and other inventories, 13 bridge processes to connect USLCI to USEEIO v2.0 were developed. To generate complete product systems that leverage these bridge processes, import USEEIO v2.0 into the same database as USLCI. Read more about bridge process implementation here.
+- To fill in gaps in the wastewater and other inventories, 13 bridge processes to connect USLCI to USEEIO v2.0 were developed. To generate complete product systems that leverage these bridge processes, import [USEEIO v2.0](https://www.lcacommons.gov/lca-collaboration/US_Environmental_Protection_Agency/USEEIO_v2/datasets) into the same database as USLCI. Read more about bridge process implementation [here](https://flcac-admin.github.io/FLCAC-docs/bridge-processes).
 - Wastewater and other cutoff flows were mapped to the new wastewater flows or bridge processes where applicable.
 
 As a reminder, in Q2 2024 the USLCI curation team introduced the FLCAC Electricity Baseline repository as a library to the USLCI database to enhance the quality of electricity processes for background data use. The Data Curators have also developed a [standardized, repository-level version format](https://flcac-admin.github.io/FLCAC-docs/versioning) for FLCAC repositories. Starting in June 2024, previous versions of USLCI are now stored on the FLCAC under the ‘Version’ dropdown. As of December 2024, a change log between versions is now available on the FLCAC.
