@@ -17,6 +17,8 @@ In the Summer Quarter of 2024, the Electricity Baseline repository from the Nati
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+|1.2025-06.1|Process  |Edit       |Proxy processes                                                                           |Various                             |Updated metadata with minor change                                                                   |
+|1.2025-06.1|Process  |Edit       |Drinking water treatment                                                                           |Various                             |Fixed incorrect location and corrected start and end date.                                                                   |
 |1.2025-06.0|Library  |Edit       |Various                                                                           |Various                             |Updated USLCI with new eLCI library containing 2022 data                                                                   |
 |1.2025-06.0|Flow     |Edit       |Various                                                                           |Various                             |Added mass and energy flow properties to diesel combustion flows                                                           |
 |1.2025-06.0|Process  |Edit       |Various                                                                           |Various                             |Added elementary energy flows to natural gas and crude oil extraction processes                                            |
