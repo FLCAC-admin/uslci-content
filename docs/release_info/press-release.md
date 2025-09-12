@@ -20,6 +20,28 @@ For video guidance on accessing, navigating, versioning, using, and submitting d
 #### USLCI Conversion to the Federal Elementary FEDEFL-Adapted CED & LCIA Methods
 
 Since Spring quarter 2020, the USLCI has converted to using the [Federal Elementary Flow List (FEDEFL)](https://cfpub.epa.gov/si/si_public_record_report.cfm?dirEntryId=347251&Lab=NRMRL&subject=Land%20and%20Waste%20Management%20Research&showCriteria=0&searchAll=Waste%20Management%20or%20Nitrogen%20Management%20or%20Contaminated%20Sites%20or%20Ground%20Water%20or%20Materials%20Management%20or%20Sediment%20Toxicity&sortBy=revisionDate&startIndex=51&displayIt=Yes), which is available on GitHub [here](https://github.com/USEPA/Federal-LCA-Commons-Elementary-Flow-List) per the emerging Commons standards & conventions. The FEDEFL will become a part of the core database structure across Commons repositories and provide greater standardization and interoperability for Federal LCA data. Life cycle inventory (LCI) and life cycle impact assessment (LCIA) methods are also being converted to be compatible with the FEDEFL being adapted by FLCAC. **For the convenience of end users of USLCI Database (and other FEDEFL-adapted FLCAC data), these [FEDEFL-Adapted Methods](https://www.lcacommons.gov/lcia-methods-without-flows) are provided for running LCI and LCIA calculations in openLCA.**
+
+## 2025 Fall Quarter (September 12)
+This USLCI Database release is Version 1 of the USLCI fall 2025 release (v1.2025-09.0). This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) (FLCAC) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
+
+### Overview of 1.2025-09.0 Changes:
+
+Overview of USLCI 2025 Fall Quarter Changes:
+- Added industrial wastewater treatment processes
+    - 16 unit processes - 7 with broad applicability and 9 specific to the cement, concrete and flat glass industries. Processes include sludge drying beds, settling lagoon, pH neutralization, granular media filtration, filter press, chlorination, dechlorination, chemically enhance clarification, and effluent release.
+- Added end of life processes
+    - Landfilling and combustion of mixed municipal solid waste (MSW) and landfilling of construction materials (steel, glass, asphalt, concrete). Processes were adapted from the Waste Reduction Model (WARM) by connecting technosphere flows to USLCI and mapping elementary flows to the Federal Elementary Flow List (FEDEFL).
+- Filled in data gaps by mapping flows and adding bridges to USEEIO
+
+
+As a reminder, in Q2 2024 the USLCI curation team introduced the FLCAC Electricity Baseline repository as a library to the USLCI database to enhance the quality of electricity processes for background data use. The Data Curators have also developed a [standardized, repository-level version format](https://flcac-admin.github.io/FLCAC-docs/versioning) for FLCAC repositories. Starting in June 2024, previous versions of USLCI are now stored on the FLCAC under the ‘Version’ dropdown. As of December 2024, a change log between versions is now available on the FLCAC.
+
+- The version of the Electricity Baseline that is currently a library in USLCI has been adapted from the [public version of the repository](https://www.lcacommons.gov/lca-collaboration/Federal_LCA_Commons/US_electricity_baseline/datasets). Documentation on this adaptation is provided [here](https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/supporting_docs/eLCI%20Library%20Change%20Log.md). The database from which the library has been generated from can be downloaded [here](https://github.com/FLCAC-admin/uslci-content/tree/dev/downloads/elci_library.zip).
+
+### Change Log, Versioning, &amp; Data Submission
+
+Please see the complete [Change Log](/docs/release\_info/change-log.md) for details of all fall 2025 updates. Additionally, please note that current and deleted datasets are always also available in an archive managed by NREL (wherein current and previous USLCI database versions are available) at the [USLCI Downloads Page](/docs/release\_info/release-downloads.md). Finally, please see the [FLCAC Submission Handbook](https://flcac-admin.github.io/FLCAC-docs/datasubmissionhandbook) and/or contact the contact the [USLCI Data Curator](mailto:uslci@erg.com) if you have any data/metadata publishing goals for the next December 2025 winter release date. We look forward to hearing from you soon.
+
 ***
 ## 2025 Summer Quarter (June 30)
 This USLCI Database release is Version 1 of the USLCI summer 2025 release (v1.2025-06.0). This USLCI database version is available on the [NREL USLCI repo](https://www.lcacommons.gov/lca-collaboration/) of the [Federal LCA Commons Collaboration Server](https://www.lcacommons.gov) (FLCAC) as well as via the [USLCI Release Downloads](/docs/release_info/release-downloads.md) page of this GitHub site.
