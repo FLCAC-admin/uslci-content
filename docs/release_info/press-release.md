@@ -31,6 +31,7 @@ Overview of USLCI 2025 Fall Quarter Changes:
     - 16 unit processes - 7 with broad applicability and 9 specific to the cement, concrete and flat glass industries. Processes include sludge drying beds, settling lagoon, pH neutralization, granular media filtration, filter press, chlorination, dechlorination, chemically enhance clarification, and effluent release.
 - Added end of life processes
     - Landfilling and combustion of mixed municipal solid waste (MSW) and landfilling of construction materials (steel, glass, asphalt, concrete). Processes were adapted from the Waste Reduction Model (WARM) by connecting technosphere flows to USLCI and mapping elementary flows to the Federal Elementary Flow List (FEDEFL).
+    - More information about the data formatting process is provided [here](https://github.com/FLCAC-admin/uslci-content/tree/dev/docs/supporting_docs/WARM).
 - Filled in data gaps by mapping flows and adding bridges to USEEIO
 
 
