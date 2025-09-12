@@ -17,6 +17,49 @@ In the Summer Quarter of 2024, the Electricity Baseline repository from the Nati
 
 | **Release** | **File Type** | **Change Type** | **File Name** | **UUID** | **Description** |
 | --- | --- | --- | --- | --- | --- |
+|1.2025-09.0|Process  |Add        |Recycled postconsumer high-density polyethylene (HDPE) flake; at plant                    |17664c37-72c0-4813-a4b9-93f962962c63|                                            |
+|1.2025-09.0|Process  |Add        |Recycled postconsumer polypropylene (PP) pellet; at plant                                 |185648c2-334e-419c-bf16-bb95e258f6bb|                                            |
+|1.2025-09.0|Process  |Edit       |Recycled postconsumer high-density polyethylene (HDPE) pellet; at plant                   |b15aa6b2-a8be-3afc-a149-0a1a13facb12|                                            |
+|1.2025-09.0|Process  |Edit       |Recycled postconsumer polyethylene teraphthalate (PET) flake; at plant                    |f7b7280d-f372-3a4b-86cf-caa588ca67ea|                                            |
+|1.2025-09.0|Process  |Edit       |Recycled postconsumer polyethylene teraphthalate (PET) pellet; at plant                   |22ebc7fb-f03f-37dc-be57-b73d2c577414|                                            |
+|1.2025-09.0|Process  |Edit       |Various                                                                                   |Various                             |Assigned providers to unlinked exchanges    |
+|1.2025-09.0|Process  |Delete     |Asphalt binder, no additives, consumption mix, at terminal, from crude oil                |f8ce5199-1666-452b-a267-8797c94d0560|                                            |
+|1.2025-09.0|Process  |Add        |Chemically enhanced clarifier; wastewater treatment unit; at plant                        |dff58bd0-b3ca-3f18-ac9b-a7c27a17ece5|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Chlorination; wastewater treatment unit; at plant                                         |50ffad48-e78a-3f2f-b9aa-db65da345ec5|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Clarifier; wastewater treatment unit; at plant                                            |3cdcff20-0ccf-4c1f-b2a6-3f645b04b504|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Dechlorination; wastewater treatment unit; at plant                                       |cecf8df7-b6f7-4c7f-8e7c-3bf1bd2b9805|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Effluent release; from cement/concrete industry wastewater treatment plant                |874b09b5-6e5c-4daf-a53c-180d10bba3d2|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Effluent release; from flat glass industry wastewater treatment plant                     |0247a4ba-9f1d-427f-b003-2718472154da|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Filter press; wastewater treatment unit, flat glass industry; at plant                    |0686a20c-dc09-4354-a2e3-f899cb186e35|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Filtration, multi-media filter; wastewater treatment unit; at plant                       |376495cb-5b37-4fe3-8e8a-5fe097ea9420|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Neutralization; wastewater treatment unit, cement/concrete industry; at plant             |e2f61e41-8547-44c5-b26b-ff2e2c2051f0|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Settling Lagoon; wastewater treatment unit, cement/concrete industry; at plant            |e5980bd2-5d19-40fe-8b00-e222d58d5e46|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Sludge drying beds; wastewater treatment unit, cement/concrete industry; at plant         |940a0e0e-034d-4b85-8ba6-926d83c42940|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Sludge hauling and landfill; wastewater treatment unit, cement/concrete industry; at plant|d9258baa-6758-4f02-9c84-e4e299bdd192|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Sludge hauling and landfill; wastewater treatment unit, flat glass industry; at plant     |18bcffc5-1a15-4dfd-b290-421e29e6cbcc|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Wastewater treatment; TSS removal and neutralization, cement/concrete industry; at plant  |4b854ea0-6a1e-4689-8959-e7727f1f615c|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Wastewater treatment; TSS removal, cement/concrete industry; at plant                     |6681835b-a333-4ffb-82be-e5f1ab47bc10|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Wastewater treatment; TSS removal, flat glass industry; at plant                          |085741c4-e261-4965-b6ae-6740017f2416|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Agrochemicals, at plant Bridge; USLCI to USEEIO                                           |bee25e2a-d316-4d38-a90b-30263ad24315|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Clay, at mine Bridge; USLCI to USEEIO                                                     |b7f45f75-9d5e-430c-8e0f-2e1f59350308|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Computer Cable Bridge; USLCI to USEEIO                                                    |216fc4f6-2883-4b37-86d3-5c972dc025b6|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Cotton Textile Bridge; USLCI to USEEIO                                                    |03e85fef-e743-47bf-a663-202ece48a08a|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Hydrogen peroxide Bridge; USLCI to USEEIO                                                 |e93bf6bd-1924-4956-85a4-50d1c2b5b0ae|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Laptop power adapter Bridge; USLCI to USEEIO                                              |8c1563b7-ce35-4236-88ac-d9f4af8ff282|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Light emitting diode Bridge; USLCI to USEEIO                                              |694ea546-8070-4b4d-bdb7-add83e07dec5|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Nylon 6 Bridge; USLCI to USEEIO                                                           |a2174501-418e-4b2e-9dbd-fa81f5f0bcc7|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Solvent, at plant Bridge; USLCI to USEEIO                                                 |a9b9dcb6-3428-4472-8169-b879dcc0f30e|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Treatment salts Bridge; USLCI to USEEIO                                                   |a6d7794a-a5af-47fe-8bb0-8c81cae5ca6b|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Polycarbonate Bridge; USLCI to USEEIO                                                     |531f7547-3175-4114-842a-cf358fb4a10b|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |Chemical, unspecified, for wastewater treatment Bridge; USLCI to USEEIO                   |894fa440-ba2e-4433-95f3-faecbc4a7a97|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |MSW combustion of Mixed MSW                                                               |a176e34a-573a-44a9-b381-843a7d457df5|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |MSW landfilling of Asphalt Concrete                                                       |bd490354-3cd1-4ded-8630-262c590cd163|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |MSW landfilling of Concrete                                                               |60443316-366d-4ae0-8eed-d9993038b4b8|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |MSW landfilling of Glass                                                                  |1bea9d6a-4ef3-4cec-a725-ca79d0355696|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |MSW landfilling of Mixed MSW                                                              |3eee3d64-460d-44bc-b58a-96aa76f86091|Added new process and flow                  |
+|1.2025-09.0|Process  |Add        |MSW landfilling of Structural Steel                                                       |30575834-7825-4f17-a3a2-c1dbf11aa439|Added new process and flow                  |
+|1.2025-09.0|Flow     |Edit       |Various                                                                                   |Various                             |Mapped cutoffs to new disposal flows        |
+|1.2025-09.0|Flow     |Delete     |Various                                                                                   |Various                             |Deleted cutoffs mapped to new disposal flows|
 |1.2025-06.1|Process  |Edit       |Proxy processes                                                                           |Various                             |Updated metadata with minor change                                                                   |
 |1.2025-06.1|Process  |Edit       |Drinking water treatment                                                                           |Various                             |Fixed incorrect location and corrected start and end date.                                                                   |
 |1.2025-06.0|Library  |Edit       |Various                                                                           |Various                             |Updated USLCI with new eLCI library containing 2022 data                                                                   |
@@ -5557,3 +5600,4 @@ In the Summer Quarter of 2024, the Electricity Baseline repository from the Nati
 
 
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
+
