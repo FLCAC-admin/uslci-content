@@ -39,7 +39,8 @@ Select the desired format type:
 #### Table 1. USLCI release downloads   
 
 | Release Version | openLCA version | openLCA | JSON-LD | ecoSpold2 | ILCD | Library |  
-|:---:|:---:|:---:|:---:|:---:|:--:|:--:|   
+|:---:|:---:|:---:|:---:|:---:|:--:|:--:|
+| 1.2025-12.0* | v2.5.0 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_v1.2025_12.0_olca2_5.zolca)| [JSON-LD](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_Public/datasets)| - | - | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/U.S._electricity_baseline_v1.2025-06.0.zip)
 | 1.2025-09.0* | v2.4.1 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy25_q3_01_olca2_4_1_elci_lib.zolca)| [JSON-LD](https://www.lcacommons.gov/lca-collaboration/National_Renewable_Energy_Laboratory/USLCI_Database_Public/datasets)| - | - | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/U.S._electricity_baseline_v1.2025-06.0.zip)
 | 1.2025-06.0* | v2.4.1 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy25_q2_01_olca2_4_1_elci_lib.zolca)| [JSON-LD](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy25_q2_01_olca2_4_1_elci_lib_json_ld.zip)| - | - | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/U.S._electricity_baseline_v1.2025-06.0.zip)
 | 1.2025-03.0* | v2.4.1 |[zolca](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy25_q1_01_olca2_4_1_elci_lib.zolca)| [JSON-LD](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/uslci_fy25_q1_01_olca2_4_1_elci_lib_json_ld.zip)| - | - | [eLCI](https://github.com/FLCAC-admin/uslci-content/blob/dev/downloads/elci_library.zip)
