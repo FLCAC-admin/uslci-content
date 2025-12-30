@@ -40,7 +40,7 @@ This USLCI Database release is Version 1 of the USLCI winter 2025 release (v1.20
   - 3 unit processes in the aluminum can supply chain: aluminum ingot/slab, combined hot and cold rolling, and manufacturing of aluminum cans.
 - Added general extrusion and plastic sheet production processes
 - Other updates
-- Standardized/added fuel flow properties
+  - Standardized/added fuel flow properties
   - Added several new bridge processes to fill in cutoffs
 
 
