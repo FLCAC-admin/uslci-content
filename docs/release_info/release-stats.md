@@ -11,6 +11,7 @@ This file contains a count of life cycle inventory data types for each release o
 
 | Release | Flow Types | Process Categories | Processes | Product Flows | Waste Flows | CUTOFF Flows | Elementary Flows | Units | Locations | Actors | Sources | Product Systems | Projects |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| _1.2025-12.0_^¹ | 3 | 90 | 1164 | 1267 | 195 | 577 | 2680 | 190 | 399 | 70 | 527 | 0 | 0 |
 | _1.2025-09.0_^¹ | 3 | 86 | 995 | 1256 | 176 | 597 | 2668 | 190 | 398 | 67 | 505 | 0 | 0 |
 | _1.2025-06.0_^¹ | 3 | 85 | 962 | 1242 | 175 | 606 | 2664 | 190 | 398 | 67 | 494 | 0 | 0 |
 | _1.2025-03.0_^¹ | 3 | 85 | 861 | 1139 | 173 | 601 | 2577 | 191 | 553 | 64 | 473 | 0 | 0 |
