@@ -26,7 +26,7 @@ This USLCI Database release is Version 2 of the USLCI winter 2025 release (v1.20
 
 ### Overview of 1.2025-12.1 Changes:
 
-- Updated process and flow names to align with ILCD naming guidance
+- Updated process and flow names to align with [ILCD naming guidance](https://eplca.jrc.ec.europa.eu/uploads/MANPROJ-PR-ILCD-Handbook-Nomenclature-and-other-conventions-first-edition-ISBN-fin-v1.0-E.pdf). See [this file](https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/supporting_docs/uslci%20name%20changes%20v1.2025-12.1.csv) for a mapping of flows and processes whose names changed. Note no UUIDs were changed.
 - Parameterized the commodity transport processes that were added in v1.2025-12.0
 
 ## 2025 Winter Quarter (December 30)
