@@ -13,8 +13,18 @@
 - Added metadata.
 - Corrected errors.
   - Removed subtraction of combustion MSW transport distance.
-  - Added ash transport distance which corrected error related to the original emission factor.
-  - Fixed validation errors related to internalIDs, flow properties, and allocation.
+
+- Revised the ash transport exchange to address inconsistencies in WARM mass accounting and transport distance assumptions.
+  - In WARM v16 zolca, ash transport was modeled under the assumption that:
+  1 short ton of ash is transported to landfill per 1 short ton of combusted material.
+  - The distance transported was unclear because of unlinked calculations in the ash transport process.
+  - The updated formula defines the mass of ash produced and the transport distance to landfill:
+  (sh_tn_to_tonne*mass_ash)*transport_distance_ash_landfill
+    - mass_ash is the fraction of waste that turns into ash (fly and bottom ash). These values are material specific and are from MSW-DSTv2. The value for mixed MSW was calculated using the MSW composition from Facts and Figures, 2018.
+    - transport_distance_ash_landfill is 60 miles. This value came from WARM background materials which notes the source as PCA 2000, p. 18.
+
+
+ - Fixed validation errors related to internalIDs, flow properties, and allocation.
   - Various minor corrections (e.g., assigning missing providers and grammatical fixes).
 
 A results comparison between WARM v16 zolca format and the adapted USLCI version can be found [here](https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/supporting_docs/WARM/WARM%20Results%20Comparison%20GWP.xlsx).
