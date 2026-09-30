@@ -1,4 +1,4 @@
-<img width="2810" height="4681" alt="image" src="https://github.com/user-attachments/assets/83569ec5-772b-405e-81fa-b71480939eac" /># :notebook: USLCI Change Log
+# :notebook: USLCI Change Log
 
 [Return to USLCI Content Wiki](https://github.com/uslci-admin/uslci-content/wiki)
 
